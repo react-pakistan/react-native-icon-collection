@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Switch component matches Switch snapshot 1`] = `
+<RCTSwitch
+  accessibilityRole="button"
+  onChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "height": 31,
+        "width": 51,
+      },
+      Array [
+        Object {},
+      ],
+    ]
+  }
+  value={false}
+/>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ActivityIndicator component matches ActivityIndicator snapshot, large version 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#00D3CA"
+  hidesWhenStopped={false}
+  size="large"
+  style={
+    Array [
+      Object {},
+    ]
+  }
+/>
+`;
+
+exports[`Testing ActivityIndicator component matches ActivityIndicator snapshot, small version 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#00D3CA"
+  hidesWhenStopped={false}
+  size="small"
+  style={
+    Array [
+      Object {},
+    ]
+  }
+/>
+`;
