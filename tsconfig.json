@@ -39,6 +39,7 @@
     "node_modules",
     "build",
     "scripts",
-    "__stories__/story-loader.ts"
+    "__stories__/story-loader.ts",
+    "assets"
   ]
 }
