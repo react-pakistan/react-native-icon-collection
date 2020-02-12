@@ -1,14 +1,14 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import { Picker } from '../components/picker';
+import { Icon } from '../components/icon';
 // import {
 //   defaultTextProps,
 // } from '../story/text.story';
 
-describe('Testing Picker component', () => {
-  it('matches Picker snapshot,', () => {
+describe('Testing Icon component', () => {
+  it('matches Icon snapshot,', () => {
     const wrapper = renderer.create(
-      <Picker />,
+      <Icon icon="blockchaincolor1" />,
     );
     expect(wrapper.toJSON()).toMatchSnapshot();
   });
