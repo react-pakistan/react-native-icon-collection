@@ -4,11 +4,11 @@
 // https://github.com/elderfo/react-native-storybook-loader.git
 
 function loadStories() {
-	require('./story/icon.story');
+	require('./story/icon-auto.story');
 }
 
 const stories = [
-	'./story/icon.story'
+	'./story/icon-auto.story'
 ];
 
 module.exports = {

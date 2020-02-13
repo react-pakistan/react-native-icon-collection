@@ -56,4 +56,4 @@ export const folderNames : any = [
   'virtual-reality-grey',
   'zoo-color',
   'zoo-grey',
-  ];
+];
