@@ -5,7 +5,7 @@ export const Icon = ({
   icon,
   fill,
 } : IIconProps) : ReactElement => {
-  const iconSvg = require('../../../assets/xml')[icon]();
+  const iconSvg = require('../../xml')[icon]();
 
   return (
     <SvgXml
