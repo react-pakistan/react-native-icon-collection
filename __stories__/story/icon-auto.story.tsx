@@ -6,7 +6,7 @@
 import { storiesOf } from '@storybook/react-native';
 import React, { ReactElement } from 'react';
 import { View, ScrollView } from 'react-native';
-import { Icon } from '../../src/components/icon';
+import { Icon } from '../../src/icon';
 import { Story, UseCase } from '../views';
 
 storiesOf('Icon', module)
