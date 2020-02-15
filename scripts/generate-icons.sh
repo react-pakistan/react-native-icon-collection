@@ -1,3 +1,3 @@
-rm ./assets/xml/*.*
+rm ./src/xml/*.*
 
 node scripts/generate-icons.js
