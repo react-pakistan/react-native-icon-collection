@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import { Icon } from '../components/icon';
+import { Icon } from '../icon';
 
 describe('Testing Icon component', () => {
   it('matches Icon snapshot,', () => {

@@ -5,3 +5,4 @@ src/xml/
 
 # Ignore misc folder
 .vscode/
+lib/
