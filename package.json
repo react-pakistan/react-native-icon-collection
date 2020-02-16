@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "android": "yarn prestorybook && react-native run-android",
+    "android": "yarn clean && yarn prestorybook && react-native run-android",
     "build": "yarn clean && yarn build:ts && cp package.json lib && cp README.md lib",
     "build:ts": "tsc --project tsconfig.build.json",
     "clean": "yarn rimraf ./lib",
     "generate-icons": "scripts/generate-icons.sh",
-    "ios": "yarn prestorybook && react-native run-ios",
+    "ios": "yarn clean && yarn prestorybook && react-native run-ios",
     "lint": "yarn lint:ts && yarn lint:js && yarn lint:css",
     "lint-staged": "lint-staged",
     "lint:css": "stylelint 'src/**/*.js' --config stylelint.config.js",
@@ -108,7 +108,7 @@
   "config": {
     "react-native-storybook-loader": {
       "searchDir": [
-        "./__stories__/story"
+        "./__stories__/"
       ],
       "pattern": "*.story.tsx",
       "outputFile": "./__stories__/story-loader.ts"

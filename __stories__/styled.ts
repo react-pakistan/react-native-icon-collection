@@ -9,7 +9,11 @@ export const StyledView = styled.View`
 `;
 
 export const IconWrapper = styled.View`
-  height: 75px;
-  margin: 10px;
-  width: 75px;
+  height: 100px;
+  margin: 20px;
+  width: 100px;
+  flex-direction: column;
+  align-items: center;
 `;
+
+export const TextWrapper = styled.Text``;

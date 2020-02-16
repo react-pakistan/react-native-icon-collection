@@ -21,7 +21,7 @@ let iconStoryOutput = `/**
 import { storiesOf } from '@storybook/react-native';
 import { Story, UseCase } from '@taimoormk/react-native-commons-collection/views';
 import React, { ReactElement } from 'react';
-import { IconWrapper, StyledScrollView, StyledView } from './styled';
+import { IconWrapper, StyledScrollView, StyledView, TextWrapper } from './styled';
 import { Icon } from '../src/icon';
 
 storiesOf('Icon', module)
@@ -49,7 +49,7 @@ let iconListOutput = `/**
       iconListOutput += `export const ${trimmedStr} = () : string => \`${svgContent}\`;
   `;
 
-    iconMap[fileName][trimmedStr] = () => `<IconWrapper><Icon icon="${trimmedStr}" /></IconWrapper>`;
+    iconMap[fileName][trimmedStr] = () => `<IconWrapper><Icon icon="${trimmedStr}" /><TextWrapper>${trimmedStr}</TextWrapper></IconWrapper>`;
 
     iconIndexOutput += `export { ${trimmedStr} } from './${fileName}'
   `;
