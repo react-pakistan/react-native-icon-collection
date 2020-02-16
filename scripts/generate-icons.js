@@ -19,10 +19,10 @@ let iconStoryOutput = `/**
  */
 
 import { storiesOf } from '@storybook/react-native';
+import { Story, UseCase } from '@taimoormk/react-native-commons-collection/views';
 import React, { ReactElement } from 'react';
 import { View, ScrollView } from 'react-native';
 import { Icon } from '../../src/icon';
-import { Story, UseCase } from '../views';
 
 storiesOf('Icon', module)
   `;
@@ -81,7 +81,7 @@ let iconListOutput = `/**
       ))
     `;
   });
-  fs.writeFileSync(`./__stories__/story/icon-auto.story.tsx`, iconStoryOutput);
+  fs.writeFileSync(`./__stories__/story/icon.story.tsx`, iconStoryOutput);
 };
 
 generateIcons();
