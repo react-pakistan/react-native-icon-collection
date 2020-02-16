@@ -1,1 +1,1 @@
-# react-native-commons-collection
+# react-native-icon-collection

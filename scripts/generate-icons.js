@@ -19,10 +19,10 @@ let iconStoryOutput = `/**
  */
 
 import { storiesOf } from '@storybook/react-native';
+import { Story, UseCase } from '@taimoormk/react-native-commons-collection/views';
 import React, { ReactElement } from 'react';
-import { View, ScrollView } from 'react-native';
-import { Icon } from '../../src/icon';
-import { Story, UseCase } from '../views';
+import { IconWrapper, StyledScrollView, StyledView, TextWrapper } from './styled';
+import { Icon } from '../src/icon';
 
 storiesOf('Icon', module)
   `;
@@ -49,7 +49,7 @@ let iconListOutput = `/**
       iconListOutput += `export const ${trimmedStr} = () : string => \`${svgContent}\`;
   `;
 
-    iconMap[fileName][trimmedStr] = () => `<View style={{ width: 75, height: 75, margin: 10 }}><Icon icon="${trimmedStr}" /></View>`;
+    iconMap[fileName][trimmedStr] = () => `<IconWrapper><Icon icon="${trimmedStr}" /><TextWrapper>${trimmedStr}</TextWrapper></IconWrapper>`;
 
     iconIndexOutput += `export { ${trimmedStr} } from './${fileName}'
   `;
@@ -65,23 +65,17 @@ let iconListOutput = `/**
           <UseCase
             text="Icon => ${category}"
           >
-            <ScrollView>
-              <View
-                style={{
-                  flex: 1,
-                  flexDirection: 'row',
-                  flexWrap: 'wrap',
-                }}
-              >
+            <StyledScrollView>
+              <StyledView>
                 ${Object.values(iconMap[category]).map(value => value()).join('')}
-              </View>
-            </ScrollView>
+              </StyledView>
+            </StyledScrollView>
           </UseCase>
         </Story>
       ))
     `;
   });
-  fs.writeFileSync(`./__stories__/story/icon-auto.story.tsx`, iconStoryOutput);
+  fs.writeFileSync(`./__stories__/icon.story.tsx`, iconStoryOutput);
 };
 
 generateIcons();

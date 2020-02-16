@@ -67,4 +67,4 @@ package-lock.json
 .vscode/
 
 lib/
-__screenshots__
+__screenshots__/
