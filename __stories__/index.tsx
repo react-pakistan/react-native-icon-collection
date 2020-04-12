@@ -4,7 +4,7 @@ import React from 'react';
 import { getStorybookUI, configure } from '@storybook/react-native';
 import { ThemeProvider } from 'styled-components';
 import { loadStories } from './story-loader';
-import { theme } from '@taimoormk/react-commons-collection/theme';
+import { theme } from '@taimoormk/react-native-commons-collection/theme';
 
 import './rn-addons';
 
