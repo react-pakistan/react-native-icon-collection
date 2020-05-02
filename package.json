@@ -58,7 +58,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "husky": "^4.2.5",
-    "jest": "^25.5.3",
+    "jest": "^25.5.4",
     "lint-staged": "^10.2.2",
     "metro-react-native-babel-preset": "^0.59.0",
     "prop-types": "^15.7.2",
