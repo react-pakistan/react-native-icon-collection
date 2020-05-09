@@ -17,6 +17,8 @@
     "lint:ts": "tslint --project tsconfig.json",
     "pod:install": "cd ./ios && pod install && cd ..",
     "prestorybook": "rnstl",
+    "publish:github": "cd lib/ && npm publish && cd ..",
+    "publish:npm": "cd lib/ && npm publish --access public && cd ..",
     "start": "react-native start",
     "storybook": "start-storybook -p=9002",
     "test": "jest",
