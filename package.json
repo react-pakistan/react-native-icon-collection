@@ -2,7 +2,9 @@
   "name": "@taimoormk/react-native-icon-collection",
   "version": "1.0.2",
   "description": "React Native Icons Collection built upon React Native StoryBook",
+  "module": "index.js",
   "main": "index.js",
+  "types": "index.d.tsx",
   "scripts": {
     "android": "yarn clean && yarn prestorybook && react-native run-android",
     "build": "yarn clean && yarn build:ts && cp package.json lib && cp README.md lib",
