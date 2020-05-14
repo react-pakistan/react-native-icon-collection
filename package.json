@@ -12,9 +12,10 @@
     "clean": "yarn rimraf ./lib",
     "generate-icons": "scripts/generate-icons.sh",
     "ios": "yarn clean && yarn prestorybook && react-native run-ios",
-    "lint": "eslint --config eslint.config.js .",
+    "lint": "yarn lint:ts && yarn lint:css",
     "lint-staged": "lint-staged",
     "lint:css": "stylelint 'src/**/*.ts' --config stylelint.config.js",
+    "lint:ts": "eslint --config eslint.config.js .",
     "pod:install": "cd ./ios && pod install && cd ..",
     "prestorybook": "rnstl",
     "publish:github": "cd lib/ && npm publish && cd ..",
@@ -40,12 +41,12 @@
     "@storybook/addon-ondevice-knobs": "^5.3.18",
     "@storybook/react-native": "^5.3.18",
     "@storybook/react-native-server": "^5.3.18",
-    "@taimoormk/eslint-config-shared": "^1.0.3",
+    "@taimoormk/eslint-config-shared": "^1.0.4",
     "@taimoormk/react-commons-collection": "^1.0.25",
     "@taimoormk/react-native-commons-collection": "^1.0.17",
-    "@types/jest": "^25.2.1",
+    "@types/jest": "^25.2.2",
     "@types/react": "^16.9.35",
-    "@types/react-native": "^0.62.7",
+    "@types/react-native": "^0.62.8",
     "@types/react-test-renderer": "^16.9.2",
     "@types/storybook__react": "^5.2.1",
     "@types/styled-components": "^5.1.0",
@@ -72,7 +73,7 @@
     "stylelint-processor-styled-components": "^1.10.0",
     "stylelint-react-native": "^2.2.0",
     "ts-jest": "^25.5.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.2"
   },
   "jest": {
     "preset": "react-native"
