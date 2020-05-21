@@ -26,7 +26,7 @@
     "upgrade": "ncu -u"
   },
   "dependencies": {
-    "react-native-device-info": "^5.5.7",
+    "react-native-device-info": "^5.5.8",
     "react-native-svg": "^11.0.1",
     "styled-components": "^5.1.0"
   },
@@ -44,9 +44,9 @@
     "@taimoormk/eslint-config-shared": "^1.0.4",
     "@taimoormk/react-commons-collection": "^1.0.25",
     "@taimoormk/react-native-commons-collection": "^1.0.17",
-    "@types/jest": "^25.2.2",
+    "@types/jest": "^25.2.3",
     "@types/react": "^16.9.35",
-    "@types/react-native": "^0.62.8",
+    "@types/react-native": "^0.62.10",
     "@types/react-test-renderer": "^16.9.2",
     "@types/storybook__react": "^5.2.1",
     "@types/styled-components": "^5.1.0",
@@ -58,7 +58,7 @@
     "eslint": "^7.0.0",
     "husky": "^4.2.5",
     "jest": "^26.0.1",
-    "lint-staged": "^10.2.2",
+    "lint-staged": "^10.2.4",
     "metro-react-native-babel-preset": "^0.59.0",
     "react": "^16.13.1",
     "react-docgen-typescript-loader": "^3.7.2",
@@ -66,14 +66,14 @@
     "react-native-storybook-loader": "^1.8.1",
     "react-native-typescript-transformer": "^1.2.13",
     "react-test-renderer": "^16.13.1",
-    "stylelint": "^13.3.3",
+    "stylelint": "^13.5.0",
     "stylelint-config-react-native-styled-components": "^0.3.0",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0",
     "stylelint-react-native": "^2.2.0",
-    "ts-jest": "^25.5.1",
-    "typescript": "^3.9.2"
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3"
   },
   "jest": {
     "preset": "react-native"
