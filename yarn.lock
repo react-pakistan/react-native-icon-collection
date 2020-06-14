@@ -2215,12 +2215,12 @@
     tslint "^6.1.2"
     tslint-react "^5.0.0"
 
-"@taimoormk/react-commons-collection@^1.1.0":
-  version "1.1.0"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.1.0/07fec1b43ad24b75865f4759b22d65d8426a7d43b9b13d46e621017aff714f74#82dd80bf2ed52feb38dd88cfd416f3631a8a07dd"
-  integrity sha512-JkiM7beA+MlRQYPoaqIJT+qKk2c5AiABmUSoqyoUWG/e2U36Nuwi93izdYJWCq+0MMbXNmorildDsiJBeQTsog==
+"@taimoormk/react-commons-collection@^1.1.5":
+  version "1.1.5"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.1.5/9ffd754d541f3f2e2735f465fab158dce24b014e2494ccf5f6f84010129105aa#5a36ceea16d2a97b45cd306b5dcbe2ff4f1f06d2"
+  integrity sha512-+8050F6HAMCkycmG5l1jcstM2qukyhPotgKEX1b7eWmu/zXTE24KdhCxcsdV6pVmW5x2XZRV19WhO0kzZjZ91A==
   dependencies:
-    react-share "^4.1.0"
+    react-share "^4.2.0"
     styled-components "^5.1.1"
 
 "@taimoormk/react-native-commons-collection@^1.0.17":
@@ -8619,10 +8619,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^10.2.9:
-  version "10.2.9"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-10.2.9.tgz#6013ecfa80829cd422446b545fd30a96bca3098c"
-  integrity sha512-ziRAuXEqvJLSXg43ezBpHxRW8FOJCXISaXU//BWrxRrp5cBdRkIx7g5IsB3OI45xYGE0S6cOacfekSjDyDKF2g==
+lint-staged@^10.2.10:
+  version "10.2.10"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-10.2.10.tgz#f0f78bf8786bbe90e1775a0dc540f7f12b6a79b2"
+  integrity sha512-dgelFaNH6puUGAcU+OVMgbfpKSerNYsPSn6+nlbRDjovL0KigpsVpCu0PFZG6BJxX8gnHJqaZlR9krZamQsb0w==
   dependencies:
     chalk "^4.0.0"
     cli-truncate "2.1.0"
@@ -11206,7 +11206,7 @@ react-select@^3.0.8:
     react-input-autosize "^2.2.2"
     react-transition-group "^4.3.0"
 
-react-share@^4.1.0:
+react-share@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/react-share/-/react-share-4.2.0.tgz#0b6458a15cf0d887513942f6787d62432e5d2d80"
   integrity sha512-bMEuhkMFTRVyPjwHyjlZyaQn4dm5udymWiEMPFIZVk8KJqlhb9Hox49u/5EA7M0oYYfSk1sh0MCaC8PsGKTj5A==
