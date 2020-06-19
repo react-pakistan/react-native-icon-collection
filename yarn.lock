@@ -2215,10 +2215,10 @@
     tslint "^6.1.2"
     tslint-react "^5.0.0"
 
-"@taimoormk/react-commons-collection@^1.1.5":
-  version "1.1.5"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.1.5/9ffd754d541f3f2e2735f465fab158dce24b014e2494ccf5f6f84010129105aa#5a36ceea16d2a97b45cd306b5dcbe2ff4f1f06d2"
-  integrity sha512-+8050F6HAMCkycmG5l1jcstM2qukyhPotgKEX1b7eWmu/zXTE24KdhCxcsdV6pVmW5x2XZRV19WhO0kzZjZ91A==
+"@taimoormk/react-commons-collection@^1.1.8":
+  version "1.1.8"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.1.8/10e879cbd417bce6b88292334836e0c6f06003f816c2c4909eaac01d483ea762#1278f7338fa9cfddc66d0888e19321022251d71e"
+  integrity sha512-RmDm8vRYl0zCP+cmB596WO1+hX+1BNgnSR+1reXAFNFGyI/yQQ9EUbOvQE7M/tqkZlvU68+xqMeSZP5LxgGEyw==
   dependencies:
     react-share "^4.2.0"
     styled-components "^5.1.1"
@@ -2442,10 +2442,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@^16.9.37":
-  version "16.9.37"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.37.tgz#8fb93e7dbd5b1d3796f69aa979a7fe0439bc7bea"
-  integrity sha512-ZqnAXallQiZ08LTSqMfWMNvAfJEzRLOxdlbbbCIJlYGjU98BEU6bE2uBpKPGeWn+v3hIgCraHKtqUcKZBzMP/Q==
+"@types/react@^16.9.38":
+  version "16.9.38"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.38.tgz#868405dace93a4095d3e054f4c4a1de7a1ac0680"
+  integrity sha512-pHAeZbjjNRa/hxyNuLrvbxhhnKyKNiLC6I5fRF2Zr/t/S6zS41MiyzH4+c+1I9vVfvuRt1VS2Lodjr4ZWnxrdA==
   dependencies:
     "@types/prop-types" "*"
     csstype "^2.2.0"
