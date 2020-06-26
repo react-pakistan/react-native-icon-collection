@@ -3,7 +3,7 @@
  * DO NOT EDIT!
  */
 
-export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+export const FoodDishesColor1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -64,7 +64,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -126,7 +126,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -177,7 +177,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 58.9" style="enable-background:new 0 0 64 58.9;" xml:space="preserve">
@@ -215,7 +215,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 62.9 64" style="enable-background:new 0 0 62.9 64;" xml:space="preserve">
@@ -280,7 +280,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -326,7 +326,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -365,7 +365,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -414,7 +414,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -464,7 +464,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -526,7 +526,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -579,7 +579,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -624,7 +624,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -681,7 +681,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
@@ -735,7 +735,7 @@ export const fooddishescolor1 = () : string => `<?xml version="1.0" encoding="ut
 </g>
 </svg>
 `;
-  export const fooddishescolor9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const FoodDishesColor9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">

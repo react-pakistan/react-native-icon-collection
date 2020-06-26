@@ -18,254 +18,254 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="blockchaincolor1" />
+              <Icon icon="BlockchainColor1" />
                 <TextWrapper>
-                  blockchaincolor1
+                  BlockchainColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor10" />
+              <Icon icon="BlockchainColor10" />
                 <TextWrapper>
-                  blockchaincolor10
+                  BlockchainColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor11" />
+              <Icon icon="BlockchainColor11" />
                 <TextWrapper>
-                  blockchaincolor11
+                  BlockchainColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor12" />
+              <Icon icon="BlockchainColor12" />
                 <TextWrapper>
-                  blockchaincolor12
+                  BlockchainColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor13" />
+              <Icon icon="BlockchainColor13" />
                 <TextWrapper>
-                  blockchaincolor13
+                  BlockchainColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor14" />
+              <Icon icon="BlockchainColor14" />
                 <TextWrapper>
-                  blockchaincolor14
+                  BlockchainColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor15" />
+              <Icon icon="BlockchainColor15" />
                 <TextWrapper>
-                  blockchaincolor15
+                  BlockchainColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor16" />
+              <Icon icon="BlockchainColor16" />
                 <TextWrapper>
-                  blockchaincolor16
+                  BlockchainColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor17" />
+              <Icon icon="BlockchainColor17" />
                 <TextWrapper>
-                  blockchaincolor17
+                  BlockchainColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor18" />
+              <Icon icon="BlockchainColor18" />
                 <TextWrapper>
-                  blockchaincolor18
+                  BlockchainColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor19" />
+              <Icon icon="BlockchainColor19" />
                 <TextWrapper>
-                  blockchaincolor19
+                  BlockchainColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor2" />
+              <Icon icon="BlockchainColor2" />
                 <TextWrapper>
-                  blockchaincolor2
+                  BlockchainColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor20" />
+              <Icon icon="BlockchainColor20" />
                 <TextWrapper>
-                  blockchaincolor20
+                  BlockchainColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor21" />
+              <Icon icon="BlockchainColor21" />
                 <TextWrapper>
-                  blockchaincolor21
+                  BlockchainColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor22" />
+              <Icon icon="BlockchainColor22" />
                 <TextWrapper>
-                  blockchaincolor22
+                  BlockchainColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor23" />
+              <Icon icon="BlockchainColor23" />
                 <TextWrapper>
-                  blockchaincolor23
+                  BlockchainColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor24" />
+              <Icon icon="BlockchainColor24" />
                 <TextWrapper>
-                  blockchaincolor24
+                  BlockchainColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor25" />
+              <Icon icon="BlockchainColor25" />
                 <TextWrapper>
-                  blockchaincolor25
+                  BlockchainColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor26" />
+              <Icon icon="BlockchainColor26" />
                 <TextWrapper>
-                  blockchaincolor26
+                  BlockchainColor26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor27" />
+              <Icon icon="BlockchainColor27" />
                 <TextWrapper>
-                  blockchaincolor27
+                  BlockchainColor27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor28" />
+              <Icon icon="BlockchainColor28" />
                 <TextWrapper>
-                  blockchaincolor28
+                  BlockchainColor28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor29" />
+              <Icon icon="BlockchainColor29" />
                 <TextWrapper>
-                  blockchaincolor29
+                  BlockchainColor29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor3" />
+              <Icon icon="BlockchainColor3" />
                 <TextWrapper>
-                  blockchaincolor3
+                  BlockchainColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor30" />
+              <Icon icon="BlockchainColor30" />
                 <TextWrapper>
-                  blockchaincolor30
+                  BlockchainColor30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor31" />
+              <Icon icon="BlockchainColor31" />
                 <TextWrapper>
-                  blockchaincolor31
+                  BlockchainColor31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor32" />
+              <Icon icon="BlockchainColor32" />
                 <TextWrapper>
-                  blockchaincolor32
+                  BlockchainColor32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor33" />
+              <Icon icon="BlockchainColor33" />
                 <TextWrapper>
-                  blockchaincolor33
+                  BlockchainColor33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor34" />
+              <Icon icon="BlockchainColor34" />
                 <TextWrapper>
-                  blockchaincolor34
+                  BlockchainColor34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor35" />
+              <Icon icon="BlockchainColor35" />
                 <TextWrapper>
-                  blockchaincolor35
+                  BlockchainColor35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor36" />
+              <Icon icon="BlockchainColor36" />
                 <TextWrapper>
-                  blockchaincolor36
+                  BlockchainColor36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor37" />
+              <Icon icon="BlockchainColor37" />
                 <TextWrapper>
-                  blockchaincolor37
+                  BlockchainColor37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor38" />
+              <Icon icon="BlockchainColor38" />
                 <TextWrapper>
-                  blockchaincolor38
+                  BlockchainColor38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor39" />
+              <Icon icon="BlockchainColor39" />
                 <TextWrapper>
-                  blockchaincolor39
+                  BlockchainColor39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor4" />
+              <Icon icon="BlockchainColor4" />
                 <TextWrapper>
-                  blockchaincolor4
+                  BlockchainColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor40" />
+              <Icon icon="BlockchainColor40" />
                 <TextWrapper>
-                  blockchaincolor40
+                  BlockchainColor40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor41" />
+              <Icon icon="BlockchainColor41" />
                 <TextWrapper>
-                  blockchaincolor41
+                  BlockchainColor41
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor42" />
+              <Icon icon="BlockchainColor42" />
                 <TextWrapper>
-                  blockchaincolor42
+                  BlockchainColor42
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor43" />
+              <Icon icon="BlockchainColor43" />
                 <TextWrapper>
-                  blockchaincolor43
+                  BlockchainColor43
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor44" />
+              <Icon icon="BlockchainColor44" />
                 <TextWrapper>
-                  blockchaincolor44
+                  BlockchainColor44
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor45" />
+              <Icon icon="BlockchainColor45" />
                 <TextWrapper>
-                  blockchaincolor45
+                  BlockchainColor45
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor46" />
+              <Icon icon="BlockchainColor46" />
                 <TextWrapper>
-                  blockchaincolor46
+                  BlockchainColor46
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor47" />
+              <Icon icon="BlockchainColor47" />
                 <TextWrapper>
-                  blockchaincolor47
+                  BlockchainColor47
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor48" />
+              <Icon icon="BlockchainColor48" />
                 <TextWrapper>
-                  blockchaincolor48
+                  BlockchainColor48
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor49" />
+              <Icon icon="BlockchainColor49" />
                 <TextWrapper>
-                  blockchaincolor49
+                  BlockchainColor49
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor5" />
+              <Icon icon="BlockchainColor5" />
                 <TextWrapper>
-                  blockchaincolor5
+                  BlockchainColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor50" />
+              <Icon icon="BlockchainColor50" />
                 <TextWrapper>
-                  blockchaincolor50
+                  BlockchainColor50
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor6" />
+              <Icon icon="BlockchainColor6" />
                 <TextWrapper>
-                  blockchaincolor6
+                  BlockchainColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor7" />
+              <Icon icon="BlockchainColor7" />
                 <TextWrapper>
-                  blockchaincolor7
+                  BlockchainColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor8" />
+              <Icon icon="BlockchainColor8" />
                 <TextWrapper>
-                  blockchaincolor8
+                  BlockchainColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaincolor9" />
+              <Icon icon="BlockchainColor9" />
                 <TextWrapper>
-                  blockchaincolor9
+                  BlockchainColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -281,254 +281,254 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="blockchaingrey1" />
+              <Icon icon="BlockchainGrey1" />
                 <TextWrapper>
-                  blockchaingrey1
+                  BlockchainGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey10" />
+              <Icon icon="BlockchainGrey10" />
                 <TextWrapper>
-                  blockchaingrey10
+                  BlockchainGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey11" />
+              <Icon icon="BlockchainGrey11" />
                 <TextWrapper>
-                  blockchaingrey11
+                  BlockchainGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey12" />
+              <Icon icon="BlockchainGrey12" />
                 <TextWrapper>
-                  blockchaingrey12
+                  BlockchainGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey13" />
+              <Icon icon="BlockchainGrey13" />
                 <TextWrapper>
-                  blockchaingrey13
+                  BlockchainGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey14" />
+              <Icon icon="BlockchainGrey14" />
                 <TextWrapper>
-                  blockchaingrey14
+                  BlockchainGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey15" />
+              <Icon icon="BlockchainGrey15" />
                 <TextWrapper>
-                  blockchaingrey15
+                  BlockchainGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey16" />
+              <Icon icon="BlockchainGrey16" />
                 <TextWrapper>
-                  blockchaingrey16
+                  BlockchainGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey17" />
+              <Icon icon="BlockchainGrey17" />
                 <TextWrapper>
-                  blockchaingrey17
+                  BlockchainGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey18" />
+              <Icon icon="BlockchainGrey18" />
                 <TextWrapper>
-                  blockchaingrey18
+                  BlockchainGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey19" />
+              <Icon icon="BlockchainGrey19" />
                 <TextWrapper>
-                  blockchaingrey19
+                  BlockchainGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey2" />
+              <Icon icon="BlockchainGrey2" />
                 <TextWrapper>
-                  blockchaingrey2
+                  BlockchainGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey20" />
+              <Icon icon="BlockchainGrey20" />
                 <TextWrapper>
-                  blockchaingrey20
+                  BlockchainGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey21" />
+              <Icon icon="BlockchainGrey21" />
                 <TextWrapper>
-                  blockchaingrey21
+                  BlockchainGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey22" />
+              <Icon icon="BlockchainGrey22" />
                 <TextWrapper>
-                  blockchaingrey22
+                  BlockchainGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey23" />
+              <Icon icon="BlockchainGrey23" />
                 <TextWrapper>
-                  blockchaingrey23
+                  BlockchainGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey24" />
+              <Icon icon="BlockchainGrey24" />
                 <TextWrapper>
-                  blockchaingrey24
+                  BlockchainGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey25" />
+              <Icon icon="BlockchainGrey25" />
                 <TextWrapper>
-                  blockchaingrey25
+                  BlockchainGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey26" />
+              <Icon icon="BlockchainGrey26" />
                 <TextWrapper>
-                  blockchaingrey26
+                  BlockchainGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey27" />
+              <Icon icon="BlockchainGrey27" />
                 <TextWrapper>
-                  blockchaingrey27
+                  BlockchainGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey28" />
+              <Icon icon="BlockchainGrey28" />
                 <TextWrapper>
-                  blockchaingrey28
+                  BlockchainGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey29" />
+              <Icon icon="BlockchainGrey29" />
                 <TextWrapper>
-                  blockchaingrey29
+                  BlockchainGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey3" />
+              <Icon icon="BlockchainGrey3" />
                 <TextWrapper>
-                  blockchaingrey3
+                  BlockchainGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey30" />
+              <Icon icon="BlockchainGrey30" />
                 <TextWrapper>
-                  blockchaingrey30
+                  BlockchainGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey31" />
+              <Icon icon="BlockchainGrey31" />
                 <TextWrapper>
-                  blockchaingrey31
+                  BlockchainGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey32" />
+              <Icon icon="BlockchainGrey32" />
                 <TextWrapper>
-                  blockchaingrey32
+                  BlockchainGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey33" />
+              <Icon icon="BlockchainGrey33" />
                 <TextWrapper>
-                  blockchaingrey33
+                  BlockchainGrey33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey34" />
+              <Icon icon="BlockchainGrey34" />
                 <TextWrapper>
-                  blockchaingrey34
+                  BlockchainGrey34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey35" />
+              <Icon icon="BlockchainGrey35" />
                 <TextWrapper>
-                  blockchaingrey35
+                  BlockchainGrey35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey36" />
+              <Icon icon="BlockchainGrey36" />
                 <TextWrapper>
-                  blockchaingrey36
+                  BlockchainGrey36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey37" />
+              <Icon icon="BlockchainGrey37" />
                 <TextWrapper>
-                  blockchaingrey37
+                  BlockchainGrey37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey38" />
+              <Icon icon="BlockchainGrey38" />
                 <TextWrapper>
-                  blockchaingrey38
+                  BlockchainGrey38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey39" />
+              <Icon icon="BlockchainGrey39" />
                 <TextWrapper>
-                  blockchaingrey39
+                  BlockchainGrey39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey4" />
+              <Icon icon="BlockchainGrey4" />
                 <TextWrapper>
-                  blockchaingrey4
+                  BlockchainGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey40" />
+              <Icon icon="BlockchainGrey40" />
                 <TextWrapper>
-                  blockchaingrey40
+                  BlockchainGrey40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey41" />
+              <Icon icon="BlockchainGrey41" />
                 <TextWrapper>
-                  blockchaingrey41
+                  BlockchainGrey41
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey42" />
+              <Icon icon="BlockchainGrey42" />
                 <TextWrapper>
-                  blockchaingrey42
+                  BlockchainGrey42
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey43" />
+              <Icon icon="BlockchainGrey43" />
                 <TextWrapper>
-                  blockchaingrey43
+                  BlockchainGrey43
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey44" />
+              <Icon icon="BlockchainGrey44" />
                 <TextWrapper>
-                  blockchaingrey44
+                  BlockchainGrey44
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey45" />
+              <Icon icon="BlockchainGrey45" />
                 <TextWrapper>
-                  blockchaingrey45
+                  BlockchainGrey45
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey46" />
+              <Icon icon="BlockchainGrey46" />
                 <TextWrapper>
-                  blockchaingrey46
+                  BlockchainGrey46
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey47" />
+              <Icon icon="BlockchainGrey47" />
                 <TextWrapper>
-                  blockchaingrey47
+                  BlockchainGrey47
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey48" />
+              <Icon icon="BlockchainGrey48" />
                 <TextWrapper>
-                  blockchaingrey48
+                  BlockchainGrey48
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey49" />
+              <Icon icon="BlockchainGrey49" />
                 <TextWrapper>
-                  blockchaingrey49
+                  BlockchainGrey49
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey5" />
+              <Icon icon="BlockchainGrey5" />
                 <TextWrapper>
-                  blockchaingrey5
+                  BlockchainGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey50" />
+              <Icon icon="BlockchainGrey50" />
                 <TextWrapper>
-                  blockchaingrey50
+                  BlockchainGrey50
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey6" />
+              <Icon icon="BlockchainGrey6" />
                 <TextWrapper>
-                  blockchaingrey6
+                  BlockchainGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey7" />
+              <Icon icon="BlockchainGrey7" />
                 <TextWrapper>
-                  blockchaingrey7
+                  BlockchainGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey8" />
+              <Icon icon="BlockchainGrey8" />
                 <TextWrapper>
-                  blockchaingrey8
+                  BlockchainGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="blockchaingrey9" />
+              <Icon icon="BlockchainGrey9" />
                 <TextWrapper>
-                  blockchaingrey9
+                  BlockchainGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -544,3384 +544,3384 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="brandsgrey1" />
+              <Icon icon="BrandsGrey1" />
                 <TextWrapper>
-                  brandsgrey1
+                  BrandsGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey10" />
+              <Icon icon="BrandsGrey10" />
                 <TextWrapper>
-                  brandsgrey10
+                  BrandsGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey100" />
+              <Icon icon="BrandsGrey100" />
                 <TextWrapper>
-                  brandsgrey100
+                  BrandsGrey100
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey101" />
+              <Icon icon="BrandsGrey101" />
                 <TextWrapper>
-                  brandsgrey101
+                  BrandsGrey101
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey102" />
+              <Icon icon="BrandsGrey102" />
                 <TextWrapper>
-                  brandsgrey102
+                  BrandsGrey102
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey103" />
+              <Icon icon="BrandsGrey103" />
                 <TextWrapper>
-                  brandsgrey103
+                  BrandsGrey103
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey104" />
+              <Icon icon="BrandsGrey104" />
                 <TextWrapper>
-                  brandsgrey104
+                  BrandsGrey104
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey105" />
+              <Icon icon="BrandsGrey105" />
                 <TextWrapper>
-                  brandsgrey105
+                  BrandsGrey105
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey106" />
+              <Icon icon="BrandsGrey106" />
                 <TextWrapper>
-                  brandsgrey106
+                  BrandsGrey106
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey107" />
+              <Icon icon="BrandsGrey107" />
                 <TextWrapper>
-                  brandsgrey107
+                  BrandsGrey107
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey108" />
+              <Icon icon="BrandsGrey108" />
                 <TextWrapper>
-                  brandsgrey108
+                  BrandsGrey108
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey109" />
+              <Icon icon="BrandsGrey109" />
                 <TextWrapper>
-                  brandsgrey109
+                  BrandsGrey109
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey11" />
+              <Icon icon="BrandsGrey11" />
                 <TextWrapper>
-                  brandsgrey11
+                  BrandsGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey110" />
+              <Icon icon="BrandsGrey110" />
                 <TextWrapper>
-                  brandsgrey110
+                  BrandsGrey110
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey111" />
+              <Icon icon="BrandsGrey111" />
                 <TextWrapper>
-                  brandsgrey111
+                  BrandsGrey111
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey112" />
+              <Icon icon="BrandsGrey112" />
                 <TextWrapper>
-                  brandsgrey112
+                  BrandsGrey112
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey113" />
+              <Icon icon="BrandsGrey113" />
                 <TextWrapper>
-                  brandsgrey113
+                  BrandsGrey113
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey114" />
+              <Icon icon="BrandsGrey114" />
                 <TextWrapper>
-                  brandsgrey114
+                  BrandsGrey114
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey115" />
+              <Icon icon="BrandsGrey115" />
                 <TextWrapper>
-                  brandsgrey115
+                  BrandsGrey115
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey116" />
+              <Icon icon="BrandsGrey116" />
                 <TextWrapper>
-                  brandsgrey116
+                  BrandsGrey116
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey117" />
+              <Icon icon="BrandsGrey117" />
                 <TextWrapper>
-                  brandsgrey117
+                  BrandsGrey117
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey118" />
+              <Icon icon="BrandsGrey118" />
                 <TextWrapper>
-                  brandsgrey118
+                  BrandsGrey118
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey119" />
+              <Icon icon="BrandsGrey119" />
                 <TextWrapper>
-                  brandsgrey119
+                  BrandsGrey119
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey12" />
+              <Icon icon="BrandsGrey12" />
                 <TextWrapper>
-                  brandsgrey12
+                  BrandsGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey120" />
+              <Icon icon="BrandsGrey120" />
                 <TextWrapper>
-                  brandsgrey120
+                  BrandsGrey120
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey121" />
+              <Icon icon="BrandsGrey121" />
                 <TextWrapper>
-                  brandsgrey121
+                  BrandsGrey121
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey122" />
+              <Icon icon="BrandsGrey122" />
                 <TextWrapper>
-                  brandsgrey122
+                  BrandsGrey122
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey123" />
+              <Icon icon="BrandsGrey123" />
                 <TextWrapper>
-                  brandsgrey123
+                  BrandsGrey123
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey124" />
+              <Icon icon="BrandsGrey124" />
                 <TextWrapper>
-                  brandsgrey124
+                  BrandsGrey124
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey125" />
+              <Icon icon="BrandsGrey125" />
                 <TextWrapper>
-                  brandsgrey125
+                  BrandsGrey125
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey126" />
+              <Icon icon="BrandsGrey126" />
                 <TextWrapper>
-                  brandsgrey126
+                  BrandsGrey126
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey127" />
+              <Icon icon="BrandsGrey127" />
                 <TextWrapper>
-                  brandsgrey127
+                  BrandsGrey127
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey128" />
+              <Icon icon="BrandsGrey128" />
                 <TextWrapper>
-                  brandsgrey128
+                  BrandsGrey128
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey129" />
+              <Icon icon="BrandsGrey129" />
                 <TextWrapper>
-                  brandsgrey129
+                  BrandsGrey129
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey13" />
+              <Icon icon="BrandsGrey13" />
                 <TextWrapper>
-                  brandsgrey13
+                  BrandsGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey130" />
+              <Icon icon="BrandsGrey130" />
                 <TextWrapper>
-                  brandsgrey130
+                  BrandsGrey130
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey131" />
+              <Icon icon="BrandsGrey131" />
                 <TextWrapper>
-                  brandsgrey131
+                  BrandsGrey131
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey132" />
+              <Icon icon="BrandsGrey132" />
                 <TextWrapper>
-                  brandsgrey132
+                  BrandsGrey132
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey133" />
+              <Icon icon="BrandsGrey133" />
                 <TextWrapper>
-                  brandsgrey133
+                  BrandsGrey133
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey134" />
+              <Icon icon="BrandsGrey134" />
                 <TextWrapper>
-                  brandsgrey134
+                  BrandsGrey134
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey135" />
+              <Icon icon="BrandsGrey135" />
                 <TextWrapper>
-                  brandsgrey135
+                  BrandsGrey135
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey136" />
+              <Icon icon="BrandsGrey136" />
                 <TextWrapper>
-                  brandsgrey136
+                  BrandsGrey136
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey137" />
+              <Icon icon="BrandsGrey137" />
                 <TextWrapper>
-                  brandsgrey137
+                  BrandsGrey137
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey138" />
+              <Icon icon="BrandsGrey138" />
                 <TextWrapper>
-                  brandsgrey138
+                  BrandsGrey138
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey139" />
+              <Icon icon="BrandsGrey139" />
                 <TextWrapper>
-                  brandsgrey139
+                  BrandsGrey139
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey14" />
+              <Icon icon="BrandsGrey14" />
                 <TextWrapper>
-                  brandsgrey14
+                  BrandsGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey140" />
+              <Icon icon="BrandsGrey140" />
                 <TextWrapper>
-                  brandsgrey140
+                  BrandsGrey140
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey141" />
+              <Icon icon="BrandsGrey141" />
                 <TextWrapper>
-                  brandsgrey141
+                  BrandsGrey141
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey142" />
+              <Icon icon="BrandsGrey142" />
                 <TextWrapper>
-                  brandsgrey142
+                  BrandsGrey142
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey143" />
+              <Icon icon="BrandsGrey143" />
                 <TextWrapper>
-                  brandsgrey143
+                  BrandsGrey143
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey144" />
+              <Icon icon="BrandsGrey144" />
                 <TextWrapper>
-                  brandsgrey144
+                  BrandsGrey144
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey145" />
+              <Icon icon="BrandsGrey145" />
                 <TextWrapper>
-                  brandsgrey145
+                  BrandsGrey145
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey146" />
+              <Icon icon="BrandsGrey146" />
                 <TextWrapper>
-                  brandsgrey146
+                  BrandsGrey146
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey147" />
+              <Icon icon="BrandsGrey147" />
                 <TextWrapper>
-                  brandsgrey147
+                  BrandsGrey147
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey148" />
+              <Icon icon="BrandsGrey148" />
                 <TextWrapper>
-                  brandsgrey148
+                  BrandsGrey148
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey149" />
+              <Icon icon="BrandsGrey149" />
                 <TextWrapper>
-                  brandsgrey149
+                  BrandsGrey149
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey15" />
+              <Icon icon="BrandsGrey15" />
                 <TextWrapper>
-                  brandsgrey15
+                  BrandsGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey150" />
+              <Icon icon="BrandsGrey150" />
                 <TextWrapper>
-                  brandsgrey150
+                  BrandsGrey150
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey151" />
+              <Icon icon="BrandsGrey151" />
                 <TextWrapper>
-                  brandsgrey151
+                  BrandsGrey151
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey152" />
+              <Icon icon="BrandsGrey152" />
                 <TextWrapper>
-                  brandsgrey152
+                  BrandsGrey152
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey153" />
+              <Icon icon="BrandsGrey153" />
                 <TextWrapper>
-                  brandsgrey153
+                  BrandsGrey153
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey154" />
+              <Icon icon="BrandsGrey154" />
                 <TextWrapper>
-                  brandsgrey154
+                  BrandsGrey154
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey155" />
+              <Icon icon="BrandsGrey155" />
                 <TextWrapper>
-                  brandsgrey155
+                  BrandsGrey155
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey156" />
+              <Icon icon="BrandsGrey156" />
                 <TextWrapper>
-                  brandsgrey156
+                  BrandsGrey156
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey157" />
+              <Icon icon="BrandsGrey157" />
                 <TextWrapper>
-                  brandsgrey157
+                  BrandsGrey157
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey158" />
+              <Icon icon="BrandsGrey158" />
                 <TextWrapper>
-                  brandsgrey158
+                  BrandsGrey158
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey159" />
+              <Icon icon="BrandsGrey159" />
                 <TextWrapper>
-                  brandsgrey159
+                  BrandsGrey159
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey16" />
+              <Icon icon="BrandsGrey16" />
                 <TextWrapper>
-                  brandsgrey16
+                  BrandsGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey160" />
+              <Icon icon="BrandsGrey160" />
                 <TextWrapper>
-                  brandsgrey160
+                  BrandsGrey160
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey161" />
+              <Icon icon="BrandsGrey161" />
                 <TextWrapper>
-                  brandsgrey161
+                  BrandsGrey161
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey162" />
+              <Icon icon="BrandsGrey162" />
                 <TextWrapper>
-                  brandsgrey162
+                  BrandsGrey162
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey163" />
+              <Icon icon="BrandsGrey163" />
                 <TextWrapper>
-                  brandsgrey163
+                  BrandsGrey163
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey164" />
+              <Icon icon="BrandsGrey164" />
                 <TextWrapper>
-                  brandsgrey164
+                  BrandsGrey164
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey165" />
+              <Icon icon="BrandsGrey165" />
                 <TextWrapper>
-                  brandsgrey165
+                  BrandsGrey165
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey166" />
+              <Icon icon="BrandsGrey166" />
                 <TextWrapper>
-                  brandsgrey166
+                  BrandsGrey166
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey167" />
+              <Icon icon="BrandsGrey167" />
                 <TextWrapper>
-                  brandsgrey167
+                  BrandsGrey167
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey168" />
+              <Icon icon="BrandsGrey168" />
                 <TextWrapper>
-                  brandsgrey168
+                  BrandsGrey168
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey169" />
+              <Icon icon="BrandsGrey169" />
                 <TextWrapper>
-                  brandsgrey169
+                  BrandsGrey169
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey17" />
+              <Icon icon="BrandsGrey17" />
                 <TextWrapper>
-                  brandsgrey17
+                  BrandsGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey170" />
+              <Icon icon="BrandsGrey170" />
                 <TextWrapper>
-                  brandsgrey170
+                  BrandsGrey170
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey171" />
+              <Icon icon="BrandsGrey171" />
                 <TextWrapper>
-                  brandsgrey171
+                  BrandsGrey171
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey172" />
+              <Icon icon="BrandsGrey172" />
                 <TextWrapper>
-                  brandsgrey172
+                  BrandsGrey172
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey173" />
+              <Icon icon="BrandsGrey173" />
                 <TextWrapper>
-                  brandsgrey173
+                  BrandsGrey173
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey174" />
+              <Icon icon="BrandsGrey174" />
                 <TextWrapper>
-                  brandsgrey174
+                  BrandsGrey174
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey175" />
+              <Icon icon="BrandsGrey175" />
                 <TextWrapper>
-                  brandsgrey175
+                  BrandsGrey175
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey176" />
+              <Icon icon="BrandsGrey176" />
                 <TextWrapper>
-                  brandsgrey176
+                  BrandsGrey176
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey177" />
+              <Icon icon="BrandsGrey177" />
                 <TextWrapper>
-                  brandsgrey177
+                  BrandsGrey177
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey178" />
+              <Icon icon="BrandsGrey178" />
                 <TextWrapper>
-                  brandsgrey178
+                  BrandsGrey178
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey179" />
+              <Icon icon="BrandsGrey179" />
                 <TextWrapper>
-                  brandsgrey179
+                  BrandsGrey179
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey18" />
+              <Icon icon="BrandsGrey18" />
                 <TextWrapper>
-                  brandsgrey18
+                  BrandsGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey180" />
+              <Icon icon="BrandsGrey180" />
                 <TextWrapper>
-                  brandsgrey180
+                  BrandsGrey180
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey181" />
+              <Icon icon="BrandsGrey181" />
                 <TextWrapper>
-                  brandsgrey181
+                  BrandsGrey181
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey182" />
+              <Icon icon="BrandsGrey182" />
                 <TextWrapper>
-                  brandsgrey182
+                  BrandsGrey182
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey183" />
+              <Icon icon="BrandsGrey183" />
                 <TextWrapper>
-                  brandsgrey183
+                  BrandsGrey183
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey184" />
+              <Icon icon="BrandsGrey184" />
                 <TextWrapper>
-                  brandsgrey184
+                  BrandsGrey184
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey185" />
+              <Icon icon="BrandsGrey185" />
                 <TextWrapper>
-                  brandsgrey185
+                  BrandsGrey185
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey186" />
+              <Icon icon="BrandsGrey186" />
                 <TextWrapper>
-                  brandsgrey186
+                  BrandsGrey186
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey187" />
+              <Icon icon="BrandsGrey187" />
                 <TextWrapper>
-                  brandsgrey187
+                  BrandsGrey187
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey188" />
+              <Icon icon="BrandsGrey188" />
                 <TextWrapper>
-                  brandsgrey188
+                  BrandsGrey188
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey189" />
+              <Icon icon="BrandsGrey189" />
                 <TextWrapper>
-                  brandsgrey189
+                  BrandsGrey189
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey19" />
+              <Icon icon="BrandsGrey19" />
                 <TextWrapper>
-                  brandsgrey19
+                  BrandsGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey190" />
+              <Icon icon="BrandsGrey190" />
                 <TextWrapper>
-                  brandsgrey190
+                  BrandsGrey190
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey191" />
+              <Icon icon="BrandsGrey191" />
                 <TextWrapper>
-                  brandsgrey191
+                  BrandsGrey191
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey192" />
+              <Icon icon="BrandsGrey192" />
                 <TextWrapper>
-                  brandsgrey192
+                  BrandsGrey192
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey193" />
+              <Icon icon="BrandsGrey193" />
                 <TextWrapper>
-                  brandsgrey193
+                  BrandsGrey193
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey194" />
+              <Icon icon="BrandsGrey194" />
                 <TextWrapper>
-                  brandsgrey194
+                  BrandsGrey194
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey195" />
+              <Icon icon="BrandsGrey195" />
                 <TextWrapper>
-                  brandsgrey195
+                  BrandsGrey195
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey196" />
+              <Icon icon="BrandsGrey196" />
                 <TextWrapper>
-                  brandsgrey196
+                  BrandsGrey196
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey197" />
+              <Icon icon="BrandsGrey197" />
                 <TextWrapper>
-                  brandsgrey197
+                  BrandsGrey197
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey198" />
+              <Icon icon="BrandsGrey198" />
                 <TextWrapper>
-                  brandsgrey198
+                  BrandsGrey198
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey199" />
+              <Icon icon="BrandsGrey199" />
                 <TextWrapper>
-                  brandsgrey199
+                  BrandsGrey199
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey2" />
+              <Icon icon="BrandsGrey2" />
                 <TextWrapper>
-                  brandsgrey2
+                  BrandsGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey20" />
+              <Icon icon="BrandsGrey20" />
                 <TextWrapper>
-                  brandsgrey20
+                  BrandsGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey200" />
+              <Icon icon="BrandsGrey200" />
                 <TextWrapper>
-                  brandsgrey200
+                  BrandsGrey200
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey201" />
+              <Icon icon="BrandsGrey201" />
                 <TextWrapper>
-                  brandsgrey201
+                  BrandsGrey201
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey202" />
+              <Icon icon="BrandsGrey202" />
                 <TextWrapper>
-                  brandsgrey202
+                  BrandsGrey202
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey203" />
+              <Icon icon="BrandsGrey203" />
                 <TextWrapper>
-                  brandsgrey203
+                  BrandsGrey203
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey204" />
+              <Icon icon="BrandsGrey204" />
                 <TextWrapper>
-                  brandsgrey204
+                  BrandsGrey204
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey205" />
+              <Icon icon="BrandsGrey205" />
                 <TextWrapper>
-                  brandsgrey205
+                  BrandsGrey205
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey206" />
+              <Icon icon="BrandsGrey206" />
                 <TextWrapper>
-                  brandsgrey206
+                  BrandsGrey206
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey207" />
+              <Icon icon="BrandsGrey207" />
                 <TextWrapper>
-                  brandsgrey207
+                  BrandsGrey207
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey208" />
+              <Icon icon="BrandsGrey208" />
                 <TextWrapper>
-                  brandsgrey208
+                  BrandsGrey208
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey209" />
+              <Icon icon="BrandsGrey209" />
                 <TextWrapper>
-                  brandsgrey209
+                  BrandsGrey209
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey21" />
+              <Icon icon="BrandsGrey21" />
                 <TextWrapper>
-                  brandsgrey21
+                  BrandsGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey210" />
+              <Icon icon="BrandsGrey210" />
                 <TextWrapper>
-                  brandsgrey210
+                  BrandsGrey210
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey211" />
+              <Icon icon="BrandsGrey211" />
                 <TextWrapper>
-                  brandsgrey211
+                  BrandsGrey211
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey212" />
+              <Icon icon="BrandsGrey212" />
                 <TextWrapper>
-                  brandsgrey212
+                  BrandsGrey212
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey213" />
+              <Icon icon="BrandsGrey213" />
                 <TextWrapper>
-                  brandsgrey213
+                  BrandsGrey213
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey214" />
+              <Icon icon="BrandsGrey214" />
                 <TextWrapper>
-                  brandsgrey214
+                  BrandsGrey214
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey215" />
+              <Icon icon="BrandsGrey215" />
                 <TextWrapper>
-                  brandsgrey215
+                  BrandsGrey215
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey216" />
+              <Icon icon="BrandsGrey216" />
                 <TextWrapper>
-                  brandsgrey216
+                  BrandsGrey216
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey217" />
+              <Icon icon="BrandsGrey217" />
                 <TextWrapper>
-                  brandsgrey217
+                  BrandsGrey217
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey218" />
+              <Icon icon="BrandsGrey218" />
                 <TextWrapper>
-                  brandsgrey218
+                  BrandsGrey218
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey219" />
+              <Icon icon="BrandsGrey219" />
                 <TextWrapper>
-                  brandsgrey219
+                  BrandsGrey219
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey22" />
+              <Icon icon="BrandsGrey22" />
                 <TextWrapper>
-                  brandsgrey22
+                  BrandsGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey220" />
+              <Icon icon="BrandsGrey220" />
                 <TextWrapper>
-                  brandsgrey220
+                  BrandsGrey220
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey221" />
+              <Icon icon="BrandsGrey221" />
                 <TextWrapper>
-                  brandsgrey221
+                  BrandsGrey221
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey222" />
+              <Icon icon="BrandsGrey222" />
                 <TextWrapper>
-                  brandsgrey222
+                  BrandsGrey222
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey223" />
+              <Icon icon="BrandsGrey223" />
                 <TextWrapper>
-                  brandsgrey223
+                  BrandsGrey223
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey224" />
+              <Icon icon="BrandsGrey224" />
                 <TextWrapper>
-                  brandsgrey224
+                  BrandsGrey224
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey225" />
+              <Icon icon="BrandsGrey225" />
                 <TextWrapper>
-                  brandsgrey225
+                  BrandsGrey225
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey226" />
+              <Icon icon="BrandsGrey226" />
                 <TextWrapper>
-                  brandsgrey226
+                  BrandsGrey226
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey227" />
+              <Icon icon="BrandsGrey227" />
                 <TextWrapper>
-                  brandsgrey227
+                  BrandsGrey227
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey228" />
+              <Icon icon="BrandsGrey228" />
                 <TextWrapper>
-                  brandsgrey228
+                  BrandsGrey228
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey229" />
+              <Icon icon="BrandsGrey229" />
                 <TextWrapper>
-                  brandsgrey229
+                  BrandsGrey229
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey23" />
+              <Icon icon="BrandsGrey23" />
                 <TextWrapper>
-                  brandsgrey23
+                  BrandsGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey230" />
+              <Icon icon="BrandsGrey230" />
                 <TextWrapper>
-                  brandsgrey230
+                  BrandsGrey230
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey231" />
+              <Icon icon="BrandsGrey231" />
                 <TextWrapper>
-                  brandsgrey231
+                  BrandsGrey231
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey232" />
+              <Icon icon="BrandsGrey232" />
                 <TextWrapper>
-                  brandsgrey232
+                  BrandsGrey232
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey233" />
+              <Icon icon="BrandsGrey233" />
                 <TextWrapper>
-                  brandsgrey233
+                  BrandsGrey233
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey234" />
+              <Icon icon="BrandsGrey234" />
                 <TextWrapper>
-                  brandsgrey234
+                  BrandsGrey234
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey235" />
+              <Icon icon="BrandsGrey235" />
                 <TextWrapper>
-                  brandsgrey235
+                  BrandsGrey235
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey236" />
+              <Icon icon="BrandsGrey236" />
                 <TextWrapper>
-                  brandsgrey236
+                  BrandsGrey236
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey237" />
+              <Icon icon="BrandsGrey237" />
                 <TextWrapper>
-                  brandsgrey237
+                  BrandsGrey237
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey238" />
+              <Icon icon="BrandsGrey238" />
                 <TextWrapper>
-                  brandsgrey238
+                  BrandsGrey238
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey239" />
+              <Icon icon="BrandsGrey239" />
                 <TextWrapper>
-                  brandsgrey239
+                  BrandsGrey239
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey24" />
+              <Icon icon="BrandsGrey24" />
                 <TextWrapper>
-                  brandsgrey24
+                  BrandsGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey240" />
+              <Icon icon="BrandsGrey240" />
                 <TextWrapper>
-                  brandsgrey240
+                  BrandsGrey240
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey241" />
+              <Icon icon="BrandsGrey241" />
                 <TextWrapper>
-                  brandsgrey241
+                  BrandsGrey241
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey242" />
+              <Icon icon="BrandsGrey242" />
                 <TextWrapper>
-                  brandsgrey242
+                  BrandsGrey242
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey243" />
+              <Icon icon="BrandsGrey243" />
                 <TextWrapper>
-                  brandsgrey243
+                  BrandsGrey243
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey244" />
+              <Icon icon="BrandsGrey244" />
                 <TextWrapper>
-                  brandsgrey244
+                  BrandsGrey244
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey245" />
+              <Icon icon="BrandsGrey245" />
                 <TextWrapper>
-                  brandsgrey245
+                  BrandsGrey245
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey246" />
+              <Icon icon="BrandsGrey246" />
                 <TextWrapper>
-                  brandsgrey246
+                  BrandsGrey246
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey247" />
+              <Icon icon="BrandsGrey247" />
                 <TextWrapper>
-                  brandsgrey247
+                  BrandsGrey247
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey248" />
+              <Icon icon="BrandsGrey248" />
                 <TextWrapper>
-                  brandsgrey248
+                  BrandsGrey248
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey249" />
+              <Icon icon="BrandsGrey249" />
                 <TextWrapper>
-                  brandsgrey249
+                  BrandsGrey249
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey25" />
+              <Icon icon="BrandsGrey25" />
                 <TextWrapper>
-                  brandsgrey25
+                  BrandsGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey250" />
+              <Icon icon="BrandsGrey250" />
                 <TextWrapper>
-                  brandsgrey250
+                  BrandsGrey250
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey251" />
+              <Icon icon="BrandsGrey251" />
                 <TextWrapper>
-                  brandsgrey251
+                  BrandsGrey251
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey252" />
+              <Icon icon="BrandsGrey252" />
                 <TextWrapper>
-                  brandsgrey252
+                  BrandsGrey252
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey253" />
+              <Icon icon="BrandsGrey253" />
                 <TextWrapper>
-                  brandsgrey253
+                  BrandsGrey253
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey254" />
+              <Icon icon="BrandsGrey254" />
                 <TextWrapper>
-                  brandsgrey254
+                  BrandsGrey254
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey255" />
+              <Icon icon="BrandsGrey255" />
                 <TextWrapper>
-                  brandsgrey255
+                  BrandsGrey255
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey256" />
+              <Icon icon="BrandsGrey256" />
                 <TextWrapper>
-                  brandsgrey256
+                  BrandsGrey256
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey257" />
+              <Icon icon="BrandsGrey257" />
                 <TextWrapper>
-                  brandsgrey257
+                  BrandsGrey257
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey258" />
+              <Icon icon="BrandsGrey258" />
                 <TextWrapper>
-                  brandsgrey258
+                  BrandsGrey258
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey259" />
+              <Icon icon="BrandsGrey259" />
                 <TextWrapper>
-                  brandsgrey259
+                  BrandsGrey259
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey26" />
+              <Icon icon="BrandsGrey26" />
                 <TextWrapper>
-                  brandsgrey26
+                  BrandsGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey260" />
+              <Icon icon="BrandsGrey260" />
                 <TextWrapper>
-                  brandsgrey260
+                  BrandsGrey260
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey261" />
+              <Icon icon="BrandsGrey261" />
                 <TextWrapper>
-                  brandsgrey261
+                  BrandsGrey261
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey262" />
+              <Icon icon="BrandsGrey262" />
                 <TextWrapper>
-                  brandsgrey262
+                  BrandsGrey262
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey263" />
+              <Icon icon="BrandsGrey263" />
                 <TextWrapper>
-                  brandsgrey263
+                  BrandsGrey263
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey264" />
+              <Icon icon="BrandsGrey264" />
                 <TextWrapper>
-                  brandsgrey264
+                  BrandsGrey264
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey265" />
+              <Icon icon="BrandsGrey265" />
                 <TextWrapper>
-                  brandsgrey265
+                  BrandsGrey265
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey266" />
+              <Icon icon="BrandsGrey266" />
                 <TextWrapper>
-                  brandsgrey266
+                  BrandsGrey266
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey267" />
+              <Icon icon="BrandsGrey267" />
                 <TextWrapper>
-                  brandsgrey267
+                  BrandsGrey267
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey268" />
+              <Icon icon="BrandsGrey268" />
                 <TextWrapper>
-                  brandsgrey268
+                  BrandsGrey268
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey269" />
+              <Icon icon="BrandsGrey269" />
                 <TextWrapper>
-                  brandsgrey269
+                  BrandsGrey269
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey27" />
+              <Icon icon="BrandsGrey27" />
                 <TextWrapper>
-                  brandsgrey27
+                  BrandsGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey270" />
+              <Icon icon="BrandsGrey270" />
                 <TextWrapper>
-                  brandsgrey270
+                  BrandsGrey270
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey271" />
+              <Icon icon="BrandsGrey271" />
                 <TextWrapper>
-                  brandsgrey271
+                  BrandsGrey271
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey272" />
+              <Icon icon="BrandsGrey272" />
                 <TextWrapper>
-                  brandsgrey272
+                  BrandsGrey272
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey273" />
+              <Icon icon="BrandsGrey273" />
                 <TextWrapper>
-                  brandsgrey273
+                  BrandsGrey273
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey274" />
+              <Icon icon="BrandsGrey274" />
                 <TextWrapper>
-                  brandsgrey274
+                  BrandsGrey274
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey275" />
+              <Icon icon="BrandsGrey275" />
                 <TextWrapper>
-                  brandsgrey275
+                  BrandsGrey275
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey276" />
+              <Icon icon="BrandsGrey276" />
                 <TextWrapper>
-                  brandsgrey276
+                  BrandsGrey276
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey277" />
+              <Icon icon="BrandsGrey277" />
                 <TextWrapper>
-                  brandsgrey277
+                  BrandsGrey277
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey278" />
+              <Icon icon="BrandsGrey278" />
                 <TextWrapper>
-                  brandsgrey278
+                  BrandsGrey278
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey279" />
+              <Icon icon="BrandsGrey279" />
                 <TextWrapper>
-                  brandsgrey279
+                  BrandsGrey279
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey28" />
+              <Icon icon="BrandsGrey28" />
                 <TextWrapper>
-                  brandsgrey28
+                  BrandsGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey280" />
+              <Icon icon="BrandsGrey280" />
                 <TextWrapper>
-                  brandsgrey280
+                  BrandsGrey280
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey281" />
+              <Icon icon="BrandsGrey281" />
                 <TextWrapper>
-                  brandsgrey281
+                  BrandsGrey281
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey282" />
+              <Icon icon="BrandsGrey282" />
                 <TextWrapper>
-                  brandsgrey282
+                  BrandsGrey282
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey283" />
+              <Icon icon="BrandsGrey283" />
                 <TextWrapper>
-                  brandsgrey283
+                  BrandsGrey283
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey284" />
+              <Icon icon="BrandsGrey284" />
                 <TextWrapper>
-                  brandsgrey284
+                  BrandsGrey284
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey285" />
+              <Icon icon="BrandsGrey285" />
                 <TextWrapper>
-                  brandsgrey285
+                  BrandsGrey285
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey286" />
+              <Icon icon="BrandsGrey286" />
                 <TextWrapper>
-                  brandsgrey286
+                  BrandsGrey286
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey287" />
+              <Icon icon="BrandsGrey287" />
                 <TextWrapper>
-                  brandsgrey287
+                  BrandsGrey287
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey288" />
+              <Icon icon="BrandsGrey288" />
                 <TextWrapper>
-                  brandsgrey288
+                  BrandsGrey288
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey289" />
+              <Icon icon="BrandsGrey289" />
                 <TextWrapper>
-                  brandsgrey289
+                  BrandsGrey289
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey29" />
+              <Icon icon="BrandsGrey29" />
                 <TextWrapper>
-                  brandsgrey29
+                  BrandsGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey290" />
+              <Icon icon="BrandsGrey290" />
                 <TextWrapper>
-                  brandsgrey290
+                  BrandsGrey290
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey291" />
+              <Icon icon="BrandsGrey291" />
                 <TextWrapper>
-                  brandsgrey291
+                  BrandsGrey291
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey292" />
+              <Icon icon="BrandsGrey292" />
                 <TextWrapper>
-                  brandsgrey292
+                  BrandsGrey292
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey293" />
+              <Icon icon="BrandsGrey293" />
                 <TextWrapper>
-                  brandsgrey293
+                  BrandsGrey293
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey294" />
+              <Icon icon="BrandsGrey294" />
                 <TextWrapper>
-                  brandsgrey294
+                  BrandsGrey294
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey295" />
+              <Icon icon="BrandsGrey295" />
                 <TextWrapper>
-                  brandsgrey295
+                  BrandsGrey295
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey296" />
+              <Icon icon="BrandsGrey296" />
                 <TextWrapper>
-                  brandsgrey296
+                  BrandsGrey296
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey297" />
+              <Icon icon="BrandsGrey297" />
                 <TextWrapper>
-                  brandsgrey297
+                  BrandsGrey297
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey298" />
+              <Icon icon="BrandsGrey298" />
                 <TextWrapper>
-                  brandsgrey298
+                  BrandsGrey298
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey299" />
+              <Icon icon="BrandsGrey299" />
                 <TextWrapper>
-                  brandsgrey299
+                  BrandsGrey299
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey3" />
+              <Icon icon="BrandsGrey3" />
                 <TextWrapper>
-                  brandsgrey3
+                  BrandsGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey30" />
+              <Icon icon="BrandsGrey30" />
                 <TextWrapper>
-                  brandsgrey30
+                  BrandsGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey300" />
+              <Icon icon="BrandsGrey300" />
                 <TextWrapper>
-                  brandsgrey300
+                  BrandsGrey300
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey301" />
+              <Icon icon="BrandsGrey301" />
                 <TextWrapper>
-                  brandsgrey301
+                  BrandsGrey301
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey302" />
+              <Icon icon="BrandsGrey302" />
                 <TextWrapper>
-                  brandsgrey302
+                  BrandsGrey302
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey303" />
+              <Icon icon="BrandsGrey303" />
                 <TextWrapper>
-                  brandsgrey303
+                  BrandsGrey303
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey304" />
+              <Icon icon="BrandsGrey304" />
                 <TextWrapper>
-                  brandsgrey304
+                  BrandsGrey304
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey305" />
+              <Icon icon="BrandsGrey305" />
                 <TextWrapper>
-                  brandsgrey305
+                  BrandsGrey305
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey306" />
+              <Icon icon="BrandsGrey306" />
                 <TextWrapper>
-                  brandsgrey306
+                  BrandsGrey306
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey307" />
+              <Icon icon="BrandsGrey307" />
                 <TextWrapper>
-                  brandsgrey307
+                  BrandsGrey307
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey308" />
+              <Icon icon="BrandsGrey308" />
                 <TextWrapper>
-                  brandsgrey308
+                  BrandsGrey308
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey309" />
+              <Icon icon="BrandsGrey309" />
                 <TextWrapper>
-                  brandsgrey309
+                  BrandsGrey309
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey31" />
+              <Icon icon="BrandsGrey31" />
                 <TextWrapper>
-                  brandsgrey31
+                  BrandsGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey310" />
+              <Icon icon="BrandsGrey310" />
                 <TextWrapper>
-                  brandsgrey310
+                  BrandsGrey310
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey311" />
+              <Icon icon="BrandsGrey311" />
                 <TextWrapper>
-                  brandsgrey311
+                  BrandsGrey311
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey312" />
+              <Icon icon="BrandsGrey312" />
                 <TextWrapper>
-                  brandsgrey312
+                  BrandsGrey312
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey313" />
+              <Icon icon="BrandsGrey313" />
                 <TextWrapper>
-                  brandsgrey313
+                  BrandsGrey313
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey314" />
+              <Icon icon="BrandsGrey314" />
                 <TextWrapper>
-                  brandsgrey314
+                  BrandsGrey314
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey315" />
+              <Icon icon="BrandsGrey315" />
                 <TextWrapper>
-                  brandsgrey315
+                  BrandsGrey315
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey316" />
+              <Icon icon="BrandsGrey316" />
                 <TextWrapper>
-                  brandsgrey316
+                  BrandsGrey316
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey317" />
+              <Icon icon="BrandsGrey317" />
                 <TextWrapper>
-                  brandsgrey317
+                  BrandsGrey317
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey318" />
+              <Icon icon="BrandsGrey318" />
                 <TextWrapper>
-                  brandsgrey318
+                  BrandsGrey318
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey319" />
+              <Icon icon="BrandsGrey319" />
                 <TextWrapper>
-                  brandsgrey319
+                  BrandsGrey319
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey32" />
+              <Icon icon="BrandsGrey32" />
                 <TextWrapper>
-                  brandsgrey32
+                  BrandsGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey320" />
+              <Icon icon="BrandsGrey320" />
                 <TextWrapper>
-                  brandsgrey320
+                  BrandsGrey320
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey321" />
+              <Icon icon="BrandsGrey321" />
                 <TextWrapper>
-                  brandsgrey321
+                  BrandsGrey321
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey322" />
+              <Icon icon="BrandsGrey322" />
                 <TextWrapper>
-                  brandsgrey322
+                  BrandsGrey322
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey323" />
+              <Icon icon="BrandsGrey323" />
                 <TextWrapper>
-                  brandsgrey323
+                  BrandsGrey323
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey324" />
+              <Icon icon="BrandsGrey324" />
                 <TextWrapper>
-                  brandsgrey324
+                  BrandsGrey324
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey325" />
+              <Icon icon="BrandsGrey325" />
                 <TextWrapper>
-                  brandsgrey325
+                  BrandsGrey325
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey326" />
+              <Icon icon="BrandsGrey326" />
                 <TextWrapper>
-                  brandsgrey326
+                  BrandsGrey326
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey327" />
+              <Icon icon="BrandsGrey327" />
                 <TextWrapper>
-                  brandsgrey327
+                  BrandsGrey327
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey328" />
+              <Icon icon="BrandsGrey328" />
                 <TextWrapper>
-                  brandsgrey328
+                  BrandsGrey328
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey329" />
+              <Icon icon="BrandsGrey329" />
                 <TextWrapper>
-                  brandsgrey329
+                  BrandsGrey329
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey33" />
+              <Icon icon="BrandsGrey33" />
                 <TextWrapper>
-                  brandsgrey33
+                  BrandsGrey33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey330" />
+              <Icon icon="BrandsGrey330" />
                 <TextWrapper>
-                  brandsgrey330
+                  BrandsGrey330
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey331" />
+              <Icon icon="BrandsGrey331" />
                 <TextWrapper>
-                  brandsgrey331
+                  BrandsGrey331
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey332" />
+              <Icon icon="BrandsGrey332" />
                 <TextWrapper>
-                  brandsgrey332
+                  BrandsGrey332
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey333" />
+              <Icon icon="BrandsGrey333" />
                 <TextWrapper>
-                  brandsgrey333
+                  BrandsGrey333
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey334" />
+              <Icon icon="BrandsGrey334" />
                 <TextWrapper>
-                  brandsgrey334
+                  BrandsGrey334
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey335" />
+              <Icon icon="BrandsGrey335" />
                 <TextWrapper>
-                  brandsgrey335
+                  BrandsGrey335
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey336" />
+              <Icon icon="BrandsGrey336" />
                 <TextWrapper>
-                  brandsgrey336
+                  BrandsGrey336
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey337" />
+              <Icon icon="BrandsGrey337" />
                 <TextWrapper>
-                  brandsgrey337
+                  BrandsGrey337
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey338" />
+              <Icon icon="BrandsGrey338" />
                 <TextWrapper>
-                  brandsgrey338
+                  BrandsGrey338
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey339" />
+              <Icon icon="BrandsGrey339" />
                 <TextWrapper>
-                  brandsgrey339
+                  BrandsGrey339
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey34" />
+              <Icon icon="BrandsGrey34" />
                 <TextWrapper>
-                  brandsgrey34
+                  BrandsGrey34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey340" />
+              <Icon icon="BrandsGrey340" />
                 <TextWrapper>
-                  brandsgrey340
+                  BrandsGrey340
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey341" />
+              <Icon icon="BrandsGrey341" />
                 <TextWrapper>
-                  brandsgrey341
+                  BrandsGrey341
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey342" />
+              <Icon icon="BrandsGrey342" />
                 <TextWrapper>
-                  brandsgrey342
+                  BrandsGrey342
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey343" />
+              <Icon icon="BrandsGrey343" />
                 <TextWrapper>
-                  brandsgrey343
+                  BrandsGrey343
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey344" />
+              <Icon icon="BrandsGrey344" />
                 <TextWrapper>
-                  brandsgrey344
+                  BrandsGrey344
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey345" />
+              <Icon icon="BrandsGrey345" />
                 <TextWrapper>
-                  brandsgrey345
+                  BrandsGrey345
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey346" />
+              <Icon icon="BrandsGrey346" />
                 <TextWrapper>
-                  brandsgrey346
+                  BrandsGrey346
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey347" />
+              <Icon icon="BrandsGrey347" />
                 <TextWrapper>
-                  brandsgrey347
+                  BrandsGrey347
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey348" />
+              <Icon icon="BrandsGrey348" />
                 <TextWrapper>
-                  brandsgrey348
+                  BrandsGrey348
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey349" />
+              <Icon icon="BrandsGrey349" />
                 <TextWrapper>
-                  brandsgrey349
+                  BrandsGrey349
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey35" />
+              <Icon icon="BrandsGrey35" />
                 <TextWrapper>
-                  brandsgrey35
+                  BrandsGrey35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey350" />
+              <Icon icon="BrandsGrey350" />
                 <TextWrapper>
-                  brandsgrey350
+                  BrandsGrey350
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey351" />
+              <Icon icon="BrandsGrey351" />
                 <TextWrapper>
-                  brandsgrey351
+                  BrandsGrey351
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey352" />
+              <Icon icon="BrandsGrey352" />
                 <TextWrapper>
-                  brandsgrey352
+                  BrandsGrey352
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey353" />
+              <Icon icon="BrandsGrey353" />
                 <TextWrapper>
-                  brandsgrey353
+                  BrandsGrey353
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey354" />
+              <Icon icon="BrandsGrey354" />
                 <TextWrapper>
-                  brandsgrey354
+                  BrandsGrey354
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey355" />
+              <Icon icon="BrandsGrey355" />
                 <TextWrapper>
-                  brandsgrey355
+                  BrandsGrey355
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey356" />
+              <Icon icon="BrandsGrey356" />
                 <TextWrapper>
-                  brandsgrey356
+                  BrandsGrey356
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey357" />
+              <Icon icon="BrandsGrey357" />
                 <TextWrapper>
-                  brandsgrey357
+                  BrandsGrey357
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey358" />
+              <Icon icon="BrandsGrey358" />
                 <TextWrapper>
-                  brandsgrey358
+                  BrandsGrey358
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey359" />
+              <Icon icon="BrandsGrey359" />
                 <TextWrapper>
-                  brandsgrey359
+                  BrandsGrey359
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey36" />
+              <Icon icon="BrandsGrey36" />
                 <TextWrapper>
-                  brandsgrey36
+                  BrandsGrey36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey360" />
+              <Icon icon="BrandsGrey360" />
                 <TextWrapper>
-                  brandsgrey360
+                  BrandsGrey360
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey361" />
+              <Icon icon="BrandsGrey361" />
                 <TextWrapper>
-                  brandsgrey361
+                  BrandsGrey361
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey362" />
+              <Icon icon="BrandsGrey362" />
                 <TextWrapper>
-                  brandsgrey362
+                  BrandsGrey362
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey363" />
+              <Icon icon="BrandsGrey363" />
                 <TextWrapper>
-                  brandsgrey363
+                  BrandsGrey363
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey364" />
+              <Icon icon="BrandsGrey364" />
                 <TextWrapper>
-                  brandsgrey364
+                  BrandsGrey364
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey365" />
+              <Icon icon="BrandsGrey365" />
                 <TextWrapper>
-                  brandsgrey365
+                  BrandsGrey365
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey366" />
+              <Icon icon="BrandsGrey366" />
                 <TextWrapper>
-                  brandsgrey366
+                  BrandsGrey366
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey367" />
+              <Icon icon="BrandsGrey367" />
                 <TextWrapper>
-                  brandsgrey367
+                  BrandsGrey367
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey368" />
+              <Icon icon="BrandsGrey368" />
                 <TextWrapper>
-                  brandsgrey368
+                  BrandsGrey368
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey369" />
+              <Icon icon="BrandsGrey369" />
                 <TextWrapper>
-                  brandsgrey369
+                  BrandsGrey369
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey37" />
+              <Icon icon="BrandsGrey37" />
                 <TextWrapper>
-                  brandsgrey37
+                  BrandsGrey37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey370" />
+              <Icon icon="BrandsGrey370" />
                 <TextWrapper>
-                  brandsgrey370
+                  BrandsGrey370
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey371" />
+              <Icon icon="BrandsGrey371" />
                 <TextWrapper>
-                  brandsgrey371
+                  BrandsGrey371
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey372" />
+              <Icon icon="BrandsGrey372" />
                 <TextWrapper>
-                  brandsgrey372
+                  BrandsGrey372
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey373" />
+              <Icon icon="BrandsGrey373" />
                 <TextWrapper>
-                  brandsgrey373
+                  BrandsGrey373
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey374" />
+              <Icon icon="BrandsGrey374" />
                 <TextWrapper>
-                  brandsgrey374
+                  BrandsGrey374
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey375" />
+              <Icon icon="BrandsGrey375" />
                 <TextWrapper>
-                  brandsgrey375
+                  BrandsGrey375
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey376" />
+              <Icon icon="BrandsGrey376" />
                 <TextWrapper>
-                  brandsgrey376
+                  BrandsGrey376
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey377" />
+              <Icon icon="BrandsGrey377" />
                 <TextWrapper>
-                  brandsgrey377
+                  BrandsGrey377
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey378" />
+              <Icon icon="BrandsGrey378" />
                 <TextWrapper>
-                  brandsgrey378
+                  BrandsGrey378
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey379" />
+              <Icon icon="BrandsGrey379" />
                 <TextWrapper>
-                  brandsgrey379
+                  BrandsGrey379
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey38" />
+              <Icon icon="BrandsGrey38" />
                 <TextWrapper>
-                  brandsgrey38
+                  BrandsGrey38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey380" />
+              <Icon icon="BrandsGrey380" />
                 <TextWrapper>
-                  brandsgrey380
+                  BrandsGrey380
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey381" />
+              <Icon icon="BrandsGrey381" />
                 <TextWrapper>
-                  brandsgrey381
+                  BrandsGrey381
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey382" />
+              <Icon icon="BrandsGrey382" />
                 <TextWrapper>
-                  brandsgrey382
+                  BrandsGrey382
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey383" />
+              <Icon icon="BrandsGrey383" />
                 <TextWrapper>
-                  brandsgrey383
+                  BrandsGrey383
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey384" />
+              <Icon icon="BrandsGrey384" />
                 <TextWrapper>
-                  brandsgrey384
+                  BrandsGrey384
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey385" />
+              <Icon icon="BrandsGrey385" />
                 <TextWrapper>
-                  brandsgrey385
+                  BrandsGrey385
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey386" />
+              <Icon icon="BrandsGrey386" />
                 <TextWrapper>
-                  brandsgrey386
+                  BrandsGrey386
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey387" />
+              <Icon icon="BrandsGrey387" />
                 <TextWrapper>
-                  brandsgrey387
+                  BrandsGrey387
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey388" />
+              <Icon icon="BrandsGrey388" />
                 <TextWrapper>
-                  brandsgrey388
+                  BrandsGrey388
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey389" />
+              <Icon icon="BrandsGrey389" />
                 <TextWrapper>
-                  brandsgrey389
+                  BrandsGrey389
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey39" />
+              <Icon icon="BrandsGrey39" />
                 <TextWrapper>
-                  brandsgrey39
+                  BrandsGrey39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey390" />
+              <Icon icon="BrandsGrey390" />
                 <TextWrapper>
-                  brandsgrey390
+                  BrandsGrey390
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey391" />
+              <Icon icon="BrandsGrey391" />
                 <TextWrapper>
-                  brandsgrey391
+                  BrandsGrey391
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey392" />
+              <Icon icon="BrandsGrey392" />
                 <TextWrapper>
-                  brandsgrey392
+                  BrandsGrey392
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey393" />
+              <Icon icon="BrandsGrey393" />
                 <TextWrapper>
-                  brandsgrey393
+                  BrandsGrey393
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey394" />
+              <Icon icon="BrandsGrey394" />
                 <TextWrapper>
-                  brandsgrey394
+                  BrandsGrey394
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey395" />
+              <Icon icon="BrandsGrey395" />
                 <TextWrapper>
-                  brandsgrey395
+                  BrandsGrey395
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey396" />
+              <Icon icon="BrandsGrey396" />
                 <TextWrapper>
-                  brandsgrey396
+                  BrandsGrey396
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey397" />
+              <Icon icon="BrandsGrey397" />
                 <TextWrapper>
-                  brandsgrey397
+                  BrandsGrey397
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey398" />
+              <Icon icon="BrandsGrey398" />
                 <TextWrapper>
-                  brandsgrey398
+                  BrandsGrey398
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey399" />
+              <Icon icon="BrandsGrey399" />
                 <TextWrapper>
-                  brandsgrey399
+                  BrandsGrey399
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey4" />
+              <Icon icon="BrandsGrey4" />
                 <TextWrapper>
-                  brandsgrey4
+                  BrandsGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey40" />
+              <Icon icon="BrandsGrey40" />
                 <TextWrapper>
-                  brandsgrey40
+                  BrandsGrey40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey400" />
+              <Icon icon="BrandsGrey400" />
                 <TextWrapper>
-                  brandsgrey400
+                  BrandsGrey400
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey401" />
+              <Icon icon="BrandsGrey401" />
                 <TextWrapper>
-                  brandsgrey401
+                  BrandsGrey401
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey402" />
+              <Icon icon="BrandsGrey402" />
                 <TextWrapper>
-                  brandsgrey402
+                  BrandsGrey402
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey403" />
+              <Icon icon="BrandsGrey403" />
                 <TextWrapper>
-                  brandsgrey403
+                  BrandsGrey403
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey404" />
+              <Icon icon="BrandsGrey404" />
                 <TextWrapper>
-                  brandsgrey404
+                  BrandsGrey404
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey405" />
+              <Icon icon="BrandsGrey405" />
                 <TextWrapper>
-                  brandsgrey405
+                  BrandsGrey405
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey406" />
+              <Icon icon="BrandsGrey406" />
                 <TextWrapper>
-                  brandsgrey406
+                  BrandsGrey406
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey407" />
+              <Icon icon="BrandsGrey407" />
                 <TextWrapper>
-                  brandsgrey407
+                  BrandsGrey407
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey408" />
+              <Icon icon="BrandsGrey408" />
                 <TextWrapper>
-                  brandsgrey408
+                  BrandsGrey408
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey409" />
+              <Icon icon="BrandsGrey409" />
                 <TextWrapper>
-                  brandsgrey409
+                  BrandsGrey409
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey41" />
+              <Icon icon="BrandsGrey41" />
                 <TextWrapper>
-                  brandsgrey41
+                  BrandsGrey41
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey410" />
+              <Icon icon="BrandsGrey410" />
                 <TextWrapper>
-                  brandsgrey410
+                  BrandsGrey410
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey411" />
+              <Icon icon="BrandsGrey411" />
                 <TextWrapper>
-                  brandsgrey411
+                  BrandsGrey411
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey412" />
+              <Icon icon="BrandsGrey412" />
                 <TextWrapper>
-                  brandsgrey412
+                  BrandsGrey412
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey413" />
+              <Icon icon="BrandsGrey413" />
                 <TextWrapper>
-                  brandsgrey413
+                  BrandsGrey413
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey414" />
+              <Icon icon="BrandsGrey414" />
                 <TextWrapper>
-                  brandsgrey414
+                  BrandsGrey414
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey415" />
+              <Icon icon="BrandsGrey415" />
                 <TextWrapper>
-                  brandsgrey415
+                  BrandsGrey415
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey416" />
+              <Icon icon="BrandsGrey416" />
                 <TextWrapper>
-                  brandsgrey416
+                  BrandsGrey416
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey417" />
+              <Icon icon="BrandsGrey417" />
                 <TextWrapper>
-                  brandsgrey417
+                  BrandsGrey417
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey418" />
+              <Icon icon="BrandsGrey418" />
                 <TextWrapper>
-                  brandsgrey418
+                  BrandsGrey418
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey419" />
+              <Icon icon="BrandsGrey419" />
                 <TextWrapper>
-                  brandsgrey419
+                  BrandsGrey419
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey42" />
+              <Icon icon="BrandsGrey42" />
                 <TextWrapper>
-                  brandsgrey42
+                  BrandsGrey42
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey420" />
+              <Icon icon="BrandsGrey420" />
                 <TextWrapper>
-                  brandsgrey420
+                  BrandsGrey420
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey421" />
+              <Icon icon="BrandsGrey421" />
                 <TextWrapper>
-                  brandsgrey421
+                  BrandsGrey421
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey422" />
+              <Icon icon="BrandsGrey422" />
                 <TextWrapper>
-                  brandsgrey422
+                  BrandsGrey422
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey423" />
+              <Icon icon="BrandsGrey423" />
                 <TextWrapper>
-                  brandsgrey423
+                  BrandsGrey423
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey424" />
+              <Icon icon="BrandsGrey424" />
                 <TextWrapper>
-                  brandsgrey424
+                  BrandsGrey424
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey425" />
+              <Icon icon="BrandsGrey425" />
                 <TextWrapper>
-                  brandsgrey425
+                  BrandsGrey425
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey426" />
+              <Icon icon="BrandsGrey426" />
                 <TextWrapper>
-                  brandsgrey426
+                  BrandsGrey426
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey427" />
+              <Icon icon="BrandsGrey427" />
                 <TextWrapper>
-                  brandsgrey427
+                  BrandsGrey427
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey428" />
+              <Icon icon="BrandsGrey428" />
                 <TextWrapper>
-                  brandsgrey428
+                  BrandsGrey428
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey429" />
+              <Icon icon="BrandsGrey429" />
                 <TextWrapper>
-                  brandsgrey429
+                  BrandsGrey429
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey43" />
+              <Icon icon="BrandsGrey43" />
                 <TextWrapper>
-                  brandsgrey43
+                  BrandsGrey43
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey430" />
+              <Icon icon="BrandsGrey430" />
                 <TextWrapper>
-                  brandsgrey430
+                  BrandsGrey430
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey431" />
+              <Icon icon="BrandsGrey431" />
                 <TextWrapper>
-                  brandsgrey431
+                  BrandsGrey431
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey432" />
+              <Icon icon="BrandsGrey432" />
                 <TextWrapper>
-                  brandsgrey432
+                  BrandsGrey432
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey433" />
+              <Icon icon="BrandsGrey433" />
                 <TextWrapper>
-                  brandsgrey433
+                  BrandsGrey433
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey434" />
+              <Icon icon="BrandsGrey434" />
                 <TextWrapper>
-                  brandsgrey434
+                  BrandsGrey434
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey435" />
+              <Icon icon="BrandsGrey435" />
                 <TextWrapper>
-                  brandsgrey435
+                  BrandsGrey435
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey436" />
+              <Icon icon="BrandsGrey436" />
                 <TextWrapper>
-                  brandsgrey436
+                  BrandsGrey436
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey437" />
+              <Icon icon="BrandsGrey437" />
                 <TextWrapper>
-                  brandsgrey437
+                  BrandsGrey437
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey438" />
+              <Icon icon="BrandsGrey438" />
                 <TextWrapper>
-                  brandsgrey438
+                  BrandsGrey438
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey439" />
+              <Icon icon="BrandsGrey439" />
                 <TextWrapper>
-                  brandsgrey439
+                  BrandsGrey439
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey44" />
+              <Icon icon="BrandsGrey44" />
                 <TextWrapper>
-                  brandsgrey44
+                  BrandsGrey44
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey440" />
+              <Icon icon="BrandsGrey440" />
                 <TextWrapper>
-                  brandsgrey440
+                  BrandsGrey440
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey441" />
+              <Icon icon="BrandsGrey441" />
                 <TextWrapper>
-                  brandsgrey441
+                  BrandsGrey441
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey442" />
+              <Icon icon="BrandsGrey442" />
                 <TextWrapper>
-                  brandsgrey442
+                  BrandsGrey442
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey443" />
+              <Icon icon="BrandsGrey443" />
                 <TextWrapper>
-                  brandsgrey443
+                  BrandsGrey443
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey444" />
+              <Icon icon="BrandsGrey444" />
                 <TextWrapper>
-                  brandsgrey444
+                  BrandsGrey444
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey445" />
+              <Icon icon="BrandsGrey445" />
                 <TextWrapper>
-                  brandsgrey445
+                  BrandsGrey445
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey446" />
+              <Icon icon="BrandsGrey446" />
                 <TextWrapper>
-                  brandsgrey446
+                  BrandsGrey446
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey447" />
+              <Icon icon="BrandsGrey447" />
                 <TextWrapper>
-                  brandsgrey447
+                  BrandsGrey447
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey448" />
+              <Icon icon="BrandsGrey448" />
                 <TextWrapper>
-                  brandsgrey448
+                  BrandsGrey448
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey449" />
+              <Icon icon="BrandsGrey449" />
                 <TextWrapper>
-                  brandsgrey449
+                  BrandsGrey449
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey45" />
+              <Icon icon="BrandsGrey45" />
                 <TextWrapper>
-                  brandsgrey45
+                  BrandsGrey45
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey450" />
+              <Icon icon="BrandsGrey450" />
                 <TextWrapper>
-                  brandsgrey450
+                  BrandsGrey450
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey451" />
+              <Icon icon="BrandsGrey451" />
                 <TextWrapper>
-                  brandsgrey451
+                  BrandsGrey451
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey452" />
+              <Icon icon="BrandsGrey452" />
                 <TextWrapper>
-                  brandsgrey452
+                  BrandsGrey452
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey453" />
+              <Icon icon="BrandsGrey453" />
                 <TextWrapper>
-                  brandsgrey453
+                  BrandsGrey453
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey454" />
+              <Icon icon="BrandsGrey454" />
                 <TextWrapper>
-                  brandsgrey454
+                  BrandsGrey454
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey455" />
+              <Icon icon="BrandsGrey455" />
                 <TextWrapper>
-                  brandsgrey455
+                  BrandsGrey455
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey456" />
+              <Icon icon="BrandsGrey456" />
                 <TextWrapper>
-                  brandsgrey456
+                  BrandsGrey456
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey457" />
+              <Icon icon="BrandsGrey457" />
                 <TextWrapper>
-                  brandsgrey457
+                  BrandsGrey457
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey458" />
+              <Icon icon="BrandsGrey458" />
                 <TextWrapper>
-                  brandsgrey458
+                  BrandsGrey458
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey459" />
+              <Icon icon="BrandsGrey459" />
                 <TextWrapper>
-                  brandsgrey459
+                  BrandsGrey459
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey46" />
+              <Icon icon="BrandsGrey46" />
                 <TextWrapper>
-                  brandsgrey46
+                  BrandsGrey46
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey460" />
+              <Icon icon="BrandsGrey460" />
                 <TextWrapper>
-                  brandsgrey460
+                  BrandsGrey460
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey461" />
+              <Icon icon="BrandsGrey461" />
                 <TextWrapper>
-                  brandsgrey461
+                  BrandsGrey461
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey462" />
+              <Icon icon="BrandsGrey462" />
                 <TextWrapper>
-                  brandsgrey462
+                  BrandsGrey462
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey463" />
+              <Icon icon="BrandsGrey463" />
                 <TextWrapper>
-                  brandsgrey463
+                  BrandsGrey463
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey464" />
+              <Icon icon="BrandsGrey464" />
                 <TextWrapper>
-                  brandsgrey464
+                  BrandsGrey464
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey465" />
+              <Icon icon="BrandsGrey465" />
                 <TextWrapper>
-                  brandsgrey465
+                  BrandsGrey465
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey466" />
+              <Icon icon="BrandsGrey466" />
                 <TextWrapper>
-                  brandsgrey466
+                  BrandsGrey466
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey467" />
+              <Icon icon="BrandsGrey467" />
                 <TextWrapper>
-                  brandsgrey467
+                  BrandsGrey467
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey468" />
+              <Icon icon="BrandsGrey468" />
                 <TextWrapper>
-                  brandsgrey468
+                  BrandsGrey468
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey469" />
+              <Icon icon="BrandsGrey469" />
                 <TextWrapper>
-                  brandsgrey469
+                  BrandsGrey469
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey47" />
+              <Icon icon="BrandsGrey47" />
                 <TextWrapper>
-                  brandsgrey47
+                  BrandsGrey47
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey470" />
+              <Icon icon="BrandsGrey470" />
                 <TextWrapper>
-                  brandsgrey470
+                  BrandsGrey470
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey471" />
+              <Icon icon="BrandsGrey471" />
                 <TextWrapper>
-                  brandsgrey471
+                  BrandsGrey471
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey472" />
+              <Icon icon="BrandsGrey472" />
                 <TextWrapper>
-                  brandsgrey472
+                  BrandsGrey472
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey473" />
+              <Icon icon="BrandsGrey473" />
                 <TextWrapper>
-                  brandsgrey473
+                  BrandsGrey473
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey474" />
+              <Icon icon="BrandsGrey474" />
                 <TextWrapper>
-                  brandsgrey474
+                  BrandsGrey474
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey475" />
+              <Icon icon="BrandsGrey475" />
                 <TextWrapper>
-                  brandsgrey475
+                  BrandsGrey475
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey476" />
+              <Icon icon="BrandsGrey476" />
                 <TextWrapper>
-                  brandsgrey476
+                  BrandsGrey476
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey477" />
+              <Icon icon="BrandsGrey477" />
                 <TextWrapper>
-                  brandsgrey477
+                  BrandsGrey477
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey478" />
+              <Icon icon="BrandsGrey478" />
                 <TextWrapper>
-                  brandsgrey478
+                  BrandsGrey478
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey479" />
+              <Icon icon="BrandsGrey479" />
                 <TextWrapper>
-                  brandsgrey479
+                  BrandsGrey479
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey48" />
+              <Icon icon="BrandsGrey48" />
                 <TextWrapper>
-                  brandsgrey48
+                  BrandsGrey48
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey480" />
+              <Icon icon="BrandsGrey480" />
                 <TextWrapper>
-                  brandsgrey480
+                  BrandsGrey480
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey481" />
+              <Icon icon="BrandsGrey481" />
                 <TextWrapper>
-                  brandsgrey481
+                  BrandsGrey481
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey482" />
+              <Icon icon="BrandsGrey482" />
                 <TextWrapper>
-                  brandsgrey482
+                  BrandsGrey482
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey483" />
+              <Icon icon="BrandsGrey483" />
                 <TextWrapper>
-                  brandsgrey483
+                  BrandsGrey483
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey484" />
+              <Icon icon="BrandsGrey484" />
                 <TextWrapper>
-                  brandsgrey484
+                  BrandsGrey484
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey485" />
+              <Icon icon="BrandsGrey485" />
                 <TextWrapper>
-                  brandsgrey485
+                  BrandsGrey485
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey486" />
+              <Icon icon="BrandsGrey486" />
                 <TextWrapper>
-                  brandsgrey486
+                  BrandsGrey486
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey487" />
+              <Icon icon="BrandsGrey487" />
                 <TextWrapper>
-                  brandsgrey487
+                  BrandsGrey487
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey488" />
+              <Icon icon="BrandsGrey488" />
                 <TextWrapper>
-                  brandsgrey488
+                  BrandsGrey488
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey489" />
+              <Icon icon="BrandsGrey489" />
                 <TextWrapper>
-                  brandsgrey489
+                  BrandsGrey489
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey49" />
+              <Icon icon="BrandsGrey49" />
                 <TextWrapper>
-                  brandsgrey49
+                  BrandsGrey49
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey490" />
+              <Icon icon="BrandsGrey490" />
                 <TextWrapper>
-                  brandsgrey490
+                  BrandsGrey490
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey491" />
+              <Icon icon="BrandsGrey491" />
                 <TextWrapper>
-                  brandsgrey491
+                  BrandsGrey491
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey492" />
+              <Icon icon="BrandsGrey492" />
                 <TextWrapper>
-                  brandsgrey492
+                  BrandsGrey492
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey493" />
+              <Icon icon="BrandsGrey493" />
                 <TextWrapper>
-                  brandsgrey493
+                  BrandsGrey493
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey494" />
+              <Icon icon="BrandsGrey494" />
                 <TextWrapper>
-                  brandsgrey494
+                  BrandsGrey494
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey495" />
+              <Icon icon="BrandsGrey495" />
                 <TextWrapper>
-                  brandsgrey495
+                  BrandsGrey495
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey496" />
+              <Icon icon="BrandsGrey496" />
                 <TextWrapper>
-                  brandsgrey496
+                  BrandsGrey496
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey497" />
+              <Icon icon="BrandsGrey497" />
                 <TextWrapper>
-                  brandsgrey497
+                  BrandsGrey497
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey498" />
+              <Icon icon="BrandsGrey498" />
                 <TextWrapper>
-                  brandsgrey498
+                  BrandsGrey498
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey499" />
+              <Icon icon="BrandsGrey499" />
                 <TextWrapper>
-                  brandsgrey499
+                  BrandsGrey499
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey5" />
+              <Icon icon="BrandsGrey5" />
                 <TextWrapper>
-                  brandsgrey5
+                  BrandsGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey50" />
+              <Icon icon="BrandsGrey50" />
                 <TextWrapper>
-                  brandsgrey50
+                  BrandsGrey50
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey500" />
+              <Icon icon="BrandsGrey500" />
                 <TextWrapper>
-                  brandsgrey500
+                  BrandsGrey500
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey501" />
+              <Icon icon="BrandsGrey501" />
                 <TextWrapper>
-                  brandsgrey501
+                  BrandsGrey501
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey502" />
+              <Icon icon="BrandsGrey502" />
                 <TextWrapper>
-                  brandsgrey502
+                  BrandsGrey502
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey503" />
+              <Icon icon="BrandsGrey503" />
                 <TextWrapper>
-                  brandsgrey503
+                  BrandsGrey503
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey504" />
+              <Icon icon="BrandsGrey504" />
                 <TextWrapper>
-                  brandsgrey504
+                  BrandsGrey504
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey505" />
+              <Icon icon="BrandsGrey505" />
                 <TextWrapper>
-                  brandsgrey505
+                  BrandsGrey505
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey506" />
+              <Icon icon="BrandsGrey506" />
                 <TextWrapper>
-                  brandsgrey506
+                  BrandsGrey506
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey507" />
+              <Icon icon="BrandsGrey507" />
                 <TextWrapper>
-                  brandsgrey507
+                  BrandsGrey507
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey508" />
+              <Icon icon="BrandsGrey508" />
                 <TextWrapper>
-                  brandsgrey508
+                  BrandsGrey508
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey509" />
+              <Icon icon="BrandsGrey509" />
                 <TextWrapper>
-                  brandsgrey509
+                  BrandsGrey509
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey51" />
+              <Icon icon="BrandsGrey51" />
                 <TextWrapper>
-                  brandsgrey51
+                  BrandsGrey51
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey510" />
+              <Icon icon="BrandsGrey510" />
                 <TextWrapper>
-                  brandsgrey510
+                  BrandsGrey510
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey511" />
+              <Icon icon="BrandsGrey511" />
                 <TextWrapper>
-                  brandsgrey511
+                  BrandsGrey511
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey512" />
+              <Icon icon="BrandsGrey512" />
                 <TextWrapper>
-                  brandsgrey512
+                  BrandsGrey512
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey513" />
+              <Icon icon="BrandsGrey513" />
                 <TextWrapper>
-                  brandsgrey513
+                  BrandsGrey513
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey514" />
+              <Icon icon="BrandsGrey514" />
                 <TextWrapper>
-                  brandsgrey514
+                  BrandsGrey514
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey515" />
+              <Icon icon="BrandsGrey515" />
                 <TextWrapper>
-                  brandsgrey515
+                  BrandsGrey515
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey516" />
+              <Icon icon="BrandsGrey516" />
                 <TextWrapper>
-                  brandsgrey516
+                  BrandsGrey516
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey517" />
+              <Icon icon="BrandsGrey517" />
                 <TextWrapper>
-                  brandsgrey517
+                  BrandsGrey517
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey518" />
+              <Icon icon="BrandsGrey518" />
                 <TextWrapper>
-                  brandsgrey518
+                  BrandsGrey518
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey519" />
+              <Icon icon="BrandsGrey519" />
                 <TextWrapper>
-                  brandsgrey519
+                  BrandsGrey519
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey52" />
+              <Icon icon="BrandsGrey52" />
                 <TextWrapper>
-                  brandsgrey52
+                  BrandsGrey52
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey520" />
+              <Icon icon="BrandsGrey520" />
                 <TextWrapper>
-                  brandsgrey520
+                  BrandsGrey520
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey521" />
+              <Icon icon="BrandsGrey521" />
                 <TextWrapper>
-                  brandsgrey521
+                  BrandsGrey521
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey522" />
+              <Icon icon="BrandsGrey522" />
                 <TextWrapper>
-                  brandsgrey522
+                  BrandsGrey522
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey523" />
+              <Icon icon="BrandsGrey523" />
                 <TextWrapper>
-                  brandsgrey523
+                  BrandsGrey523
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey524" />
+              <Icon icon="BrandsGrey524" />
                 <TextWrapper>
-                  brandsgrey524
+                  BrandsGrey524
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey525" />
+              <Icon icon="BrandsGrey525" />
                 <TextWrapper>
-                  brandsgrey525
+                  BrandsGrey525
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey526" />
+              <Icon icon="BrandsGrey526" />
                 <TextWrapper>
-                  brandsgrey526
+                  BrandsGrey526
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey527" />
+              <Icon icon="BrandsGrey527" />
                 <TextWrapper>
-                  brandsgrey527
+                  BrandsGrey527
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey528" />
+              <Icon icon="BrandsGrey528" />
                 <TextWrapper>
-                  brandsgrey528
+                  BrandsGrey528
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey529" />
+              <Icon icon="BrandsGrey529" />
                 <TextWrapper>
-                  brandsgrey529
+                  BrandsGrey529
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey53" />
+              <Icon icon="BrandsGrey53" />
                 <TextWrapper>
-                  brandsgrey53
+                  BrandsGrey53
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey530" />
+              <Icon icon="BrandsGrey530" />
                 <TextWrapper>
-                  brandsgrey530
+                  BrandsGrey530
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey531" />
+              <Icon icon="BrandsGrey531" />
                 <TextWrapper>
-                  brandsgrey531
+                  BrandsGrey531
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey532" />
+              <Icon icon="BrandsGrey532" />
                 <TextWrapper>
-                  brandsgrey532
+                  BrandsGrey532
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey533" />
+              <Icon icon="BrandsGrey533" />
                 <TextWrapper>
-                  brandsgrey533
+                  BrandsGrey533
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey534" />
+              <Icon icon="BrandsGrey534" />
                 <TextWrapper>
-                  brandsgrey534
+                  BrandsGrey534
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey535" />
+              <Icon icon="BrandsGrey535" />
                 <TextWrapper>
-                  brandsgrey535
+                  BrandsGrey535
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey536" />
+              <Icon icon="BrandsGrey536" />
                 <TextWrapper>
-                  brandsgrey536
+                  BrandsGrey536
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey537" />
+              <Icon icon="BrandsGrey537" />
                 <TextWrapper>
-                  brandsgrey537
+                  BrandsGrey537
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey538" />
+              <Icon icon="BrandsGrey538" />
                 <TextWrapper>
-                  brandsgrey538
+                  BrandsGrey538
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey539" />
+              <Icon icon="BrandsGrey539" />
                 <TextWrapper>
-                  brandsgrey539
+                  BrandsGrey539
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey54" />
+              <Icon icon="BrandsGrey54" />
                 <TextWrapper>
-                  brandsgrey54
+                  BrandsGrey54
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey540" />
+              <Icon icon="BrandsGrey540" />
                 <TextWrapper>
-                  brandsgrey540
+                  BrandsGrey540
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey541" />
+              <Icon icon="BrandsGrey541" />
                 <TextWrapper>
-                  brandsgrey541
+                  BrandsGrey541
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey542" />
+              <Icon icon="BrandsGrey542" />
                 <TextWrapper>
-                  brandsgrey542
+                  BrandsGrey542
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey543" />
+              <Icon icon="BrandsGrey543" />
                 <TextWrapper>
-                  brandsgrey543
+                  BrandsGrey543
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey544" />
+              <Icon icon="BrandsGrey544" />
                 <TextWrapper>
-                  brandsgrey544
+                  BrandsGrey544
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey545" />
+              <Icon icon="BrandsGrey545" />
                 <TextWrapper>
-                  brandsgrey545
+                  BrandsGrey545
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey546" />
+              <Icon icon="BrandsGrey546" />
                 <TextWrapper>
-                  brandsgrey546
+                  BrandsGrey546
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey547" />
+              <Icon icon="BrandsGrey547" />
                 <TextWrapper>
-                  brandsgrey547
+                  BrandsGrey547
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey548" />
+              <Icon icon="BrandsGrey548" />
                 <TextWrapper>
-                  brandsgrey548
+                  BrandsGrey548
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey549" />
+              <Icon icon="BrandsGrey549" />
                 <TextWrapper>
-                  brandsgrey549
+                  BrandsGrey549
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey55" />
+              <Icon icon="BrandsGrey55" />
                 <TextWrapper>
-                  brandsgrey55
+                  BrandsGrey55
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey550" />
+              <Icon icon="BrandsGrey550" />
                 <TextWrapper>
-                  brandsgrey550
+                  BrandsGrey550
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey551" />
+              <Icon icon="BrandsGrey551" />
                 <TextWrapper>
-                  brandsgrey551
+                  BrandsGrey551
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey552" />
+              <Icon icon="BrandsGrey552" />
                 <TextWrapper>
-                  brandsgrey552
+                  BrandsGrey552
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey553" />
+              <Icon icon="BrandsGrey553" />
                 <TextWrapper>
-                  brandsgrey553
+                  BrandsGrey553
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey554" />
+              <Icon icon="BrandsGrey554" />
                 <TextWrapper>
-                  brandsgrey554
+                  BrandsGrey554
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey555" />
+              <Icon icon="BrandsGrey555" />
                 <TextWrapper>
-                  brandsgrey555
+                  BrandsGrey555
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey556" />
+              <Icon icon="BrandsGrey556" />
                 <TextWrapper>
-                  brandsgrey556
+                  BrandsGrey556
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey557" />
+              <Icon icon="BrandsGrey557" />
                 <TextWrapper>
-                  brandsgrey557
+                  BrandsGrey557
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey558" />
+              <Icon icon="BrandsGrey558" />
                 <TextWrapper>
-                  brandsgrey558
+                  BrandsGrey558
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey559" />
+              <Icon icon="BrandsGrey559" />
                 <TextWrapper>
-                  brandsgrey559
+                  BrandsGrey559
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey56" />
+              <Icon icon="BrandsGrey56" />
                 <TextWrapper>
-                  brandsgrey56
+                  BrandsGrey56
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey560" />
+              <Icon icon="BrandsGrey560" />
                 <TextWrapper>
-                  brandsgrey560
+                  BrandsGrey560
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey561" />
+              <Icon icon="BrandsGrey561" />
                 <TextWrapper>
-                  brandsgrey561
+                  BrandsGrey561
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey562" />
+              <Icon icon="BrandsGrey562" />
                 <TextWrapper>
-                  brandsgrey562
+                  BrandsGrey562
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey563" />
+              <Icon icon="BrandsGrey563" />
                 <TextWrapper>
-                  brandsgrey563
+                  BrandsGrey563
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey564" />
+              <Icon icon="BrandsGrey564" />
                 <TextWrapper>
-                  brandsgrey564
+                  BrandsGrey564
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey565" />
+              <Icon icon="BrandsGrey565" />
                 <TextWrapper>
-                  brandsgrey565
+                  BrandsGrey565
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey566" />
+              <Icon icon="BrandsGrey566" />
                 <TextWrapper>
-                  brandsgrey566
+                  BrandsGrey566
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey567" />
+              <Icon icon="BrandsGrey567" />
                 <TextWrapper>
-                  brandsgrey567
+                  BrandsGrey567
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey568" />
+              <Icon icon="BrandsGrey568" />
                 <TextWrapper>
-                  brandsgrey568
+                  BrandsGrey568
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey569" />
+              <Icon icon="BrandsGrey569" />
                 <TextWrapper>
-                  brandsgrey569
+                  BrandsGrey569
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey57" />
+              <Icon icon="BrandsGrey57" />
                 <TextWrapper>
-                  brandsgrey57
+                  BrandsGrey57
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey570" />
+              <Icon icon="BrandsGrey570" />
                 <TextWrapper>
-                  brandsgrey570
+                  BrandsGrey570
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey571" />
+              <Icon icon="BrandsGrey571" />
                 <TextWrapper>
-                  brandsgrey571
+                  BrandsGrey571
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey572" />
+              <Icon icon="BrandsGrey572" />
                 <TextWrapper>
-                  brandsgrey572
+                  BrandsGrey572
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey573" />
+              <Icon icon="BrandsGrey573" />
                 <TextWrapper>
-                  brandsgrey573
+                  BrandsGrey573
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey574" />
+              <Icon icon="BrandsGrey574" />
                 <TextWrapper>
-                  brandsgrey574
+                  BrandsGrey574
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey575" />
+              <Icon icon="BrandsGrey575" />
                 <TextWrapper>
-                  brandsgrey575
+                  BrandsGrey575
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey576" />
+              <Icon icon="BrandsGrey576" />
                 <TextWrapper>
-                  brandsgrey576
+                  BrandsGrey576
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey577" />
+              <Icon icon="BrandsGrey577" />
                 <TextWrapper>
-                  brandsgrey577
+                  BrandsGrey577
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey578" />
+              <Icon icon="BrandsGrey578" />
                 <TextWrapper>
-                  brandsgrey578
+                  BrandsGrey578
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey579" />
+              <Icon icon="BrandsGrey579" />
                 <TextWrapper>
-                  brandsgrey579
+                  BrandsGrey579
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey58" />
+              <Icon icon="BrandsGrey58" />
                 <TextWrapper>
-                  brandsgrey58
+                  BrandsGrey58
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey580" />
+              <Icon icon="BrandsGrey580" />
                 <TextWrapper>
-                  brandsgrey580
+                  BrandsGrey580
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey581" />
+              <Icon icon="BrandsGrey581" />
                 <TextWrapper>
-                  brandsgrey581
+                  BrandsGrey581
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey582" />
+              <Icon icon="BrandsGrey582" />
                 <TextWrapper>
-                  brandsgrey582
+                  BrandsGrey582
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey583" />
+              <Icon icon="BrandsGrey583" />
                 <TextWrapper>
-                  brandsgrey583
+                  BrandsGrey583
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey584" />
+              <Icon icon="BrandsGrey584" />
                 <TextWrapper>
-                  brandsgrey584
+                  BrandsGrey584
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey585" />
+              <Icon icon="BrandsGrey585" />
                 <TextWrapper>
-                  brandsgrey585
+                  BrandsGrey585
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey586" />
+              <Icon icon="BrandsGrey586" />
                 <TextWrapper>
-                  brandsgrey586
+                  BrandsGrey586
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey587" />
+              <Icon icon="BrandsGrey587" />
                 <TextWrapper>
-                  brandsgrey587
+                  BrandsGrey587
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey588" />
+              <Icon icon="BrandsGrey588" />
                 <TextWrapper>
-                  brandsgrey588
+                  BrandsGrey588
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey589" />
+              <Icon icon="BrandsGrey589" />
                 <TextWrapper>
-                  brandsgrey589
+                  BrandsGrey589
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey59" />
+              <Icon icon="BrandsGrey59" />
                 <TextWrapper>
-                  brandsgrey59
+                  BrandsGrey59
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey590" />
+              <Icon icon="BrandsGrey590" />
                 <TextWrapper>
-                  brandsgrey590
+                  BrandsGrey590
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey591" />
+              <Icon icon="BrandsGrey591" />
                 <TextWrapper>
-                  brandsgrey591
+                  BrandsGrey591
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey592" />
+              <Icon icon="BrandsGrey592" />
                 <TextWrapper>
-                  brandsgrey592
+                  BrandsGrey592
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey593" />
+              <Icon icon="BrandsGrey593" />
                 <TextWrapper>
-                  brandsgrey593
+                  BrandsGrey593
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey594" />
+              <Icon icon="BrandsGrey594" />
                 <TextWrapper>
-                  brandsgrey594
+                  BrandsGrey594
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey595" />
+              <Icon icon="BrandsGrey595" />
                 <TextWrapper>
-                  brandsgrey595
+                  BrandsGrey595
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey596" />
+              <Icon icon="BrandsGrey596" />
                 <TextWrapper>
-                  brandsgrey596
+                  BrandsGrey596
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey597" />
+              <Icon icon="BrandsGrey597" />
                 <TextWrapper>
-                  brandsgrey597
+                  BrandsGrey597
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey598" />
+              <Icon icon="BrandsGrey598" />
                 <TextWrapper>
-                  brandsgrey598
+                  BrandsGrey598
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey599" />
+              <Icon icon="BrandsGrey599" />
                 <TextWrapper>
-                  brandsgrey599
+                  BrandsGrey599
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey6" />
+              <Icon icon="BrandsGrey6" />
                 <TextWrapper>
-                  brandsgrey6
+                  BrandsGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey60" />
+              <Icon icon="BrandsGrey60" />
                 <TextWrapper>
-                  brandsgrey60
+                  BrandsGrey60
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey600" />
+              <Icon icon="BrandsGrey600" />
                 <TextWrapper>
-                  brandsgrey600
+                  BrandsGrey600
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey601" />
+              <Icon icon="BrandsGrey601" />
                 <TextWrapper>
-                  brandsgrey601
+                  BrandsGrey601
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey602" />
+              <Icon icon="BrandsGrey602" />
                 <TextWrapper>
-                  brandsgrey602
+                  BrandsGrey602
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey603" />
+              <Icon icon="BrandsGrey603" />
                 <TextWrapper>
-                  brandsgrey603
+                  BrandsGrey603
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey604" />
+              <Icon icon="BrandsGrey604" />
                 <TextWrapper>
-                  brandsgrey604
+                  BrandsGrey604
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey605" />
+              <Icon icon="BrandsGrey605" />
                 <TextWrapper>
-                  brandsgrey605
+                  BrandsGrey605
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey606" />
+              <Icon icon="BrandsGrey606" />
                 <TextWrapper>
-                  brandsgrey606
+                  BrandsGrey606
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey607" />
+              <Icon icon="BrandsGrey607" />
                 <TextWrapper>
-                  brandsgrey607
+                  BrandsGrey607
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey608" />
+              <Icon icon="BrandsGrey608" />
                 <TextWrapper>
-                  brandsgrey608
+                  BrandsGrey608
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey609" />
+              <Icon icon="BrandsGrey609" />
                 <TextWrapper>
-                  brandsgrey609
+                  BrandsGrey609
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey61" />
+              <Icon icon="BrandsGrey61" />
                 <TextWrapper>
-                  brandsgrey61
+                  BrandsGrey61
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey610" />
+              <Icon icon="BrandsGrey610" />
                 <TextWrapper>
-                  brandsgrey610
+                  BrandsGrey610
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey611" />
+              <Icon icon="BrandsGrey611" />
                 <TextWrapper>
-                  brandsgrey611
+                  BrandsGrey611
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey612" />
+              <Icon icon="BrandsGrey612" />
                 <TextWrapper>
-                  brandsgrey612
+                  BrandsGrey612
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey613" />
+              <Icon icon="BrandsGrey613" />
                 <TextWrapper>
-                  brandsgrey613
+                  BrandsGrey613
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey614" />
+              <Icon icon="BrandsGrey614" />
                 <TextWrapper>
-                  brandsgrey614
+                  BrandsGrey614
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey615" />
+              <Icon icon="BrandsGrey615" />
                 <TextWrapper>
-                  brandsgrey615
+                  BrandsGrey615
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey616" />
+              <Icon icon="BrandsGrey616" />
                 <TextWrapper>
-                  brandsgrey616
+                  BrandsGrey616
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey617" />
+              <Icon icon="BrandsGrey617" />
                 <TextWrapper>
-                  brandsgrey617
+                  BrandsGrey617
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey618" />
+              <Icon icon="BrandsGrey618" />
                 <TextWrapper>
-                  brandsgrey618
+                  BrandsGrey618
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey619" />
+              <Icon icon="BrandsGrey619" />
                 <TextWrapper>
-                  brandsgrey619
+                  BrandsGrey619
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey62" />
+              <Icon icon="BrandsGrey62" />
                 <TextWrapper>
-                  brandsgrey62
+                  BrandsGrey62
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey620" />
+              <Icon icon="BrandsGrey620" />
                 <TextWrapper>
-                  brandsgrey620
+                  BrandsGrey620
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey621" />
+              <Icon icon="BrandsGrey621" />
                 <TextWrapper>
-                  brandsgrey621
+                  BrandsGrey621
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey622" />
+              <Icon icon="BrandsGrey622" />
                 <TextWrapper>
-                  brandsgrey622
+                  BrandsGrey622
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey623" />
+              <Icon icon="BrandsGrey623" />
                 <TextWrapper>
-                  brandsgrey623
+                  BrandsGrey623
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey624" />
+              <Icon icon="BrandsGrey624" />
                 <TextWrapper>
-                  brandsgrey624
+                  BrandsGrey624
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey625" />
+              <Icon icon="BrandsGrey625" />
                 <TextWrapper>
-                  brandsgrey625
+                  BrandsGrey625
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey626" />
+              <Icon icon="BrandsGrey626" />
                 <TextWrapper>
-                  brandsgrey626
+                  BrandsGrey626
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey627" />
+              <Icon icon="BrandsGrey627" />
                 <TextWrapper>
-                  brandsgrey627
+                  BrandsGrey627
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey628" />
+              <Icon icon="BrandsGrey628" />
                 <TextWrapper>
-                  brandsgrey628
+                  BrandsGrey628
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey629" />
+              <Icon icon="BrandsGrey629" />
                 <TextWrapper>
-                  brandsgrey629
+                  BrandsGrey629
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey63" />
+              <Icon icon="BrandsGrey63" />
                 <TextWrapper>
-                  brandsgrey63
+                  BrandsGrey63
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey630" />
+              <Icon icon="BrandsGrey630" />
                 <TextWrapper>
-                  brandsgrey630
+                  BrandsGrey630
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey631" />
+              <Icon icon="BrandsGrey631" />
                 <TextWrapper>
-                  brandsgrey631
+                  BrandsGrey631
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey632" />
+              <Icon icon="BrandsGrey632" />
                 <TextWrapper>
-                  brandsgrey632
+                  BrandsGrey632
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey633" />
+              <Icon icon="BrandsGrey633" />
                 <TextWrapper>
-                  brandsgrey633
+                  BrandsGrey633
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey634" />
+              <Icon icon="BrandsGrey634" />
                 <TextWrapper>
-                  brandsgrey634
+                  BrandsGrey634
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey635" />
+              <Icon icon="BrandsGrey635" />
                 <TextWrapper>
-                  brandsgrey635
+                  BrandsGrey635
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey636" />
+              <Icon icon="BrandsGrey636" />
                 <TextWrapper>
-                  brandsgrey636
+                  BrandsGrey636
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey637" />
+              <Icon icon="BrandsGrey637" />
                 <TextWrapper>
-                  brandsgrey637
+                  BrandsGrey637
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey638" />
+              <Icon icon="BrandsGrey638" />
                 <TextWrapper>
-                  brandsgrey638
+                  BrandsGrey638
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey639" />
+              <Icon icon="BrandsGrey639" />
                 <TextWrapper>
-                  brandsgrey639
+                  BrandsGrey639
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey64" />
+              <Icon icon="BrandsGrey64" />
                 <TextWrapper>
-                  brandsgrey64
+                  BrandsGrey64
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey640" />
+              <Icon icon="BrandsGrey640" />
                 <TextWrapper>
-                  brandsgrey640
+                  BrandsGrey640
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey641" />
+              <Icon icon="BrandsGrey641" />
                 <TextWrapper>
-                  brandsgrey641
+                  BrandsGrey641
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey642" />
+              <Icon icon="BrandsGrey642" />
                 <TextWrapper>
-                  brandsgrey642
+                  BrandsGrey642
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey643" />
+              <Icon icon="BrandsGrey643" />
                 <TextWrapper>
-                  brandsgrey643
+                  BrandsGrey643
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey644" />
+              <Icon icon="BrandsGrey644" />
                 <TextWrapper>
-                  brandsgrey644
+                  BrandsGrey644
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey645" />
+              <Icon icon="BrandsGrey645" />
                 <TextWrapper>
-                  brandsgrey645
+                  BrandsGrey645
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey646" />
+              <Icon icon="BrandsGrey646" />
                 <TextWrapper>
-                  brandsgrey646
+                  BrandsGrey646
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey647" />
+              <Icon icon="BrandsGrey647" />
                 <TextWrapper>
-                  brandsgrey647
+                  BrandsGrey647
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey648" />
+              <Icon icon="BrandsGrey648" />
                 <TextWrapper>
-                  brandsgrey648
+                  BrandsGrey648
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey649" />
+              <Icon icon="BrandsGrey649" />
                 <TextWrapper>
-                  brandsgrey649
+                  BrandsGrey649
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey65" />
+              <Icon icon="BrandsGrey65" />
                 <TextWrapper>
-                  brandsgrey65
+                  BrandsGrey65
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey650" />
+              <Icon icon="BrandsGrey650" />
                 <TextWrapper>
-                  brandsgrey650
+                  BrandsGrey650
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey651" />
+              <Icon icon="BrandsGrey651" />
                 <TextWrapper>
-                  brandsgrey651
+                  BrandsGrey651
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey652" />
+              <Icon icon="BrandsGrey652" />
                 <TextWrapper>
-                  brandsgrey652
+                  BrandsGrey652
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey653" />
+              <Icon icon="BrandsGrey653" />
                 <TextWrapper>
-                  brandsgrey653
+                  BrandsGrey653
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey654" />
+              <Icon icon="BrandsGrey654" />
                 <TextWrapper>
-                  brandsgrey654
+                  BrandsGrey654
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey655" />
+              <Icon icon="BrandsGrey655" />
                 <TextWrapper>
-                  brandsgrey655
+                  BrandsGrey655
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey656" />
+              <Icon icon="BrandsGrey656" />
                 <TextWrapper>
-                  brandsgrey656
+                  BrandsGrey656
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey657" />
+              <Icon icon="BrandsGrey657" />
                 <TextWrapper>
-                  brandsgrey657
+                  BrandsGrey657
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey658" />
+              <Icon icon="BrandsGrey658" />
                 <TextWrapper>
-                  brandsgrey658
+                  BrandsGrey658
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey659" />
+              <Icon icon="BrandsGrey659" />
                 <TextWrapper>
-                  brandsgrey659
+                  BrandsGrey659
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey66" />
+              <Icon icon="BrandsGrey66" />
                 <TextWrapper>
-                  brandsgrey66
+                  BrandsGrey66
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey660" />
+              <Icon icon="BrandsGrey660" />
                 <TextWrapper>
-                  brandsgrey660
+                  BrandsGrey660
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey661" />
+              <Icon icon="BrandsGrey661" />
                 <TextWrapper>
-                  brandsgrey661
+                  BrandsGrey661
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey662" />
+              <Icon icon="BrandsGrey662" />
                 <TextWrapper>
-                  brandsgrey662
+                  BrandsGrey662
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey663" />
+              <Icon icon="BrandsGrey663" />
                 <TextWrapper>
-                  brandsgrey663
+                  BrandsGrey663
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey664" />
+              <Icon icon="BrandsGrey664" />
                 <TextWrapper>
-                  brandsgrey664
+                  BrandsGrey664
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey665" />
+              <Icon icon="BrandsGrey665" />
                 <TextWrapper>
-                  brandsgrey665
+                  BrandsGrey665
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey666" />
+              <Icon icon="BrandsGrey666" />
                 <TextWrapper>
-                  brandsgrey666
+                  BrandsGrey666
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey667" />
+              <Icon icon="BrandsGrey667" />
                 <TextWrapper>
-                  brandsgrey667
+                  BrandsGrey667
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey668" />
+              <Icon icon="BrandsGrey668" />
                 <TextWrapper>
-                  brandsgrey668
+                  BrandsGrey668
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey669" />
+              <Icon icon="BrandsGrey669" />
                 <TextWrapper>
-                  brandsgrey669
+                  BrandsGrey669
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey67" />
+              <Icon icon="BrandsGrey67" />
                 <TextWrapper>
-                  brandsgrey67
+                  BrandsGrey67
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey670" />
+              <Icon icon="BrandsGrey670" />
                 <TextWrapper>
-                  brandsgrey670
+                  BrandsGrey670
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey671" />
+              <Icon icon="BrandsGrey671" />
                 <TextWrapper>
-                  brandsgrey671
+                  BrandsGrey671
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey672" />
+              <Icon icon="BrandsGrey672" />
                 <TextWrapper>
-                  brandsgrey672
+                  BrandsGrey672
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey673" />
+              <Icon icon="BrandsGrey673" />
                 <TextWrapper>
-                  brandsgrey673
+                  BrandsGrey673
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey674" />
+              <Icon icon="BrandsGrey674" />
                 <TextWrapper>
-                  brandsgrey674
+                  BrandsGrey674
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey675" />
+              <Icon icon="BrandsGrey675" />
                 <TextWrapper>
-                  brandsgrey675
+                  BrandsGrey675
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey676" />
+              <Icon icon="BrandsGrey676" />
                 <TextWrapper>
-                  brandsgrey676
+                  BrandsGrey676
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey68" />
+              <Icon icon="BrandsGrey68" />
                 <TextWrapper>
-                  brandsgrey68
+                  BrandsGrey68
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey69" />
+              <Icon icon="BrandsGrey69" />
                 <TextWrapper>
-                  brandsgrey69
+                  BrandsGrey69
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey7" />
+              <Icon icon="BrandsGrey7" />
                 <TextWrapper>
-                  brandsgrey7
+                  BrandsGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey70" />
+              <Icon icon="BrandsGrey70" />
                 <TextWrapper>
-                  brandsgrey70
+                  BrandsGrey70
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey71" />
+              <Icon icon="BrandsGrey71" />
                 <TextWrapper>
-                  brandsgrey71
+                  BrandsGrey71
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey72" />
+              <Icon icon="BrandsGrey72" />
                 <TextWrapper>
-                  brandsgrey72
+                  BrandsGrey72
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey73" />
+              <Icon icon="BrandsGrey73" />
                 <TextWrapper>
-                  brandsgrey73
+                  BrandsGrey73
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey74" />
+              <Icon icon="BrandsGrey74" />
                 <TextWrapper>
-                  brandsgrey74
+                  BrandsGrey74
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey75" />
+              <Icon icon="BrandsGrey75" />
                 <TextWrapper>
-                  brandsgrey75
+                  BrandsGrey75
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey76" />
+              <Icon icon="BrandsGrey76" />
                 <TextWrapper>
-                  brandsgrey76
+                  BrandsGrey76
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey77" />
+              <Icon icon="BrandsGrey77" />
                 <TextWrapper>
-                  brandsgrey77
+                  BrandsGrey77
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey78" />
+              <Icon icon="BrandsGrey78" />
                 <TextWrapper>
-                  brandsgrey78
+                  BrandsGrey78
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey79" />
+              <Icon icon="BrandsGrey79" />
                 <TextWrapper>
-                  brandsgrey79
+                  BrandsGrey79
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey8" />
+              <Icon icon="BrandsGrey8" />
                 <TextWrapper>
-                  brandsgrey8
+                  BrandsGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey80" />
+              <Icon icon="BrandsGrey80" />
                 <TextWrapper>
-                  brandsgrey80
+                  BrandsGrey80
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey81" />
+              <Icon icon="BrandsGrey81" />
                 <TextWrapper>
-                  brandsgrey81
+                  BrandsGrey81
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey82" />
+              <Icon icon="BrandsGrey82" />
                 <TextWrapper>
-                  brandsgrey82
+                  BrandsGrey82
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey83" />
+              <Icon icon="BrandsGrey83" />
                 <TextWrapper>
-                  brandsgrey83
+                  BrandsGrey83
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey84" />
+              <Icon icon="BrandsGrey84" />
                 <TextWrapper>
-                  brandsgrey84
+                  BrandsGrey84
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey85" />
+              <Icon icon="BrandsGrey85" />
                 <TextWrapper>
-                  brandsgrey85
+                  BrandsGrey85
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey86" />
+              <Icon icon="BrandsGrey86" />
                 <TextWrapper>
-                  brandsgrey86
+                  BrandsGrey86
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey87" />
+              <Icon icon="BrandsGrey87" />
                 <TextWrapper>
-                  brandsgrey87
+                  BrandsGrey87
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey88" />
+              <Icon icon="BrandsGrey88" />
                 <TextWrapper>
-                  brandsgrey88
+                  BrandsGrey88
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey89" />
+              <Icon icon="BrandsGrey89" />
                 <TextWrapper>
-                  brandsgrey89
+                  BrandsGrey89
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey9" />
+              <Icon icon="BrandsGrey9" />
                 <TextWrapper>
-                  brandsgrey9
+                  BrandsGrey9
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey90" />
+              <Icon icon="BrandsGrey90" />
                 <TextWrapper>
-                  brandsgrey90
+                  BrandsGrey90
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey91" />
+              <Icon icon="BrandsGrey91" />
                 <TextWrapper>
-                  brandsgrey91
+                  BrandsGrey91
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey92" />
+              <Icon icon="BrandsGrey92" />
                 <TextWrapper>
-                  brandsgrey92
+                  BrandsGrey92
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey93" />
+              <Icon icon="BrandsGrey93" />
                 <TextWrapper>
-                  brandsgrey93
+                  BrandsGrey93
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey94" />
+              <Icon icon="BrandsGrey94" />
                 <TextWrapper>
-                  brandsgrey94
+                  BrandsGrey94
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey95" />
+              <Icon icon="BrandsGrey95" />
                 <TextWrapper>
-                  brandsgrey95
+                  BrandsGrey95
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey96" />
+              <Icon icon="BrandsGrey96" />
                 <TextWrapper>
-                  brandsgrey96
+                  BrandsGrey96
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey97" />
+              <Icon icon="BrandsGrey97" />
                 <TextWrapper>
-                  brandsgrey97
+                  BrandsGrey97
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey98" />
+              <Icon icon="BrandsGrey98" />
                 <TextWrapper>
-                  brandsgrey98
+                  BrandsGrey98
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="brandsgrey99" />
+              <Icon icon="BrandsGrey99" />
                 <TextWrapper>
-                  brandsgrey99
+                  BrandsGrey99
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -3937,204 +3937,204 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="businesscolor1" />
+              <Icon icon="BusinessColor1" />
                 <TextWrapper>
-                  businesscolor1
+                  BusinessColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor10" />
+              <Icon icon="BusinessColor10" />
                 <TextWrapper>
-                  businesscolor10
+                  BusinessColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor11" />
+              <Icon icon="BusinessColor11" />
                 <TextWrapper>
-                  businesscolor11
+                  BusinessColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor12" />
+              <Icon icon="BusinessColor12" />
                 <TextWrapper>
-                  businesscolor12
+                  BusinessColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor13" />
+              <Icon icon="BusinessColor13" />
                 <TextWrapper>
-                  businesscolor13
+                  BusinessColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor14" />
+              <Icon icon="BusinessColor14" />
                 <TextWrapper>
-                  businesscolor14
+                  BusinessColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor15" />
+              <Icon icon="BusinessColor15" />
                 <TextWrapper>
-                  businesscolor15
+                  BusinessColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor16" />
+              <Icon icon="BusinessColor16" />
                 <TextWrapper>
-                  businesscolor16
+                  BusinessColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor17" />
+              <Icon icon="BusinessColor17" />
                 <TextWrapper>
-                  businesscolor17
+                  BusinessColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor18" />
+              <Icon icon="BusinessColor18" />
                 <TextWrapper>
-                  businesscolor18
+                  BusinessColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor19" />
+              <Icon icon="BusinessColor19" />
                 <TextWrapper>
-                  businesscolor19
+                  BusinessColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor2" />
+              <Icon icon="BusinessColor2" />
                 <TextWrapper>
-                  businesscolor2
+                  BusinessColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor20" />
+              <Icon icon="BusinessColor20" />
                 <TextWrapper>
-                  businesscolor20
+                  BusinessColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor21" />
+              <Icon icon="BusinessColor21" />
                 <TextWrapper>
-                  businesscolor21
+                  BusinessColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor22" />
+              <Icon icon="BusinessColor22" />
                 <TextWrapper>
-                  businesscolor22
+                  BusinessColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor23" />
+              <Icon icon="BusinessColor23" />
                 <TextWrapper>
-                  businesscolor23
+                  BusinessColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor24" />
+              <Icon icon="BusinessColor24" />
                 <TextWrapper>
-                  businesscolor24
+                  BusinessColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor25" />
+              <Icon icon="BusinessColor25" />
                 <TextWrapper>
-                  businesscolor25
+                  BusinessColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor26" />
+              <Icon icon="BusinessColor26" />
                 <TextWrapper>
-                  businesscolor26
+                  BusinessColor26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor27" />
+              <Icon icon="BusinessColor27" />
                 <TextWrapper>
-                  businesscolor27
+                  BusinessColor27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor28" />
+              <Icon icon="BusinessColor28" />
                 <TextWrapper>
-                  businesscolor28
+                  BusinessColor28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor29" />
+              <Icon icon="BusinessColor29" />
                 <TextWrapper>
-                  businesscolor29
+                  BusinessColor29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor3" />
+              <Icon icon="BusinessColor3" />
                 <TextWrapper>
-                  businesscolor3
+                  BusinessColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor30" />
+              <Icon icon="BusinessColor30" />
                 <TextWrapper>
-                  businesscolor30
+                  BusinessColor30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor31" />
+              <Icon icon="BusinessColor31" />
                 <TextWrapper>
-                  businesscolor31
+                  BusinessColor31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor32" />
+              <Icon icon="BusinessColor32" />
                 <TextWrapper>
-                  businesscolor32
+                  BusinessColor32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor33" />
+              <Icon icon="BusinessColor33" />
                 <TextWrapper>
-                  businesscolor33
+                  BusinessColor33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor34" />
+              <Icon icon="BusinessColor34" />
                 <TextWrapper>
-                  businesscolor34
+                  BusinessColor34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor35" />
+              <Icon icon="BusinessColor35" />
                 <TextWrapper>
-                  businesscolor35
+                  BusinessColor35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor36" />
+              <Icon icon="BusinessColor36" />
                 <TextWrapper>
-                  businesscolor36
+                  BusinessColor36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor37" />
+              <Icon icon="BusinessColor37" />
                 <TextWrapper>
-                  businesscolor37
+                  BusinessColor37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor38" />
+              <Icon icon="BusinessColor38" />
                 <TextWrapper>
-                  businesscolor38
+                  BusinessColor38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor39" />
+              <Icon icon="BusinessColor39" />
                 <TextWrapper>
-                  businesscolor39
+                  BusinessColor39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor4" />
+              <Icon icon="BusinessColor4" />
                 <TextWrapper>
-                  businesscolor4
+                  BusinessColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor40" />
+              <Icon icon="BusinessColor40" />
                 <TextWrapper>
-                  businesscolor40
+                  BusinessColor40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor5" />
+              <Icon icon="BusinessColor5" />
                 <TextWrapper>
-                  businesscolor5
+                  BusinessColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor6" />
+              <Icon icon="BusinessColor6" />
                 <TextWrapper>
-                  businesscolor6
+                  BusinessColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor7" />
+              <Icon icon="BusinessColor7" />
                 <TextWrapper>
-                  businesscolor7
+                  BusinessColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor8" />
+              <Icon icon="BusinessColor8" />
                 <TextWrapper>
-                  businesscolor8
+                  BusinessColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businesscolor9" />
+              <Icon icon="BusinessColor9" />
                 <TextWrapper>
-                  businesscolor9
+                  BusinessColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -4150,104 +4150,104 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="businessgrey1" />
+              <Icon icon="BusinessGrey1" />
                 <TextWrapper>
-                  businessgrey1
+                  BusinessGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey10" />
+              <Icon icon="BusinessGrey10" />
                 <TextWrapper>
-                  businessgrey10
+                  BusinessGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey11" />
+              <Icon icon="BusinessGrey11" />
                 <TextWrapper>
-                  businessgrey11
+                  BusinessGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey12" />
+              <Icon icon="BusinessGrey12" />
                 <TextWrapper>
-                  businessgrey12
+                  BusinessGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey13" />
+              <Icon icon="BusinessGrey13" />
                 <TextWrapper>
-                  businessgrey13
+                  BusinessGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey14" />
+              <Icon icon="BusinessGrey14" />
                 <TextWrapper>
-                  businessgrey14
+                  BusinessGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey15" />
+              <Icon icon="BusinessGrey15" />
                 <TextWrapper>
-                  businessgrey15
+                  BusinessGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey16" />
+              <Icon icon="BusinessGrey16" />
                 <TextWrapper>
-                  businessgrey16
+                  BusinessGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey17" />
+              <Icon icon="BusinessGrey17" />
                 <TextWrapper>
-                  businessgrey17
+                  BusinessGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey18" />
+              <Icon icon="BusinessGrey18" />
                 <TextWrapper>
-                  businessgrey18
+                  BusinessGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey19" />
+              <Icon icon="BusinessGrey19" />
                 <TextWrapper>
-                  businessgrey19
+                  BusinessGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey2" />
+              <Icon icon="BusinessGrey2" />
                 <TextWrapper>
-                  businessgrey2
+                  BusinessGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey20" />
+              <Icon icon="BusinessGrey20" />
                 <TextWrapper>
-                  businessgrey20
+                  BusinessGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey3" />
+              <Icon icon="BusinessGrey3" />
                 <TextWrapper>
-                  businessgrey3
+                  BusinessGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey4" />
+              <Icon icon="BusinessGrey4" />
                 <TextWrapper>
-                  businessgrey4
+                  BusinessGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey5" />
+              <Icon icon="BusinessGrey5" />
                 <TextWrapper>
-                  businessgrey5
+                  BusinessGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey6" />
+              <Icon icon="BusinessGrey6" />
                 <TextWrapper>
-                  businessgrey6
+                  BusinessGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey7" />
+              <Icon icon="BusinessGrey7" />
                 <TextWrapper>
-                  businessgrey7
+                  BusinessGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey8" />
+              <Icon icon="BusinessGrey8" />
                 <TextWrapper>
-                  businessgrey8
+                  BusinessGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="businessgrey9" />
+              <Icon icon="BusinessGrey9" />
                 <TextWrapper>
-                  businessgrey9
+                  BusinessGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -4263,79 +4263,79 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="fooddishescolor1" />
+              <Icon icon="FoodDishesColor1" />
                 <TextWrapper>
-                  fooddishescolor1
+                  FoodDishesColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor10" />
+              <Icon icon="FoodDishesColor10" />
                 <TextWrapper>
-                  fooddishescolor10
+                  FoodDishesColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor11" />
+              <Icon icon="FoodDishesColor11" />
                 <TextWrapper>
-                  fooddishescolor11
+                  FoodDishesColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor12" />
+              <Icon icon="FoodDishesColor12" />
                 <TextWrapper>
-                  fooddishescolor12
+                  FoodDishesColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor13" />
+              <Icon icon="FoodDishesColor13" />
                 <TextWrapper>
-                  fooddishescolor13
+                  FoodDishesColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor14" />
+              <Icon icon="FoodDishesColor14" />
                 <TextWrapper>
-                  fooddishescolor14
+                  FoodDishesColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor15" />
+              <Icon icon="FoodDishesColor15" />
                 <TextWrapper>
-                  fooddishescolor15
+                  FoodDishesColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor2" />
+              <Icon icon="FoodDishesColor2" />
                 <TextWrapper>
-                  fooddishescolor2
+                  FoodDishesColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor3" />
+              <Icon icon="FoodDishesColor3" />
                 <TextWrapper>
-                  fooddishescolor3
+                  FoodDishesColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor4" />
+              <Icon icon="FoodDishesColor4" />
                 <TextWrapper>
-                  fooddishescolor4
+                  FoodDishesColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor5" />
+              <Icon icon="FoodDishesColor5" />
                 <TextWrapper>
-                  fooddishescolor5
+                  FoodDishesColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor6" />
+              <Icon icon="FoodDishesColor6" />
                 <TextWrapper>
-                  fooddishescolor6
+                  FoodDishesColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor7" />
+              <Icon icon="FoodDishesColor7" />
                 <TextWrapper>
-                  fooddishescolor7
+                  FoodDishesColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor8" />
+              <Icon icon="FoodDishesColor8" />
                 <TextWrapper>
-                  fooddishescolor8
+                  FoodDishesColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fooddishescolor9" />
+              <Icon icon="FoodDishesColor9" />
                 <TextWrapper>
-                  fooddishescolor9
+                  FoodDishesColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -4351,204 +4351,204 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="fourthofjulygrey1" />
+              <Icon icon="FourthofjulyGrey1" />
                 <TextWrapper>
-                  fourthofjulygrey1
+                  FourthofjulyGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey10" />
+              <Icon icon="FourthofjulyGrey10" />
                 <TextWrapper>
-                  fourthofjulygrey10
+                  FourthofjulyGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey11" />
+              <Icon icon="FourthofjulyGrey11" />
                 <TextWrapper>
-                  fourthofjulygrey11
+                  FourthofjulyGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey12" />
+              <Icon icon="FourthofjulyGrey12" />
                 <TextWrapper>
-                  fourthofjulygrey12
+                  FourthofjulyGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey13" />
+              <Icon icon="FourthofjulyGrey13" />
                 <TextWrapper>
-                  fourthofjulygrey13
+                  FourthofjulyGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey14" />
+              <Icon icon="FourthofjulyGrey14" />
                 <TextWrapper>
-                  fourthofjulygrey14
+                  FourthofjulyGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey15" />
+              <Icon icon="FourthofjulyGrey15" />
                 <TextWrapper>
-                  fourthofjulygrey15
+                  FourthofjulyGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey16" />
+              <Icon icon="FourthofjulyGrey16" />
                 <TextWrapper>
-                  fourthofjulygrey16
+                  FourthofjulyGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey17" />
+              <Icon icon="FourthofjulyGrey17" />
                 <TextWrapper>
-                  fourthofjulygrey17
+                  FourthofjulyGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey18" />
+              <Icon icon="FourthofjulyGrey18" />
                 <TextWrapper>
-                  fourthofjulygrey18
+                  FourthofjulyGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey19" />
+              <Icon icon="FourthofjulyGrey19" />
                 <TextWrapper>
-                  fourthofjulygrey19
+                  FourthofjulyGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey2" />
+              <Icon icon="FourthofjulyGrey2" />
                 <TextWrapper>
-                  fourthofjulygrey2
+                  FourthofjulyGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey20" />
+              <Icon icon="FourthofjulyGrey20" />
                 <TextWrapper>
-                  fourthofjulygrey20
+                  FourthofjulyGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey21" />
+              <Icon icon="FourthofjulyGrey21" />
                 <TextWrapper>
-                  fourthofjulygrey21
+                  FourthofjulyGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey22" />
+              <Icon icon="FourthofjulyGrey22" />
                 <TextWrapper>
-                  fourthofjulygrey22
+                  FourthofjulyGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey23" />
+              <Icon icon="FourthofjulyGrey23" />
                 <TextWrapper>
-                  fourthofjulygrey23
+                  FourthofjulyGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey24" />
+              <Icon icon="FourthofjulyGrey24" />
                 <TextWrapper>
-                  fourthofjulygrey24
+                  FourthofjulyGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey25" />
+              <Icon icon="FourthofjulyGrey25" />
                 <TextWrapper>
-                  fourthofjulygrey25
+                  FourthofjulyGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey26" />
+              <Icon icon="FourthofjulyGrey26" />
                 <TextWrapper>
-                  fourthofjulygrey26
+                  FourthofjulyGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey27" />
+              <Icon icon="FourthofjulyGrey27" />
                 <TextWrapper>
-                  fourthofjulygrey27
+                  FourthofjulyGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey28" />
+              <Icon icon="FourthofjulyGrey28" />
                 <TextWrapper>
-                  fourthofjulygrey28
+                  FourthofjulyGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey29" />
+              <Icon icon="FourthofjulyGrey29" />
                 <TextWrapper>
-                  fourthofjulygrey29
+                  FourthofjulyGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey3" />
+              <Icon icon="FourthofjulyGrey3" />
                 <TextWrapper>
-                  fourthofjulygrey3
+                  FourthofjulyGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey30" />
+              <Icon icon="FourthofjulyGrey30" />
                 <TextWrapper>
-                  fourthofjulygrey30
+                  FourthofjulyGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey31" />
+              <Icon icon="FourthofjulyGrey31" />
                 <TextWrapper>
-                  fourthofjulygrey31
+                  FourthofjulyGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey32" />
+              <Icon icon="FourthofjulyGrey32" />
                 <TextWrapper>
-                  fourthofjulygrey32
+                  FourthofjulyGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey33" />
+              <Icon icon="FourthofjulyGrey33" />
                 <TextWrapper>
-                  fourthofjulygrey33
+                  FourthofjulyGrey33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey34" />
+              <Icon icon="FourthofjulyGrey34" />
                 <TextWrapper>
-                  fourthofjulygrey34
+                  FourthofjulyGrey34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey35" />
+              <Icon icon="FourthofjulyGrey35" />
                 <TextWrapper>
-                  fourthofjulygrey35
+                  FourthofjulyGrey35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey36" />
+              <Icon icon="FourthofjulyGrey36" />
                 <TextWrapper>
-                  fourthofjulygrey36
+                  FourthofjulyGrey36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey37" />
+              <Icon icon="FourthofjulyGrey37" />
                 <TextWrapper>
-                  fourthofjulygrey37
+                  FourthofjulyGrey37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey38" />
+              <Icon icon="FourthofjulyGrey38" />
                 <TextWrapper>
-                  fourthofjulygrey38
+                  FourthofjulyGrey38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey39" />
+              <Icon icon="FourthofjulyGrey39" />
                 <TextWrapper>
-                  fourthofjulygrey39
+                  FourthofjulyGrey39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey4" />
+              <Icon icon="FourthofjulyGrey4" />
                 <TextWrapper>
-                  fourthofjulygrey4
+                  FourthofjulyGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey40" />
+              <Icon icon="FourthofjulyGrey40" />
                 <TextWrapper>
-                  fourthofjulygrey40
+                  FourthofjulyGrey40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey5" />
+              <Icon icon="FourthofjulyGrey5" />
                 <TextWrapper>
-                  fourthofjulygrey5
+                  FourthofjulyGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey6" />
+              <Icon icon="FourthofjulyGrey6" />
                 <TextWrapper>
-                  fourthofjulygrey6
+                  FourthofjulyGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey7" />
+              <Icon icon="FourthofjulyGrey7" />
                 <TextWrapper>
-                  fourthofjulygrey7
+                  FourthofjulyGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey8" />
+              <Icon icon="FourthofjulyGrey8" />
                 <TextWrapper>
-                  fourthofjulygrey8
+                  FourthofjulyGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="fourthofjulygrey9" />
+              <Icon icon="FourthofjulyGrey9" />
                 <TextWrapper>
-                  fourthofjulygrey9
+                  FourthofjulyGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -4564,164 +4564,164 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="greenenergycolor1" />
+              <Icon icon="GreenEnergyColor1" />
                 <TextWrapper>
-                  greenenergycolor1
+                  GreenEnergyColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor10" />
+              <Icon icon="GreenEnergyColor10" />
                 <TextWrapper>
-                  greenenergycolor10
+                  GreenEnergyColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor11" />
+              <Icon icon="GreenEnergyColor11" />
                 <TextWrapper>
-                  greenenergycolor11
+                  GreenEnergyColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor12" />
+              <Icon icon="GreenEnergyColor12" />
                 <TextWrapper>
-                  greenenergycolor12
+                  GreenEnergyColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor13" />
+              <Icon icon="GreenEnergyColor13" />
                 <TextWrapper>
-                  greenenergycolor13
+                  GreenEnergyColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor14" />
+              <Icon icon="GreenEnergyColor14" />
                 <TextWrapper>
-                  greenenergycolor14
+                  GreenEnergyColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor15" />
+              <Icon icon="GreenEnergyColor15" />
                 <TextWrapper>
-                  greenenergycolor15
+                  GreenEnergyColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor16" />
+              <Icon icon="GreenEnergyColor16" />
                 <TextWrapper>
-                  greenenergycolor16
+                  GreenEnergyColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor17" />
+              <Icon icon="GreenEnergyColor17" />
                 <TextWrapper>
-                  greenenergycolor17
+                  GreenEnergyColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor18" />
+              <Icon icon="GreenEnergyColor18" />
                 <TextWrapper>
-                  greenenergycolor18
+                  GreenEnergyColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor19" />
+              <Icon icon="GreenEnergyColor19" />
                 <TextWrapper>
-                  greenenergycolor19
+                  GreenEnergyColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor2" />
+              <Icon icon="GreenEnergyColor2" />
                 <TextWrapper>
-                  greenenergycolor2
+                  GreenEnergyColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor20" />
+              <Icon icon="GreenEnergyColor20" />
                 <TextWrapper>
-                  greenenergycolor20
+                  GreenEnergyColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor21" />
+              <Icon icon="GreenEnergyColor21" />
                 <TextWrapper>
-                  greenenergycolor21
+                  GreenEnergyColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor22" />
+              <Icon icon="GreenEnergyColor22" />
                 <TextWrapper>
-                  greenenergycolor22
+                  GreenEnergyColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor23" />
+              <Icon icon="GreenEnergyColor23" />
                 <TextWrapper>
-                  greenenergycolor23
+                  GreenEnergyColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor24" />
+              <Icon icon="GreenEnergyColor24" />
                 <TextWrapper>
-                  greenenergycolor24
+                  GreenEnergyColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor25" />
+              <Icon icon="GreenEnergyColor25" />
                 <TextWrapper>
-                  greenenergycolor25
+                  GreenEnergyColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor26" />
+              <Icon icon="GreenEnergyColor26" />
                 <TextWrapper>
-                  greenenergycolor26
+                  GreenEnergyColor26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor27" />
+              <Icon icon="GreenEnergyColor27" />
                 <TextWrapper>
-                  greenenergycolor27
+                  GreenEnergyColor27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor28" />
+              <Icon icon="GreenEnergyColor28" />
                 <TextWrapper>
-                  greenenergycolor28
+                  GreenEnergyColor28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor29" />
+              <Icon icon="GreenEnergyColor29" />
                 <TextWrapper>
-                  greenenergycolor29
+                  GreenEnergyColor29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor3" />
+              <Icon icon="GreenEnergyColor3" />
                 <TextWrapper>
-                  greenenergycolor3
+                  GreenEnergyColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor30" />
+              <Icon icon="GreenEnergyColor30" />
                 <TextWrapper>
-                  greenenergycolor30
+                  GreenEnergyColor30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor31" />
+              <Icon icon="GreenEnergyColor31" />
                 <TextWrapper>
-                  greenenergycolor31
+                  GreenEnergyColor31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor32" />
+              <Icon icon="GreenEnergyColor32" />
                 <TextWrapper>
-                  greenenergycolor32
+                  GreenEnergyColor32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor4" />
+              <Icon icon="GreenEnergyColor4" />
                 <TextWrapper>
-                  greenenergycolor4
+                  GreenEnergyColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor5" />
+              <Icon icon="GreenEnergyColor5" />
                 <TextWrapper>
-                  greenenergycolor5
+                  GreenEnergyColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor6" />
+              <Icon icon="GreenEnergyColor6" />
                 <TextWrapper>
-                  greenenergycolor6
+                  GreenEnergyColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor7" />
+              <Icon icon="GreenEnergyColor7" />
                 <TextWrapper>
-                  greenenergycolor7
+                  GreenEnergyColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor8" />
+              <Icon icon="GreenEnergyColor8" />
                 <TextWrapper>
-                  greenenergycolor8
+                  GreenEnergyColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="greenenergycolor9" />
+              <Icon icon="GreenEnergyColor9" />
                 <TextWrapper>
-                  greenenergycolor9
+                  GreenEnergyColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -4737,164 +4737,164 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="helmetgrey1" />
+              <Icon icon="HelmetGrey1" />
                 <TextWrapper>
-                  helmetgrey1
+                  HelmetGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey10" />
+              <Icon icon="HelmetGrey10" />
                 <TextWrapper>
-                  helmetgrey10
+                  HelmetGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey11" />
+              <Icon icon="HelmetGrey11" />
                 <TextWrapper>
-                  helmetgrey11
+                  HelmetGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey12" />
+              <Icon icon="HelmetGrey12" />
                 <TextWrapper>
-                  helmetgrey12
+                  HelmetGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey13" />
+              <Icon icon="HelmetGrey13" />
                 <TextWrapper>
-                  helmetgrey13
+                  HelmetGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey14" />
+              <Icon icon="HelmetGrey14" />
                 <TextWrapper>
-                  helmetgrey14
+                  HelmetGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey15" />
+              <Icon icon="HelmetGrey15" />
                 <TextWrapper>
-                  helmetgrey15
+                  HelmetGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey16" />
+              <Icon icon="HelmetGrey16" />
                 <TextWrapper>
-                  helmetgrey16
+                  HelmetGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey17" />
+              <Icon icon="HelmetGrey17" />
                 <TextWrapper>
-                  helmetgrey17
+                  HelmetGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey18" />
+              <Icon icon="HelmetGrey18" />
                 <TextWrapper>
-                  helmetgrey18
+                  HelmetGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey19" />
+              <Icon icon="HelmetGrey19" />
                 <TextWrapper>
-                  helmetgrey19
+                  HelmetGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey2" />
+              <Icon icon="HelmetGrey2" />
                 <TextWrapper>
-                  helmetgrey2
+                  HelmetGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey20" />
+              <Icon icon="HelmetGrey20" />
                 <TextWrapper>
-                  helmetgrey20
+                  HelmetGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey21" />
+              <Icon icon="HelmetGrey21" />
                 <TextWrapper>
-                  helmetgrey21
+                  HelmetGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey22" />
+              <Icon icon="HelmetGrey22" />
                 <TextWrapper>
-                  helmetgrey22
+                  HelmetGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey23" />
+              <Icon icon="HelmetGrey23" />
                 <TextWrapper>
-                  helmetgrey23
+                  HelmetGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey24" />
+              <Icon icon="HelmetGrey24" />
                 <TextWrapper>
-                  helmetgrey24
+                  HelmetGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey25" />
+              <Icon icon="HelmetGrey25" />
                 <TextWrapper>
-                  helmetgrey25
+                  HelmetGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey26" />
+              <Icon icon="HelmetGrey26" />
                 <TextWrapper>
-                  helmetgrey26
+                  HelmetGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey27" />
+              <Icon icon="HelmetGrey27" />
                 <TextWrapper>
-                  helmetgrey27
+                  HelmetGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey28" />
+              <Icon icon="HelmetGrey28" />
                 <TextWrapper>
-                  helmetgrey28
+                  HelmetGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey29" />
+              <Icon icon="HelmetGrey29" />
                 <TextWrapper>
-                  helmetgrey29
+                  HelmetGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey3" />
+              <Icon icon="HelmetGrey3" />
                 <TextWrapper>
-                  helmetgrey3
+                  HelmetGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey30" />
+              <Icon icon="HelmetGrey30" />
                 <TextWrapper>
-                  helmetgrey30
+                  HelmetGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey31" />
+              <Icon icon="HelmetGrey31" />
                 <TextWrapper>
-                  helmetgrey31
+                  HelmetGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey32" />
+              <Icon icon="HelmetGrey32" />
                 <TextWrapper>
-                  helmetgrey32
+                  HelmetGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey4" />
+              <Icon icon="HelmetGrey4" />
                 <TextWrapper>
-                  helmetgrey4
+                  HelmetGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey5" />
+              <Icon icon="HelmetGrey5" />
                 <TextWrapper>
-                  helmetgrey5
+                  HelmetGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey6" />
+              <Icon icon="HelmetGrey6" />
                 <TextWrapper>
-                  helmetgrey6
+                  HelmetGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey7" />
+              <Icon icon="HelmetGrey7" />
                 <TextWrapper>
-                  helmetgrey7
+                  HelmetGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey8" />
+              <Icon icon="HelmetGrey8" />
                 <TextWrapper>
-                  helmetgrey8
+                  HelmetGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="helmetgrey9" />
+              <Icon icon="HelmetGrey9" />
                 <TextWrapper>
-                  helmetgrey9
+                  HelmetGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -4910,84 +4910,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="homecolor1" />
+              <Icon icon="HomeColor1" />
                 <TextWrapper>
-                  homecolor1
+                  HomeColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor10" />
+              <Icon icon="HomeColor10" />
                 <TextWrapper>
-                  homecolor10
+                  HomeColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor11" />
+              <Icon icon="HomeColor11" />
                 <TextWrapper>
-                  homecolor11
+                  HomeColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor12" />
+              <Icon icon="HomeColor12" />
                 <TextWrapper>
-                  homecolor12
+                  HomeColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor13" />
+              <Icon icon="HomeColor13" />
                 <TextWrapper>
-                  homecolor13
+                  HomeColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor14" />
+              <Icon icon="HomeColor14" />
                 <TextWrapper>
-                  homecolor14
+                  HomeColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor15" />
+              <Icon icon="HomeColor15" />
                 <TextWrapper>
-                  homecolor15
+                  HomeColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor16" />
+              <Icon icon="HomeColor16" />
                 <TextWrapper>
-                  homecolor16
+                  HomeColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor2" />
+              <Icon icon="HomeColor2" />
                 <TextWrapper>
-                  homecolor2
+                  HomeColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor3" />
+              <Icon icon="HomeColor3" />
                 <TextWrapper>
-                  homecolor3
+                  HomeColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor4" />
+              <Icon icon="HomeColor4" />
                 <TextWrapper>
-                  homecolor4
+                  HomeColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor5" />
+              <Icon icon="HomeColor5" />
                 <TextWrapper>
-                  homecolor5
+                  HomeColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor6" />
+              <Icon icon="HomeColor6" />
                 <TextWrapper>
-                  homecolor6
+                  HomeColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor7" />
+              <Icon icon="HomeColor7" />
                 <TextWrapper>
-                  homecolor7
+                  HomeColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor8" />
+              <Icon icon="HomeColor8" />
                 <TextWrapper>
-                  homecolor8
+                  HomeColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homecolor9" />
+              <Icon icon="HomeColor9" />
                 <TextWrapper>
-                  homecolor9
+                  HomeColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5003,84 +5003,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="homegrey1" />
+              <Icon icon="HomeGrey1" />
                 <TextWrapper>
-                  homegrey1
+                  HomeGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey10" />
+              <Icon icon="HomeGrey10" />
                 <TextWrapper>
-                  homegrey10
+                  HomeGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey11" />
+              <Icon icon="HomeGrey11" />
                 <TextWrapper>
-                  homegrey11
+                  HomeGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey12" />
+              <Icon icon="HomeGrey12" />
                 <TextWrapper>
-                  homegrey12
+                  HomeGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey13" />
+              <Icon icon="HomeGrey13" />
                 <TextWrapper>
-                  homegrey13
+                  HomeGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey14" />
+              <Icon icon="HomeGrey14" />
                 <TextWrapper>
-                  homegrey14
+                  HomeGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey15" />
+              <Icon icon="HomeGrey15" />
                 <TextWrapper>
-                  homegrey15
+                  HomeGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey16" />
+              <Icon icon="HomeGrey16" />
                 <TextWrapper>
-                  homegrey16
+                  HomeGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey2" />
+              <Icon icon="HomeGrey2" />
                 <TextWrapper>
-                  homegrey2
+                  HomeGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey3" />
+              <Icon icon="HomeGrey3" />
                 <TextWrapper>
-                  homegrey3
+                  HomeGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey4" />
+              <Icon icon="HomeGrey4" />
                 <TextWrapper>
-                  homegrey4
+                  HomeGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey5" />
+              <Icon icon="HomeGrey5" />
                 <TextWrapper>
-                  homegrey5
+                  HomeGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey6" />
+              <Icon icon="HomeGrey6" />
                 <TextWrapper>
-                  homegrey6
+                  HomeGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey7" />
+              <Icon icon="HomeGrey7" />
                 <TextWrapper>
-                  homegrey7
+                  HomeGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey8" />
+              <Icon icon="HomeGrey8" />
                 <TextWrapper>
-                  homegrey8
+                  HomeGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="homegrey9" />
+              <Icon icon="HomeGrey9" />
                 <TextWrapper>
-                  homegrey9
+                  HomeGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5096,84 +5096,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="kitchencolor1" />
+              <Icon icon="KitchenColor1" />
                 <TextWrapper>
-                  kitchencolor1
+                  KitchenColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor10" />
+              <Icon icon="KitchenColor10" />
                 <TextWrapper>
-                  kitchencolor10
+                  KitchenColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor11" />
+              <Icon icon="KitchenColor11" />
                 <TextWrapper>
-                  kitchencolor11
+                  KitchenColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor12" />
+              <Icon icon="KitchenColor12" />
                 <TextWrapper>
-                  kitchencolor12
+                  KitchenColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor13" />
+              <Icon icon="KitchenColor13" />
                 <TextWrapper>
-                  kitchencolor13
+                  KitchenColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor14" />
+              <Icon icon="KitchenColor14" />
                 <TextWrapper>
-                  kitchencolor14
+                  KitchenColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor15" />
+              <Icon icon="KitchenColor15" />
                 <TextWrapper>
-                  kitchencolor15
+                  KitchenColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor16" />
+              <Icon icon="KitchenColor16" />
                 <TextWrapper>
-                  kitchencolor16
+                  KitchenColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor2" />
+              <Icon icon="KitchenColor2" />
                 <TextWrapper>
-                  kitchencolor2
+                  KitchenColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor3" />
+              <Icon icon="KitchenColor3" />
                 <TextWrapper>
-                  kitchencolor3
+                  KitchenColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor4" />
+              <Icon icon="KitchenColor4" />
                 <TextWrapper>
-                  kitchencolor4
+                  KitchenColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor5" />
+              <Icon icon="KitchenColor5" />
                 <TextWrapper>
-                  kitchencolor5
+                  KitchenColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor6" />
+              <Icon icon="KitchenColor6" />
                 <TextWrapper>
-                  kitchencolor6
+                  KitchenColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor7" />
+              <Icon icon="KitchenColor7" />
                 <TextWrapper>
-                  kitchencolor7
+                  KitchenColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor8" />
+              <Icon icon="KitchenColor8" />
                 <TextWrapper>
-                  kitchencolor8
+                  KitchenColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchencolor9" />
+              <Icon icon="KitchenColor9" />
                 <TextWrapper>
-                  kitchencolor9
+                  KitchenColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5189,84 +5189,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="kitchengrey1" />
+              <Icon icon="KitchenGrey1" />
                 <TextWrapper>
-                  kitchengrey1
+                  KitchenGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey10" />
+              <Icon icon="KitchenGrey10" />
                 <TextWrapper>
-                  kitchengrey10
+                  KitchenGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey11" />
+              <Icon icon="KitchenGrey11" />
                 <TextWrapper>
-                  kitchengrey11
+                  KitchenGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey12" />
+              <Icon icon="KitchenGrey12" />
                 <TextWrapper>
-                  kitchengrey12
+                  KitchenGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey13" />
+              <Icon icon="KitchenGrey13" />
                 <TextWrapper>
-                  kitchengrey13
+                  KitchenGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey14" />
+              <Icon icon="KitchenGrey14" />
                 <TextWrapper>
-                  kitchengrey14
+                  KitchenGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey15" />
+              <Icon icon="KitchenGrey15" />
                 <TextWrapper>
-                  kitchengrey15
+                  KitchenGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey16" />
+              <Icon icon="KitchenGrey16" />
                 <TextWrapper>
-                  kitchengrey16
+                  KitchenGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey2" />
+              <Icon icon="KitchenGrey2" />
                 <TextWrapper>
-                  kitchengrey2
+                  KitchenGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey3" />
+              <Icon icon="KitchenGrey3" />
                 <TextWrapper>
-                  kitchengrey3
+                  KitchenGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey4" />
+              <Icon icon="KitchenGrey4" />
                 <TextWrapper>
-                  kitchengrey4
+                  KitchenGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey5" />
+              <Icon icon="KitchenGrey5" />
                 <TextWrapper>
-                  kitchengrey5
+                  KitchenGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey6" />
+              <Icon icon="KitchenGrey6" />
                 <TextWrapper>
-                  kitchengrey6
+                  KitchenGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey7" />
+              <Icon icon="KitchenGrey7" />
                 <TextWrapper>
-                  kitchengrey7
+                  KitchenGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey8" />
+              <Icon icon="KitchenGrey8" />
                 <TextWrapper>
-                  kitchengrey8
+                  KitchenGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="kitchengrey9" />
+              <Icon icon="KitchenGrey9" />
                 <TextWrapper>
-                  kitchengrey9
+                  KitchenGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5282,84 +5282,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="knifecolor1" />
+              <Icon icon="KnifeColor1" />
                 <TextWrapper>
-                  knifecolor1
+                  KnifeColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor10" />
+              <Icon icon="KnifeColor10" />
                 <TextWrapper>
-                  knifecolor10
+                  KnifeColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor11" />
+              <Icon icon="KnifeColor11" />
                 <TextWrapper>
-                  knifecolor11
+                  KnifeColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor12" />
+              <Icon icon="KnifeColor12" />
                 <TextWrapper>
-                  knifecolor12
+                  KnifeColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor13" />
+              <Icon icon="KnifeColor13" />
                 <TextWrapper>
-                  knifecolor13
+                  KnifeColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor14" />
+              <Icon icon="KnifeColor14" />
                 <TextWrapper>
-                  knifecolor14
+                  KnifeColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor15" />
+              <Icon icon="KnifeColor15" />
                 <TextWrapper>
-                  knifecolor15
+                  KnifeColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor16" />
+              <Icon icon="KnifeColor16" />
                 <TextWrapper>
-                  knifecolor16
+                  KnifeColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor2" />
+              <Icon icon="KnifeColor2" />
                 <TextWrapper>
-                  knifecolor2
+                  KnifeColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor3" />
+              <Icon icon="KnifeColor3" />
                 <TextWrapper>
-                  knifecolor3
+                  KnifeColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor4" />
+              <Icon icon="KnifeColor4" />
                 <TextWrapper>
-                  knifecolor4
+                  KnifeColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor5" />
+              <Icon icon="KnifeColor5" />
                 <TextWrapper>
-                  knifecolor5
+                  KnifeColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor6" />
+              <Icon icon="KnifeColor6" />
                 <TextWrapper>
-                  knifecolor6
+                  KnifeColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor7" />
+              <Icon icon="KnifeColor7" />
                 <TextWrapper>
-                  knifecolor7
+                  KnifeColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor8" />
+              <Icon icon="KnifeColor8" />
                 <TextWrapper>
-                  knifecolor8
+                  KnifeColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifecolor9" />
+              <Icon icon="KnifeColor9" />
                 <TextWrapper>
-                  knifecolor9
+                  KnifeColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5375,84 +5375,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="knifegrey1" />
+              <Icon icon="KnifeGrey1" />
                 <TextWrapper>
-                  knifegrey1
+                  KnifeGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey10" />
+              <Icon icon="KnifeGrey10" />
                 <TextWrapper>
-                  knifegrey10
+                  KnifeGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey11" />
+              <Icon icon="KnifeGrey11" />
                 <TextWrapper>
-                  knifegrey11
+                  KnifeGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey12" />
+              <Icon icon="KnifeGrey12" />
                 <TextWrapper>
-                  knifegrey12
+                  KnifeGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey13" />
+              <Icon icon="KnifeGrey13" />
                 <TextWrapper>
-                  knifegrey13
+                  KnifeGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey14" />
+              <Icon icon="KnifeGrey14" />
                 <TextWrapper>
-                  knifegrey14
+                  KnifeGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey15" />
+              <Icon icon="KnifeGrey15" />
                 <TextWrapper>
-                  knifegrey15
+                  KnifeGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey16" />
+              <Icon icon="KnifeGrey16" />
                 <TextWrapper>
-                  knifegrey16
+                  KnifeGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey2" />
+              <Icon icon="KnifeGrey2" />
                 <TextWrapper>
-                  knifegrey2
+                  KnifeGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey3" />
+              <Icon icon="KnifeGrey3" />
                 <TextWrapper>
-                  knifegrey3
+                  KnifeGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey4" />
+              <Icon icon="KnifeGrey4" />
                 <TextWrapper>
-                  knifegrey4
+                  KnifeGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey5" />
+              <Icon icon="KnifeGrey5" />
                 <TextWrapper>
-                  knifegrey5
+                  KnifeGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey6" />
+              <Icon icon="KnifeGrey6" />
                 <TextWrapper>
-                  knifegrey6
+                  KnifeGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey7" />
+              <Icon icon="KnifeGrey7" />
                 <TextWrapper>
-                  knifegrey7
+                  KnifeGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey8" />
+              <Icon icon="KnifeGrey8" />
                 <TextWrapper>
-                  knifegrey8
+                  KnifeGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="knifegrey9" />
+              <Icon icon="KnifeGrey9" />
                 <TextWrapper>
-                  knifegrey9
+                  KnifeGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5468,84 +5468,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="lawcolor1" />
+              <Icon icon="LawColor1" />
                 <TextWrapper>
-                  lawcolor1
+                  LawColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor10" />
+              <Icon icon="LawColor10" />
                 <TextWrapper>
-                  lawcolor10
+                  LawColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor11" />
+              <Icon icon="LawColor11" />
                 <TextWrapper>
-                  lawcolor11
+                  LawColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor12" />
+              <Icon icon="LawColor12" />
                 <TextWrapper>
-                  lawcolor12
+                  LawColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor13" />
+              <Icon icon="LawColor13" />
                 <TextWrapper>
-                  lawcolor13
+                  LawColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor14" />
+              <Icon icon="LawColor14" />
                 <TextWrapper>
-                  lawcolor14
+                  LawColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor15" />
+              <Icon icon="LawColor15" />
                 <TextWrapper>
-                  lawcolor15
+                  LawColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor16" />
+              <Icon icon="LawColor16" />
                 <TextWrapper>
-                  lawcolor16
+                  LawColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor2" />
+              <Icon icon="LawColor2" />
                 <TextWrapper>
-                  lawcolor2
+                  LawColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor3" />
+              <Icon icon="LawColor3" />
                 <TextWrapper>
-                  lawcolor3
+                  LawColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor4" />
+              <Icon icon="LawColor4" />
                 <TextWrapper>
-                  lawcolor4
+                  LawColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor5" />
+              <Icon icon="LawColor5" />
                 <TextWrapper>
-                  lawcolor5
+                  LawColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor6" />
+              <Icon icon="LawColor6" />
                 <TextWrapper>
-                  lawcolor6
+                  LawColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor7" />
+              <Icon icon="LawColor7" />
                 <TextWrapper>
-                  lawcolor7
+                  LawColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor8" />
+              <Icon icon="LawColor8" />
                 <TextWrapper>
-                  lawcolor8
+                  LawColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawcolor9" />
+              <Icon icon="LawColor9" />
                 <TextWrapper>
-                  lawcolor9
+                  LawColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5561,84 +5561,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="lawgrey1" />
+              <Icon icon="LawGrey1" />
                 <TextWrapper>
-                  lawgrey1
+                  LawGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey10" />
+              <Icon icon="LawGrey10" />
                 <TextWrapper>
-                  lawgrey10
+                  LawGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey11" />
+              <Icon icon="LawGrey11" />
                 <TextWrapper>
-                  lawgrey11
+                  LawGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey12" />
+              <Icon icon="LawGrey12" />
                 <TextWrapper>
-                  lawgrey12
+                  LawGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey13" />
+              <Icon icon="LawGrey13" />
                 <TextWrapper>
-                  lawgrey13
+                  LawGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey14" />
+              <Icon icon="LawGrey14" />
                 <TextWrapper>
-                  lawgrey14
+                  LawGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey15" />
+              <Icon icon="LawGrey15" />
                 <TextWrapper>
-                  lawgrey15
+                  LawGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey16" />
+              <Icon icon="LawGrey16" />
                 <TextWrapper>
-                  lawgrey16
+                  LawGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey2" />
+              <Icon icon="LawGrey2" />
                 <TextWrapper>
-                  lawgrey2
+                  LawGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey3" />
+              <Icon icon="LawGrey3" />
                 <TextWrapper>
-                  lawgrey3
+                  LawGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey4" />
+              <Icon icon="LawGrey4" />
                 <TextWrapper>
-                  lawgrey4
+                  LawGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey5" />
+              <Icon icon="LawGrey5" />
                 <TextWrapper>
-                  lawgrey5
+                  LawGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey6" />
+              <Icon icon="LawGrey6" />
                 <TextWrapper>
-                  lawgrey6
+                  LawGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey7" />
+              <Icon icon="LawGrey7" />
                 <TextWrapper>
-                  lawgrey7
+                  LawGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey8" />
+              <Icon icon="LawGrey8" />
                 <TextWrapper>
-                  lawgrey8
+                  LawGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lawgrey9" />
+              <Icon icon="LawGrey9" />
                 <TextWrapper>
-                  lawgrey9
+                  LawGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5654,84 +5654,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="leafcolor1" />
+              <Icon icon="LeafColor1" />
                 <TextWrapper>
-                  leafcolor1
+                  LeafColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor10" />
+              <Icon icon="LeafColor10" />
                 <TextWrapper>
-                  leafcolor10
+                  LeafColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor11" />
+              <Icon icon="LeafColor11" />
                 <TextWrapper>
-                  leafcolor11
+                  LeafColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor12" />
+              <Icon icon="LeafColor12" />
                 <TextWrapper>
-                  leafcolor12
+                  LeafColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor13" />
+              <Icon icon="LeafColor13" />
                 <TextWrapper>
-                  leafcolor13
+                  LeafColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor14" />
+              <Icon icon="LeafColor14" />
                 <TextWrapper>
-                  leafcolor14
+                  LeafColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor15" />
+              <Icon icon="LeafColor15" />
                 <TextWrapper>
-                  leafcolor15
+                  LeafColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor16" />
+              <Icon icon="LeafColor16" />
                 <TextWrapper>
-                  leafcolor16
+                  LeafColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor2" />
+              <Icon icon="LeafColor2" />
                 <TextWrapper>
-                  leafcolor2
+                  LeafColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor3" />
+              <Icon icon="LeafColor3" />
                 <TextWrapper>
-                  leafcolor3
+                  LeafColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor4" />
+              <Icon icon="LeafColor4" />
                 <TextWrapper>
-                  leafcolor4
+                  LeafColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor5" />
+              <Icon icon="LeafColor5" />
                 <TextWrapper>
-                  leafcolor5
+                  LeafColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor6" />
+              <Icon icon="LeafColor6" />
                 <TextWrapper>
-                  leafcolor6
+                  LeafColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor7" />
+              <Icon icon="LeafColor7" />
                 <TextWrapper>
-                  leafcolor7
+                  LeafColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor8" />
+              <Icon icon="LeafColor8" />
                 <TextWrapper>
-                  leafcolor8
+                  LeafColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafcolor9" />
+              <Icon icon="LeafColor9" />
                 <TextWrapper>
-                  leafcolor9
+                  LeafColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5747,84 +5747,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="leafgrey1" />
+              <Icon icon="LeafGrey1" />
                 <TextWrapper>
-                  leafgrey1
+                  LeafGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey10" />
+              <Icon icon="LeafGrey10" />
                 <TextWrapper>
-                  leafgrey10
+                  LeafGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey11" />
+              <Icon icon="LeafGrey11" />
                 <TextWrapper>
-                  leafgrey11
+                  LeafGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey12" />
+              <Icon icon="LeafGrey12" />
                 <TextWrapper>
-                  leafgrey12
+                  LeafGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey13" />
+              <Icon icon="LeafGrey13" />
                 <TextWrapper>
-                  leafgrey13
+                  LeafGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey14" />
+              <Icon icon="LeafGrey14" />
                 <TextWrapper>
-                  leafgrey14
+                  LeafGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey15" />
+              <Icon icon="LeafGrey15" />
                 <TextWrapper>
-                  leafgrey15
+                  LeafGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey16" />
+              <Icon icon="LeafGrey16" />
                 <TextWrapper>
-                  leafgrey16
+                  LeafGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey2" />
+              <Icon icon="LeafGrey2" />
                 <TextWrapper>
-                  leafgrey2
+                  LeafGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey3" />
+              <Icon icon="LeafGrey3" />
                 <TextWrapper>
-                  leafgrey3
+                  LeafGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey4" />
+              <Icon icon="LeafGrey4" />
                 <TextWrapper>
-                  leafgrey4
+                  LeafGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey5" />
+              <Icon icon="LeafGrey5" />
                 <TextWrapper>
-                  leafgrey5
+                  LeafGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey6" />
+              <Icon icon="LeafGrey6" />
                 <TextWrapper>
-                  leafgrey6
+                  LeafGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey7" />
+              <Icon icon="LeafGrey7" />
                 <TextWrapper>
-                  leafgrey7
+                  LeafGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey8" />
+              <Icon icon="LeafGrey8" />
                 <TextWrapper>
-                  leafgrey8
+                  LeafGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="leafgrey9" />
+              <Icon icon="LeafGrey9" />
                 <TextWrapper>
-                  leafgrey9
+                  LeafGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -5840,204 +5840,204 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="logisticscolor1" />
+              <Icon icon="LogisticsColor1" />
                 <TextWrapper>
-                  logisticscolor1
+                  LogisticsColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor10" />
+              <Icon icon="LogisticsColor10" />
                 <TextWrapper>
-                  logisticscolor10
+                  LogisticsColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor11" />
+              <Icon icon="LogisticsColor11" />
                 <TextWrapper>
-                  logisticscolor11
+                  LogisticsColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor12" />
+              <Icon icon="LogisticsColor12" />
                 <TextWrapper>
-                  logisticscolor12
+                  LogisticsColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor13" />
+              <Icon icon="LogisticsColor13" />
                 <TextWrapper>
-                  logisticscolor13
+                  LogisticsColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor14" />
+              <Icon icon="LogisticsColor14" />
                 <TextWrapper>
-                  logisticscolor14
+                  LogisticsColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor15" />
+              <Icon icon="LogisticsColor15" />
                 <TextWrapper>
-                  logisticscolor15
+                  LogisticsColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor16" />
+              <Icon icon="LogisticsColor16" />
                 <TextWrapper>
-                  logisticscolor16
+                  LogisticsColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor17" />
+              <Icon icon="LogisticsColor17" />
                 <TextWrapper>
-                  logisticscolor17
+                  LogisticsColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor18" />
+              <Icon icon="LogisticsColor18" />
                 <TextWrapper>
-                  logisticscolor18
+                  LogisticsColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor19" />
+              <Icon icon="LogisticsColor19" />
                 <TextWrapper>
-                  logisticscolor19
+                  LogisticsColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor2" />
+              <Icon icon="LogisticsColor2" />
                 <TextWrapper>
-                  logisticscolor2
+                  LogisticsColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor20" />
+              <Icon icon="LogisticsColor20" />
                 <TextWrapper>
-                  logisticscolor20
+                  LogisticsColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor21" />
+              <Icon icon="LogisticsColor21" />
                 <TextWrapper>
-                  logisticscolor21
+                  LogisticsColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor22" />
+              <Icon icon="LogisticsColor22" />
                 <TextWrapper>
-                  logisticscolor22
+                  LogisticsColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor23" />
+              <Icon icon="LogisticsColor23" />
                 <TextWrapper>
-                  logisticscolor23
+                  LogisticsColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor24" />
+              <Icon icon="LogisticsColor24" />
                 <TextWrapper>
-                  logisticscolor24
+                  LogisticsColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor25" />
+              <Icon icon="LogisticsColor25" />
                 <TextWrapper>
-                  logisticscolor25
+                  LogisticsColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor26" />
+              <Icon icon="LogisticsColor26" />
                 <TextWrapper>
-                  logisticscolor26
+                  LogisticsColor26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor27" />
+              <Icon icon="LogisticsColor27" />
                 <TextWrapper>
-                  logisticscolor27
+                  LogisticsColor27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor28" />
+              <Icon icon="LogisticsColor28" />
                 <TextWrapper>
-                  logisticscolor28
+                  LogisticsColor28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor29" />
+              <Icon icon="LogisticsColor29" />
                 <TextWrapper>
-                  logisticscolor29
+                  LogisticsColor29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor3" />
+              <Icon icon="LogisticsColor3" />
                 <TextWrapper>
-                  logisticscolor3
+                  LogisticsColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor30" />
+              <Icon icon="LogisticsColor30" />
                 <TextWrapper>
-                  logisticscolor30
+                  LogisticsColor30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor31" />
+              <Icon icon="LogisticsColor31" />
                 <TextWrapper>
-                  logisticscolor31
+                  LogisticsColor31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor32" />
+              <Icon icon="LogisticsColor32" />
                 <TextWrapper>
-                  logisticscolor32
+                  LogisticsColor32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor33" />
+              <Icon icon="LogisticsColor33" />
                 <TextWrapper>
-                  logisticscolor33
+                  LogisticsColor33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor34" />
+              <Icon icon="LogisticsColor34" />
                 <TextWrapper>
-                  logisticscolor34
+                  LogisticsColor34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor35" />
+              <Icon icon="LogisticsColor35" />
                 <TextWrapper>
-                  logisticscolor35
+                  LogisticsColor35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor36" />
+              <Icon icon="LogisticsColor36" />
                 <TextWrapper>
-                  logisticscolor36
+                  LogisticsColor36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor37" />
+              <Icon icon="LogisticsColor37" />
                 <TextWrapper>
-                  logisticscolor37
+                  LogisticsColor37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor38" />
+              <Icon icon="LogisticsColor38" />
                 <TextWrapper>
-                  logisticscolor38
+                  LogisticsColor38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor39" />
+              <Icon icon="LogisticsColor39" />
                 <TextWrapper>
-                  logisticscolor39
+                  LogisticsColor39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor4" />
+              <Icon icon="LogisticsColor4" />
                 <TextWrapper>
-                  logisticscolor4
+                  LogisticsColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor40" />
+              <Icon icon="LogisticsColor40" />
                 <TextWrapper>
-                  logisticscolor40
+                  LogisticsColor40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor5" />
+              <Icon icon="LogisticsColor5" />
                 <TextWrapper>
-                  logisticscolor5
+                  LogisticsColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor6" />
+              <Icon icon="LogisticsColor6" />
                 <TextWrapper>
-                  logisticscolor6
+                  LogisticsColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor7" />
+              <Icon icon="LogisticsColor7" />
                 <TextWrapper>
-                  logisticscolor7
+                  LogisticsColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor8" />
+              <Icon icon="LogisticsColor8" />
                 <TextWrapper>
-                  logisticscolor8
+                  LogisticsColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticscolor9" />
+              <Icon icon="LogisticsColor9" />
                 <TextWrapper>
-                  logisticscolor9
+                  LogisticsColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -6053,104 +6053,104 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="logisticsgrey1" />
+              <Icon icon="LogisticsGrey1" />
                 <TextWrapper>
-                  logisticsgrey1
+                  LogisticsGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey10" />
+              <Icon icon="LogisticsGrey10" />
                 <TextWrapper>
-                  logisticsgrey10
+                  LogisticsGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey11" />
+              <Icon icon="LogisticsGrey11" />
                 <TextWrapper>
-                  logisticsgrey11
+                  LogisticsGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey12" />
+              <Icon icon="LogisticsGrey12" />
                 <TextWrapper>
-                  logisticsgrey12
+                  LogisticsGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey13" />
+              <Icon icon="LogisticsGrey13" />
                 <TextWrapper>
-                  logisticsgrey13
+                  LogisticsGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey14" />
+              <Icon icon="LogisticsGrey14" />
                 <TextWrapper>
-                  logisticsgrey14
+                  LogisticsGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey15" />
+              <Icon icon="LogisticsGrey15" />
                 <TextWrapper>
-                  logisticsgrey15
+                  LogisticsGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey16" />
+              <Icon icon="LogisticsGrey16" />
                 <TextWrapper>
-                  logisticsgrey16
+                  LogisticsGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey17" />
+              <Icon icon="LogisticsGrey17" />
                 <TextWrapper>
-                  logisticsgrey17
+                  LogisticsGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey18" />
+              <Icon icon="LogisticsGrey18" />
                 <TextWrapper>
-                  logisticsgrey18
+                  LogisticsGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey19" />
+              <Icon icon="LogisticsGrey19" />
                 <TextWrapper>
-                  logisticsgrey19
+                  LogisticsGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey2" />
+              <Icon icon="LogisticsGrey2" />
                 <TextWrapper>
-                  logisticsgrey2
+                  LogisticsGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey20" />
+              <Icon icon="LogisticsGrey20" />
                 <TextWrapper>
-                  logisticsgrey20
+                  LogisticsGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey3" />
+              <Icon icon="LogisticsGrey3" />
                 <TextWrapper>
-                  logisticsgrey3
+                  LogisticsGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey4" />
+              <Icon icon="LogisticsGrey4" />
                 <TextWrapper>
-                  logisticsgrey4
+                  LogisticsGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey5" />
+              <Icon icon="LogisticsGrey5" />
                 <TextWrapper>
-                  logisticsgrey5
+                  LogisticsGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey6" />
+              <Icon icon="LogisticsGrey6" />
                 <TextWrapper>
-                  logisticsgrey6
+                  LogisticsGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey7" />
+              <Icon icon="LogisticsGrey7" />
                 <TextWrapper>
-                  logisticsgrey7
+                  LogisticsGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey8" />
+              <Icon icon="LogisticsGrey8" />
                 <TextWrapper>
-                  logisticsgrey8
+                  LogisticsGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="logisticsgrey9" />
+              <Icon icon="LogisticsGrey9" />
                 <TextWrapper>
-                  logisticsgrey9
+                  LogisticsGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -6166,84 +6166,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="lumberjackcolor1" />
+              <Icon icon="LumberjackColor1" />
                 <TextWrapper>
-                  lumberjackcolor1
+                  LumberjackColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor10" />
+              <Icon icon="LumberjackColor10" />
                 <TextWrapper>
-                  lumberjackcolor10
+                  LumberjackColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor11" />
+              <Icon icon="LumberjackColor11" />
                 <TextWrapper>
-                  lumberjackcolor11
+                  LumberjackColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor12" />
+              <Icon icon="LumberjackColor12" />
                 <TextWrapper>
-                  lumberjackcolor12
+                  LumberjackColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor13" />
+              <Icon icon="LumberjackColor13" />
                 <TextWrapper>
-                  lumberjackcolor13
+                  LumberjackColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor14" />
+              <Icon icon="LumberjackColor14" />
                 <TextWrapper>
-                  lumberjackcolor14
+                  LumberjackColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor15" />
+              <Icon icon="LumberjackColor15" />
                 <TextWrapper>
-                  lumberjackcolor15
+                  LumberjackColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor16" />
+              <Icon icon="LumberjackColor16" />
                 <TextWrapper>
-                  lumberjackcolor16
+                  LumberjackColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor2" />
+              <Icon icon="LumberjackColor2" />
                 <TextWrapper>
-                  lumberjackcolor2
+                  LumberjackColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor3" />
+              <Icon icon="LumberjackColor3" />
                 <TextWrapper>
-                  lumberjackcolor3
+                  LumberjackColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor4" />
+              <Icon icon="LumberjackColor4" />
                 <TextWrapper>
-                  lumberjackcolor4
+                  LumberjackColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor5" />
+              <Icon icon="LumberjackColor5" />
                 <TextWrapper>
-                  lumberjackcolor5
+                  LumberjackColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor6" />
+              <Icon icon="LumberjackColor6" />
                 <TextWrapper>
-                  lumberjackcolor6
+                  LumberjackColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor7" />
+              <Icon icon="LumberjackColor7" />
                 <TextWrapper>
-                  lumberjackcolor7
+                  LumberjackColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor8" />
+              <Icon icon="LumberjackColor8" />
                 <TextWrapper>
-                  lumberjackcolor8
+                  LumberjackColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackcolor9" />
+              <Icon icon="LumberjackColor9" />
                 <TextWrapper>
-                  lumberjackcolor9
+                  LumberjackColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -6259,84 +6259,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="lumberjackgrey1" />
+              <Icon icon="LumberjackGrey1" />
                 <TextWrapper>
-                  lumberjackgrey1
+                  LumberjackGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey10" />
+              <Icon icon="LumberjackGrey10" />
                 <TextWrapper>
-                  lumberjackgrey10
+                  LumberjackGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey11" />
+              <Icon icon="LumberjackGrey11" />
                 <TextWrapper>
-                  lumberjackgrey11
+                  LumberjackGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey12" />
+              <Icon icon="LumberjackGrey12" />
                 <TextWrapper>
-                  lumberjackgrey12
+                  LumberjackGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey13" />
+              <Icon icon="LumberjackGrey13" />
                 <TextWrapper>
-                  lumberjackgrey13
+                  LumberjackGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey14" />
+              <Icon icon="LumberjackGrey14" />
                 <TextWrapper>
-                  lumberjackgrey14
+                  LumberjackGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey15" />
+              <Icon icon="LumberjackGrey15" />
                 <TextWrapper>
-                  lumberjackgrey15
+                  LumberjackGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey16" />
+              <Icon icon="LumberjackGrey16" />
                 <TextWrapper>
-                  lumberjackgrey16
+                  LumberjackGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey2" />
+              <Icon icon="LumberjackGrey2" />
                 <TextWrapper>
-                  lumberjackgrey2
+                  LumberjackGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey3" />
+              <Icon icon="LumberjackGrey3" />
                 <TextWrapper>
-                  lumberjackgrey3
+                  LumberjackGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey4" />
+              <Icon icon="LumberjackGrey4" />
                 <TextWrapper>
-                  lumberjackgrey4
+                  LumberjackGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey5" />
+              <Icon icon="LumberjackGrey5" />
                 <TextWrapper>
-                  lumberjackgrey5
+                  LumberjackGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey6" />
+              <Icon icon="LumberjackGrey6" />
                 <TextWrapper>
-                  lumberjackgrey6
+                  LumberjackGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey7" />
+              <Icon icon="LumberjackGrey7" />
                 <TextWrapper>
-                  lumberjackgrey7
+                  LumberjackGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey8" />
+              <Icon icon="LumberjackGrey8" />
                 <TextWrapper>
-                  lumberjackgrey8
+                  LumberjackGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="lumberjackgrey9" />
+              <Icon icon="LumberjackGrey9" />
                 <TextWrapper>
-                  lumberjackgrey9
+                  LumberjackGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -6352,179 +6352,179 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="medicalgrey1" />
+              <Icon icon="MedicalGrey1" />
                 <TextWrapper>
-                  medicalgrey1
+                  MedicalGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey10" />
+              <Icon icon="MedicalGrey10" />
                 <TextWrapper>
-                  medicalgrey10
+                  MedicalGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey11" />
+              <Icon icon="MedicalGrey11" />
                 <TextWrapper>
-                  medicalgrey11
+                  MedicalGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey12" />
+              <Icon icon="MedicalGrey12" />
                 <TextWrapper>
-                  medicalgrey12
+                  MedicalGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey13" />
+              <Icon icon="MedicalGrey13" />
                 <TextWrapper>
-                  medicalgrey13
+                  MedicalGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey14" />
+              <Icon icon="MedicalGrey14" />
                 <TextWrapper>
-                  medicalgrey14
+                  MedicalGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey15" />
+              <Icon icon="MedicalGrey15" />
                 <TextWrapper>
-                  medicalgrey15
+                  MedicalGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey16" />
+              <Icon icon="MedicalGrey16" />
                 <TextWrapper>
-                  medicalgrey16
+                  MedicalGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey17" />
+              <Icon icon="MedicalGrey17" />
                 <TextWrapper>
-                  medicalgrey17
+                  MedicalGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey18" />
+              <Icon icon="MedicalGrey18" />
                 <TextWrapper>
-                  medicalgrey18
+                  MedicalGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey19" />
+              <Icon icon="MedicalGrey19" />
                 <TextWrapper>
-                  medicalgrey19
+                  MedicalGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey2" />
+              <Icon icon="MedicalGrey2" />
                 <TextWrapper>
-                  medicalgrey2
+                  MedicalGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey20" />
+              <Icon icon="MedicalGrey20" />
                 <TextWrapper>
-                  medicalgrey20
+                  MedicalGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey21" />
+              <Icon icon="MedicalGrey21" />
                 <TextWrapper>
-                  medicalgrey21
+                  MedicalGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey22" />
+              <Icon icon="MedicalGrey22" />
                 <TextWrapper>
-                  medicalgrey22
+                  MedicalGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey23" />
+              <Icon icon="MedicalGrey23" />
                 <TextWrapper>
-                  medicalgrey23
+                  MedicalGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey24" />
+              <Icon icon="MedicalGrey24" />
                 <TextWrapper>
-                  medicalgrey24
+                  MedicalGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey25" />
+              <Icon icon="MedicalGrey25" />
                 <TextWrapper>
-                  medicalgrey25
+                  MedicalGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey26" />
+              <Icon icon="MedicalGrey26" />
                 <TextWrapper>
-                  medicalgrey26
+                  MedicalGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey27" />
+              <Icon icon="MedicalGrey27" />
                 <TextWrapper>
-                  medicalgrey27
+                  MedicalGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey28" />
+              <Icon icon="MedicalGrey28" />
                 <TextWrapper>
-                  medicalgrey28
+                  MedicalGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey29" />
+              <Icon icon="MedicalGrey29" />
                 <TextWrapper>
-                  medicalgrey29
+                  MedicalGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey3" />
+              <Icon icon="MedicalGrey3" />
                 <TextWrapper>
-                  medicalgrey3
+                  MedicalGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey30" />
+              <Icon icon="MedicalGrey30" />
                 <TextWrapper>
-                  medicalgrey30
+                  MedicalGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey31" />
+              <Icon icon="MedicalGrey31" />
                 <TextWrapper>
-                  medicalgrey31
+                  MedicalGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey32" />
+              <Icon icon="MedicalGrey32" />
                 <TextWrapper>
-                  medicalgrey32
+                  MedicalGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey33" />
+              <Icon icon="MedicalGrey33" />
                 <TextWrapper>
-                  medicalgrey33
+                  MedicalGrey33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey34" />
+              <Icon icon="MedicalGrey34" />
                 <TextWrapper>
-                  medicalgrey34
+                  MedicalGrey34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey35" />
+              <Icon icon="MedicalGrey35" />
                 <TextWrapper>
-                  medicalgrey35
+                  MedicalGrey35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey4" />
+              <Icon icon="MedicalGrey4" />
                 <TextWrapper>
-                  medicalgrey4
+                  MedicalGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey5" />
+              <Icon icon="MedicalGrey5" />
                 <TextWrapper>
-                  medicalgrey5
+                  MedicalGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey6" />
+              <Icon icon="MedicalGrey6" />
                 <TextWrapper>
-                  medicalgrey6
+                  MedicalGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey7" />
+              <Icon icon="MedicalGrey7" />
                 <TextWrapper>
-                  medicalgrey7
+                  MedicalGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey8" />
+              <Icon icon="MedicalGrey8" />
                 <TextWrapper>
-                  medicalgrey8
+                  MedicalGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="medicalgrey9" />
+              <Icon icon="MedicalGrey9" />
                 <TextWrapper>
-                  medicalgrey9
+                  MedicalGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -6540,544 +6540,544 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="miscgrey1" />
+              <Icon icon="MiscGrey1" />
                 <TextWrapper>
-                  miscgrey1
+                  MiscGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey10" />
+              <Icon icon="MiscGrey10" />
                 <TextWrapper>
-                  miscgrey10
+                  MiscGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey100" />
+              <Icon icon="MiscGrey100" />
                 <TextWrapper>
-                  miscgrey100
+                  MiscGrey100
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey101" />
+              <Icon icon="MiscGrey101" />
                 <TextWrapper>
-                  miscgrey101
+                  MiscGrey101
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey102" />
+              <Icon icon="MiscGrey102" />
                 <TextWrapper>
-                  miscgrey102
+                  MiscGrey102
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey103" />
+              <Icon icon="MiscGrey103" />
                 <TextWrapper>
-                  miscgrey103
+                  MiscGrey103
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey104" />
+              <Icon icon="MiscGrey104" />
                 <TextWrapper>
-                  miscgrey104
+                  MiscGrey104
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey105" />
+              <Icon icon="MiscGrey105" />
                 <TextWrapper>
-                  miscgrey105
+                  MiscGrey105
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey106" />
+              <Icon icon="MiscGrey106" />
                 <TextWrapper>
-                  miscgrey106
+                  MiscGrey106
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey107" />
+              <Icon icon="MiscGrey107" />
                 <TextWrapper>
-                  miscgrey107
+                  MiscGrey107
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey108" />
+              <Icon icon="MiscGrey108" />
                 <TextWrapper>
-                  miscgrey108
+                  MiscGrey108
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey11" />
+              <Icon icon="MiscGrey11" />
                 <TextWrapper>
-                  miscgrey11
+                  MiscGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey12" />
+              <Icon icon="MiscGrey12" />
                 <TextWrapper>
-                  miscgrey12
+                  MiscGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey13" />
+              <Icon icon="MiscGrey13" />
                 <TextWrapper>
-                  miscgrey13
+                  MiscGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey14" />
+              <Icon icon="MiscGrey14" />
                 <TextWrapper>
-                  miscgrey14
+                  MiscGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey15" />
+              <Icon icon="MiscGrey15" />
                 <TextWrapper>
-                  miscgrey15
+                  MiscGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey16" />
+              <Icon icon="MiscGrey16" />
                 <TextWrapper>
-                  miscgrey16
+                  MiscGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey17" />
+              <Icon icon="MiscGrey17" />
                 <TextWrapper>
-                  miscgrey17
+                  MiscGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey18" />
+              <Icon icon="MiscGrey18" />
                 <TextWrapper>
-                  miscgrey18
+                  MiscGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey19" />
+              <Icon icon="MiscGrey19" />
                 <TextWrapper>
-                  miscgrey19
+                  MiscGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey2" />
+              <Icon icon="MiscGrey2" />
                 <TextWrapper>
-                  miscgrey2
+                  MiscGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey20" />
+              <Icon icon="MiscGrey20" />
                 <TextWrapper>
-                  miscgrey20
+                  MiscGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey21" />
+              <Icon icon="MiscGrey21" />
                 <TextWrapper>
-                  miscgrey21
+                  MiscGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey22" />
+              <Icon icon="MiscGrey22" />
                 <TextWrapper>
-                  miscgrey22
+                  MiscGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey23" />
+              <Icon icon="MiscGrey23" />
                 <TextWrapper>
-                  miscgrey23
+                  MiscGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey24" />
+              <Icon icon="MiscGrey24" />
                 <TextWrapper>
-                  miscgrey24
+                  MiscGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey25" />
+              <Icon icon="MiscGrey25" />
                 <TextWrapper>
-                  miscgrey25
+                  MiscGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey26" />
+              <Icon icon="MiscGrey26" />
                 <TextWrapper>
-                  miscgrey26
+                  MiscGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey27" />
+              <Icon icon="MiscGrey27" />
                 <TextWrapper>
-                  miscgrey27
+                  MiscGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey28" />
+              <Icon icon="MiscGrey28" />
                 <TextWrapper>
-                  miscgrey28
+                  MiscGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey29" />
+              <Icon icon="MiscGrey29" />
                 <TextWrapper>
-                  miscgrey29
+                  MiscGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey3" />
+              <Icon icon="MiscGrey3" />
                 <TextWrapper>
-                  miscgrey3
+                  MiscGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey30" />
+              <Icon icon="MiscGrey30" />
                 <TextWrapper>
-                  miscgrey30
+                  MiscGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey31" />
+              <Icon icon="MiscGrey31" />
                 <TextWrapper>
-                  miscgrey31
+                  MiscGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey32" />
+              <Icon icon="MiscGrey32" />
                 <TextWrapper>
-                  miscgrey32
+                  MiscGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey33" />
+              <Icon icon="MiscGrey33" />
                 <TextWrapper>
-                  miscgrey33
+                  MiscGrey33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey34" />
+              <Icon icon="MiscGrey34" />
                 <TextWrapper>
-                  miscgrey34
+                  MiscGrey34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey35" />
+              <Icon icon="MiscGrey35" />
                 <TextWrapper>
-                  miscgrey35
+                  MiscGrey35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey36" />
+              <Icon icon="MiscGrey36" />
                 <TextWrapper>
-                  miscgrey36
+                  MiscGrey36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey37" />
+              <Icon icon="MiscGrey37" />
                 <TextWrapper>
-                  miscgrey37
+                  MiscGrey37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey38" />
+              <Icon icon="MiscGrey38" />
                 <TextWrapper>
-                  miscgrey38
+                  MiscGrey38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey39" />
+              <Icon icon="MiscGrey39" />
                 <TextWrapper>
-                  miscgrey39
+                  MiscGrey39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey4" />
+              <Icon icon="MiscGrey4" />
                 <TextWrapper>
-                  miscgrey4
+                  MiscGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey40" />
+              <Icon icon="MiscGrey40" />
                 <TextWrapper>
-                  miscgrey40
+                  MiscGrey40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey41" />
+              <Icon icon="MiscGrey41" />
                 <TextWrapper>
-                  miscgrey41
+                  MiscGrey41
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey42" />
+              <Icon icon="MiscGrey42" />
                 <TextWrapper>
-                  miscgrey42
+                  MiscGrey42
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey43" />
+              <Icon icon="MiscGrey43" />
                 <TextWrapper>
-                  miscgrey43
+                  MiscGrey43
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey44" />
+              <Icon icon="MiscGrey44" />
                 <TextWrapper>
-                  miscgrey44
+                  MiscGrey44
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey45" />
+              <Icon icon="MiscGrey45" />
                 <TextWrapper>
-                  miscgrey45
+                  MiscGrey45
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey46" />
+              <Icon icon="MiscGrey46" />
                 <TextWrapper>
-                  miscgrey46
+                  MiscGrey46
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey47" />
+              <Icon icon="MiscGrey47" />
                 <TextWrapper>
-                  miscgrey47
+                  MiscGrey47
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey48" />
+              <Icon icon="MiscGrey48" />
                 <TextWrapper>
-                  miscgrey48
+                  MiscGrey48
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey49" />
+              <Icon icon="MiscGrey49" />
                 <TextWrapper>
-                  miscgrey49
+                  MiscGrey49
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey5" />
+              <Icon icon="MiscGrey5" />
                 <TextWrapper>
-                  miscgrey5
+                  MiscGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey50" />
+              <Icon icon="MiscGrey50" />
                 <TextWrapper>
-                  miscgrey50
+                  MiscGrey50
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey51" />
+              <Icon icon="MiscGrey51" />
                 <TextWrapper>
-                  miscgrey51
+                  MiscGrey51
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey52" />
+              <Icon icon="MiscGrey52" />
                 <TextWrapper>
-                  miscgrey52
+                  MiscGrey52
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey53" />
+              <Icon icon="MiscGrey53" />
                 <TextWrapper>
-                  miscgrey53
+                  MiscGrey53
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey54" />
+              <Icon icon="MiscGrey54" />
                 <TextWrapper>
-                  miscgrey54
+                  MiscGrey54
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey55" />
+              <Icon icon="MiscGrey55" />
                 <TextWrapper>
-                  miscgrey55
+                  MiscGrey55
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey56" />
+              <Icon icon="MiscGrey56" />
                 <TextWrapper>
-                  miscgrey56
+                  MiscGrey56
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey57" />
+              <Icon icon="MiscGrey57" />
                 <TextWrapper>
-                  miscgrey57
+                  MiscGrey57
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey58" />
+              <Icon icon="MiscGrey58" />
                 <TextWrapper>
-                  miscgrey58
+                  MiscGrey58
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey59" />
+              <Icon icon="MiscGrey59" />
                 <TextWrapper>
-                  miscgrey59
+                  MiscGrey59
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey6" />
+              <Icon icon="MiscGrey6" />
                 <TextWrapper>
-                  miscgrey6
+                  MiscGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey60" />
+              <Icon icon="MiscGrey60" />
                 <TextWrapper>
-                  miscgrey60
+                  MiscGrey60
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey61" />
+              <Icon icon="MiscGrey61" />
                 <TextWrapper>
-                  miscgrey61
+                  MiscGrey61
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey62" />
+              <Icon icon="MiscGrey62" />
                 <TextWrapper>
-                  miscgrey62
+                  MiscGrey62
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey63" />
+              <Icon icon="MiscGrey63" />
                 <TextWrapper>
-                  miscgrey63
+                  MiscGrey63
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey64" />
+              <Icon icon="MiscGrey64" />
                 <TextWrapper>
-                  miscgrey64
+                  MiscGrey64
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey65" />
+              <Icon icon="MiscGrey65" />
                 <TextWrapper>
-                  miscgrey65
+                  MiscGrey65
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey66" />
+              <Icon icon="MiscGrey66" />
                 <TextWrapper>
-                  miscgrey66
+                  MiscGrey66
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey67" />
+              <Icon icon="MiscGrey67" />
                 <TextWrapper>
-                  miscgrey67
+                  MiscGrey67
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey68" />
+              <Icon icon="MiscGrey68" />
                 <TextWrapper>
-                  miscgrey68
+                  MiscGrey68
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey69" />
+              <Icon icon="MiscGrey69" />
                 <TextWrapper>
-                  miscgrey69
+                  MiscGrey69
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey7" />
+              <Icon icon="MiscGrey7" />
                 <TextWrapper>
-                  miscgrey7
+                  MiscGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey70" />
+              <Icon icon="MiscGrey70" />
                 <TextWrapper>
-                  miscgrey70
+                  MiscGrey70
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey71" />
+              <Icon icon="MiscGrey71" />
                 <TextWrapper>
-                  miscgrey71
+                  MiscGrey71
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey72" />
+              <Icon icon="MiscGrey72" />
                 <TextWrapper>
-                  miscgrey72
+                  MiscGrey72
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey73" />
+              <Icon icon="MiscGrey73" />
                 <TextWrapper>
-                  miscgrey73
+                  MiscGrey73
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey74" />
+              <Icon icon="MiscGrey74" />
                 <TextWrapper>
-                  miscgrey74
+                  MiscGrey74
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey75" />
+              <Icon icon="MiscGrey75" />
                 <TextWrapper>
-                  miscgrey75
+                  MiscGrey75
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey76" />
+              <Icon icon="MiscGrey76" />
                 <TextWrapper>
-                  miscgrey76
+                  MiscGrey76
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey77" />
+              <Icon icon="MiscGrey77" />
                 <TextWrapper>
-                  miscgrey77
+                  MiscGrey77
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey78" />
+              <Icon icon="MiscGrey78" />
                 <TextWrapper>
-                  miscgrey78
+                  MiscGrey78
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey79" />
+              <Icon icon="MiscGrey79" />
                 <TextWrapper>
-                  miscgrey79
+                  MiscGrey79
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey8" />
+              <Icon icon="MiscGrey8" />
                 <TextWrapper>
-                  miscgrey8
+                  MiscGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey80" />
+              <Icon icon="MiscGrey80" />
                 <TextWrapper>
-                  miscgrey80
+                  MiscGrey80
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey81" />
+              <Icon icon="MiscGrey81" />
                 <TextWrapper>
-                  miscgrey81
+                  MiscGrey81
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey82" />
+              <Icon icon="MiscGrey82" />
                 <TextWrapper>
-                  miscgrey82
+                  MiscGrey82
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey83" />
+              <Icon icon="MiscGrey83" />
                 <TextWrapper>
-                  miscgrey83
+                  MiscGrey83
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey84" />
+              <Icon icon="MiscGrey84" />
                 <TextWrapper>
-                  miscgrey84
+                  MiscGrey84
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey85" />
+              <Icon icon="MiscGrey85" />
                 <TextWrapper>
-                  miscgrey85
+                  MiscGrey85
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey86" />
+              <Icon icon="MiscGrey86" />
                 <TextWrapper>
-                  miscgrey86
+                  MiscGrey86
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey87" />
+              <Icon icon="MiscGrey87" />
                 <TextWrapper>
-                  miscgrey87
+                  MiscGrey87
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey88" />
+              <Icon icon="MiscGrey88" />
                 <TextWrapper>
-                  miscgrey88
+                  MiscGrey88
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey89" />
+              <Icon icon="MiscGrey89" />
                 <TextWrapper>
-                  miscgrey89
+                  MiscGrey89
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey9" />
+              <Icon icon="MiscGrey9" />
                 <TextWrapper>
-                  miscgrey9
+                  MiscGrey9
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey90" />
+              <Icon icon="MiscGrey90" />
                 <TextWrapper>
-                  miscgrey90
+                  MiscGrey90
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey91" />
+              <Icon icon="MiscGrey91" />
                 <TextWrapper>
-                  miscgrey91
+                  MiscGrey91
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey92" />
+              <Icon icon="MiscGrey92" />
                 <TextWrapper>
-                  miscgrey92
+                  MiscGrey92
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey93" />
+              <Icon icon="MiscGrey93" />
                 <TextWrapper>
-                  miscgrey93
+                  MiscGrey93
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey94" />
+              <Icon icon="MiscGrey94" />
                 <TextWrapper>
-                  miscgrey94
+                  MiscGrey94
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey95" />
+              <Icon icon="MiscGrey95" />
                 <TextWrapper>
-                  miscgrey95
+                  MiscGrey95
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey96" />
+              <Icon icon="MiscGrey96" />
                 <TextWrapper>
-                  miscgrey96
+                  MiscGrey96
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey97" />
+              <Icon icon="MiscGrey97" />
                 <TextWrapper>
-                  miscgrey97
+                  MiscGrey97
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey98" />
+              <Icon icon="MiscGrey98" />
                 <TextWrapper>
-                  miscgrey98
+                  MiscGrey98
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="miscgrey99" />
+              <Icon icon="MiscGrey99" />
                 <TextWrapper>
-                  miscgrey99
+                  MiscGrey99
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7093,164 +7093,164 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="mobileuigrey1" />
+              <Icon icon="MobileUiGrey1" />
                 <TextWrapper>
-                  mobileuigrey1
+                  MobileUiGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey10" />
+              <Icon icon="MobileUiGrey10" />
                 <TextWrapper>
-                  mobileuigrey10
+                  MobileUiGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey11" />
+              <Icon icon="MobileUiGrey11" />
                 <TextWrapper>
-                  mobileuigrey11
+                  MobileUiGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey12" />
+              <Icon icon="MobileUiGrey12" />
                 <TextWrapper>
-                  mobileuigrey12
+                  MobileUiGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey13" />
+              <Icon icon="MobileUiGrey13" />
                 <TextWrapper>
-                  mobileuigrey13
+                  MobileUiGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey14" />
+              <Icon icon="MobileUiGrey14" />
                 <TextWrapper>
-                  mobileuigrey14
+                  MobileUiGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey15" />
+              <Icon icon="MobileUiGrey15" />
                 <TextWrapper>
-                  mobileuigrey15
+                  MobileUiGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey16" />
+              <Icon icon="MobileUiGrey16" />
                 <TextWrapper>
-                  mobileuigrey16
+                  MobileUiGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey17" />
+              <Icon icon="MobileUiGrey17" />
                 <TextWrapper>
-                  mobileuigrey17
+                  MobileUiGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey18" />
+              <Icon icon="MobileUiGrey18" />
                 <TextWrapper>
-                  mobileuigrey18
+                  MobileUiGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey19" />
+              <Icon icon="MobileUiGrey19" />
                 <TextWrapper>
-                  mobileuigrey19
+                  MobileUiGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey2" />
+              <Icon icon="MobileUiGrey2" />
                 <TextWrapper>
-                  mobileuigrey2
+                  MobileUiGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey20" />
+              <Icon icon="MobileUiGrey20" />
                 <TextWrapper>
-                  mobileuigrey20
+                  MobileUiGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey21" />
+              <Icon icon="MobileUiGrey21" />
                 <TextWrapper>
-                  mobileuigrey21
+                  MobileUiGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey22" />
+              <Icon icon="MobileUiGrey22" />
                 <TextWrapper>
-                  mobileuigrey22
+                  MobileUiGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey23" />
+              <Icon icon="MobileUiGrey23" />
                 <TextWrapper>
-                  mobileuigrey23
+                  MobileUiGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey24" />
+              <Icon icon="MobileUiGrey24" />
                 <TextWrapper>
-                  mobileuigrey24
+                  MobileUiGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey25" />
+              <Icon icon="MobileUiGrey25" />
                 <TextWrapper>
-                  mobileuigrey25
+                  MobileUiGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey26" />
+              <Icon icon="MobileUiGrey26" />
                 <TextWrapper>
-                  mobileuigrey26
+                  MobileUiGrey26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey27" />
+              <Icon icon="MobileUiGrey27" />
                 <TextWrapper>
-                  mobileuigrey27
+                  MobileUiGrey27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey28" />
+              <Icon icon="MobileUiGrey28" />
                 <TextWrapper>
-                  mobileuigrey28
+                  MobileUiGrey28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey29" />
+              <Icon icon="MobileUiGrey29" />
                 <TextWrapper>
-                  mobileuigrey29
+                  MobileUiGrey29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey3" />
+              <Icon icon="MobileUiGrey3" />
                 <TextWrapper>
-                  mobileuigrey3
+                  MobileUiGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey30" />
+              <Icon icon="MobileUiGrey30" />
                 <TextWrapper>
-                  mobileuigrey30
+                  MobileUiGrey30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey31" />
+              <Icon icon="MobileUiGrey31" />
                 <TextWrapper>
-                  mobileuigrey31
+                  MobileUiGrey31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey32" />
+              <Icon icon="MobileUiGrey32" />
                 <TextWrapper>
-                  mobileuigrey32
+                  MobileUiGrey32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey4" />
+              <Icon icon="MobileUiGrey4" />
                 <TextWrapper>
-                  mobileuigrey4
+                  MobileUiGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey5" />
+              <Icon icon="MobileUiGrey5" />
                 <TextWrapper>
-                  mobileuigrey5
+                  MobileUiGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey6" />
+              <Icon icon="MobileUiGrey6" />
                 <TextWrapper>
-                  mobileuigrey6
+                  MobileUiGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey7" />
+              <Icon icon="MobileUiGrey7" />
                 <TextWrapper>
-                  mobileuigrey7
+                  MobileUiGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey8" />
+              <Icon icon="MobileUiGrey8" />
                 <TextWrapper>
-                  mobileuigrey8
+                  MobileUiGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mobileuigrey9" />
+              <Icon icon="MobileUiGrey9" />
                 <TextWrapper>
-                  mobileuigrey9
+                  MobileUiGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7266,84 +7266,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="musiccolor1" />
+              <Icon icon="MusicColor1" />
                 <TextWrapper>
-                  musiccolor1
+                  MusicColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor10" />
+              <Icon icon="MusicColor10" />
                 <TextWrapper>
-                  musiccolor10
+                  MusicColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor11" />
+              <Icon icon="MusicColor11" />
                 <TextWrapper>
-                  musiccolor11
+                  MusicColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor12" />
+              <Icon icon="MusicColor12" />
                 <TextWrapper>
-                  musiccolor12
+                  MusicColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor13" />
+              <Icon icon="MusicColor13" />
                 <TextWrapper>
-                  musiccolor13
+                  MusicColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor14" />
+              <Icon icon="MusicColor14" />
                 <TextWrapper>
-                  musiccolor14
+                  MusicColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor15" />
+              <Icon icon="MusicColor15" />
                 <TextWrapper>
-                  musiccolor15
+                  MusicColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor16" />
+              <Icon icon="MusicColor16" />
                 <TextWrapper>
-                  musiccolor16
+                  MusicColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor2" />
+              <Icon icon="MusicColor2" />
                 <TextWrapper>
-                  musiccolor2
+                  MusicColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor3" />
+              <Icon icon="MusicColor3" />
                 <TextWrapper>
-                  musiccolor3
+                  MusicColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor4" />
+              <Icon icon="MusicColor4" />
                 <TextWrapper>
-                  musiccolor4
+                  MusicColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor5" />
+              <Icon icon="MusicColor5" />
                 <TextWrapper>
-                  musiccolor5
+                  MusicColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor6" />
+              <Icon icon="MusicColor6" />
                 <TextWrapper>
-                  musiccolor6
+                  MusicColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor7" />
+              <Icon icon="MusicColor7" />
                 <TextWrapper>
-                  musiccolor7
+                  MusicColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor8" />
+              <Icon icon="MusicColor8" />
                 <TextWrapper>
-                  musiccolor8
+                  MusicColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musiccolor9" />
+              <Icon icon="MusicColor9" />
                 <TextWrapper>
-                  musiccolor9
+                  MusicColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7359,84 +7359,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="musicgrey1" />
+              <Icon icon="MusicGrey1" />
                 <TextWrapper>
-                  musicgrey1
+                  MusicGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey10" />
+              <Icon icon="MusicGrey10" />
                 <TextWrapper>
-                  musicgrey10
+                  MusicGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey11" />
+              <Icon icon="MusicGrey11" />
                 <TextWrapper>
-                  musicgrey11
+                  MusicGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey12" />
+              <Icon icon="MusicGrey12" />
                 <TextWrapper>
-                  musicgrey12
+                  MusicGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey13" />
+              <Icon icon="MusicGrey13" />
                 <TextWrapper>
-                  musicgrey13
+                  MusicGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey14" />
+              <Icon icon="MusicGrey14" />
                 <TextWrapper>
-                  musicgrey14
+                  MusicGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey15" />
+              <Icon icon="MusicGrey15" />
                 <TextWrapper>
-                  musicgrey15
+                  MusicGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey16" />
+              <Icon icon="MusicGrey16" />
                 <TextWrapper>
-                  musicgrey16
+                  MusicGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey2" />
+              <Icon icon="MusicGrey2" />
                 <TextWrapper>
-                  musicgrey2
+                  MusicGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey3" />
+              <Icon icon="MusicGrey3" />
                 <TextWrapper>
-                  musicgrey3
+                  MusicGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey4" />
+              <Icon icon="MusicGrey4" />
                 <TextWrapper>
-                  musicgrey4
+                  MusicGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey5" />
+              <Icon icon="MusicGrey5" />
                 <TextWrapper>
-                  musicgrey5
+                  MusicGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey6" />
+              <Icon icon="MusicGrey6" />
                 <TextWrapper>
-                  musicgrey6
+                  MusicGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey7" />
+              <Icon icon="MusicGrey7" />
                 <TextWrapper>
-                  musicgrey7
+                  MusicGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey8" />
+              <Icon icon="MusicGrey8" />
                 <TextWrapper>
-                  musicgrey8
+                  MusicGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="musicgrey9" />
+              <Icon icon="MusicGrey9" />
                 <TextWrapper>
-                  musicgrey9
+                  MusicGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7452,204 +7452,204 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="officecolor1" />
+              <Icon icon="OfficeColor1" />
                 <TextWrapper>
-                  officecolor1
+                  OfficeColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor10" />
+              <Icon icon="OfficeColor10" />
                 <TextWrapper>
-                  officecolor10
+                  OfficeColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor11" />
+              <Icon icon="OfficeColor11" />
                 <TextWrapper>
-                  officecolor11
+                  OfficeColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor12" />
+              <Icon icon="OfficeColor12" />
                 <TextWrapper>
-                  officecolor12
+                  OfficeColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor13" />
+              <Icon icon="OfficeColor13" />
                 <TextWrapper>
-                  officecolor13
+                  OfficeColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor14" />
+              <Icon icon="OfficeColor14" />
                 <TextWrapper>
-                  officecolor14
+                  OfficeColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor15" />
+              <Icon icon="OfficeColor15" />
                 <TextWrapper>
-                  officecolor15
+                  OfficeColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor16" />
+              <Icon icon="OfficeColor16" />
                 <TextWrapper>
-                  officecolor16
+                  OfficeColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor17" />
+              <Icon icon="OfficeColor17" />
                 <TextWrapper>
-                  officecolor17
+                  OfficeColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor18" />
+              <Icon icon="OfficeColor18" />
                 <TextWrapper>
-                  officecolor18
+                  OfficeColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor19" />
+              <Icon icon="OfficeColor19" />
                 <TextWrapper>
-                  officecolor19
+                  OfficeColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor2" />
+              <Icon icon="OfficeColor2" />
                 <TextWrapper>
-                  officecolor2
+                  OfficeColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor20" />
+              <Icon icon="OfficeColor20" />
                 <TextWrapper>
-                  officecolor20
+                  OfficeColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor21" />
+              <Icon icon="OfficeColor21" />
                 <TextWrapper>
-                  officecolor21
+                  OfficeColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor22" />
+              <Icon icon="OfficeColor22" />
                 <TextWrapper>
-                  officecolor22
+                  OfficeColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor23" />
+              <Icon icon="OfficeColor23" />
                 <TextWrapper>
-                  officecolor23
+                  OfficeColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor24" />
+              <Icon icon="OfficeColor24" />
                 <TextWrapper>
-                  officecolor24
+                  OfficeColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor25" />
+              <Icon icon="OfficeColor25" />
                 <TextWrapper>
-                  officecolor25
+                  OfficeColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor26" />
+              <Icon icon="OfficeColor26" />
                 <TextWrapper>
-                  officecolor26
+                  OfficeColor26
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor27" />
+              <Icon icon="OfficeColor27" />
                 <TextWrapper>
-                  officecolor27
+                  OfficeColor27
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor28" />
+              <Icon icon="OfficeColor28" />
                 <TextWrapper>
-                  officecolor28
+                  OfficeColor28
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor29" />
+              <Icon icon="OfficeColor29" />
                 <TextWrapper>
-                  officecolor29
+                  OfficeColor29
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor3" />
+              <Icon icon="OfficeColor3" />
                 <TextWrapper>
-                  officecolor3
+                  OfficeColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor30" />
+              <Icon icon="OfficeColor30" />
                 <TextWrapper>
-                  officecolor30
+                  OfficeColor30
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor31" />
+              <Icon icon="OfficeColor31" />
                 <TextWrapper>
-                  officecolor31
+                  OfficeColor31
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor32" />
+              <Icon icon="OfficeColor32" />
                 <TextWrapper>
-                  officecolor32
+                  OfficeColor32
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor33" />
+              <Icon icon="OfficeColor33" />
                 <TextWrapper>
-                  officecolor33
+                  OfficeColor33
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor34" />
+              <Icon icon="OfficeColor34" />
                 <TextWrapper>
-                  officecolor34
+                  OfficeColor34
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor35" />
+              <Icon icon="OfficeColor35" />
                 <TextWrapper>
-                  officecolor35
+                  OfficeColor35
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor36" />
+              <Icon icon="OfficeColor36" />
                 <TextWrapper>
-                  officecolor36
+                  OfficeColor36
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor37" />
+              <Icon icon="OfficeColor37" />
                 <TextWrapper>
-                  officecolor37
+                  OfficeColor37
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor38" />
+              <Icon icon="OfficeColor38" />
                 <TextWrapper>
-                  officecolor38
+                  OfficeColor38
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor39" />
+              <Icon icon="OfficeColor39" />
                 <TextWrapper>
-                  officecolor39
+                  OfficeColor39
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor4" />
+              <Icon icon="OfficeColor4" />
                 <TextWrapper>
-                  officecolor4
+                  OfficeColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor40" />
+              <Icon icon="OfficeColor40" />
                 <TextWrapper>
-                  officecolor40
+                  OfficeColor40
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor5" />
+              <Icon icon="OfficeColor5" />
                 <TextWrapper>
-                  officecolor5
+                  OfficeColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor6" />
+              <Icon icon="OfficeColor6" />
                 <TextWrapper>
-                  officecolor6
+                  OfficeColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor7" />
+              <Icon icon="OfficeColor7" />
                 <TextWrapper>
-                  officecolor7
+                  OfficeColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor8" />
+              <Icon icon="OfficeColor8" />
                 <TextWrapper>
-                  officecolor8
+                  OfficeColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officecolor9" />
+              <Icon icon="OfficeColor9" />
                 <TextWrapper>
-                  officecolor9
+                  OfficeColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7665,132 +7665,106 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="officegrey1" />
+              <Icon icon="OfficeGrey1" />
                 <TextWrapper>
-                  officegrey1
+                  OfficeGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey10" />
+              <Icon icon="OfficeGrey10" />
                 <TextWrapper>
-                  officegrey10
+                  OfficeGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey11" />
+              <Icon icon="OfficeGrey11" />
                 <TextWrapper>
-                  officegrey11
+                  OfficeGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey12" />
+              <Icon icon="OfficeGrey12" />
                 <TextWrapper>
-                  officegrey12
+                  OfficeGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey13" />
+              <Icon icon="OfficeGrey13" />
                 <TextWrapper>
-                  officegrey13
+                  OfficeGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey14" />
+              <Icon icon="OfficeGrey14" />
                 <TextWrapper>
-                  officegrey14
+                  OfficeGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey15" />
+              <Icon icon="OfficeGrey15" />
                 <TextWrapper>
-                  officegrey15
+                  OfficeGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey16" />
+              <Icon icon="OfficeGrey16" />
                 <TextWrapper>
-                  officegrey16
+                  OfficeGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey17" />
+              <Icon icon="OfficeGrey17" />
                 <TextWrapper>
-                  officegrey17
+                  OfficeGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey18" />
+              <Icon icon="OfficeGrey18" />
                 <TextWrapper>
-                  officegrey18
+                  OfficeGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey19" />
+              <Icon icon="OfficeGrey19" />
                 <TextWrapper>
-                  officegrey19
+                  OfficeGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey2" />
+              <Icon icon="OfficeGrey2" />
                 <TextWrapper>
-                  officegrey2
+                  OfficeGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey20" />
+              <Icon icon="OfficeGrey20" />
                 <TextWrapper>
-                  officegrey20
+                  OfficeGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey3" />
+              <Icon icon="OfficeGrey3" />
                 <TextWrapper>
-                  officegrey3
+                  OfficeGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey4" />
+              <Icon icon="OfficeGrey4" />
                 <TextWrapper>
-                  officegrey4
+                  OfficeGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey5" />
+              <Icon icon="OfficeGrey5" />
                 <TextWrapper>
-                  officegrey5
+                  OfficeGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey6" />
+              <Icon icon="OfficeGrey6" />
                 <TextWrapper>
-                  officegrey6
+                  OfficeGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey7" />
+              <Icon icon="OfficeGrey7" />
                 <TextWrapper>
-                  officegrey7
+                  OfficeGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey8" />
+              <Icon icon="OfficeGrey8" />
                 <TextWrapper>
-                  officegrey8
+                  OfficeGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="officegrey9" />
+              <Icon icon="OfficeGrey9" />
                 <TextWrapper>
-                  officegrey9
+                  OfficeGrey9
                 </TextWrapper>
               </IconWrapper>
-          </StyledView>
-        </StyledScrollView>
-      </UseCase>
-    </Story>
-  ))
-.add('openmoji-color', () : ReactElement => (
-    <Story>
-      <UseCase
-        text="Icon => openmoji-color"
-      >
-        <StyledScrollView>
-          <StyledView>
-            
-          </StyledView>
-        </StyledScrollView>
-      </UseCase>
-    </Story>
-  ))
-.add('openmoji-grey', () : ReactElement => (
-    <Story>
-      <UseCase
-        text="Icon => openmoji-grey"
-      >
-        <StyledScrollView>
-          <StyledView>
-            
           </StyledView>
         </StyledScrollView>
       </UseCase>
@@ -7804,84 +7778,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="securitycolor1" />
+              <Icon icon="SecurityColor1" />
                 <TextWrapper>
-                  securitycolor1
+                  SecurityColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor10" />
+              <Icon icon="SecurityColor10" />
                 <TextWrapper>
-                  securitycolor10
+                  SecurityColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor11" />
+              <Icon icon="SecurityColor11" />
                 <TextWrapper>
-                  securitycolor11
+                  SecurityColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor12" />
+              <Icon icon="SecurityColor12" />
                 <TextWrapper>
-                  securitycolor12
+                  SecurityColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor13" />
+              <Icon icon="SecurityColor13" />
                 <TextWrapper>
-                  securitycolor13
+                  SecurityColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor14" />
+              <Icon icon="SecurityColor14" />
                 <TextWrapper>
-                  securitycolor14
+                  SecurityColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor15" />
+              <Icon icon="SecurityColor15" />
                 <TextWrapper>
-                  securitycolor15
+                  SecurityColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor16" />
+              <Icon icon="SecurityColor16" />
                 <TextWrapper>
-                  securitycolor16
+                  SecurityColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor2" />
+              <Icon icon="SecurityColor2" />
                 <TextWrapper>
-                  securitycolor2
+                  SecurityColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor3" />
+              <Icon icon="SecurityColor3" />
                 <TextWrapper>
-                  securitycolor3
+                  SecurityColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor4" />
+              <Icon icon="SecurityColor4" />
                 <TextWrapper>
-                  securitycolor4
+                  SecurityColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor5" />
+              <Icon icon="SecurityColor5" />
                 <TextWrapper>
-                  securitycolor5
+                  SecurityColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor6" />
+              <Icon icon="SecurityColor6" />
                 <TextWrapper>
-                  securitycolor6
+                  SecurityColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor7" />
+              <Icon icon="SecurityColor7" />
                 <TextWrapper>
-                  securitycolor7
+                  SecurityColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor8" />
+              <Icon icon="SecurityColor8" />
                 <TextWrapper>
-                  securitycolor8
+                  SecurityColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitycolor9" />
+              <Icon icon="SecurityColor9" />
                 <TextWrapper>
-                  securitycolor9
+                  SecurityColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7897,84 +7871,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="securitygrey1" />
+              <Icon icon="SecurityGrey1" />
                 <TextWrapper>
-                  securitygrey1
+                  SecurityGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey10" />
+              <Icon icon="SecurityGrey10" />
                 <TextWrapper>
-                  securitygrey10
+                  SecurityGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey11" />
+              <Icon icon="SecurityGrey11" />
                 <TextWrapper>
-                  securitygrey11
+                  SecurityGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey12" />
+              <Icon icon="SecurityGrey12" />
                 <TextWrapper>
-                  securitygrey12
+                  SecurityGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey13" />
+              <Icon icon="SecurityGrey13" />
                 <TextWrapper>
-                  securitygrey13
+                  SecurityGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey14" />
+              <Icon icon="SecurityGrey14" />
                 <TextWrapper>
-                  securitygrey14
+                  SecurityGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey15" />
+              <Icon icon="SecurityGrey15" />
                 <TextWrapper>
-                  securitygrey15
+                  SecurityGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey16" />
+              <Icon icon="SecurityGrey16" />
                 <TextWrapper>
-                  securitygrey16
+                  SecurityGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey2" />
+              <Icon icon="SecurityGrey2" />
                 <TextWrapper>
-                  securitygrey2
+                  SecurityGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey3" />
+              <Icon icon="SecurityGrey3" />
                 <TextWrapper>
-                  securitygrey3
+                  SecurityGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey4" />
+              <Icon icon="SecurityGrey4" />
                 <TextWrapper>
-                  securitygrey4
+                  SecurityGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey5" />
+              <Icon icon="SecurityGrey5" />
                 <TextWrapper>
-                  securitygrey5
+                  SecurityGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey6" />
+              <Icon icon="SecurityGrey6" />
                 <TextWrapper>
-                  securitygrey6
+                  SecurityGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey7" />
+              <Icon icon="SecurityGrey7" />
                 <TextWrapper>
-                  securitygrey7
+                  SecurityGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey8" />
+              <Icon icon="SecurityGrey8" />
                 <TextWrapper>
-                  securitygrey8
+                  SecurityGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="securitygrey9" />
+              <Icon icon="SecurityGrey9" />
                 <TextWrapper>
-                  securitygrey9
+                  SecurityGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -7990,84 +7964,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="shoppingcolor1" />
+              <Icon icon="ShoppingColor1" />
                 <TextWrapper>
-                  shoppingcolor1
+                  ShoppingColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor10" />
+              <Icon icon="ShoppingColor10" />
                 <TextWrapper>
-                  shoppingcolor10
+                  ShoppingColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor11" />
+              <Icon icon="ShoppingColor11" />
                 <TextWrapper>
-                  shoppingcolor11
+                  ShoppingColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor12" />
+              <Icon icon="ShoppingColor12" />
                 <TextWrapper>
-                  shoppingcolor12
+                  ShoppingColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor13" />
+              <Icon icon="ShoppingColor13" />
                 <TextWrapper>
-                  shoppingcolor13
+                  ShoppingColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor14" />
+              <Icon icon="ShoppingColor14" />
                 <TextWrapper>
-                  shoppingcolor14
+                  ShoppingColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor15" />
+              <Icon icon="ShoppingColor15" />
                 <TextWrapper>
-                  shoppingcolor15
+                  ShoppingColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor16" />
+              <Icon icon="ShoppingColor16" />
                 <TextWrapper>
-                  shoppingcolor16
+                  ShoppingColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor2" />
+              <Icon icon="ShoppingColor2" />
                 <TextWrapper>
-                  shoppingcolor2
+                  ShoppingColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor3" />
+              <Icon icon="ShoppingColor3" />
                 <TextWrapper>
-                  shoppingcolor3
+                  ShoppingColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor4" />
+              <Icon icon="ShoppingColor4" />
                 <TextWrapper>
-                  shoppingcolor4
+                  ShoppingColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor5" />
+              <Icon icon="ShoppingColor5" />
                 <TextWrapper>
-                  shoppingcolor5
+                  ShoppingColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor6" />
+              <Icon icon="ShoppingColor6" />
                 <TextWrapper>
-                  shoppingcolor6
+                  ShoppingColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor7" />
+              <Icon icon="ShoppingColor7" />
                 <TextWrapper>
-                  shoppingcolor7
+                  ShoppingColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor8" />
+              <Icon icon="ShoppingColor8" />
                 <TextWrapper>
-                  shoppingcolor8
+                  ShoppingColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppingcolor9" />
+              <Icon icon="ShoppingColor9" />
                 <TextWrapper>
-                  shoppingcolor9
+                  ShoppingColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8083,84 +8057,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="shoppinggrey1" />
+              <Icon icon="ShoppingGrey1" />
                 <TextWrapper>
-                  shoppinggrey1
+                  ShoppingGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey10" />
+              <Icon icon="ShoppingGrey10" />
                 <TextWrapper>
-                  shoppinggrey10
+                  ShoppingGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey11" />
+              <Icon icon="ShoppingGrey11" />
                 <TextWrapper>
-                  shoppinggrey11
+                  ShoppingGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey12" />
+              <Icon icon="ShoppingGrey12" />
                 <TextWrapper>
-                  shoppinggrey12
+                  ShoppingGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey13" />
+              <Icon icon="ShoppingGrey13" />
                 <TextWrapper>
-                  shoppinggrey13
+                  ShoppingGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey14" />
+              <Icon icon="ShoppingGrey14" />
                 <TextWrapper>
-                  shoppinggrey14
+                  ShoppingGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey15" />
+              <Icon icon="ShoppingGrey15" />
                 <TextWrapper>
-                  shoppinggrey15
+                  ShoppingGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey16" />
+              <Icon icon="ShoppingGrey16" />
                 <TextWrapper>
-                  shoppinggrey16
+                  ShoppingGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey2" />
+              <Icon icon="ShoppingGrey2" />
                 <TextWrapper>
-                  shoppinggrey2
+                  ShoppingGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey3" />
+              <Icon icon="ShoppingGrey3" />
                 <TextWrapper>
-                  shoppinggrey3
+                  ShoppingGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey4" />
+              <Icon icon="ShoppingGrey4" />
                 <TextWrapper>
-                  shoppinggrey4
+                  ShoppingGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey5" />
+              <Icon icon="ShoppingGrey5" />
                 <TextWrapper>
-                  shoppinggrey5
+                  ShoppingGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey6" />
+              <Icon icon="ShoppingGrey6" />
                 <TextWrapper>
-                  shoppinggrey6
+                  ShoppingGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey7" />
+              <Icon icon="ShoppingGrey7" />
                 <TextWrapper>
-                  shoppinggrey7
+                  ShoppingGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey8" />
+              <Icon icon="ShoppingGrey8" />
                 <TextWrapper>
-                  shoppinggrey8
+                  ShoppingGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="shoppinggrey9" />
+              <Icon icon="ShoppingGrey9" />
                 <TextWrapper>
-                  shoppinggrey9
+                  ShoppingGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8176,84 +8150,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="skullcolor1" />
+              <Icon icon="SkullColor1" />
                 <TextWrapper>
-                  skullcolor1
+                  SkullColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor10" />
+              <Icon icon="SkullColor10" />
                 <TextWrapper>
-                  skullcolor10
+                  SkullColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor11" />
+              <Icon icon="SkullColor11" />
                 <TextWrapper>
-                  skullcolor11
+                  SkullColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor12" />
+              <Icon icon="SkullColor12" />
                 <TextWrapper>
-                  skullcolor12
+                  SkullColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor13" />
+              <Icon icon="SkullColor13" />
                 <TextWrapper>
-                  skullcolor13
+                  SkullColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor14" />
+              <Icon icon="SkullColor14" />
                 <TextWrapper>
-                  skullcolor14
+                  SkullColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor15" />
+              <Icon icon="SkullColor15" />
                 <TextWrapper>
-                  skullcolor15
+                  SkullColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor16" />
+              <Icon icon="SkullColor16" />
                 <TextWrapper>
-                  skullcolor16
+                  SkullColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor2" />
+              <Icon icon="SkullColor2" />
                 <TextWrapper>
-                  skullcolor2
+                  SkullColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor3" />
+              <Icon icon="SkullColor3" />
                 <TextWrapper>
-                  skullcolor3
+                  SkullColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor4" />
+              <Icon icon="SkullColor4" />
                 <TextWrapper>
-                  skullcolor4
+                  SkullColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor5" />
+              <Icon icon="SkullColor5" />
                 <TextWrapper>
-                  skullcolor5
+                  SkullColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor6" />
+              <Icon icon="SkullColor6" />
                 <TextWrapper>
-                  skullcolor6
+                  SkullColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor7" />
+              <Icon icon="SkullColor7" />
                 <TextWrapper>
-                  skullcolor7
+                  SkullColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor8" />
+              <Icon icon="SkullColor8" />
                 <TextWrapper>
-                  skullcolor8
+                  SkullColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullcolor9" />
+              <Icon icon="SkullColor9" />
                 <TextWrapper>
-                  skullcolor9
+                  SkullColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8269,84 +8243,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="skullgrey1" />
+              <Icon icon="SkullGrey1" />
                 <TextWrapper>
-                  skullgrey1
+                  SkullGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey10" />
+              <Icon icon="SkullGrey10" />
                 <TextWrapper>
-                  skullgrey10
+                  SkullGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey11" />
+              <Icon icon="SkullGrey11" />
                 <TextWrapper>
-                  skullgrey11
+                  SkullGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey12" />
+              <Icon icon="SkullGrey12" />
                 <TextWrapper>
-                  skullgrey12
+                  SkullGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey13" />
+              <Icon icon="SkullGrey13" />
                 <TextWrapper>
-                  skullgrey13
+                  SkullGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey14" />
+              <Icon icon="SkullGrey14" />
                 <TextWrapper>
-                  skullgrey14
+                  SkullGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey15" />
+              <Icon icon="SkullGrey15" />
                 <TextWrapper>
-                  skullgrey15
+                  SkullGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey16" />
+              <Icon icon="SkullGrey16" />
                 <TextWrapper>
-                  skullgrey16
+                  SkullGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey2" />
+              <Icon icon="SkullGrey2" />
                 <TextWrapper>
-                  skullgrey2
+                  SkullGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey3" />
+              <Icon icon="SkullGrey3" />
                 <TextWrapper>
-                  skullgrey3
+                  SkullGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey4" />
+              <Icon icon="SkullGrey4" />
                 <TextWrapper>
-                  skullgrey4
+                  SkullGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey5" />
+              <Icon icon="SkullGrey5" />
                 <TextWrapper>
-                  skullgrey5
+                  SkullGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey6" />
+              <Icon icon="SkullGrey6" />
                 <TextWrapper>
-                  skullgrey6
+                  SkullGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey7" />
+              <Icon icon="SkullGrey7" />
                 <TextWrapper>
-                  skullgrey7
+                  SkullGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey8" />
+              <Icon icon="SkullGrey8" />
                 <TextWrapper>
-                  skullgrey8
+                  SkullGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="skullgrey9" />
+              <Icon icon="SkullGrey9" />
                 <TextWrapper>
-                  skullgrey9
+                  SkullGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8362,84 +8336,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="spacecolor1" />
+              <Icon icon="SpaceColor1" />
                 <TextWrapper>
-                  spacecolor1
+                  SpaceColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor10" />
+              <Icon icon="SpaceColor10" />
                 <TextWrapper>
-                  spacecolor10
+                  SpaceColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor11" />
+              <Icon icon="SpaceColor11" />
                 <TextWrapper>
-                  spacecolor11
+                  SpaceColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor12" />
+              <Icon icon="SpaceColor12" />
                 <TextWrapper>
-                  spacecolor12
+                  SpaceColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor13" />
+              <Icon icon="SpaceColor13" />
                 <TextWrapper>
-                  spacecolor13
+                  SpaceColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor14" />
+              <Icon icon="SpaceColor14" />
                 <TextWrapper>
-                  spacecolor14
+                  SpaceColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor15" />
+              <Icon icon="SpaceColor15" />
                 <TextWrapper>
-                  spacecolor15
+                  SpaceColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor16" />
+              <Icon icon="SpaceColor16" />
                 <TextWrapper>
-                  spacecolor16
+                  SpaceColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor2" />
+              <Icon icon="SpaceColor2" />
                 <TextWrapper>
-                  spacecolor2
+                  SpaceColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor3" />
+              <Icon icon="SpaceColor3" />
                 <TextWrapper>
-                  spacecolor3
+                  SpaceColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor4" />
+              <Icon icon="SpaceColor4" />
                 <TextWrapper>
-                  spacecolor4
+                  SpaceColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor5" />
+              <Icon icon="SpaceColor5" />
                 <TextWrapper>
-                  spacecolor5
+                  SpaceColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor6" />
+              <Icon icon="SpaceColor6" />
                 <TextWrapper>
-                  spacecolor6
+                  SpaceColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor7" />
+              <Icon icon="SpaceColor7" />
                 <TextWrapper>
-                  spacecolor7
+                  SpaceColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor8" />
+              <Icon icon="SpaceColor8" />
                 <TextWrapper>
-                  spacecolor8
+                  SpaceColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacecolor9" />
+              <Icon icon="SpaceColor9" />
                 <TextWrapper>
-                  spacecolor9
+                  SpaceColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8455,84 +8429,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="spacegrey1" />
+              <Icon icon="SpaceGrey1" />
                 <TextWrapper>
-                  spacegrey1
+                  SpaceGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey10" />
+              <Icon icon="SpaceGrey10" />
                 <TextWrapper>
-                  spacegrey10
+                  SpaceGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey11" />
+              <Icon icon="SpaceGrey11" />
                 <TextWrapper>
-                  spacegrey11
+                  SpaceGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey12" />
+              <Icon icon="SpaceGrey12" />
                 <TextWrapper>
-                  spacegrey12
+                  SpaceGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey13" />
+              <Icon icon="SpaceGrey13" />
                 <TextWrapper>
-                  spacegrey13
+                  SpaceGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey14" />
+              <Icon icon="SpaceGrey14" />
                 <TextWrapper>
-                  spacegrey14
+                  SpaceGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey15" />
+              <Icon icon="SpaceGrey15" />
                 <TextWrapper>
-                  spacegrey15
+                  SpaceGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey16" />
+              <Icon icon="SpaceGrey16" />
                 <TextWrapper>
-                  spacegrey16
+                  SpaceGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey2" />
+              <Icon icon="SpaceGrey2" />
                 <TextWrapper>
-                  spacegrey2
+                  SpaceGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey3" />
+              <Icon icon="SpaceGrey3" />
                 <TextWrapper>
-                  spacegrey3
+                  SpaceGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey4" />
+              <Icon icon="SpaceGrey4" />
                 <TextWrapper>
-                  spacegrey4
+                  SpaceGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey5" />
+              <Icon icon="SpaceGrey5" />
                 <TextWrapper>
-                  spacegrey5
+                  SpaceGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey6" />
+              <Icon icon="SpaceGrey6" />
                 <TextWrapper>
-                  spacegrey6
+                  SpaceGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey7" />
+              <Icon icon="SpaceGrey7" />
                 <TextWrapper>
-                  spacegrey7
+                  SpaceGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey8" />
+              <Icon icon="SpaceGrey8" />
                 <TextWrapper>
-                  spacegrey8
+                  SpaceGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="spacegrey9" />
+              <Icon icon="SpaceGrey9" />
                 <TextWrapper>
-                  spacegrey9
+                  SpaceGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8548,84 +8522,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="springcolor1" />
+              <Icon icon="SpringColor1" />
                 <TextWrapper>
-                  springcolor1
+                  SpringColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor10" />
+              <Icon icon="SpringColor10" />
                 <TextWrapper>
-                  springcolor10
+                  SpringColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor11" />
+              <Icon icon="SpringColor11" />
                 <TextWrapper>
-                  springcolor11
+                  SpringColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor12" />
+              <Icon icon="SpringColor12" />
                 <TextWrapper>
-                  springcolor12
+                  SpringColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor13" />
+              <Icon icon="SpringColor13" />
                 <TextWrapper>
-                  springcolor13
+                  SpringColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor14" />
+              <Icon icon="SpringColor14" />
                 <TextWrapper>
-                  springcolor14
+                  SpringColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor15" />
+              <Icon icon="SpringColor15" />
                 <TextWrapper>
-                  springcolor15
+                  SpringColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor16" />
+              <Icon icon="SpringColor16" />
                 <TextWrapper>
-                  springcolor16
+                  SpringColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor2" />
+              <Icon icon="SpringColor2" />
                 <TextWrapper>
-                  springcolor2
+                  SpringColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor3" />
+              <Icon icon="SpringColor3" />
                 <TextWrapper>
-                  springcolor3
+                  SpringColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor4" />
+              <Icon icon="SpringColor4" />
                 <TextWrapper>
-                  springcolor4
+                  SpringColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor5" />
+              <Icon icon="SpringColor5" />
                 <TextWrapper>
-                  springcolor5
+                  SpringColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor6" />
+              <Icon icon="SpringColor6" />
                 <TextWrapper>
-                  springcolor6
+                  SpringColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor7" />
+              <Icon icon="SpringColor7" />
                 <TextWrapper>
-                  springcolor7
+                  SpringColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor8" />
+              <Icon icon="SpringColor8" />
                 <TextWrapper>
-                  springcolor8
+                  SpringColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springcolor9" />
+              <Icon icon="SpringColor9" />
                 <TextWrapper>
-                  springcolor9
+                  SpringColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8641,84 +8615,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="springgrey1" />
+              <Icon icon="SpringGrey1" />
                 <TextWrapper>
-                  springgrey1
+                  SpringGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey10" />
+              <Icon icon="SpringGrey10" />
                 <TextWrapper>
-                  springgrey10
+                  SpringGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey11" />
+              <Icon icon="SpringGrey11" />
                 <TextWrapper>
-                  springgrey11
+                  SpringGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey12" />
+              <Icon icon="SpringGrey12" />
                 <TextWrapper>
-                  springgrey12
+                  SpringGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey13" />
+              <Icon icon="SpringGrey13" />
                 <TextWrapper>
-                  springgrey13
+                  SpringGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey14" />
+              <Icon icon="SpringGrey14" />
                 <TextWrapper>
-                  springgrey14
+                  SpringGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey15" />
+              <Icon icon="SpringGrey15" />
                 <TextWrapper>
-                  springgrey15
+                  SpringGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey16" />
+              <Icon icon="SpringGrey16" />
                 <TextWrapper>
-                  springgrey16
+                  SpringGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey2" />
+              <Icon icon="SpringGrey2" />
                 <TextWrapper>
-                  springgrey2
+                  SpringGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey3" />
+              <Icon icon="SpringGrey3" />
                 <TextWrapper>
-                  springgrey3
+                  SpringGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey4" />
+              <Icon icon="SpringGrey4" />
                 <TextWrapper>
-                  springgrey4
+                  SpringGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey5" />
+              <Icon icon="SpringGrey5" />
                 <TextWrapper>
-                  springgrey5
+                  SpringGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey6" />
+              <Icon icon="SpringGrey6" />
                 <TextWrapper>
-                  springgrey6
+                  SpringGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey7" />
+              <Icon icon="SpringGrey7" />
                 <TextWrapper>
-                  springgrey7
+                  SpringGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey8" />
+              <Icon icon="SpringGrey8" />
                 <TextWrapper>
-                  springgrey8
+                  SpringGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="springgrey9" />
+              <Icon icon="SpringGrey9" />
                 <TextWrapper>
-                  springgrey9
+                  SpringGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8734,129 +8708,129 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="sweet17color1" />
+              <Icon icon="Sweet17Color1" />
                 <TextWrapper>
-                  sweet17color1
+                  Sweet17Color1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color10" />
+              <Icon icon="Sweet17Color10" />
                 <TextWrapper>
-                  sweet17color10
+                  Sweet17Color10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color11" />
+              <Icon icon="Sweet17Color11" />
                 <TextWrapper>
-                  sweet17color11
+                  Sweet17Color11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color12" />
+              <Icon icon="Sweet17Color12" />
                 <TextWrapper>
-                  sweet17color12
+                  Sweet17Color12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color13" />
+              <Icon icon="Sweet17Color13" />
                 <TextWrapper>
-                  sweet17color13
+                  Sweet17Color13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color14" />
+              <Icon icon="Sweet17Color14" />
                 <TextWrapper>
-                  sweet17color14
+                  Sweet17Color14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color15" />
+              <Icon icon="Sweet17Color15" />
                 <TextWrapper>
-                  sweet17color15
+                  Sweet17Color15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color16" />
+              <Icon icon="Sweet17Color16" />
                 <TextWrapper>
-                  sweet17color16
+                  Sweet17Color16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color17" />
+              <Icon icon="Sweet17Color17" />
                 <TextWrapper>
-                  sweet17color17
+                  Sweet17Color17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color18" />
+              <Icon icon="Sweet17Color18" />
                 <TextWrapper>
-                  sweet17color18
+                  Sweet17Color18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color19" />
+              <Icon icon="Sweet17Color19" />
                 <TextWrapper>
-                  sweet17color19
+                  Sweet17Color19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color2" />
+              <Icon icon="Sweet17Color2" />
                 <TextWrapper>
-                  sweet17color2
+                  Sweet17Color2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color20" />
+              <Icon icon="Sweet17Color20" />
                 <TextWrapper>
-                  sweet17color20
+                  Sweet17Color20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color21" />
+              <Icon icon="Sweet17Color21" />
                 <TextWrapper>
-                  sweet17color21
+                  Sweet17Color21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color22" />
+              <Icon icon="Sweet17Color22" />
                 <TextWrapper>
-                  sweet17color22
+                  Sweet17Color22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color23" />
+              <Icon icon="Sweet17Color23" />
                 <TextWrapper>
-                  sweet17color23
+                  Sweet17Color23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color24" />
+              <Icon icon="Sweet17Color24" />
                 <TextWrapper>
-                  sweet17color24
+                  Sweet17Color24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color25" />
+              <Icon icon="Sweet17Color25" />
                 <TextWrapper>
-                  sweet17color25
+                  Sweet17Color25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color3" />
+              <Icon icon="Sweet17Color3" />
                 <TextWrapper>
-                  sweet17color3
+                  Sweet17Color3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color4" />
+              <Icon icon="Sweet17Color4" />
                 <TextWrapper>
-                  sweet17color4
+                  Sweet17Color4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color5" />
+              <Icon icon="Sweet17Color5" />
                 <TextWrapper>
-                  sweet17color5
+                  Sweet17Color5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color6" />
+              <Icon icon="Sweet17Color6" />
                 <TextWrapper>
-                  sweet17color6
+                  Sweet17Color6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color7" />
+              <Icon icon="Sweet17Color7" />
                 <TextWrapper>
-                  sweet17color7
+                  Sweet17Color7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color8" />
+              <Icon icon="Sweet17Color8" />
                 <TextWrapper>
-                  sweet17color8
+                  Sweet17Color8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17color9" />
+              <Icon icon="Sweet17Color9" />
                 <TextWrapper>
-                  sweet17color9
+                  Sweet17Color9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -8872,129 +8846,129 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="sweet17grey1" />
+              <Icon icon="Sweet17Grey1" />
                 <TextWrapper>
-                  sweet17grey1
+                  Sweet17Grey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey10" />
+              <Icon icon="Sweet17Grey10" />
                 <TextWrapper>
-                  sweet17grey10
+                  Sweet17Grey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey11" />
+              <Icon icon="Sweet17Grey11" />
                 <TextWrapper>
-                  sweet17grey11
+                  Sweet17Grey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey12" />
+              <Icon icon="Sweet17Grey12" />
                 <TextWrapper>
-                  sweet17grey12
+                  Sweet17Grey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey13" />
+              <Icon icon="Sweet17Grey13" />
                 <TextWrapper>
-                  sweet17grey13
+                  Sweet17Grey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey14" />
+              <Icon icon="Sweet17Grey14" />
                 <TextWrapper>
-                  sweet17grey14
+                  Sweet17Grey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey15" />
+              <Icon icon="Sweet17Grey15" />
                 <TextWrapper>
-                  sweet17grey15
+                  Sweet17Grey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey16" />
+              <Icon icon="Sweet17Grey16" />
                 <TextWrapper>
-                  sweet17grey16
+                  Sweet17Grey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey17" />
+              <Icon icon="Sweet17Grey17" />
                 <TextWrapper>
-                  sweet17grey17
+                  Sweet17Grey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey18" />
+              <Icon icon="Sweet17Grey18" />
                 <TextWrapper>
-                  sweet17grey18
+                  Sweet17Grey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey19" />
+              <Icon icon="Sweet17Grey19" />
                 <TextWrapper>
-                  sweet17grey19
+                  Sweet17Grey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey2" />
+              <Icon icon="Sweet17Grey2" />
                 <TextWrapper>
-                  sweet17grey2
+                  Sweet17Grey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey20" />
+              <Icon icon="Sweet17Grey20" />
                 <TextWrapper>
-                  sweet17grey20
+                  Sweet17Grey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey21" />
+              <Icon icon="Sweet17Grey21" />
                 <TextWrapper>
-                  sweet17grey21
+                  Sweet17Grey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey22" />
+              <Icon icon="Sweet17Grey22" />
                 <TextWrapper>
-                  sweet17grey22
+                  Sweet17Grey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey23" />
+              <Icon icon="Sweet17Grey23" />
                 <TextWrapper>
-                  sweet17grey23
+                  Sweet17Grey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey24" />
+              <Icon icon="Sweet17Grey24" />
                 <TextWrapper>
-                  sweet17grey24
+                  Sweet17Grey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey25" />
+              <Icon icon="Sweet17Grey25" />
                 <TextWrapper>
-                  sweet17grey25
+                  Sweet17Grey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey3" />
+              <Icon icon="Sweet17Grey3" />
                 <TextWrapper>
-                  sweet17grey3
+                  Sweet17Grey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey4" />
+              <Icon icon="Sweet17Grey4" />
                 <TextWrapper>
-                  sweet17grey4
+                  Sweet17Grey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey5" />
+              <Icon icon="Sweet17Grey5" />
                 <TextWrapper>
-                  sweet17grey5
+                  Sweet17Grey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey6" />
+              <Icon icon="Sweet17Grey6" />
                 <TextWrapper>
-                  sweet17grey6
+                  Sweet17Grey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey7" />
+              <Icon icon="Sweet17Grey7" />
                 <TextWrapper>
-                  sweet17grey7
+                  Sweet17Grey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey8" />
+              <Icon icon="Sweet17Grey8" />
                 <TextWrapper>
-                  sweet17grey8
+                  Sweet17Grey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="sweet17grey9" />
+              <Icon icon="Sweet17Grey9" />
                 <TextWrapper>
-                  sweet17grey9
+                  Sweet17Grey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9010,84 +8984,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="timecolor1" />
+              <Icon icon="TimeColor1" />
                 <TextWrapper>
-                  timecolor1
+                  TimeColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor10" />
+              <Icon icon="TimeColor10" />
                 <TextWrapper>
-                  timecolor10
+                  TimeColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor11" />
+              <Icon icon="TimeColor11" />
                 <TextWrapper>
-                  timecolor11
+                  TimeColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor12" />
+              <Icon icon="TimeColor12" />
                 <TextWrapper>
-                  timecolor12
+                  TimeColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor13" />
+              <Icon icon="TimeColor13" />
                 <TextWrapper>
-                  timecolor13
+                  TimeColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor14" />
+              <Icon icon="TimeColor14" />
                 <TextWrapper>
-                  timecolor14
+                  TimeColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor15" />
+              <Icon icon="TimeColor15" />
                 <TextWrapper>
-                  timecolor15
+                  TimeColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor16" />
+              <Icon icon="TimeColor16" />
                 <TextWrapper>
-                  timecolor16
+                  TimeColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor2" />
+              <Icon icon="TimeColor2" />
                 <TextWrapper>
-                  timecolor2
+                  TimeColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor3" />
+              <Icon icon="TimeColor3" />
                 <TextWrapper>
-                  timecolor3
+                  TimeColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor4" />
+              <Icon icon="TimeColor4" />
                 <TextWrapper>
-                  timecolor4
+                  TimeColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor5" />
+              <Icon icon="TimeColor5" />
                 <TextWrapper>
-                  timecolor5
+                  TimeColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor6" />
+              <Icon icon="TimeColor6" />
                 <TextWrapper>
-                  timecolor6
+                  TimeColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor7" />
+              <Icon icon="TimeColor7" />
                 <TextWrapper>
-                  timecolor7
+                  TimeColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor8" />
+              <Icon icon="TimeColor8" />
                 <TextWrapper>
-                  timecolor8
+                  TimeColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timecolor9" />
+              <Icon icon="TimeColor9" />
                 <TextWrapper>
-                  timecolor9
+                  TimeColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9103,84 +9077,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="timegrey1" />
+              <Icon icon="TimeGrey1" />
                 <TextWrapper>
-                  timegrey1
+                  TimeGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey10" />
+              <Icon icon="TimeGrey10" />
                 <TextWrapper>
-                  timegrey10
+                  TimeGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey11" />
+              <Icon icon="TimeGrey11" />
                 <TextWrapper>
-                  timegrey11
+                  TimeGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey12" />
+              <Icon icon="TimeGrey12" />
                 <TextWrapper>
-                  timegrey12
+                  TimeGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey13" />
+              <Icon icon="TimeGrey13" />
                 <TextWrapper>
-                  timegrey13
+                  TimeGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey14" />
+              <Icon icon="TimeGrey14" />
                 <TextWrapper>
-                  timegrey14
+                  TimeGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey15" />
+              <Icon icon="TimeGrey15" />
                 <TextWrapper>
-                  timegrey15
+                  TimeGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey16" />
+              <Icon icon="TimeGrey16" />
                 <TextWrapper>
-                  timegrey16
+                  TimeGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey2" />
+              <Icon icon="TimeGrey2" />
                 <TextWrapper>
-                  timegrey2
+                  TimeGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey3" />
+              <Icon icon="TimeGrey3" />
                 <TextWrapper>
-                  timegrey3
+                  TimeGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey4" />
+              <Icon icon="TimeGrey4" />
                 <TextWrapper>
-                  timegrey4
+                  TimeGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey5" />
+              <Icon icon="TimeGrey5" />
                 <TextWrapper>
-                  timegrey5
+                  TimeGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey6" />
+              <Icon icon="TimeGrey6" />
                 <TextWrapper>
-                  timegrey6
+                  TimeGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey7" />
+              <Icon icon="TimeGrey7" />
                 <TextWrapper>
-                  timegrey7
+                  TimeGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey8" />
+              <Icon icon="TimeGrey8" />
                 <TextWrapper>
-                  timegrey8
+                  TimeGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="timegrey9" />
+              <Icon icon="TimeGrey9" />
                 <TextWrapper>
-                  timegrey9
+                  TimeGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9196,84 +9170,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="travelcolor1" />
+              <Icon icon="TravelColor1" />
                 <TextWrapper>
-                  travelcolor1
+                  TravelColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor10" />
+              <Icon icon="TravelColor10" />
                 <TextWrapper>
-                  travelcolor10
+                  TravelColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor11" />
+              <Icon icon="TravelColor11" />
                 <TextWrapper>
-                  travelcolor11
+                  TravelColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor12" />
+              <Icon icon="TravelColor12" />
                 <TextWrapper>
-                  travelcolor12
+                  TravelColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor13" />
+              <Icon icon="TravelColor13" />
                 <TextWrapper>
-                  travelcolor13
+                  TravelColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor14" />
+              <Icon icon="TravelColor14" />
                 <TextWrapper>
-                  travelcolor14
+                  TravelColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor15" />
+              <Icon icon="TravelColor15" />
                 <TextWrapper>
-                  travelcolor15
+                  TravelColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor16" />
+              <Icon icon="TravelColor16" />
                 <TextWrapper>
-                  travelcolor16
+                  TravelColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor2" />
+              <Icon icon="TravelColor2" />
                 <TextWrapper>
-                  travelcolor2
+                  TravelColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor3" />
+              <Icon icon="TravelColor3" />
                 <TextWrapper>
-                  travelcolor3
+                  TravelColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor4" />
+              <Icon icon="TravelColor4" />
                 <TextWrapper>
-                  travelcolor4
+                  TravelColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor5" />
+              <Icon icon="TravelColor5" />
                 <TextWrapper>
-                  travelcolor5
+                  TravelColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor6" />
+              <Icon icon="TravelColor6" />
                 <TextWrapper>
-                  travelcolor6
+                  TravelColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor7" />
+              <Icon icon="TravelColor7" />
                 <TextWrapper>
-                  travelcolor7
+                  TravelColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor8" />
+              <Icon icon="TravelColor8" />
                 <TextWrapper>
-                  travelcolor8
+                  TravelColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelcolor9" />
+              <Icon icon="TravelColor9" />
                 <TextWrapper>
-                  travelcolor9
+                  TravelColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9289,84 +9263,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="travelgrey1" />
+              <Icon icon="TravelGrey1" />
                 <TextWrapper>
-                  travelgrey1
+                  TravelGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey10" />
+              <Icon icon="TravelGrey10" />
                 <TextWrapper>
-                  travelgrey10
+                  TravelGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey11" />
+              <Icon icon="TravelGrey11" />
                 <TextWrapper>
-                  travelgrey11
+                  TravelGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey12" />
+              <Icon icon="TravelGrey12" />
                 <TextWrapper>
-                  travelgrey12
+                  TravelGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey13" />
+              <Icon icon="TravelGrey13" />
                 <TextWrapper>
-                  travelgrey13
+                  TravelGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey14" />
+              <Icon icon="TravelGrey14" />
                 <TextWrapper>
-                  travelgrey14
+                  TravelGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey15" />
+              <Icon icon="TravelGrey15" />
                 <TextWrapper>
-                  travelgrey15
+                  TravelGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey16" />
+              <Icon icon="TravelGrey16" />
                 <TextWrapper>
-                  travelgrey16
+                  TravelGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey2" />
+              <Icon icon="TravelGrey2" />
                 <TextWrapper>
-                  travelgrey2
+                  TravelGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey3" />
+              <Icon icon="TravelGrey3" />
                 <TextWrapper>
-                  travelgrey3
+                  TravelGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey4" />
+              <Icon icon="TravelGrey4" />
                 <TextWrapper>
-                  travelgrey4
+                  TravelGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey5" />
+              <Icon icon="TravelGrey5" />
                 <TextWrapper>
-                  travelgrey5
+                  TravelGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey6" />
+              <Icon icon="TravelGrey6" />
                 <TextWrapper>
-                  travelgrey6
+                  TravelGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey7" />
+              <Icon icon="TravelGrey7" />
                 <TextWrapper>
-                  travelgrey7
+                  TravelGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey8" />
+              <Icon icon="TravelGrey8" />
                 <TextWrapper>
-                  travelgrey8
+                  TravelGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="travelgrey9" />
+              <Icon icon="TravelGrey9" />
                 <TextWrapper>
-                  travelgrey9
+                  TravelGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9382,129 +9356,129 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="valentinecolor1" />
+              <Icon icon="ValentineColor1" />
                 <TextWrapper>
-                  valentinecolor1
+                  ValentineColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor10" />
+              <Icon icon="ValentineColor10" />
                 <TextWrapper>
-                  valentinecolor10
+                  ValentineColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor11" />
+              <Icon icon="ValentineColor11" />
                 <TextWrapper>
-                  valentinecolor11
+                  ValentineColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor12" />
+              <Icon icon="ValentineColor12" />
                 <TextWrapper>
-                  valentinecolor12
+                  ValentineColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor13" />
+              <Icon icon="ValentineColor13" />
                 <TextWrapper>
-                  valentinecolor13
+                  ValentineColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor14" />
+              <Icon icon="ValentineColor14" />
                 <TextWrapper>
-                  valentinecolor14
+                  ValentineColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor15" />
+              <Icon icon="ValentineColor15" />
                 <TextWrapper>
-                  valentinecolor15
+                  ValentineColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor16" />
+              <Icon icon="ValentineColor16" />
                 <TextWrapper>
-                  valentinecolor16
+                  ValentineColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor17" />
+              <Icon icon="ValentineColor17" />
                 <TextWrapper>
-                  valentinecolor17
+                  ValentineColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor18" />
+              <Icon icon="ValentineColor18" />
                 <TextWrapper>
-                  valentinecolor18
+                  ValentineColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor19" />
+              <Icon icon="ValentineColor19" />
                 <TextWrapper>
-                  valentinecolor19
+                  ValentineColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor2" />
+              <Icon icon="ValentineColor2" />
                 <TextWrapper>
-                  valentinecolor2
+                  ValentineColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor20" />
+              <Icon icon="ValentineColor20" />
                 <TextWrapper>
-                  valentinecolor20
+                  ValentineColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor21" />
+              <Icon icon="ValentineColor21" />
                 <TextWrapper>
-                  valentinecolor21
+                  ValentineColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor22" />
+              <Icon icon="ValentineColor22" />
                 <TextWrapper>
-                  valentinecolor22
+                  ValentineColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor23" />
+              <Icon icon="ValentineColor23" />
                 <TextWrapper>
-                  valentinecolor23
+                  ValentineColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor24" />
+              <Icon icon="ValentineColor24" />
                 <TextWrapper>
-                  valentinecolor24
+                  ValentineColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor25" />
+              <Icon icon="ValentineColor25" />
                 <TextWrapper>
-                  valentinecolor25
+                  ValentineColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor3" />
+              <Icon icon="ValentineColor3" />
                 <TextWrapper>
-                  valentinecolor3
+                  ValentineColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor4" />
+              <Icon icon="ValentineColor4" />
                 <TextWrapper>
-                  valentinecolor4
+                  ValentineColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor5" />
+              <Icon icon="ValentineColor5" />
                 <TextWrapper>
-                  valentinecolor5
+                  ValentineColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor6" />
+              <Icon icon="ValentineColor6" />
                 <TextWrapper>
-                  valentinecolor6
+                  ValentineColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor7" />
+              <Icon icon="ValentineColor7" />
                 <TextWrapper>
-                  valentinecolor7
+                  ValentineColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor8" />
+              <Icon icon="ValentineColor8" />
                 <TextWrapper>
-                  valentinecolor8
+                  ValentineColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinecolor9" />
+              <Icon icon="ValentineColor9" />
                 <TextWrapper>
-                  valentinecolor9
+                  ValentineColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9520,129 +9494,129 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="valentinegrey1" />
+              <Icon icon="ValentineGrey1" />
                 <TextWrapper>
-                  valentinegrey1
+                  ValentineGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey10" />
+              <Icon icon="ValentineGrey10" />
                 <TextWrapper>
-                  valentinegrey10
+                  ValentineGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey11" />
+              <Icon icon="ValentineGrey11" />
                 <TextWrapper>
-                  valentinegrey11
+                  ValentineGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey12" />
+              <Icon icon="ValentineGrey12" />
                 <TextWrapper>
-                  valentinegrey12
+                  ValentineGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey13" />
+              <Icon icon="ValentineGrey13" />
                 <TextWrapper>
-                  valentinegrey13
+                  ValentineGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey14" />
+              <Icon icon="ValentineGrey14" />
                 <TextWrapper>
-                  valentinegrey14
+                  ValentineGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey15" />
+              <Icon icon="ValentineGrey15" />
                 <TextWrapper>
-                  valentinegrey15
+                  ValentineGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey16" />
+              <Icon icon="ValentineGrey16" />
                 <TextWrapper>
-                  valentinegrey16
+                  ValentineGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey17" />
+              <Icon icon="ValentineGrey17" />
                 <TextWrapper>
-                  valentinegrey17
+                  ValentineGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey18" />
+              <Icon icon="ValentineGrey18" />
                 <TextWrapper>
-                  valentinegrey18
+                  ValentineGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey19" />
+              <Icon icon="ValentineGrey19" />
                 <TextWrapper>
-                  valentinegrey19
+                  ValentineGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey2" />
+              <Icon icon="ValentineGrey2" />
                 <TextWrapper>
-                  valentinegrey2
+                  ValentineGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey20" />
+              <Icon icon="ValentineGrey20" />
                 <TextWrapper>
-                  valentinegrey20
+                  ValentineGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey21" />
+              <Icon icon="ValentineGrey21" />
                 <TextWrapper>
-                  valentinegrey21
+                  ValentineGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey22" />
+              <Icon icon="ValentineGrey22" />
                 <TextWrapper>
-                  valentinegrey22
+                  ValentineGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey23" />
+              <Icon icon="ValentineGrey23" />
                 <TextWrapper>
-                  valentinegrey23
+                  ValentineGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey24" />
+              <Icon icon="ValentineGrey24" />
                 <TextWrapper>
-                  valentinegrey24
+                  ValentineGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey25" />
+              <Icon icon="ValentineGrey25" />
                 <TextWrapper>
-                  valentinegrey25
+                  ValentineGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey3" />
+              <Icon icon="ValentineGrey3" />
                 <TextWrapper>
-                  valentinegrey3
+                  ValentineGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey4" />
+              <Icon icon="ValentineGrey4" />
                 <TextWrapper>
-                  valentinegrey4
+                  ValentineGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey5" />
+              <Icon icon="ValentineGrey5" />
                 <TextWrapper>
-                  valentinegrey5
+                  ValentineGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey6" />
+              <Icon icon="ValentineGrey6" />
                 <TextWrapper>
-                  valentinegrey6
+                  ValentineGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey7" />
+              <Icon icon="ValentineGrey7" />
                 <TextWrapper>
-                  valentinegrey7
+                  ValentineGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey8" />
+              <Icon icon="ValentineGrey8" />
                 <TextWrapper>
-                  valentinegrey8
+                  ValentineGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="valentinegrey9" />
+              <Icon icon="ValentineGrey9" />
                 <TextWrapper>
-                  valentinegrey9
+                  ValentineGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9658,84 +9632,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="virtualrealitycolor1" />
+              <Icon icon="VirtualRealityColor1" />
                 <TextWrapper>
-                  virtualrealitycolor1
+                  VirtualRealityColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor10" />
+              <Icon icon="VirtualRealityColor10" />
                 <TextWrapper>
-                  virtualrealitycolor10
+                  VirtualRealityColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor11" />
+              <Icon icon="VirtualRealityColor11" />
                 <TextWrapper>
-                  virtualrealitycolor11
+                  VirtualRealityColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor12" />
+              <Icon icon="VirtualRealityColor12" />
                 <TextWrapper>
-                  virtualrealitycolor12
+                  VirtualRealityColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor13" />
+              <Icon icon="VirtualRealityColor13" />
                 <TextWrapper>
-                  virtualrealitycolor13
+                  VirtualRealityColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor14" />
+              <Icon icon="VirtualRealityColor14" />
                 <TextWrapper>
-                  virtualrealitycolor14
+                  VirtualRealityColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor15" />
+              <Icon icon="VirtualRealityColor15" />
                 <TextWrapper>
-                  virtualrealitycolor15
+                  VirtualRealityColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor16" />
+              <Icon icon="VirtualRealityColor16" />
                 <TextWrapper>
-                  virtualrealitycolor16
+                  VirtualRealityColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor2" />
+              <Icon icon="VirtualRealityColor2" />
                 <TextWrapper>
-                  virtualrealitycolor2
+                  VirtualRealityColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor3" />
+              <Icon icon="VirtualRealityColor3" />
                 <TextWrapper>
-                  virtualrealitycolor3
+                  VirtualRealityColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor4" />
+              <Icon icon="VirtualRealityColor4" />
                 <TextWrapper>
-                  virtualrealitycolor4
+                  VirtualRealityColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor5" />
+              <Icon icon="VirtualRealityColor5" />
                 <TextWrapper>
-                  virtualrealitycolor5
+                  VirtualRealityColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor6" />
+              <Icon icon="VirtualRealityColor6" />
                 <TextWrapper>
-                  virtualrealitycolor6
+                  VirtualRealityColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor7" />
+              <Icon icon="VirtualRealityColor7" />
                 <TextWrapper>
-                  virtualrealitycolor7
+                  VirtualRealityColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor8" />
+              <Icon icon="VirtualRealityColor8" />
                 <TextWrapper>
-                  virtualrealitycolor8
+                  VirtualRealityColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitycolor9" />
+              <Icon icon="VirtualRealityColor9" />
                 <TextWrapper>
-                  virtualrealitycolor9
+                  VirtualRealityColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9751,84 +9725,84 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="virtualrealitygrey1" />
+              <Icon icon="VirtualRealityGrey1" />
                 <TextWrapper>
-                  virtualrealitygrey1
+                  VirtualRealityGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey10" />
+              <Icon icon="VirtualRealityGrey10" />
                 <TextWrapper>
-                  virtualrealitygrey10
+                  VirtualRealityGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey11" />
+              <Icon icon="VirtualRealityGrey11" />
                 <TextWrapper>
-                  virtualrealitygrey11
+                  VirtualRealityGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey12" />
+              <Icon icon="VirtualRealityGrey12" />
                 <TextWrapper>
-                  virtualrealitygrey12
+                  VirtualRealityGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey13" />
+              <Icon icon="VirtualRealityGrey13" />
                 <TextWrapper>
-                  virtualrealitygrey13
+                  VirtualRealityGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey14" />
+              <Icon icon="VirtualRealityGrey14" />
                 <TextWrapper>
-                  virtualrealitygrey14
+                  VirtualRealityGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey15" />
+              <Icon icon="VirtualRealityGrey15" />
                 <TextWrapper>
-                  virtualrealitygrey15
+                  VirtualRealityGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey16" />
+              <Icon icon="VirtualRealityGrey16" />
                 <TextWrapper>
-                  virtualrealitygrey16
+                  VirtualRealityGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey2" />
+              <Icon icon="VirtualRealityGrey2" />
                 <TextWrapper>
-                  virtualrealitygrey2
+                  VirtualRealityGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey3" />
+              <Icon icon="VirtualRealityGrey3" />
                 <TextWrapper>
-                  virtualrealitygrey3
+                  VirtualRealityGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey4" />
+              <Icon icon="VirtualRealityGrey4" />
                 <TextWrapper>
-                  virtualrealitygrey4
+                  VirtualRealityGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey5" />
+              <Icon icon="VirtualRealityGrey5" />
                 <TextWrapper>
-                  virtualrealitygrey5
+                  VirtualRealityGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey6" />
+              <Icon icon="VirtualRealityGrey6" />
                 <TextWrapper>
-                  virtualrealitygrey6
+                  VirtualRealityGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey7" />
+              <Icon icon="VirtualRealityGrey7" />
                 <TextWrapper>
-                  virtualrealitygrey7
+                  VirtualRealityGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey8" />
+              <Icon icon="VirtualRealityGrey8" />
                 <TextWrapper>
-                  virtualrealitygrey8
+                  VirtualRealityGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="virtualrealitygrey9" />
+              <Icon icon="VirtualRealityGrey9" />
                 <TextWrapper>
-                  virtualrealitygrey9
+                  VirtualRealityGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9844,129 +9818,129 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="zoocolor1" />
+              <Icon icon="ZooColor1" />
                 <TextWrapper>
-                  zoocolor1
+                  ZooColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor10" />
+              <Icon icon="ZooColor10" />
                 <TextWrapper>
-                  zoocolor10
+                  ZooColor10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor11" />
+              <Icon icon="ZooColor11" />
                 <TextWrapper>
-                  zoocolor11
+                  ZooColor11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor12" />
+              <Icon icon="ZooColor12" />
                 <TextWrapper>
-                  zoocolor12
+                  ZooColor12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor13" />
+              <Icon icon="ZooColor13" />
                 <TextWrapper>
-                  zoocolor13
+                  ZooColor13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor14" />
+              <Icon icon="ZooColor14" />
                 <TextWrapper>
-                  zoocolor14
+                  ZooColor14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor15" />
+              <Icon icon="ZooColor15" />
                 <TextWrapper>
-                  zoocolor15
+                  ZooColor15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor16" />
+              <Icon icon="ZooColor16" />
                 <TextWrapper>
-                  zoocolor16
+                  ZooColor16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor17" />
+              <Icon icon="ZooColor17" />
                 <TextWrapper>
-                  zoocolor17
+                  ZooColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor18" />
+              <Icon icon="ZooColor18" />
                 <TextWrapper>
-                  zoocolor18
+                  ZooColor18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor19" />
+              <Icon icon="ZooColor19" />
                 <TextWrapper>
-                  zoocolor19
+                  ZooColor19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor2" />
+              <Icon icon="ZooColor2" />
                 <TextWrapper>
-                  zoocolor2
+                  ZooColor2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor20" />
+              <Icon icon="ZooColor20" />
                 <TextWrapper>
-                  zoocolor20
+                  ZooColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor21" />
+              <Icon icon="ZooColor21" />
                 <TextWrapper>
-                  zoocolor21
+                  ZooColor21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor22" />
+              <Icon icon="ZooColor22" />
                 <TextWrapper>
-                  zoocolor22
+                  ZooColor22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor23" />
+              <Icon icon="ZooColor23" />
                 <TextWrapper>
-                  zoocolor23
+                  ZooColor23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor24" />
+              <Icon icon="ZooColor24" />
                 <TextWrapper>
-                  zoocolor24
+                  ZooColor24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor25" />
+              <Icon icon="ZooColor25" />
                 <TextWrapper>
-                  zoocolor25
+                  ZooColor25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor3" />
+              <Icon icon="ZooColor3" />
                 <TextWrapper>
-                  zoocolor3
+                  ZooColor3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor4" />
+              <Icon icon="ZooColor4" />
                 <TextWrapper>
-                  zoocolor4
+                  ZooColor4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor5" />
+              <Icon icon="ZooColor5" />
                 <TextWrapper>
-                  zoocolor5
+                  ZooColor5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor6" />
+              <Icon icon="ZooColor6" />
                 <TextWrapper>
-                  zoocolor6
+                  ZooColor6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor7" />
+              <Icon icon="ZooColor7" />
                 <TextWrapper>
-                  zoocolor7
+                  ZooColor7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor8" />
+              <Icon icon="ZooColor8" />
                 <TextWrapper>
-                  zoocolor8
+                  ZooColor8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoocolor9" />
+              <Icon icon="ZooColor9" />
                 <TextWrapper>
-                  zoocolor9
+                  ZooColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -9982,129 +9956,129 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="zoogrey1" />
+              <Icon icon="ZooGrey1" />
                 <TextWrapper>
-                  zoogrey1
+                  ZooGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey10" />
+              <Icon icon="ZooGrey10" />
                 <TextWrapper>
-                  zoogrey10
+                  ZooGrey10
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey11" />
+              <Icon icon="ZooGrey11" />
                 <TextWrapper>
-                  zoogrey11
+                  ZooGrey11
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey12" />
+              <Icon icon="ZooGrey12" />
                 <TextWrapper>
-                  zoogrey12
+                  ZooGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey13" />
+              <Icon icon="ZooGrey13" />
                 <TextWrapper>
-                  zoogrey13
+                  ZooGrey13
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey14" />
+              <Icon icon="ZooGrey14" />
                 <TextWrapper>
-                  zoogrey14
+                  ZooGrey14
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey15" />
+              <Icon icon="ZooGrey15" />
                 <TextWrapper>
-                  zoogrey15
+                  ZooGrey15
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey16" />
+              <Icon icon="ZooGrey16" />
                 <TextWrapper>
-                  zoogrey16
+                  ZooGrey16
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey17" />
+              <Icon icon="ZooGrey17" />
                 <TextWrapper>
-                  zoogrey17
+                  ZooGrey17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey18" />
+              <Icon icon="ZooGrey18" />
                 <TextWrapper>
-                  zoogrey18
+                  ZooGrey18
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey19" />
+              <Icon icon="ZooGrey19" />
                 <TextWrapper>
-                  zoogrey19
+                  ZooGrey19
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey2" />
+              <Icon icon="ZooGrey2" />
                 <TextWrapper>
-                  zoogrey2
+                  ZooGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey20" />
+              <Icon icon="ZooGrey20" />
                 <TextWrapper>
-                  zoogrey20
+                  ZooGrey20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey21" />
+              <Icon icon="ZooGrey21" />
                 <TextWrapper>
-                  zoogrey21
+                  ZooGrey21
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey22" />
+              <Icon icon="ZooGrey22" />
                 <TextWrapper>
-                  zoogrey22
+                  ZooGrey22
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey23" />
+              <Icon icon="ZooGrey23" />
                 <TextWrapper>
-                  zoogrey23
+                  ZooGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey24" />
+              <Icon icon="ZooGrey24" />
                 <TextWrapper>
-                  zoogrey24
+                  ZooGrey24
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey25" />
+              <Icon icon="ZooGrey25" />
                 <TextWrapper>
-                  zoogrey25
+                  ZooGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey3" />
+              <Icon icon="ZooGrey3" />
                 <TextWrapper>
-                  zoogrey3
+                  ZooGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey4" />
+              <Icon icon="ZooGrey4" />
                 <TextWrapper>
-                  zoogrey4
+                  ZooGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey5" />
+              <Icon icon="ZooGrey5" />
                 <TextWrapper>
-                  zoogrey5
+                  ZooGrey5
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey6" />
+              <Icon icon="ZooGrey6" />
                 <TextWrapper>
-                  zoogrey6
+                  ZooGrey6
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey7" />
+              <Icon icon="ZooGrey7" />
                 <TextWrapper>
-                  zoogrey7
+                  ZooGrey7
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey8" />
+              <Icon icon="ZooGrey8" />
                 <TextWrapper>
-                  zoogrey8
+                  ZooGrey8
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="zoogrey9" />
+              <Icon icon="ZooGrey9" />
                 <TextWrapper>
-                  zoogrey9
+                  ZooGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>

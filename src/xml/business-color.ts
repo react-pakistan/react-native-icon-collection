@@ -3,7 +3,7 @@
  * DO NOT EDIT!
  */
 
-export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+export const BusinessColor1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -272,7 +272,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -478,7 +478,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -662,7 +662,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -815,7 +815,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -992,7 +992,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1098,7 +1098,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1325,7 +1325,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1428,7 +1428,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1566,7 +1566,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1677,7 +1677,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1950,7 +1950,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2139,7 +2139,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2312,7 +2312,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor21 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor21 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2670,7 +2670,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor22 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor22 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2942,7 +2942,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor23 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor23 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3186,7 +3186,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor24 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor24 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3378,7 +3378,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor25 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor25 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3633,7 +3633,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor26 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor26 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3914,7 +3914,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor27 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor27 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4139,7 +4139,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor28 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor28 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4315,7 +4315,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor29 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor29 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4511,7 +4511,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4681,7 +4681,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor30 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor30 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4972,7 +4972,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor31 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor31 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5244,7 +5244,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor32 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor32 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5483,7 +5483,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor33 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor33 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5736,7 +5736,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor34 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor34 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5930,7 +5930,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor35 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor35 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -6245,7 +6245,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor36 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor36 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -6438,7 +6438,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor37 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor37 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -6661,7 +6661,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor38 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor38 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -6857,7 +6857,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor39 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor39 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7213,7 +7213,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7314,7 +7314,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor40 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor40 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7562,7 +7562,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7735,7 +7735,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7923,7 +7923,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -8061,7 +8061,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -8150,7 +8150,7 @@ export const businesscolor1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const businesscolor9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BusinessColor9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">

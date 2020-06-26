@@ -3,7 +3,7 @@
  * DO NOT EDIT!
  */
 
-export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+export const BlockchainGrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -225,7 +225,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -472,7 +472,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -732,7 +732,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -977,7 +977,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -1190,7 +1190,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -1407,7 +1407,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -1660,7 +1660,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -1915,7 +1915,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -2215,7 +2215,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -2413,7 +2413,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -2733,7 +2733,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -3079,7 +3079,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -3298,7 +3298,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey21 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey21 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -3525,7 +3525,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey22 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey22 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -3774,7 +3774,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey23 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey23 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -4050,7 +4050,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey24 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey24 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -4288,7 +4288,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey25 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey25 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -4507,7 +4507,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey26 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey26 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -4706,7 +4706,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey27 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey27 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -4980,7 +4980,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey28 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey28 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -5216,7 +5216,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey29 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey29 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -5564,7 +5564,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -5826,7 +5826,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey30 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey30 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -6123,7 +6123,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey31 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey31 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -6338,7 +6338,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey32 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey32 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -6566,7 +6566,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey33 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey33 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -6784,7 +6784,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey34 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey34 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -7002,7 +7002,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey35 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey35 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -7192,7 +7192,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey36 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey36 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -7451,7 +7451,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey37 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey37 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -7807,7 +7807,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey38 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey38 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -8003,7 +8003,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey39 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey39 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -8226,7 +8226,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -8471,7 +8471,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey40 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey40 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -8718,7 +8718,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey41 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey41 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -8985,7 +8985,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey42 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey42 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -9286,7 +9286,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey43 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey43 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -9573,7 +9573,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey44 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey44 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -9762,7 +9762,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey45 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey45 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -9985,7 +9985,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey46 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey46 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -10214,7 +10214,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey47 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey47 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -10427,7 +10427,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey48 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey48 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -10841,7 +10841,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey49 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey49 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -11093,7 +11093,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -11319,7 +11319,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey50 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey50 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -11617,7 +11617,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -11934,7 +11934,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -12180,7 +12180,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
@@ -12592,7 +12592,7 @@ export const blockchaingrey1 = () : string => `<?xml version="1.0" encoding="utf
 </g>
 </svg>
 `;
-  export const blockchaingrey9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const BlockchainGrey9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"

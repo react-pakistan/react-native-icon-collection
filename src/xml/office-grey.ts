@@ -3,7 +3,7 @@
  * DO NOT EDIT!
  */
 
-export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+export const OfficeGrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -549,7 +549,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -960,7 +960,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1383,7 +1383,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1792,7 +1792,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2265,7 +2265,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2693,7 +2693,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3100,7 +3100,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3599,7 +3599,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4136,7 +4136,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -4569,7 +4569,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5085,7 +5085,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5494,7 +5494,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -5983,7 +5983,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -6495,7 +6495,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -6986,7 +6986,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7446,7 +7446,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -7845,7 +7845,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -8349,7 +8349,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -8739,7 +8739,7 @@ export const officegrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?
 </g>
 </svg>
 `;
-  export const officegrey9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const OfficeGrey9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
