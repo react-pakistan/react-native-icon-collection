@@ -3,7 +3,7 @@
  * DO NOT EDIT!
  */
 
-export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+export const LogisticsGrey1 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -113,7 +113,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey10 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -307,7 +307,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey11 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -506,7 +506,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey12 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -643,7 +643,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey13 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -818,7 +818,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey14 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1049,7 +1049,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey15 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1231,7 +1231,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey16 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1406,7 +1406,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey17 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1572,7 +1572,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey18 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1722,7 +1722,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey19 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -1886,7 +1886,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey2 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2019,7 +2019,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey20 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2158,7 +2158,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey3 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2373,7 +2373,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey4 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2594,7 +2594,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey5 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2751,7 +2751,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey6 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -2887,7 +2887,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey7 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3038,7 +3038,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey8 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
@@ -3191,7 +3191,7 @@ export const logisticsgrey1 = () : string => `<?xml version="1.0" encoding="utf-
 </g>
 </svg>
 `;
-  export const logisticsgrey9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
+  export const LogisticsGrey9 = () : string => `<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
