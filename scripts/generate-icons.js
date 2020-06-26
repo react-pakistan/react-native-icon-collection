@@ -49,7 +49,12 @@ let iconListOutput = `/**
       iconListOutput += `export const ${trimmedStr} = () : string => \`${svgContent}\`;
   `;
 
-    iconMap[fileName][trimmedStr] = () => `<IconWrapper><Icon icon="${trimmedStr}" /><TextWrapper>${trimmedStr}</TextWrapper></IconWrapper>`;
+    iconMap[fileName][trimmedStr] = () => `<IconWrapper>
+              <Icon icon="${trimmedStr}" />
+                <TextWrapper>
+                  ${trimmedStr}
+                </TextWrapper>
+              </IconWrapper>`;
 
     iconIndexOutput += `export { ${trimmedStr} } from './${fileName}'
   `;
@@ -59,21 +64,20 @@ let iconListOutput = `/**
     });
   });
   Object.keys(iconMap).map(category => {
-    iconStoryOutput += `
-      .add('${category}', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => ${category}"
-          >
-            <StyledScrollView>
-              <StyledView>
-                ${Object.values(iconMap[category]).map(value => value()).join('')}
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    `;
+    iconStoryOutput += `.add('${category}', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => ${category}"
+      >
+        <StyledScrollView>
+          <StyledView>
+            ${Object.values(iconMap[category]).map(value => value()).join('')}
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+`;
   });
   fs.writeFileSync(`./__stories__/icon.story.tsx`, iconStoryOutput);
 };

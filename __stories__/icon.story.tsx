@@ -10,732 +10,10105 @@ import { IconWrapper, StyledScrollView, StyledView, TextWrapper } from './styled
 import { Icon } from '../src/icon';
 
 storiesOf('Icon', module)
-  
-      .add('blockchain-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => blockchain-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="blockchaincolor1" /><TextWrapper>blockchaincolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor10" /><TextWrapper>blockchaincolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor11" /><TextWrapper>blockchaincolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor12" /><TextWrapper>blockchaincolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor13" /><TextWrapper>blockchaincolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor14" /><TextWrapper>blockchaincolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor15" /><TextWrapper>blockchaincolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor16" /><TextWrapper>blockchaincolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor17" /><TextWrapper>blockchaincolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor18" /><TextWrapper>blockchaincolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor19" /><TextWrapper>blockchaincolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor2" /><TextWrapper>blockchaincolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor20" /><TextWrapper>blockchaincolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor21" /><TextWrapper>blockchaincolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor22" /><TextWrapper>blockchaincolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor23" /><TextWrapper>blockchaincolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor24" /><TextWrapper>blockchaincolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor25" /><TextWrapper>blockchaincolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor26" /><TextWrapper>blockchaincolor26</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor27" /><TextWrapper>blockchaincolor27</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor28" /><TextWrapper>blockchaincolor28</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor29" /><TextWrapper>blockchaincolor29</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor3" /><TextWrapper>blockchaincolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor30" /><TextWrapper>blockchaincolor30</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor31" /><TextWrapper>blockchaincolor31</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor32" /><TextWrapper>blockchaincolor32</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor33" /><TextWrapper>blockchaincolor33</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor34" /><TextWrapper>blockchaincolor34</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor35" /><TextWrapper>blockchaincolor35</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor36" /><TextWrapper>blockchaincolor36</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor37" /><TextWrapper>blockchaincolor37</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor38" /><TextWrapper>blockchaincolor38</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor39" /><TextWrapper>blockchaincolor39</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor4" /><TextWrapper>blockchaincolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor40" /><TextWrapper>blockchaincolor40</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor41" /><TextWrapper>blockchaincolor41</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor42" /><TextWrapper>blockchaincolor42</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor43" /><TextWrapper>blockchaincolor43</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor44" /><TextWrapper>blockchaincolor44</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor45" /><TextWrapper>blockchaincolor45</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor46" /><TextWrapper>blockchaincolor46</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor47" /><TextWrapper>blockchaincolor47</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor48" /><TextWrapper>blockchaincolor48</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor49" /><TextWrapper>blockchaincolor49</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor5" /><TextWrapper>blockchaincolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor50" /><TextWrapper>blockchaincolor50</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor6" /><TextWrapper>blockchaincolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor7" /><TextWrapper>blockchaincolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor8" /><TextWrapper>blockchaincolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaincolor9" /><TextWrapper>blockchaincolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('blockchain-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => blockchain-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="blockchaingrey1" /><TextWrapper>blockchaingrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey10" /><TextWrapper>blockchaingrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey11" /><TextWrapper>blockchaingrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey12" /><TextWrapper>blockchaingrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey13" /><TextWrapper>blockchaingrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey14" /><TextWrapper>blockchaingrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey15" /><TextWrapper>blockchaingrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey16" /><TextWrapper>blockchaingrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey17" /><TextWrapper>blockchaingrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey18" /><TextWrapper>blockchaingrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey19" /><TextWrapper>blockchaingrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey2" /><TextWrapper>blockchaingrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey20" /><TextWrapper>blockchaingrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey21" /><TextWrapper>blockchaingrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey22" /><TextWrapper>blockchaingrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey23" /><TextWrapper>blockchaingrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey24" /><TextWrapper>blockchaingrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey25" /><TextWrapper>blockchaingrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey26" /><TextWrapper>blockchaingrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey27" /><TextWrapper>blockchaingrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey28" /><TextWrapper>blockchaingrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey29" /><TextWrapper>blockchaingrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey3" /><TextWrapper>blockchaingrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey30" /><TextWrapper>blockchaingrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey31" /><TextWrapper>blockchaingrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey32" /><TextWrapper>blockchaingrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey33" /><TextWrapper>blockchaingrey33</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey34" /><TextWrapper>blockchaingrey34</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey35" /><TextWrapper>blockchaingrey35</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey36" /><TextWrapper>blockchaingrey36</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey37" /><TextWrapper>blockchaingrey37</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey38" /><TextWrapper>blockchaingrey38</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey39" /><TextWrapper>blockchaingrey39</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey4" /><TextWrapper>blockchaingrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey40" /><TextWrapper>blockchaingrey40</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey41" /><TextWrapper>blockchaingrey41</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey42" /><TextWrapper>blockchaingrey42</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey43" /><TextWrapper>blockchaingrey43</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey44" /><TextWrapper>blockchaingrey44</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey45" /><TextWrapper>blockchaingrey45</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey46" /><TextWrapper>blockchaingrey46</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey47" /><TextWrapper>blockchaingrey47</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey48" /><TextWrapper>blockchaingrey48</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey49" /><TextWrapper>blockchaingrey49</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey5" /><TextWrapper>blockchaingrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey50" /><TextWrapper>blockchaingrey50</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey6" /><TextWrapper>blockchaingrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey7" /><TextWrapper>blockchaingrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey8" /><TextWrapper>blockchaingrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="blockchaingrey9" /><TextWrapper>blockchaingrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('brands-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => brands-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="brandsgrey1" /><TextWrapper>brandsgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey10" /><TextWrapper>brandsgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey100" /><TextWrapper>brandsgrey100</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey101" /><TextWrapper>brandsgrey101</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey102" /><TextWrapper>brandsgrey102</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey103" /><TextWrapper>brandsgrey103</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey104" /><TextWrapper>brandsgrey104</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey105" /><TextWrapper>brandsgrey105</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey106" /><TextWrapper>brandsgrey106</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey107" /><TextWrapper>brandsgrey107</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey108" /><TextWrapper>brandsgrey108</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey109" /><TextWrapper>brandsgrey109</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey11" /><TextWrapper>brandsgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey110" /><TextWrapper>brandsgrey110</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey111" /><TextWrapper>brandsgrey111</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey112" /><TextWrapper>brandsgrey112</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey113" /><TextWrapper>brandsgrey113</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey114" /><TextWrapper>brandsgrey114</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey115" /><TextWrapper>brandsgrey115</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey116" /><TextWrapper>brandsgrey116</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey117" /><TextWrapper>brandsgrey117</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey118" /><TextWrapper>brandsgrey118</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey119" /><TextWrapper>brandsgrey119</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey12" /><TextWrapper>brandsgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey120" /><TextWrapper>brandsgrey120</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey121" /><TextWrapper>brandsgrey121</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey122" /><TextWrapper>brandsgrey122</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey123" /><TextWrapper>brandsgrey123</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey124" /><TextWrapper>brandsgrey124</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey125" /><TextWrapper>brandsgrey125</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey126" /><TextWrapper>brandsgrey126</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey127" /><TextWrapper>brandsgrey127</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey128" /><TextWrapper>brandsgrey128</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey129" /><TextWrapper>brandsgrey129</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey13" /><TextWrapper>brandsgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey130" /><TextWrapper>brandsgrey130</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey131" /><TextWrapper>brandsgrey131</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey132" /><TextWrapper>brandsgrey132</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey133" /><TextWrapper>brandsgrey133</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey134" /><TextWrapper>brandsgrey134</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey135" /><TextWrapper>brandsgrey135</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey136" /><TextWrapper>brandsgrey136</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey137" /><TextWrapper>brandsgrey137</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey138" /><TextWrapper>brandsgrey138</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey139" /><TextWrapper>brandsgrey139</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey14" /><TextWrapper>brandsgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey140" /><TextWrapper>brandsgrey140</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey141" /><TextWrapper>brandsgrey141</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey142" /><TextWrapper>brandsgrey142</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey143" /><TextWrapper>brandsgrey143</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey144" /><TextWrapper>brandsgrey144</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey145" /><TextWrapper>brandsgrey145</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey146" /><TextWrapper>brandsgrey146</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey147" /><TextWrapper>brandsgrey147</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey148" /><TextWrapper>brandsgrey148</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey149" /><TextWrapper>brandsgrey149</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey15" /><TextWrapper>brandsgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey150" /><TextWrapper>brandsgrey150</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey151" /><TextWrapper>brandsgrey151</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey152" /><TextWrapper>brandsgrey152</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey153" /><TextWrapper>brandsgrey153</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey154" /><TextWrapper>brandsgrey154</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey155" /><TextWrapper>brandsgrey155</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey156" /><TextWrapper>brandsgrey156</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey157" /><TextWrapper>brandsgrey157</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey158" /><TextWrapper>brandsgrey158</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey159" /><TextWrapper>brandsgrey159</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey16" /><TextWrapper>brandsgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey160" /><TextWrapper>brandsgrey160</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey161" /><TextWrapper>brandsgrey161</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey162" /><TextWrapper>brandsgrey162</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey163" /><TextWrapper>brandsgrey163</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey164" /><TextWrapper>brandsgrey164</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey165" /><TextWrapper>brandsgrey165</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey166" /><TextWrapper>brandsgrey166</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey167" /><TextWrapper>brandsgrey167</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey168" /><TextWrapper>brandsgrey168</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey169" /><TextWrapper>brandsgrey169</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey17" /><TextWrapper>brandsgrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey170" /><TextWrapper>brandsgrey170</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey171" /><TextWrapper>brandsgrey171</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey172" /><TextWrapper>brandsgrey172</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey173" /><TextWrapper>brandsgrey173</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey174" /><TextWrapper>brandsgrey174</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey175" /><TextWrapper>brandsgrey175</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey176" /><TextWrapper>brandsgrey176</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey177" /><TextWrapper>brandsgrey177</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey178" /><TextWrapper>brandsgrey178</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey179" /><TextWrapper>brandsgrey179</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey18" /><TextWrapper>brandsgrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey180" /><TextWrapper>brandsgrey180</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey181" /><TextWrapper>brandsgrey181</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey182" /><TextWrapper>brandsgrey182</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey183" /><TextWrapper>brandsgrey183</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey184" /><TextWrapper>brandsgrey184</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey185" /><TextWrapper>brandsgrey185</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey186" /><TextWrapper>brandsgrey186</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey187" /><TextWrapper>brandsgrey187</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey188" /><TextWrapper>brandsgrey188</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey189" /><TextWrapper>brandsgrey189</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey19" /><TextWrapper>brandsgrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey190" /><TextWrapper>brandsgrey190</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey191" /><TextWrapper>brandsgrey191</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey192" /><TextWrapper>brandsgrey192</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey193" /><TextWrapper>brandsgrey193</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey194" /><TextWrapper>brandsgrey194</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey195" /><TextWrapper>brandsgrey195</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey196" /><TextWrapper>brandsgrey196</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey197" /><TextWrapper>brandsgrey197</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey198" /><TextWrapper>brandsgrey198</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey199" /><TextWrapper>brandsgrey199</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey2" /><TextWrapper>brandsgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey20" /><TextWrapper>brandsgrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey200" /><TextWrapper>brandsgrey200</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey201" /><TextWrapper>brandsgrey201</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey202" /><TextWrapper>brandsgrey202</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey203" /><TextWrapper>brandsgrey203</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey204" /><TextWrapper>brandsgrey204</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey205" /><TextWrapper>brandsgrey205</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey206" /><TextWrapper>brandsgrey206</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey207" /><TextWrapper>brandsgrey207</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey208" /><TextWrapper>brandsgrey208</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey209" /><TextWrapper>brandsgrey209</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey21" /><TextWrapper>brandsgrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey210" /><TextWrapper>brandsgrey210</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey211" /><TextWrapper>brandsgrey211</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey212" /><TextWrapper>brandsgrey212</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey213" /><TextWrapper>brandsgrey213</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey214" /><TextWrapper>brandsgrey214</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey215" /><TextWrapper>brandsgrey215</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey216" /><TextWrapper>brandsgrey216</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey217" /><TextWrapper>brandsgrey217</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey218" /><TextWrapper>brandsgrey218</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey219" /><TextWrapper>brandsgrey219</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey22" /><TextWrapper>brandsgrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey220" /><TextWrapper>brandsgrey220</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey221" /><TextWrapper>brandsgrey221</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey222" /><TextWrapper>brandsgrey222</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey223" /><TextWrapper>brandsgrey223</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey224" /><TextWrapper>brandsgrey224</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey225" /><TextWrapper>brandsgrey225</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey226" /><TextWrapper>brandsgrey226</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey227" /><TextWrapper>brandsgrey227</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey228" /><TextWrapper>brandsgrey228</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey229" /><TextWrapper>brandsgrey229</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey23" /><TextWrapper>brandsgrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey230" /><TextWrapper>brandsgrey230</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey231" /><TextWrapper>brandsgrey231</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey232" /><TextWrapper>brandsgrey232</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey233" /><TextWrapper>brandsgrey233</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey234" /><TextWrapper>brandsgrey234</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey235" /><TextWrapper>brandsgrey235</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey236" /><TextWrapper>brandsgrey236</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey237" /><TextWrapper>brandsgrey237</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey238" /><TextWrapper>brandsgrey238</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey239" /><TextWrapper>brandsgrey239</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey24" /><TextWrapper>brandsgrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey240" /><TextWrapper>brandsgrey240</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey241" /><TextWrapper>brandsgrey241</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey242" /><TextWrapper>brandsgrey242</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey243" /><TextWrapper>brandsgrey243</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey244" /><TextWrapper>brandsgrey244</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey245" /><TextWrapper>brandsgrey245</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey246" /><TextWrapper>brandsgrey246</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey247" /><TextWrapper>brandsgrey247</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey248" /><TextWrapper>brandsgrey248</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey249" /><TextWrapper>brandsgrey249</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey25" /><TextWrapper>brandsgrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey250" /><TextWrapper>brandsgrey250</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey251" /><TextWrapper>brandsgrey251</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey252" /><TextWrapper>brandsgrey252</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey253" /><TextWrapper>brandsgrey253</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey254" /><TextWrapper>brandsgrey254</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey255" /><TextWrapper>brandsgrey255</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey256" /><TextWrapper>brandsgrey256</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey257" /><TextWrapper>brandsgrey257</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey258" /><TextWrapper>brandsgrey258</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey259" /><TextWrapper>brandsgrey259</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey26" /><TextWrapper>brandsgrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey260" /><TextWrapper>brandsgrey260</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey261" /><TextWrapper>brandsgrey261</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey262" /><TextWrapper>brandsgrey262</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey263" /><TextWrapper>brandsgrey263</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey264" /><TextWrapper>brandsgrey264</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey265" /><TextWrapper>brandsgrey265</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey266" /><TextWrapper>brandsgrey266</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey267" /><TextWrapper>brandsgrey267</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey268" /><TextWrapper>brandsgrey268</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey269" /><TextWrapper>brandsgrey269</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey27" /><TextWrapper>brandsgrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey270" /><TextWrapper>brandsgrey270</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey271" /><TextWrapper>brandsgrey271</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey272" /><TextWrapper>brandsgrey272</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey273" /><TextWrapper>brandsgrey273</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey274" /><TextWrapper>brandsgrey274</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey275" /><TextWrapper>brandsgrey275</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey276" /><TextWrapper>brandsgrey276</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey277" /><TextWrapper>brandsgrey277</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey278" /><TextWrapper>brandsgrey278</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey279" /><TextWrapper>brandsgrey279</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey28" /><TextWrapper>brandsgrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey280" /><TextWrapper>brandsgrey280</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey281" /><TextWrapper>brandsgrey281</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey282" /><TextWrapper>brandsgrey282</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey283" /><TextWrapper>brandsgrey283</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey284" /><TextWrapper>brandsgrey284</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey285" /><TextWrapper>brandsgrey285</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey286" /><TextWrapper>brandsgrey286</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey287" /><TextWrapper>brandsgrey287</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey288" /><TextWrapper>brandsgrey288</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey289" /><TextWrapper>brandsgrey289</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey29" /><TextWrapper>brandsgrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey290" /><TextWrapper>brandsgrey290</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey291" /><TextWrapper>brandsgrey291</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey292" /><TextWrapper>brandsgrey292</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey293" /><TextWrapper>brandsgrey293</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey294" /><TextWrapper>brandsgrey294</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey295" /><TextWrapper>brandsgrey295</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey296" /><TextWrapper>brandsgrey296</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey297" /><TextWrapper>brandsgrey297</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey298" /><TextWrapper>brandsgrey298</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey299" /><TextWrapper>brandsgrey299</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey3" /><TextWrapper>brandsgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey30" /><TextWrapper>brandsgrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey300" /><TextWrapper>brandsgrey300</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey301" /><TextWrapper>brandsgrey301</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey302" /><TextWrapper>brandsgrey302</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey303" /><TextWrapper>brandsgrey303</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey304" /><TextWrapper>brandsgrey304</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey305" /><TextWrapper>brandsgrey305</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey306" /><TextWrapper>brandsgrey306</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey307" /><TextWrapper>brandsgrey307</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey308" /><TextWrapper>brandsgrey308</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey309" /><TextWrapper>brandsgrey309</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey31" /><TextWrapper>brandsgrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey310" /><TextWrapper>brandsgrey310</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey311" /><TextWrapper>brandsgrey311</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey312" /><TextWrapper>brandsgrey312</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey313" /><TextWrapper>brandsgrey313</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey314" /><TextWrapper>brandsgrey314</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey315" /><TextWrapper>brandsgrey315</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey316" /><TextWrapper>brandsgrey316</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey317" /><TextWrapper>brandsgrey317</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey318" /><TextWrapper>brandsgrey318</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey319" /><TextWrapper>brandsgrey319</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey32" /><TextWrapper>brandsgrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey320" /><TextWrapper>brandsgrey320</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey321" /><TextWrapper>brandsgrey321</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey322" /><TextWrapper>brandsgrey322</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey323" /><TextWrapper>brandsgrey323</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey324" /><TextWrapper>brandsgrey324</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey325" /><TextWrapper>brandsgrey325</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey326" /><TextWrapper>brandsgrey326</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey327" /><TextWrapper>brandsgrey327</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey328" /><TextWrapper>brandsgrey328</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey329" /><TextWrapper>brandsgrey329</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey33" /><TextWrapper>brandsgrey33</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey330" /><TextWrapper>brandsgrey330</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey331" /><TextWrapper>brandsgrey331</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey332" /><TextWrapper>brandsgrey332</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey333" /><TextWrapper>brandsgrey333</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey334" /><TextWrapper>brandsgrey334</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey335" /><TextWrapper>brandsgrey335</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey336" /><TextWrapper>brandsgrey336</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey337" /><TextWrapper>brandsgrey337</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey338" /><TextWrapper>brandsgrey338</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey339" /><TextWrapper>brandsgrey339</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey34" /><TextWrapper>brandsgrey34</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey340" /><TextWrapper>brandsgrey340</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey341" /><TextWrapper>brandsgrey341</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey342" /><TextWrapper>brandsgrey342</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey343" /><TextWrapper>brandsgrey343</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey344" /><TextWrapper>brandsgrey344</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey345" /><TextWrapper>brandsgrey345</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey346" /><TextWrapper>brandsgrey346</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey347" /><TextWrapper>brandsgrey347</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey348" /><TextWrapper>brandsgrey348</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey349" /><TextWrapper>brandsgrey349</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey35" /><TextWrapper>brandsgrey35</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey350" /><TextWrapper>brandsgrey350</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey351" /><TextWrapper>brandsgrey351</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey352" /><TextWrapper>brandsgrey352</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey353" /><TextWrapper>brandsgrey353</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey354" /><TextWrapper>brandsgrey354</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey355" /><TextWrapper>brandsgrey355</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey356" /><TextWrapper>brandsgrey356</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey357" /><TextWrapper>brandsgrey357</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey358" /><TextWrapper>brandsgrey358</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey359" /><TextWrapper>brandsgrey359</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey36" /><TextWrapper>brandsgrey36</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey360" /><TextWrapper>brandsgrey360</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey361" /><TextWrapper>brandsgrey361</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey362" /><TextWrapper>brandsgrey362</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey363" /><TextWrapper>brandsgrey363</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey364" /><TextWrapper>brandsgrey364</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey365" /><TextWrapper>brandsgrey365</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey366" /><TextWrapper>brandsgrey366</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey367" /><TextWrapper>brandsgrey367</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey368" /><TextWrapper>brandsgrey368</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey369" /><TextWrapper>brandsgrey369</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey37" /><TextWrapper>brandsgrey37</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey370" /><TextWrapper>brandsgrey370</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey371" /><TextWrapper>brandsgrey371</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey372" /><TextWrapper>brandsgrey372</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey373" /><TextWrapper>brandsgrey373</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey374" /><TextWrapper>brandsgrey374</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey375" /><TextWrapper>brandsgrey375</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey376" /><TextWrapper>brandsgrey376</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey377" /><TextWrapper>brandsgrey377</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey378" /><TextWrapper>brandsgrey378</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey379" /><TextWrapper>brandsgrey379</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey38" /><TextWrapper>brandsgrey38</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey380" /><TextWrapper>brandsgrey380</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey381" /><TextWrapper>brandsgrey381</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey382" /><TextWrapper>brandsgrey382</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey383" /><TextWrapper>brandsgrey383</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey384" /><TextWrapper>brandsgrey384</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey385" /><TextWrapper>brandsgrey385</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey386" /><TextWrapper>brandsgrey386</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey387" /><TextWrapper>brandsgrey387</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey388" /><TextWrapper>brandsgrey388</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey389" /><TextWrapper>brandsgrey389</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey39" /><TextWrapper>brandsgrey39</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey390" /><TextWrapper>brandsgrey390</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey391" /><TextWrapper>brandsgrey391</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey392" /><TextWrapper>brandsgrey392</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey393" /><TextWrapper>brandsgrey393</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey394" /><TextWrapper>brandsgrey394</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey395" /><TextWrapper>brandsgrey395</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey396" /><TextWrapper>brandsgrey396</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey397" /><TextWrapper>brandsgrey397</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey398" /><TextWrapper>brandsgrey398</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey399" /><TextWrapper>brandsgrey399</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey4" /><TextWrapper>brandsgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey40" /><TextWrapper>brandsgrey40</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey400" /><TextWrapper>brandsgrey400</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey401" /><TextWrapper>brandsgrey401</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey402" /><TextWrapper>brandsgrey402</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey403" /><TextWrapper>brandsgrey403</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey404" /><TextWrapper>brandsgrey404</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey405" /><TextWrapper>brandsgrey405</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey406" /><TextWrapper>brandsgrey406</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey407" /><TextWrapper>brandsgrey407</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey408" /><TextWrapper>brandsgrey408</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey409" /><TextWrapper>brandsgrey409</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey41" /><TextWrapper>brandsgrey41</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey410" /><TextWrapper>brandsgrey410</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey411" /><TextWrapper>brandsgrey411</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey412" /><TextWrapper>brandsgrey412</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey413" /><TextWrapper>brandsgrey413</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey414" /><TextWrapper>brandsgrey414</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey415" /><TextWrapper>brandsgrey415</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey416" /><TextWrapper>brandsgrey416</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey417" /><TextWrapper>brandsgrey417</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey418" /><TextWrapper>brandsgrey418</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey419" /><TextWrapper>brandsgrey419</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey42" /><TextWrapper>brandsgrey42</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey420" /><TextWrapper>brandsgrey420</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey421" /><TextWrapper>brandsgrey421</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey422" /><TextWrapper>brandsgrey422</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey423" /><TextWrapper>brandsgrey423</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey424" /><TextWrapper>brandsgrey424</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey425" /><TextWrapper>brandsgrey425</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey426" /><TextWrapper>brandsgrey426</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey427" /><TextWrapper>brandsgrey427</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey428" /><TextWrapper>brandsgrey428</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey429" /><TextWrapper>brandsgrey429</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey43" /><TextWrapper>brandsgrey43</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey430" /><TextWrapper>brandsgrey430</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey431" /><TextWrapper>brandsgrey431</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey432" /><TextWrapper>brandsgrey432</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey433" /><TextWrapper>brandsgrey433</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey434" /><TextWrapper>brandsgrey434</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey435" /><TextWrapper>brandsgrey435</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey436" /><TextWrapper>brandsgrey436</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey437" /><TextWrapper>brandsgrey437</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey438" /><TextWrapper>brandsgrey438</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey439" /><TextWrapper>brandsgrey439</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey44" /><TextWrapper>brandsgrey44</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey440" /><TextWrapper>brandsgrey440</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey441" /><TextWrapper>brandsgrey441</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey442" /><TextWrapper>brandsgrey442</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey443" /><TextWrapper>brandsgrey443</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey444" /><TextWrapper>brandsgrey444</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey445" /><TextWrapper>brandsgrey445</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey446" /><TextWrapper>brandsgrey446</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey447" /><TextWrapper>brandsgrey447</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey448" /><TextWrapper>brandsgrey448</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey449" /><TextWrapper>brandsgrey449</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey45" /><TextWrapper>brandsgrey45</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey450" /><TextWrapper>brandsgrey450</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey451" /><TextWrapper>brandsgrey451</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey452" /><TextWrapper>brandsgrey452</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey453" /><TextWrapper>brandsgrey453</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey454" /><TextWrapper>brandsgrey454</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey455" /><TextWrapper>brandsgrey455</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey456" /><TextWrapper>brandsgrey456</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey457" /><TextWrapper>brandsgrey457</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey458" /><TextWrapper>brandsgrey458</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey459" /><TextWrapper>brandsgrey459</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey46" /><TextWrapper>brandsgrey46</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey460" /><TextWrapper>brandsgrey460</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey461" /><TextWrapper>brandsgrey461</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey462" /><TextWrapper>brandsgrey462</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey463" /><TextWrapper>brandsgrey463</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey464" /><TextWrapper>brandsgrey464</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey465" /><TextWrapper>brandsgrey465</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey466" /><TextWrapper>brandsgrey466</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey467" /><TextWrapper>brandsgrey467</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey468" /><TextWrapper>brandsgrey468</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey469" /><TextWrapper>brandsgrey469</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey47" /><TextWrapper>brandsgrey47</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey470" /><TextWrapper>brandsgrey470</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey471" /><TextWrapper>brandsgrey471</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey472" /><TextWrapper>brandsgrey472</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey473" /><TextWrapper>brandsgrey473</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey474" /><TextWrapper>brandsgrey474</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey475" /><TextWrapper>brandsgrey475</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey476" /><TextWrapper>brandsgrey476</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey477" /><TextWrapper>brandsgrey477</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey478" /><TextWrapper>brandsgrey478</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey479" /><TextWrapper>brandsgrey479</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey48" /><TextWrapper>brandsgrey48</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey480" /><TextWrapper>brandsgrey480</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey481" /><TextWrapper>brandsgrey481</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey482" /><TextWrapper>brandsgrey482</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey483" /><TextWrapper>brandsgrey483</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey484" /><TextWrapper>brandsgrey484</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey485" /><TextWrapper>brandsgrey485</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey486" /><TextWrapper>brandsgrey486</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey487" /><TextWrapper>brandsgrey487</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey488" /><TextWrapper>brandsgrey488</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey489" /><TextWrapper>brandsgrey489</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey49" /><TextWrapper>brandsgrey49</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey490" /><TextWrapper>brandsgrey490</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey491" /><TextWrapper>brandsgrey491</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey492" /><TextWrapper>brandsgrey492</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey493" /><TextWrapper>brandsgrey493</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey494" /><TextWrapper>brandsgrey494</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey495" /><TextWrapper>brandsgrey495</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey496" /><TextWrapper>brandsgrey496</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey497" /><TextWrapper>brandsgrey497</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey498" /><TextWrapper>brandsgrey498</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey499" /><TextWrapper>brandsgrey499</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey5" /><TextWrapper>brandsgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey50" /><TextWrapper>brandsgrey50</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey500" /><TextWrapper>brandsgrey500</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey501" /><TextWrapper>brandsgrey501</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey502" /><TextWrapper>brandsgrey502</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey503" /><TextWrapper>brandsgrey503</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey504" /><TextWrapper>brandsgrey504</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey505" /><TextWrapper>brandsgrey505</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey506" /><TextWrapper>brandsgrey506</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey507" /><TextWrapper>brandsgrey507</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey508" /><TextWrapper>brandsgrey508</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey509" /><TextWrapper>brandsgrey509</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey51" /><TextWrapper>brandsgrey51</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey510" /><TextWrapper>brandsgrey510</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey511" /><TextWrapper>brandsgrey511</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey512" /><TextWrapper>brandsgrey512</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey513" /><TextWrapper>brandsgrey513</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey514" /><TextWrapper>brandsgrey514</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey515" /><TextWrapper>brandsgrey515</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey516" /><TextWrapper>brandsgrey516</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey517" /><TextWrapper>brandsgrey517</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey518" /><TextWrapper>brandsgrey518</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey519" /><TextWrapper>brandsgrey519</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey52" /><TextWrapper>brandsgrey52</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey520" /><TextWrapper>brandsgrey520</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey521" /><TextWrapper>brandsgrey521</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey522" /><TextWrapper>brandsgrey522</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey523" /><TextWrapper>brandsgrey523</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey524" /><TextWrapper>brandsgrey524</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey525" /><TextWrapper>brandsgrey525</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey526" /><TextWrapper>brandsgrey526</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey527" /><TextWrapper>brandsgrey527</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey528" /><TextWrapper>brandsgrey528</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey529" /><TextWrapper>brandsgrey529</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey53" /><TextWrapper>brandsgrey53</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey530" /><TextWrapper>brandsgrey530</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey531" /><TextWrapper>brandsgrey531</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey532" /><TextWrapper>brandsgrey532</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey533" /><TextWrapper>brandsgrey533</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey534" /><TextWrapper>brandsgrey534</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey535" /><TextWrapper>brandsgrey535</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey536" /><TextWrapper>brandsgrey536</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey537" /><TextWrapper>brandsgrey537</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey538" /><TextWrapper>brandsgrey538</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey539" /><TextWrapper>brandsgrey539</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey54" /><TextWrapper>brandsgrey54</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey540" /><TextWrapper>brandsgrey540</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey541" /><TextWrapper>brandsgrey541</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey542" /><TextWrapper>brandsgrey542</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey543" /><TextWrapper>brandsgrey543</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey544" /><TextWrapper>brandsgrey544</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey545" /><TextWrapper>brandsgrey545</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey546" /><TextWrapper>brandsgrey546</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey547" /><TextWrapper>brandsgrey547</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey548" /><TextWrapper>brandsgrey548</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey549" /><TextWrapper>brandsgrey549</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey55" /><TextWrapper>brandsgrey55</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey550" /><TextWrapper>brandsgrey550</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey551" /><TextWrapper>brandsgrey551</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey552" /><TextWrapper>brandsgrey552</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey553" /><TextWrapper>brandsgrey553</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey554" /><TextWrapper>brandsgrey554</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey555" /><TextWrapper>brandsgrey555</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey556" /><TextWrapper>brandsgrey556</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey557" /><TextWrapper>brandsgrey557</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey558" /><TextWrapper>brandsgrey558</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey559" /><TextWrapper>brandsgrey559</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey56" /><TextWrapper>brandsgrey56</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey560" /><TextWrapper>brandsgrey560</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey561" /><TextWrapper>brandsgrey561</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey562" /><TextWrapper>brandsgrey562</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey563" /><TextWrapper>brandsgrey563</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey564" /><TextWrapper>brandsgrey564</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey565" /><TextWrapper>brandsgrey565</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey566" /><TextWrapper>brandsgrey566</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey567" /><TextWrapper>brandsgrey567</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey568" /><TextWrapper>brandsgrey568</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey569" /><TextWrapper>brandsgrey569</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey57" /><TextWrapper>brandsgrey57</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey570" /><TextWrapper>brandsgrey570</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey571" /><TextWrapper>brandsgrey571</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey572" /><TextWrapper>brandsgrey572</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey573" /><TextWrapper>brandsgrey573</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey574" /><TextWrapper>brandsgrey574</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey575" /><TextWrapper>brandsgrey575</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey576" /><TextWrapper>brandsgrey576</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey577" /><TextWrapper>brandsgrey577</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey578" /><TextWrapper>brandsgrey578</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey579" /><TextWrapper>brandsgrey579</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey58" /><TextWrapper>brandsgrey58</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey580" /><TextWrapper>brandsgrey580</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey581" /><TextWrapper>brandsgrey581</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey582" /><TextWrapper>brandsgrey582</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey583" /><TextWrapper>brandsgrey583</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey584" /><TextWrapper>brandsgrey584</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey585" /><TextWrapper>brandsgrey585</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey586" /><TextWrapper>brandsgrey586</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey587" /><TextWrapper>brandsgrey587</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey588" /><TextWrapper>brandsgrey588</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey589" /><TextWrapper>brandsgrey589</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey59" /><TextWrapper>brandsgrey59</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey590" /><TextWrapper>brandsgrey590</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey591" /><TextWrapper>brandsgrey591</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey592" /><TextWrapper>brandsgrey592</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey593" /><TextWrapper>brandsgrey593</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey594" /><TextWrapper>brandsgrey594</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey595" /><TextWrapper>brandsgrey595</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey596" /><TextWrapper>brandsgrey596</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey597" /><TextWrapper>brandsgrey597</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey598" /><TextWrapper>brandsgrey598</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey599" /><TextWrapper>brandsgrey599</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey6" /><TextWrapper>brandsgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey60" /><TextWrapper>brandsgrey60</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey600" /><TextWrapper>brandsgrey600</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey601" /><TextWrapper>brandsgrey601</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey602" /><TextWrapper>brandsgrey602</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey603" /><TextWrapper>brandsgrey603</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey604" /><TextWrapper>brandsgrey604</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey605" /><TextWrapper>brandsgrey605</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey606" /><TextWrapper>brandsgrey606</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey607" /><TextWrapper>brandsgrey607</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey608" /><TextWrapper>brandsgrey608</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey609" /><TextWrapper>brandsgrey609</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey61" /><TextWrapper>brandsgrey61</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey610" /><TextWrapper>brandsgrey610</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey611" /><TextWrapper>brandsgrey611</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey612" /><TextWrapper>brandsgrey612</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey613" /><TextWrapper>brandsgrey613</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey614" /><TextWrapper>brandsgrey614</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey615" /><TextWrapper>brandsgrey615</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey616" /><TextWrapper>brandsgrey616</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey617" /><TextWrapper>brandsgrey617</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey618" /><TextWrapper>brandsgrey618</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey619" /><TextWrapper>brandsgrey619</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey62" /><TextWrapper>brandsgrey62</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey620" /><TextWrapper>brandsgrey620</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey621" /><TextWrapper>brandsgrey621</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey622" /><TextWrapper>brandsgrey622</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey623" /><TextWrapper>brandsgrey623</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey624" /><TextWrapper>brandsgrey624</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey625" /><TextWrapper>brandsgrey625</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey626" /><TextWrapper>brandsgrey626</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey627" /><TextWrapper>brandsgrey627</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey628" /><TextWrapper>brandsgrey628</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey629" /><TextWrapper>brandsgrey629</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey63" /><TextWrapper>brandsgrey63</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey630" /><TextWrapper>brandsgrey630</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey631" /><TextWrapper>brandsgrey631</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey632" /><TextWrapper>brandsgrey632</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey633" /><TextWrapper>brandsgrey633</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey634" /><TextWrapper>brandsgrey634</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey635" /><TextWrapper>brandsgrey635</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey636" /><TextWrapper>brandsgrey636</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey637" /><TextWrapper>brandsgrey637</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey638" /><TextWrapper>brandsgrey638</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey639" /><TextWrapper>brandsgrey639</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey64" /><TextWrapper>brandsgrey64</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey640" /><TextWrapper>brandsgrey640</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey641" /><TextWrapper>brandsgrey641</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey642" /><TextWrapper>brandsgrey642</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey643" /><TextWrapper>brandsgrey643</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey644" /><TextWrapper>brandsgrey644</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey645" /><TextWrapper>brandsgrey645</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey646" /><TextWrapper>brandsgrey646</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey647" /><TextWrapper>brandsgrey647</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey648" /><TextWrapper>brandsgrey648</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey649" /><TextWrapper>brandsgrey649</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey65" /><TextWrapper>brandsgrey65</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey650" /><TextWrapper>brandsgrey650</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey651" /><TextWrapper>brandsgrey651</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey652" /><TextWrapper>brandsgrey652</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey653" /><TextWrapper>brandsgrey653</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey654" /><TextWrapper>brandsgrey654</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey655" /><TextWrapper>brandsgrey655</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey656" /><TextWrapper>brandsgrey656</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey657" /><TextWrapper>brandsgrey657</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey658" /><TextWrapper>brandsgrey658</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey659" /><TextWrapper>brandsgrey659</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey66" /><TextWrapper>brandsgrey66</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey660" /><TextWrapper>brandsgrey660</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey661" /><TextWrapper>brandsgrey661</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey662" /><TextWrapper>brandsgrey662</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey663" /><TextWrapper>brandsgrey663</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey664" /><TextWrapper>brandsgrey664</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey665" /><TextWrapper>brandsgrey665</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey666" /><TextWrapper>brandsgrey666</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey667" /><TextWrapper>brandsgrey667</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey668" /><TextWrapper>brandsgrey668</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey669" /><TextWrapper>brandsgrey669</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey67" /><TextWrapper>brandsgrey67</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey670" /><TextWrapper>brandsgrey670</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey671" /><TextWrapper>brandsgrey671</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey672" /><TextWrapper>brandsgrey672</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey673" /><TextWrapper>brandsgrey673</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey674" /><TextWrapper>brandsgrey674</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey675" /><TextWrapper>brandsgrey675</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey676" /><TextWrapper>brandsgrey676</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey68" /><TextWrapper>brandsgrey68</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey69" /><TextWrapper>brandsgrey69</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey7" /><TextWrapper>brandsgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey70" /><TextWrapper>brandsgrey70</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey71" /><TextWrapper>brandsgrey71</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey72" /><TextWrapper>brandsgrey72</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey73" /><TextWrapper>brandsgrey73</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey74" /><TextWrapper>brandsgrey74</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey75" /><TextWrapper>brandsgrey75</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey76" /><TextWrapper>brandsgrey76</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey77" /><TextWrapper>brandsgrey77</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey78" /><TextWrapper>brandsgrey78</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey79" /><TextWrapper>brandsgrey79</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey8" /><TextWrapper>brandsgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey80" /><TextWrapper>brandsgrey80</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey81" /><TextWrapper>brandsgrey81</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey82" /><TextWrapper>brandsgrey82</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey83" /><TextWrapper>brandsgrey83</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey84" /><TextWrapper>brandsgrey84</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey85" /><TextWrapper>brandsgrey85</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey86" /><TextWrapper>brandsgrey86</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey87" /><TextWrapper>brandsgrey87</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey88" /><TextWrapper>brandsgrey88</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey89" /><TextWrapper>brandsgrey89</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey9" /><TextWrapper>brandsgrey9</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey90" /><TextWrapper>brandsgrey90</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey91" /><TextWrapper>brandsgrey91</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey92" /><TextWrapper>brandsgrey92</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey93" /><TextWrapper>brandsgrey93</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey94" /><TextWrapper>brandsgrey94</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey95" /><TextWrapper>brandsgrey95</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey96" /><TextWrapper>brandsgrey96</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey97" /><TextWrapper>brandsgrey97</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey98" /><TextWrapper>brandsgrey98</TextWrapper></IconWrapper><IconWrapper><Icon icon="brandsgrey99" /><TextWrapper>brandsgrey99</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('business-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => business-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="businesscolor1" /><TextWrapper>businesscolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor10" /><TextWrapper>businesscolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor11" /><TextWrapper>businesscolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor12" /><TextWrapper>businesscolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor13" /><TextWrapper>businesscolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor14" /><TextWrapper>businesscolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor15" /><TextWrapper>businesscolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor16" /><TextWrapper>businesscolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor17" /><TextWrapper>businesscolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor18" /><TextWrapper>businesscolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor19" /><TextWrapper>businesscolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor2" /><TextWrapper>businesscolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor20" /><TextWrapper>businesscolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor21" /><TextWrapper>businesscolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor22" /><TextWrapper>businesscolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor23" /><TextWrapper>businesscolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor24" /><TextWrapper>businesscolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor25" /><TextWrapper>businesscolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor26" /><TextWrapper>businesscolor26</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor27" /><TextWrapper>businesscolor27</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor28" /><TextWrapper>businesscolor28</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor29" /><TextWrapper>businesscolor29</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor3" /><TextWrapper>businesscolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor30" /><TextWrapper>businesscolor30</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor31" /><TextWrapper>businesscolor31</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor32" /><TextWrapper>businesscolor32</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor33" /><TextWrapper>businesscolor33</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor34" /><TextWrapper>businesscolor34</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor35" /><TextWrapper>businesscolor35</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor36" /><TextWrapper>businesscolor36</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor37" /><TextWrapper>businesscolor37</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor38" /><TextWrapper>businesscolor38</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor39" /><TextWrapper>businesscolor39</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor4" /><TextWrapper>businesscolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor40" /><TextWrapper>businesscolor40</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor5" /><TextWrapper>businesscolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor6" /><TextWrapper>businesscolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor7" /><TextWrapper>businesscolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor8" /><TextWrapper>businesscolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="businesscolor9" /><TextWrapper>businesscolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('business-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => business-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="businessgrey1" /><TextWrapper>businessgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey10" /><TextWrapper>businessgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey11" /><TextWrapper>businessgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey12" /><TextWrapper>businessgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey13" /><TextWrapper>businessgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey14" /><TextWrapper>businessgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey15" /><TextWrapper>businessgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey16" /><TextWrapper>businessgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey17" /><TextWrapper>businessgrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey18" /><TextWrapper>businessgrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey19" /><TextWrapper>businessgrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey2" /><TextWrapper>businessgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey20" /><TextWrapper>businessgrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey3" /><TextWrapper>businessgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey4" /><TextWrapper>businessgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey5" /><TextWrapper>businessgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey6" /><TextWrapper>businessgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey7" /><TextWrapper>businessgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey8" /><TextWrapper>businessgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="businessgrey9" /><TextWrapper>businessgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('food-dishes-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => food-dishes-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="fooddishescolor1" /><TextWrapper>fooddishescolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor10" /><TextWrapper>fooddishescolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor11" /><TextWrapper>fooddishescolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor12" /><TextWrapper>fooddishescolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor13" /><TextWrapper>fooddishescolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor14" /><TextWrapper>fooddishescolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor15" /><TextWrapper>fooddishescolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor2" /><TextWrapper>fooddishescolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor3" /><TextWrapper>fooddishescolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor4" /><TextWrapper>fooddishescolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor5" /><TextWrapper>fooddishescolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor6" /><TextWrapper>fooddishescolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor7" /><TextWrapper>fooddishescolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor8" /><TextWrapper>fooddishescolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="fooddishescolor9" /><TextWrapper>fooddishescolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('fourthofjuly-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => fourthofjuly-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="fourthofjulygrey1" /><TextWrapper>fourthofjulygrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey10" /><TextWrapper>fourthofjulygrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey11" /><TextWrapper>fourthofjulygrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey12" /><TextWrapper>fourthofjulygrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey13" /><TextWrapper>fourthofjulygrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey14" /><TextWrapper>fourthofjulygrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey15" /><TextWrapper>fourthofjulygrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey16" /><TextWrapper>fourthofjulygrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey17" /><TextWrapper>fourthofjulygrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey18" /><TextWrapper>fourthofjulygrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey19" /><TextWrapper>fourthofjulygrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey2" /><TextWrapper>fourthofjulygrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey20" /><TextWrapper>fourthofjulygrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey21" /><TextWrapper>fourthofjulygrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey22" /><TextWrapper>fourthofjulygrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey23" /><TextWrapper>fourthofjulygrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey24" /><TextWrapper>fourthofjulygrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey25" /><TextWrapper>fourthofjulygrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey26" /><TextWrapper>fourthofjulygrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey27" /><TextWrapper>fourthofjulygrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey28" /><TextWrapper>fourthofjulygrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey29" /><TextWrapper>fourthofjulygrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey3" /><TextWrapper>fourthofjulygrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey30" /><TextWrapper>fourthofjulygrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey31" /><TextWrapper>fourthofjulygrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey32" /><TextWrapper>fourthofjulygrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey33" /><TextWrapper>fourthofjulygrey33</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey34" /><TextWrapper>fourthofjulygrey34</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey35" /><TextWrapper>fourthofjulygrey35</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey36" /><TextWrapper>fourthofjulygrey36</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey37" /><TextWrapper>fourthofjulygrey37</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey38" /><TextWrapper>fourthofjulygrey38</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey39" /><TextWrapper>fourthofjulygrey39</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey4" /><TextWrapper>fourthofjulygrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey40" /><TextWrapper>fourthofjulygrey40</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey5" /><TextWrapper>fourthofjulygrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey6" /><TextWrapper>fourthofjulygrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey7" /><TextWrapper>fourthofjulygrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey8" /><TextWrapper>fourthofjulygrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="fourthofjulygrey9" /><TextWrapper>fourthofjulygrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('green-energy-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => green-energy-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="greenenergycolor1" /><TextWrapper>greenenergycolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor10" /><TextWrapper>greenenergycolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor11" /><TextWrapper>greenenergycolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor12" /><TextWrapper>greenenergycolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor13" /><TextWrapper>greenenergycolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor14" /><TextWrapper>greenenergycolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor15" /><TextWrapper>greenenergycolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor16" /><TextWrapper>greenenergycolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor17" /><TextWrapper>greenenergycolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor18" /><TextWrapper>greenenergycolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor19" /><TextWrapper>greenenergycolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor2" /><TextWrapper>greenenergycolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor20" /><TextWrapper>greenenergycolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor21" /><TextWrapper>greenenergycolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor22" /><TextWrapper>greenenergycolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor23" /><TextWrapper>greenenergycolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor24" /><TextWrapper>greenenergycolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor25" /><TextWrapper>greenenergycolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor26" /><TextWrapper>greenenergycolor26</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor27" /><TextWrapper>greenenergycolor27</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor28" /><TextWrapper>greenenergycolor28</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor29" /><TextWrapper>greenenergycolor29</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor3" /><TextWrapper>greenenergycolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor30" /><TextWrapper>greenenergycolor30</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor31" /><TextWrapper>greenenergycolor31</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor32" /><TextWrapper>greenenergycolor32</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor4" /><TextWrapper>greenenergycolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor5" /><TextWrapper>greenenergycolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor6" /><TextWrapper>greenenergycolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor7" /><TextWrapper>greenenergycolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor8" /><TextWrapper>greenenergycolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="greenenergycolor9" /><TextWrapper>greenenergycolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('helmet-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => helmet-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="helmetgrey1" /><TextWrapper>helmetgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey10" /><TextWrapper>helmetgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey11" /><TextWrapper>helmetgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey12" /><TextWrapper>helmetgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey13" /><TextWrapper>helmetgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey14" /><TextWrapper>helmetgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey15" /><TextWrapper>helmetgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey16" /><TextWrapper>helmetgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey17" /><TextWrapper>helmetgrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey18" /><TextWrapper>helmetgrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey19" /><TextWrapper>helmetgrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey2" /><TextWrapper>helmetgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey20" /><TextWrapper>helmetgrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey21" /><TextWrapper>helmetgrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey22" /><TextWrapper>helmetgrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey23" /><TextWrapper>helmetgrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey24" /><TextWrapper>helmetgrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey25" /><TextWrapper>helmetgrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey26" /><TextWrapper>helmetgrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey27" /><TextWrapper>helmetgrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey28" /><TextWrapper>helmetgrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey29" /><TextWrapper>helmetgrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey3" /><TextWrapper>helmetgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey30" /><TextWrapper>helmetgrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey31" /><TextWrapper>helmetgrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey32" /><TextWrapper>helmetgrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey4" /><TextWrapper>helmetgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey5" /><TextWrapper>helmetgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey6" /><TextWrapper>helmetgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey7" /><TextWrapper>helmetgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey8" /><TextWrapper>helmetgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="helmetgrey9" /><TextWrapper>helmetgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('home-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => home-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="homecolor1" /><TextWrapper>homecolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor10" /><TextWrapper>homecolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor11" /><TextWrapper>homecolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor12" /><TextWrapper>homecolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor13" /><TextWrapper>homecolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor14" /><TextWrapper>homecolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor15" /><TextWrapper>homecolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor16" /><TextWrapper>homecolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor2" /><TextWrapper>homecolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor3" /><TextWrapper>homecolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor4" /><TextWrapper>homecolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor5" /><TextWrapper>homecolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor6" /><TextWrapper>homecolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor7" /><TextWrapper>homecolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor8" /><TextWrapper>homecolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="homecolor9" /><TextWrapper>homecolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('home-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => home-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="homegrey1" /><TextWrapper>homegrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey10" /><TextWrapper>homegrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey11" /><TextWrapper>homegrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey12" /><TextWrapper>homegrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey13" /><TextWrapper>homegrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey14" /><TextWrapper>homegrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey15" /><TextWrapper>homegrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey16" /><TextWrapper>homegrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey2" /><TextWrapper>homegrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey3" /><TextWrapper>homegrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey4" /><TextWrapper>homegrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey5" /><TextWrapper>homegrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey6" /><TextWrapper>homegrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey7" /><TextWrapper>homegrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey8" /><TextWrapper>homegrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="homegrey9" /><TextWrapper>homegrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('kitchen-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => kitchen-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="kitchencolor1" /><TextWrapper>kitchencolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor10" /><TextWrapper>kitchencolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor11" /><TextWrapper>kitchencolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor12" /><TextWrapper>kitchencolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor13" /><TextWrapper>kitchencolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor14" /><TextWrapper>kitchencolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor15" /><TextWrapper>kitchencolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor16" /><TextWrapper>kitchencolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor2" /><TextWrapper>kitchencolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor3" /><TextWrapper>kitchencolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor4" /><TextWrapper>kitchencolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor5" /><TextWrapper>kitchencolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor6" /><TextWrapper>kitchencolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor7" /><TextWrapper>kitchencolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor8" /><TextWrapper>kitchencolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchencolor9" /><TextWrapper>kitchencolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('kitchen-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => kitchen-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="kitchengrey1" /><TextWrapper>kitchengrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey10" /><TextWrapper>kitchengrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey11" /><TextWrapper>kitchengrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey12" /><TextWrapper>kitchengrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey13" /><TextWrapper>kitchengrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey14" /><TextWrapper>kitchengrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey15" /><TextWrapper>kitchengrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey16" /><TextWrapper>kitchengrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey2" /><TextWrapper>kitchengrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey3" /><TextWrapper>kitchengrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey4" /><TextWrapper>kitchengrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey5" /><TextWrapper>kitchengrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey6" /><TextWrapper>kitchengrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey7" /><TextWrapper>kitchengrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey8" /><TextWrapper>kitchengrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="kitchengrey9" /><TextWrapper>kitchengrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('knife-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => knife-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="knifecolor1" /><TextWrapper>knifecolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor10" /><TextWrapper>knifecolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor11" /><TextWrapper>knifecolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor12" /><TextWrapper>knifecolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor13" /><TextWrapper>knifecolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor14" /><TextWrapper>knifecolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor15" /><TextWrapper>knifecolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor16" /><TextWrapper>knifecolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor2" /><TextWrapper>knifecolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor3" /><TextWrapper>knifecolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor4" /><TextWrapper>knifecolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor5" /><TextWrapper>knifecolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor6" /><TextWrapper>knifecolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor7" /><TextWrapper>knifecolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor8" /><TextWrapper>knifecolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifecolor9" /><TextWrapper>knifecolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('knife-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => knife-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="knifegrey1" /><TextWrapper>knifegrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey10" /><TextWrapper>knifegrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey11" /><TextWrapper>knifegrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey12" /><TextWrapper>knifegrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey13" /><TextWrapper>knifegrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey14" /><TextWrapper>knifegrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey15" /><TextWrapper>knifegrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey16" /><TextWrapper>knifegrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey2" /><TextWrapper>knifegrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey3" /><TextWrapper>knifegrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey4" /><TextWrapper>knifegrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey5" /><TextWrapper>knifegrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey6" /><TextWrapper>knifegrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey7" /><TextWrapper>knifegrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey8" /><TextWrapper>knifegrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="knifegrey9" /><TextWrapper>knifegrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('law-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => law-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="lawcolor1" /><TextWrapper>lawcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor10" /><TextWrapper>lawcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor11" /><TextWrapper>lawcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor12" /><TextWrapper>lawcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor13" /><TextWrapper>lawcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor14" /><TextWrapper>lawcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor15" /><TextWrapper>lawcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor16" /><TextWrapper>lawcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor2" /><TextWrapper>lawcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor3" /><TextWrapper>lawcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor4" /><TextWrapper>lawcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor5" /><TextWrapper>lawcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor6" /><TextWrapper>lawcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor7" /><TextWrapper>lawcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor8" /><TextWrapper>lawcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawcolor9" /><TextWrapper>lawcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('law-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => law-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="lawgrey1" /><TextWrapper>lawgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey10" /><TextWrapper>lawgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey11" /><TextWrapper>lawgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey12" /><TextWrapper>lawgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey13" /><TextWrapper>lawgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey14" /><TextWrapper>lawgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey15" /><TextWrapper>lawgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey16" /><TextWrapper>lawgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey2" /><TextWrapper>lawgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey3" /><TextWrapper>lawgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey4" /><TextWrapper>lawgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey5" /><TextWrapper>lawgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey6" /><TextWrapper>lawgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey7" /><TextWrapper>lawgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey8" /><TextWrapper>lawgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="lawgrey9" /><TextWrapper>lawgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('leaf-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => leaf-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="leafcolor1" /><TextWrapper>leafcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor10" /><TextWrapper>leafcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor11" /><TextWrapper>leafcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor12" /><TextWrapper>leafcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor13" /><TextWrapper>leafcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor14" /><TextWrapper>leafcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor15" /><TextWrapper>leafcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor16" /><TextWrapper>leafcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor2" /><TextWrapper>leafcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor3" /><TextWrapper>leafcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor4" /><TextWrapper>leafcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor5" /><TextWrapper>leafcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor6" /><TextWrapper>leafcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor7" /><TextWrapper>leafcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor8" /><TextWrapper>leafcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafcolor9" /><TextWrapper>leafcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('leaf-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => leaf-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="leafgrey1" /><TextWrapper>leafgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey10" /><TextWrapper>leafgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey11" /><TextWrapper>leafgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey12" /><TextWrapper>leafgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey13" /><TextWrapper>leafgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey14" /><TextWrapper>leafgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey15" /><TextWrapper>leafgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey16" /><TextWrapper>leafgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey2" /><TextWrapper>leafgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey3" /><TextWrapper>leafgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey4" /><TextWrapper>leafgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey5" /><TextWrapper>leafgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey6" /><TextWrapper>leafgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey7" /><TextWrapper>leafgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey8" /><TextWrapper>leafgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="leafgrey9" /><TextWrapper>leafgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('logistics-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => logistics-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="logisticscolor1" /><TextWrapper>logisticscolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor10" /><TextWrapper>logisticscolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor11" /><TextWrapper>logisticscolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor12" /><TextWrapper>logisticscolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor13" /><TextWrapper>logisticscolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor14" /><TextWrapper>logisticscolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor15" /><TextWrapper>logisticscolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor16" /><TextWrapper>logisticscolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor17" /><TextWrapper>logisticscolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor18" /><TextWrapper>logisticscolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor19" /><TextWrapper>logisticscolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor2" /><TextWrapper>logisticscolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor20" /><TextWrapper>logisticscolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor21" /><TextWrapper>logisticscolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor22" /><TextWrapper>logisticscolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor23" /><TextWrapper>logisticscolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor24" /><TextWrapper>logisticscolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor25" /><TextWrapper>logisticscolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor26" /><TextWrapper>logisticscolor26</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor27" /><TextWrapper>logisticscolor27</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor28" /><TextWrapper>logisticscolor28</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor29" /><TextWrapper>logisticscolor29</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor3" /><TextWrapper>logisticscolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor30" /><TextWrapper>logisticscolor30</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor31" /><TextWrapper>logisticscolor31</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor32" /><TextWrapper>logisticscolor32</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor33" /><TextWrapper>logisticscolor33</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor34" /><TextWrapper>logisticscolor34</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor35" /><TextWrapper>logisticscolor35</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor36" /><TextWrapper>logisticscolor36</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor37" /><TextWrapper>logisticscolor37</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor38" /><TextWrapper>logisticscolor38</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor39" /><TextWrapper>logisticscolor39</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor4" /><TextWrapper>logisticscolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor40" /><TextWrapper>logisticscolor40</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor5" /><TextWrapper>logisticscolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor6" /><TextWrapper>logisticscolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor7" /><TextWrapper>logisticscolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor8" /><TextWrapper>logisticscolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticscolor9" /><TextWrapper>logisticscolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('logistics-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => logistics-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="logisticsgrey1" /><TextWrapper>logisticsgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey10" /><TextWrapper>logisticsgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey11" /><TextWrapper>logisticsgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey12" /><TextWrapper>logisticsgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey13" /><TextWrapper>logisticsgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey14" /><TextWrapper>logisticsgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey15" /><TextWrapper>logisticsgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey16" /><TextWrapper>logisticsgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey17" /><TextWrapper>logisticsgrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey18" /><TextWrapper>logisticsgrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey19" /><TextWrapper>logisticsgrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey2" /><TextWrapper>logisticsgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey20" /><TextWrapper>logisticsgrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey3" /><TextWrapper>logisticsgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey4" /><TextWrapper>logisticsgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey5" /><TextWrapper>logisticsgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey6" /><TextWrapper>logisticsgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey7" /><TextWrapper>logisticsgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey8" /><TextWrapper>logisticsgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="logisticsgrey9" /><TextWrapper>logisticsgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('lumberjack-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => lumberjack-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="lumberjackcolor1" /><TextWrapper>lumberjackcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor10" /><TextWrapper>lumberjackcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor11" /><TextWrapper>lumberjackcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor12" /><TextWrapper>lumberjackcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor13" /><TextWrapper>lumberjackcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor14" /><TextWrapper>lumberjackcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor15" /><TextWrapper>lumberjackcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor16" /><TextWrapper>lumberjackcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor2" /><TextWrapper>lumberjackcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor3" /><TextWrapper>lumberjackcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor4" /><TextWrapper>lumberjackcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor5" /><TextWrapper>lumberjackcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor6" /><TextWrapper>lumberjackcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor7" /><TextWrapper>lumberjackcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor8" /><TextWrapper>lumberjackcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackcolor9" /><TextWrapper>lumberjackcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('lumberjack-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => lumberjack-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="lumberjackgrey1" /><TextWrapper>lumberjackgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey10" /><TextWrapper>lumberjackgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey11" /><TextWrapper>lumberjackgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey12" /><TextWrapper>lumberjackgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey13" /><TextWrapper>lumberjackgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey14" /><TextWrapper>lumberjackgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey15" /><TextWrapper>lumberjackgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey16" /><TextWrapper>lumberjackgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey2" /><TextWrapper>lumberjackgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey3" /><TextWrapper>lumberjackgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey4" /><TextWrapper>lumberjackgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey5" /><TextWrapper>lumberjackgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey6" /><TextWrapper>lumberjackgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey7" /><TextWrapper>lumberjackgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey8" /><TextWrapper>lumberjackgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="lumberjackgrey9" /><TextWrapper>lumberjackgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('medical-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => medical-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="medicalgrey1" /><TextWrapper>medicalgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey10" /><TextWrapper>medicalgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey11" /><TextWrapper>medicalgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey12" /><TextWrapper>medicalgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey13" /><TextWrapper>medicalgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey14" /><TextWrapper>medicalgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey15" /><TextWrapper>medicalgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey16" /><TextWrapper>medicalgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey17" /><TextWrapper>medicalgrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey18" /><TextWrapper>medicalgrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey19" /><TextWrapper>medicalgrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey2" /><TextWrapper>medicalgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey20" /><TextWrapper>medicalgrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey21" /><TextWrapper>medicalgrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey22" /><TextWrapper>medicalgrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey23" /><TextWrapper>medicalgrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey24" /><TextWrapper>medicalgrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey25" /><TextWrapper>medicalgrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey26" /><TextWrapper>medicalgrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey27" /><TextWrapper>medicalgrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey28" /><TextWrapper>medicalgrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey29" /><TextWrapper>medicalgrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey3" /><TextWrapper>medicalgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey30" /><TextWrapper>medicalgrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey31" /><TextWrapper>medicalgrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey32" /><TextWrapper>medicalgrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey33" /><TextWrapper>medicalgrey33</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey34" /><TextWrapper>medicalgrey34</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey35" /><TextWrapper>medicalgrey35</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey4" /><TextWrapper>medicalgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey5" /><TextWrapper>medicalgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey6" /><TextWrapper>medicalgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey7" /><TextWrapper>medicalgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey8" /><TextWrapper>medicalgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="medicalgrey9" /><TextWrapper>medicalgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('misc-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => misc-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="miscgrey1" /><TextWrapper>miscgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey10" /><TextWrapper>miscgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey100" /><TextWrapper>miscgrey100</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey101" /><TextWrapper>miscgrey101</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey102" /><TextWrapper>miscgrey102</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey103" /><TextWrapper>miscgrey103</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey104" /><TextWrapper>miscgrey104</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey105" /><TextWrapper>miscgrey105</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey106" /><TextWrapper>miscgrey106</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey107" /><TextWrapper>miscgrey107</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey108" /><TextWrapper>miscgrey108</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey11" /><TextWrapper>miscgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey12" /><TextWrapper>miscgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey13" /><TextWrapper>miscgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey14" /><TextWrapper>miscgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey15" /><TextWrapper>miscgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey16" /><TextWrapper>miscgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey17" /><TextWrapper>miscgrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey18" /><TextWrapper>miscgrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey19" /><TextWrapper>miscgrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey2" /><TextWrapper>miscgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey20" /><TextWrapper>miscgrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey21" /><TextWrapper>miscgrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey22" /><TextWrapper>miscgrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey23" /><TextWrapper>miscgrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey24" /><TextWrapper>miscgrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey25" /><TextWrapper>miscgrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey26" /><TextWrapper>miscgrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey27" /><TextWrapper>miscgrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey28" /><TextWrapper>miscgrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey29" /><TextWrapper>miscgrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey3" /><TextWrapper>miscgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey30" /><TextWrapper>miscgrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey31" /><TextWrapper>miscgrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey32" /><TextWrapper>miscgrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey33" /><TextWrapper>miscgrey33</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey34" /><TextWrapper>miscgrey34</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey35" /><TextWrapper>miscgrey35</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey36" /><TextWrapper>miscgrey36</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey37" /><TextWrapper>miscgrey37</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey38" /><TextWrapper>miscgrey38</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey39" /><TextWrapper>miscgrey39</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey4" /><TextWrapper>miscgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey40" /><TextWrapper>miscgrey40</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey41" /><TextWrapper>miscgrey41</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey42" /><TextWrapper>miscgrey42</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey43" /><TextWrapper>miscgrey43</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey44" /><TextWrapper>miscgrey44</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey45" /><TextWrapper>miscgrey45</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey46" /><TextWrapper>miscgrey46</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey47" /><TextWrapper>miscgrey47</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey48" /><TextWrapper>miscgrey48</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey49" /><TextWrapper>miscgrey49</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey5" /><TextWrapper>miscgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey50" /><TextWrapper>miscgrey50</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey51" /><TextWrapper>miscgrey51</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey52" /><TextWrapper>miscgrey52</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey53" /><TextWrapper>miscgrey53</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey54" /><TextWrapper>miscgrey54</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey55" /><TextWrapper>miscgrey55</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey56" /><TextWrapper>miscgrey56</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey57" /><TextWrapper>miscgrey57</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey58" /><TextWrapper>miscgrey58</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey59" /><TextWrapper>miscgrey59</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey6" /><TextWrapper>miscgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey60" /><TextWrapper>miscgrey60</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey61" /><TextWrapper>miscgrey61</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey62" /><TextWrapper>miscgrey62</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey63" /><TextWrapper>miscgrey63</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey64" /><TextWrapper>miscgrey64</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey65" /><TextWrapper>miscgrey65</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey66" /><TextWrapper>miscgrey66</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey67" /><TextWrapper>miscgrey67</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey68" /><TextWrapper>miscgrey68</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey69" /><TextWrapper>miscgrey69</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey7" /><TextWrapper>miscgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey70" /><TextWrapper>miscgrey70</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey71" /><TextWrapper>miscgrey71</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey72" /><TextWrapper>miscgrey72</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey73" /><TextWrapper>miscgrey73</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey74" /><TextWrapper>miscgrey74</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey75" /><TextWrapper>miscgrey75</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey76" /><TextWrapper>miscgrey76</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey77" /><TextWrapper>miscgrey77</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey78" /><TextWrapper>miscgrey78</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey79" /><TextWrapper>miscgrey79</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey8" /><TextWrapper>miscgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey80" /><TextWrapper>miscgrey80</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey81" /><TextWrapper>miscgrey81</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey82" /><TextWrapper>miscgrey82</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey83" /><TextWrapper>miscgrey83</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey84" /><TextWrapper>miscgrey84</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey85" /><TextWrapper>miscgrey85</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey86" /><TextWrapper>miscgrey86</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey87" /><TextWrapper>miscgrey87</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey88" /><TextWrapper>miscgrey88</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey89" /><TextWrapper>miscgrey89</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey9" /><TextWrapper>miscgrey9</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey90" /><TextWrapper>miscgrey90</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey91" /><TextWrapper>miscgrey91</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey92" /><TextWrapper>miscgrey92</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey93" /><TextWrapper>miscgrey93</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey94" /><TextWrapper>miscgrey94</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey95" /><TextWrapper>miscgrey95</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey96" /><TextWrapper>miscgrey96</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey97" /><TextWrapper>miscgrey97</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey98" /><TextWrapper>miscgrey98</TextWrapper></IconWrapper><IconWrapper><Icon icon="miscgrey99" /><TextWrapper>miscgrey99</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('mobile-ui-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => mobile-ui-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="mobileuigrey1" /><TextWrapper>mobileuigrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey10" /><TextWrapper>mobileuigrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey11" /><TextWrapper>mobileuigrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey12" /><TextWrapper>mobileuigrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey13" /><TextWrapper>mobileuigrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey14" /><TextWrapper>mobileuigrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey15" /><TextWrapper>mobileuigrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey16" /><TextWrapper>mobileuigrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey17" /><TextWrapper>mobileuigrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey18" /><TextWrapper>mobileuigrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey19" /><TextWrapper>mobileuigrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey2" /><TextWrapper>mobileuigrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey20" /><TextWrapper>mobileuigrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey21" /><TextWrapper>mobileuigrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey22" /><TextWrapper>mobileuigrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey23" /><TextWrapper>mobileuigrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey24" /><TextWrapper>mobileuigrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey25" /><TextWrapper>mobileuigrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey26" /><TextWrapper>mobileuigrey26</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey27" /><TextWrapper>mobileuigrey27</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey28" /><TextWrapper>mobileuigrey28</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey29" /><TextWrapper>mobileuigrey29</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey3" /><TextWrapper>mobileuigrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey30" /><TextWrapper>mobileuigrey30</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey31" /><TextWrapper>mobileuigrey31</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey32" /><TextWrapper>mobileuigrey32</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey4" /><TextWrapper>mobileuigrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey5" /><TextWrapper>mobileuigrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey6" /><TextWrapper>mobileuigrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey7" /><TextWrapper>mobileuigrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey8" /><TextWrapper>mobileuigrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="mobileuigrey9" /><TextWrapper>mobileuigrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('music-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => music-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="musiccolor1" /><TextWrapper>musiccolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor10" /><TextWrapper>musiccolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor11" /><TextWrapper>musiccolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor12" /><TextWrapper>musiccolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor13" /><TextWrapper>musiccolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor14" /><TextWrapper>musiccolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor15" /><TextWrapper>musiccolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor16" /><TextWrapper>musiccolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor2" /><TextWrapper>musiccolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor3" /><TextWrapper>musiccolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor4" /><TextWrapper>musiccolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor5" /><TextWrapper>musiccolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor6" /><TextWrapper>musiccolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor7" /><TextWrapper>musiccolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor8" /><TextWrapper>musiccolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="musiccolor9" /><TextWrapper>musiccolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('music-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => music-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="musicgrey1" /><TextWrapper>musicgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey10" /><TextWrapper>musicgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey11" /><TextWrapper>musicgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey12" /><TextWrapper>musicgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey13" /><TextWrapper>musicgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey14" /><TextWrapper>musicgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey15" /><TextWrapper>musicgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey16" /><TextWrapper>musicgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey2" /><TextWrapper>musicgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey3" /><TextWrapper>musicgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey4" /><TextWrapper>musicgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey5" /><TextWrapper>musicgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey6" /><TextWrapper>musicgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey7" /><TextWrapper>musicgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey8" /><TextWrapper>musicgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="musicgrey9" /><TextWrapper>musicgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('office-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => office-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="officecolor1" /><TextWrapper>officecolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor10" /><TextWrapper>officecolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor11" /><TextWrapper>officecolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor12" /><TextWrapper>officecolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor13" /><TextWrapper>officecolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor14" /><TextWrapper>officecolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor15" /><TextWrapper>officecolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor16" /><TextWrapper>officecolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor17" /><TextWrapper>officecolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor18" /><TextWrapper>officecolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor19" /><TextWrapper>officecolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor2" /><TextWrapper>officecolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor20" /><TextWrapper>officecolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor21" /><TextWrapper>officecolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor22" /><TextWrapper>officecolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor23" /><TextWrapper>officecolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor24" /><TextWrapper>officecolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor25" /><TextWrapper>officecolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor26" /><TextWrapper>officecolor26</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor27" /><TextWrapper>officecolor27</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor28" /><TextWrapper>officecolor28</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor29" /><TextWrapper>officecolor29</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor3" /><TextWrapper>officecolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor30" /><TextWrapper>officecolor30</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor31" /><TextWrapper>officecolor31</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor32" /><TextWrapper>officecolor32</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor33" /><TextWrapper>officecolor33</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor34" /><TextWrapper>officecolor34</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor35" /><TextWrapper>officecolor35</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor36" /><TextWrapper>officecolor36</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor37" /><TextWrapper>officecolor37</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor38" /><TextWrapper>officecolor38</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor39" /><TextWrapper>officecolor39</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor4" /><TextWrapper>officecolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor40" /><TextWrapper>officecolor40</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor5" /><TextWrapper>officecolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor6" /><TextWrapper>officecolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor7" /><TextWrapper>officecolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor8" /><TextWrapper>officecolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="officecolor9" /><TextWrapper>officecolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('office-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => office-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="officegrey1" /><TextWrapper>officegrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey10" /><TextWrapper>officegrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey11" /><TextWrapper>officegrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey12" /><TextWrapper>officegrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey13" /><TextWrapper>officegrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey14" /><TextWrapper>officegrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey15" /><TextWrapper>officegrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey16" /><TextWrapper>officegrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey17" /><TextWrapper>officegrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey18" /><TextWrapper>officegrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey19" /><TextWrapper>officegrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey2" /><TextWrapper>officegrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey20" /><TextWrapper>officegrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey3" /><TextWrapper>officegrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey4" /><TextWrapper>officegrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey5" /><TextWrapper>officegrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey6" /><TextWrapper>officegrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey7" /><TextWrapper>officegrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey8" /><TextWrapper>officegrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="officegrey9" /><TextWrapper>officegrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('security-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => security-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="securitycolor1" /><TextWrapper>securitycolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor10" /><TextWrapper>securitycolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor11" /><TextWrapper>securitycolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor12" /><TextWrapper>securitycolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor13" /><TextWrapper>securitycolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor14" /><TextWrapper>securitycolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor15" /><TextWrapper>securitycolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor16" /><TextWrapper>securitycolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor2" /><TextWrapper>securitycolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor3" /><TextWrapper>securitycolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor4" /><TextWrapper>securitycolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor5" /><TextWrapper>securitycolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor6" /><TextWrapper>securitycolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor7" /><TextWrapper>securitycolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor8" /><TextWrapper>securitycolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitycolor9" /><TextWrapper>securitycolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('security-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => security-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="securitygrey1" /><TextWrapper>securitygrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey10" /><TextWrapper>securitygrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey11" /><TextWrapper>securitygrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey12" /><TextWrapper>securitygrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey13" /><TextWrapper>securitygrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey14" /><TextWrapper>securitygrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey15" /><TextWrapper>securitygrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey16" /><TextWrapper>securitygrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey2" /><TextWrapper>securitygrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey3" /><TextWrapper>securitygrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey4" /><TextWrapper>securitygrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey5" /><TextWrapper>securitygrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey6" /><TextWrapper>securitygrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey7" /><TextWrapper>securitygrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey8" /><TextWrapper>securitygrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="securitygrey9" /><TextWrapper>securitygrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('shopping-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => shopping-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="shoppingcolor1" /><TextWrapper>shoppingcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor10" /><TextWrapper>shoppingcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor11" /><TextWrapper>shoppingcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor12" /><TextWrapper>shoppingcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor13" /><TextWrapper>shoppingcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor14" /><TextWrapper>shoppingcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor15" /><TextWrapper>shoppingcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor16" /><TextWrapper>shoppingcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor2" /><TextWrapper>shoppingcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor3" /><TextWrapper>shoppingcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor4" /><TextWrapper>shoppingcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor5" /><TextWrapper>shoppingcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor6" /><TextWrapper>shoppingcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor7" /><TextWrapper>shoppingcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor8" /><TextWrapper>shoppingcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppingcolor9" /><TextWrapper>shoppingcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('shopping-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => shopping-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="shoppinggrey1" /><TextWrapper>shoppinggrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey10" /><TextWrapper>shoppinggrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey11" /><TextWrapper>shoppinggrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey12" /><TextWrapper>shoppinggrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey13" /><TextWrapper>shoppinggrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey14" /><TextWrapper>shoppinggrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey15" /><TextWrapper>shoppinggrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey16" /><TextWrapper>shoppinggrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey2" /><TextWrapper>shoppinggrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey3" /><TextWrapper>shoppinggrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey4" /><TextWrapper>shoppinggrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey5" /><TextWrapper>shoppinggrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey6" /><TextWrapper>shoppinggrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey7" /><TextWrapper>shoppinggrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey8" /><TextWrapper>shoppinggrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="shoppinggrey9" /><TextWrapper>shoppinggrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('skull-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => skull-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="skullcolor1" /><TextWrapper>skullcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor10" /><TextWrapper>skullcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor11" /><TextWrapper>skullcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor12" /><TextWrapper>skullcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor13" /><TextWrapper>skullcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor14" /><TextWrapper>skullcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor15" /><TextWrapper>skullcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor16" /><TextWrapper>skullcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor2" /><TextWrapper>skullcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor3" /><TextWrapper>skullcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor4" /><TextWrapper>skullcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor5" /><TextWrapper>skullcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor6" /><TextWrapper>skullcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor7" /><TextWrapper>skullcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor8" /><TextWrapper>skullcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullcolor9" /><TextWrapper>skullcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('skull-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => skull-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="skullgrey1" /><TextWrapper>skullgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey10" /><TextWrapper>skullgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey11" /><TextWrapper>skullgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey12" /><TextWrapper>skullgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey13" /><TextWrapper>skullgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey14" /><TextWrapper>skullgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey15" /><TextWrapper>skullgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey16" /><TextWrapper>skullgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey2" /><TextWrapper>skullgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey3" /><TextWrapper>skullgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey4" /><TextWrapper>skullgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey5" /><TextWrapper>skullgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey6" /><TextWrapper>skullgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey7" /><TextWrapper>skullgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey8" /><TextWrapper>skullgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="skullgrey9" /><TextWrapper>skullgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('space-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => space-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="spacecolor1" /><TextWrapper>spacecolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor10" /><TextWrapper>spacecolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor11" /><TextWrapper>spacecolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor12" /><TextWrapper>spacecolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor13" /><TextWrapper>spacecolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor14" /><TextWrapper>spacecolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor15" /><TextWrapper>spacecolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor16" /><TextWrapper>spacecolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor2" /><TextWrapper>spacecolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor3" /><TextWrapper>spacecolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor4" /><TextWrapper>spacecolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor5" /><TextWrapper>spacecolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor6" /><TextWrapper>spacecolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor7" /><TextWrapper>spacecolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor8" /><TextWrapper>spacecolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacecolor9" /><TextWrapper>spacecolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('space-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => space-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="spacegrey1" /><TextWrapper>spacegrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey10" /><TextWrapper>spacegrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey11" /><TextWrapper>spacegrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey12" /><TextWrapper>spacegrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey13" /><TextWrapper>spacegrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey14" /><TextWrapper>spacegrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey15" /><TextWrapper>spacegrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey16" /><TextWrapper>spacegrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey2" /><TextWrapper>spacegrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey3" /><TextWrapper>spacegrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey4" /><TextWrapper>spacegrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey5" /><TextWrapper>spacegrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey6" /><TextWrapper>spacegrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey7" /><TextWrapper>spacegrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey8" /><TextWrapper>spacegrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="spacegrey9" /><TextWrapper>spacegrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('spring-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => spring-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="springcolor1" /><TextWrapper>springcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor10" /><TextWrapper>springcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor11" /><TextWrapper>springcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor12" /><TextWrapper>springcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor13" /><TextWrapper>springcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor14" /><TextWrapper>springcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor15" /><TextWrapper>springcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor16" /><TextWrapper>springcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor2" /><TextWrapper>springcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor3" /><TextWrapper>springcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor4" /><TextWrapper>springcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor5" /><TextWrapper>springcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor6" /><TextWrapper>springcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor7" /><TextWrapper>springcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor8" /><TextWrapper>springcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="springcolor9" /><TextWrapper>springcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('spring-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => spring-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="springgrey1" /><TextWrapper>springgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey10" /><TextWrapper>springgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey11" /><TextWrapper>springgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey12" /><TextWrapper>springgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey13" /><TextWrapper>springgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey14" /><TextWrapper>springgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey15" /><TextWrapper>springgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey16" /><TextWrapper>springgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey2" /><TextWrapper>springgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey3" /><TextWrapper>springgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey4" /><TextWrapper>springgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey5" /><TextWrapper>springgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey6" /><TextWrapper>springgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey7" /><TextWrapper>springgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey8" /><TextWrapper>springgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="springgrey9" /><TextWrapper>springgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('sweet-17-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => sweet-17-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="sweet17color1" /><TextWrapper>sweet17color1</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color10" /><TextWrapper>sweet17color10</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color11" /><TextWrapper>sweet17color11</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color12" /><TextWrapper>sweet17color12</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color13" /><TextWrapper>sweet17color13</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color14" /><TextWrapper>sweet17color14</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color15" /><TextWrapper>sweet17color15</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color16" /><TextWrapper>sweet17color16</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color17" /><TextWrapper>sweet17color17</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color18" /><TextWrapper>sweet17color18</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color19" /><TextWrapper>sweet17color19</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color2" /><TextWrapper>sweet17color2</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color20" /><TextWrapper>sweet17color20</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color21" /><TextWrapper>sweet17color21</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color22" /><TextWrapper>sweet17color22</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color23" /><TextWrapper>sweet17color23</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color24" /><TextWrapper>sweet17color24</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color25" /><TextWrapper>sweet17color25</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color3" /><TextWrapper>sweet17color3</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color4" /><TextWrapper>sweet17color4</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color5" /><TextWrapper>sweet17color5</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color6" /><TextWrapper>sweet17color6</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color7" /><TextWrapper>sweet17color7</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color8" /><TextWrapper>sweet17color8</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17color9" /><TextWrapper>sweet17color9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('sweet-17-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => sweet-17-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="sweet17grey1" /><TextWrapper>sweet17grey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey10" /><TextWrapper>sweet17grey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey11" /><TextWrapper>sweet17grey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey12" /><TextWrapper>sweet17grey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey13" /><TextWrapper>sweet17grey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey14" /><TextWrapper>sweet17grey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey15" /><TextWrapper>sweet17grey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey16" /><TextWrapper>sweet17grey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey17" /><TextWrapper>sweet17grey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey18" /><TextWrapper>sweet17grey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey19" /><TextWrapper>sweet17grey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey2" /><TextWrapper>sweet17grey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey20" /><TextWrapper>sweet17grey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey21" /><TextWrapper>sweet17grey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey22" /><TextWrapper>sweet17grey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey23" /><TextWrapper>sweet17grey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey24" /><TextWrapper>sweet17grey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey25" /><TextWrapper>sweet17grey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey3" /><TextWrapper>sweet17grey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey4" /><TextWrapper>sweet17grey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey5" /><TextWrapper>sweet17grey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey6" /><TextWrapper>sweet17grey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey7" /><TextWrapper>sweet17grey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey8" /><TextWrapper>sweet17grey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="sweet17grey9" /><TextWrapper>sweet17grey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('time-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => time-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="timecolor1" /><TextWrapper>timecolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor10" /><TextWrapper>timecolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor11" /><TextWrapper>timecolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor12" /><TextWrapper>timecolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor13" /><TextWrapper>timecolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor14" /><TextWrapper>timecolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor15" /><TextWrapper>timecolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor16" /><TextWrapper>timecolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor2" /><TextWrapper>timecolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor3" /><TextWrapper>timecolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor4" /><TextWrapper>timecolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor5" /><TextWrapper>timecolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor6" /><TextWrapper>timecolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor7" /><TextWrapper>timecolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor8" /><TextWrapper>timecolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="timecolor9" /><TextWrapper>timecolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('time-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => time-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="timegrey1" /><TextWrapper>timegrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey10" /><TextWrapper>timegrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey11" /><TextWrapper>timegrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey12" /><TextWrapper>timegrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey13" /><TextWrapper>timegrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey14" /><TextWrapper>timegrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey15" /><TextWrapper>timegrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey16" /><TextWrapper>timegrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey2" /><TextWrapper>timegrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey3" /><TextWrapper>timegrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey4" /><TextWrapper>timegrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey5" /><TextWrapper>timegrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey6" /><TextWrapper>timegrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey7" /><TextWrapper>timegrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey8" /><TextWrapper>timegrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="timegrey9" /><TextWrapper>timegrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('travel-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => travel-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="travelcolor1" /><TextWrapper>travelcolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor10" /><TextWrapper>travelcolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor11" /><TextWrapper>travelcolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor12" /><TextWrapper>travelcolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor13" /><TextWrapper>travelcolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor14" /><TextWrapper>travelcolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor15" /><TextWrapper>travelcolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor16" /><TextWrapper>travelcolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor2" /><TextWrapper>travelcolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor3" /><TextWrapper>travelcolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor4" /><TextWrapper>travelcolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor5" /><TextWrapper>travelcolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor6" /><TextWrapper>travelcolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor7" /><TextWrapper>travelcolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor8" /><TextWrapper>travelcolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelcolor9" /><TextWrapper>travelcolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('travel-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => travel-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="travelgrey1" /><TextWrapper>travelgrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey10" /><TextWrapper>travelgrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey11" /><TextWrapper>travelgrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey12" /><TextWrapper>travelgrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey13" /><TextWrapper>travelgrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey14" /><TextWrapper>travelgrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey15" /><TextWrapper>travelgrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey16" /><TextWrapper>travelgrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey2" /><TextWrapper>travelgrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey3" /><TextWrapper>travelgrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey4" /><TextWrapper>travelgrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey5" /><TextWrapper>travelgrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey6" /><TextWrapper>travelgrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey7" /><TextWrapper>travelgrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey8" /><TextWrapper>travelgrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="travelgrey9" /><TextWrapper>travelgrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('valentine-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => valentine-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="valentinecolor1" /><TextWrapper>valentinecolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor10" /><TextWrapper>valentinecolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor11" /><TextWrapper>valentinecolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor12" /><TextWrapper>valentinecolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor13" /><TextWrapper>valentinecolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor14" /><TextWrapper>valentinecolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor15" /><TextWrapper>valentinecolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor16" /><TextWrapper>valentinecolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor17" /><TextWrapper>valentinecolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor18" /><TextWrapper>valentinecolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor19" /><TextWrapper>valentinecolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor2" /><TextWrapper>valentinecolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor20" /><TextWrapper>valentinecolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor21" /><TextWrapper>valentinecolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor22" /><TextWrapper>valentinecolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor23" /><TextWrapper>valentinecolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor24" /><TextWrapper>valentinecolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor25" /><TextWrapper>valentinecolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor3" /><TextWrapper>valentinecolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor4" /><TextWrapper>valentinecolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor5" /><TextWrapper>valentinecolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor6" /><TextWrapper>valentinecolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor7" /><TextWrapper>valentinecolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor8" /><TextWrapper>valentinecolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinecolor9" /><TextWrapper>valentinecolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('valentine-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => valentine-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="valentinegrey1" /><TextWrapper>valentinegrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey10" /><TextWrapper>valentinegrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey11" /><TextWrapper>valentinegrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey12" /><TextWrapper>valentinegrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey13" /><TextWrapper>valentinegrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey14" /><TextWrapper>valentinegrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey15" /><TextWrapper>valentinegrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey16" /><TextWrapper>valentinegrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey17" /><TextWrapper>valentinegrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey18" /><TextWrapper>valentinegrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey19" /><TextWrapper>valentinegrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey2" /><TextWrapper>valentinegrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey20" /><TextWrapper>valentinegrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey21" /><TextWrapper>valentinegrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey22" /><TextWrapper>valentinegrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey23" /><TextWrapper>valentinegrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey24" /><TextWrapper>valentinegrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey25" /><TextWrapper>valentinegrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey3" /><TextWrapper>valentinegrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey4" /><TextWrapper>valentinegrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey5" /><TextWrapper>valentinegrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey6" /><TextWrapper>valentinegrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey7" /><TextWrapper>valentinegrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey8" /><TextWrapper>valentinegrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="valentinegrey9" /><TextWrapper>valentinegrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('virtual-reality-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => virtual-reality-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="virtualrealitycolor1" /><TextWrapper>virtualrealitycolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor10" /><TextWrapper>virtualrealitycolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor11" /><TextWrapper>virtualrealitycolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor12" /><TextWrapper>virtualrealitycolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor13" /><TextWrapper>virtualrealitycolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor14" /><TextWrapper>virtualrealitycolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor15" /><TextWrapper>virtualrealitycolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor16" /><TextWrapper>virtualrealitycolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor2" /><TextWrapper>virtualrealitycolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor3" /><TextWrapper>virtualrealitycolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor4" /><TextWrapper>virtualrealitycolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor5" /><TextWrapper>virtualrealitycolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor6" /><TextWrapper>virtualrealitycolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor7" /><TextWrapper>virtualrealitycolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor8" /><TextWrapper>virtualrealitycolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitycolor9" /><TextWrapper>virtualrealitycolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('virtual-reality-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => virtual-reality-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="virtualrealitygrey1" /><TextWrapper>virtualrealitygrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey10" /><TextWrapper>virtualrealitygrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey11" /><TextWrapper>virtualrealitygrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey12" /><TextWrapper>virtualrealitygrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey13" /><TextWrapper>virtualrealitygrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey14" /><TextWrapper>virtualrealitygrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey15" /><TextWrapper>virtualrealitygrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey16" /><TextWrapper>virtualrealitygrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey2" /><TextWrapper>virtualrealitygrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey3" /><TextWrapper>virtualrealitygrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey4" /><TextWrapper>virtualrealitygrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey5" /><TextWrapper>virtualrealitygrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey6" /><TextWrapper>virtualrealitygrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey7" /><TextWrapper>virtualrealitygrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey8" /><TextWrapper>virtualrealitygrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="virtualrealitygrey9" /><TextWrapper>virtualrealitygrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('zoo-color', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => zoo-color"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="zoocolor1" /><TextWrapper>zoocolor1</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor10" /><TextWrapper>zoocolor10</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor11" /><TextWrapper>zoocolor11</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor12" /><TextWrapper>zoocolor12</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor13" /><TextWrapper>zoocolor13</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor14" /><TextWrapper>zoocolor14</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor15" /><TextWrapper>zoocolor15</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor16" /><TextWrapper>zoocolor16</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor17" /><TextWrapper>zoocolor17</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor18" /><TextWrapper>zoocolor18</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor19" /><TextWrapper>zoocolor19</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor2" /><TextWrapper>zoocolor2</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor20" /><TextWrapper>zoocolor20</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor21" /><TextWrapper>zoocolor21</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor22" /><TextWrapper>zoocolor22</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor23" /><TextWrapper>zoocolor23</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor24" /><TextWrapper>zoocolor24</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor25" /><TextWrapper>zoocolor25</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor3" /><TextWrapper>zoocolor3</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor4" /><TextWrapper>zoocolor4</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor5" /><TextWrapper>zoocolor5</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor6" /><TextWrapper>zoocolor6</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor7" /><TextWrapper>zoocolor7</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor8" /><TextWrapper>zoocolor8</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoocolor9" /><TextWrapper>zoocolor9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
-      .add('zoo-grey', () : ReactElement => (
-        <Story>
-          <UseCase
-            text="Icon => zoo-grey"
-          >
-            <StyledScrollView>
-              <StyledView>
-                <IconWrapper><Icon icon="zoogrey1" /><TextWrapper>zoogrey1</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey10" /><TextWrapper>zoogrey10</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey11" /><TextWrapper>zoogrey11</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey12" /><TextWrapper>zoogrey12</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey13" /><TextWrapper>zoogrey13</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey14" /><TextWrapper>zoogrey14</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey15" /><TextWrapper>zoogrey15</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey16" /><TextWrapper>zoogrey16</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey17" /><TextWrapper>zoogrey17</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey18" /><TextWrapper>zoogrey18</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey19" /><TextWrapper>zoogrey19</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey2" /><TextWrapper>zoogrey2</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey20" /><TextWrapper>zoogrey20</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey21" /><TextWrapper>zoogrey21</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey22" /><TextWrapper>zoogrey22</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey23" /><TextWrapper>zoogrey23</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey24" /><TextWrapper>zoogrey24</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey25" /><TextWrapper>zoogrey25</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey3" /><TextWrapper>zoogrey3</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey4" /><TextWrapper>zoogrey4</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey5" /><TextWrapper>zoogrey5</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey6" /><TextWrapper>zoogrey6</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey7" /><TextWrapper>zoogrey7</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey8" /><TextWrapper>zoogrey8</TextWrapper></IconWrapper><IconWrapper><Icon icon="zoogrey9" /><TextWrapper>zoogrey9</TextWrapper></IconWrapper>
-              </StyledView>
-            </StyledScrollView>
-          </UseCase>
-        </Story>
-      ))
-    
+  .add('blockchain-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => blockchain-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="blockchaincolor1" />
+                <TextWrapper>
+                  blockchaincolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor10" />
+                <TextWrapper>
+                  blockchaincolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor11" />
+                <TextWrapper>
+                  blockchaincolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor12" />
+                <TextWrapper>
+                  blockchaincolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor13" />
+                <TextWrapper>
+                  blockchaincolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor14" />
+                <TextWrapper>
+                  blockchaincolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor15" />
+                <TextWrapper>
+                  blockchaincolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor16" />
+                <TextWrapper>
+                  blockchaincolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor17" />
+                <TextWrapper>
+                  blockchaincolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor18" />
+                <TextWrapper>
+                  blockchaincolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor19" />
+                <TextWrapper>
+                  blockchaincolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor2" />
+                <TextWrapper>
+                  blockchaincolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor20" />
+                <TextWrapper>
+                  blockchaincolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor21" />
+                <TextWrapper>
+                  blockchaincolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor22" />
+                <TextWrapper>
+                  blockchaincolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor23" />
+                <TextWrapper>
+                  blockchaincolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor24" />
+                <TextWrapper>
+                  blockchaincolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor25" />
+                <TextWrapper>
+                  blockchaincolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor26" />
+                <TextWrapper>
+                  blockchaincolor26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor27" />
+                <TextWrapper>
+                  blockchaincolor27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor28" />
+                <TextWrapper>
+                  blockchaincolor28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor29" />
+                <TextWrapper>
+                  blockchaincolor29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor3" />
+                <TextWrapper>
+                  blockchaincolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor30" />
+                <TextWrapper>
+                  blockchaincolor30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor31" />
+                <TextWrapper>
+                  blockchaincolor31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor32" />
+                <TextWrapper>
+                  blockchaincolor32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor33" />
+                <TextWrapper>
+                  blockchaincolor33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor34" />
+                <TextWrapper>
+                  blockchaincolor34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor35" />
+                <TextWrapper>
+                  blockchaincolor35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor36" />
+                <TextWrapper>
+                  blockchaincolor36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor37" />
+                <TextWrapper>
+                  blockchaincolor37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor38" />
+                <TextWrapper>
+                  blockchaincolor38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor39" />
+                <TextWrapper>
+                  blockchaincolor39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor4" />
+                <TextWrapper>
+                  blockchaincolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor40" />
+                <TextWrapper>
+                  blockchaincolor40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor41" />
+                <TextWrapper>
+                  blockchaincolor41
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor42" />
+                <TextWrapper>
+                  blockchaincolor42
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor43" />
+                <TextWrapper>
+                  blockchaincolor43
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor44" />
+                <TextWrapper>
+                  blockchaincolor44
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor45" />
+                <TextWrapper>
+                  blockchaincolor45
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor46" />
+                <TextWrapper>
+                  blockchaincolor46
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor47" />
+                <TextWrapper>
+                  blockchaincolor47
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor48" />
+                <TextWrapper>
+                  blockchaincolor48
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor49" />
+                <TextWrapper>
+                  blockchaincolor49
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor5" />
+                <TextWrapper>
+                  blockchaincolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor50" />
+                <TextWrapper>
+                  blockchaincolor50
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor6" />
+                <TextWrapper>
+                  blockchaincolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor7" />
+                <TextWrapper>
+                  blockchaincolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor8" />
+                <TextWrapper>
+                  blockchaincolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaincolor9" />
+                <TextWrapper>
+                  blockchaincolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('blockchain-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => blockchain-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="blockchaingrey1" />
+                <TextWrapper>
+                  blockchaingrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey10" />
+                <TextWrapper>
+                  blockchaingrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey11" />
+                <TextWrapper>
+                  blockchaingrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey12" />
+                <TextWrapper>
+                  blockchaingrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey13" />
+                <TextWrapper>
+                  blockchaingrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey14" />
+                <TextWrapper>
+                  blockchaingrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey15" />
+                <TextWrapper>
+                  blockchaingrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey16" />
+                <TextWrapper>
+                  blockchaingrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey17" />
+                <TextWrapper>
+                  blockchaingrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey18" />
+                <TextWrapper>
+                  blockchaingrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey19" />
+                <TextWrapper>
+                  blockchaingrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey2" />
+                <TextWrapper>
+                  blockchaingrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey20" />
+                <TextWrapper>
+                  blockchaingrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey21" />
+                <TextWrapper>
+                  blockchaingrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey22" />
+                <TextWrapper>
+                  blockchaingrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey23" />
+                <TextWrapper>
+                  blockchaingrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey24" />
+                <TextWrapper>
+                  blockchaingrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey25" />
+                <TextWrapper>
+                  blockchaingrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey26" />
+                <TextWrapper>
+                  blockchaingrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey27" />
+                <TextWrapper>
+                  blockchaingrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey28" />
+                <TextWrapper>
+                  blockchaingrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey29" />
+                <TextWrapper>
+                  blockchaingrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey3" />
+                <TextWrapper>
+                  blockchaingrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey30" />
+                <TextWrapper>
+                  blockchaingrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey31" />
+                <TextWrapper>
+                  blockchaingrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey32" />
+                <TextWrapper>
+                  blockchaingrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey33" />
+                <TextWrapper>
+                  blockchaingrey33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey34" />
+                <TextWrapper>
+                  blockchaingrey34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey35" />
+                <TextWrapper>
+                  blockchaingrey35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey36" />
+                <TextWrapper>
+                  blockchaingrey36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey37" />
+                <TextWrapper>
+                  blockchaingrey37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey38" />
+                <TextWrapper>
+                  blockchaingrey38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey39" />
+                <TextWrapper>
+                  blockchaingrey39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey4" />
+                <TextWrapper>
+                  blockchaingrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey40" />
+                <TextWrapper>
+                  blockchaingrey40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey41" />
+                <TextWrapper>
+                  blockchaingrey41
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey42" />
+                <TextWrapper>
+                  blockchaingrey42
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey43" />
+                <TextWrapper>
+                  blockchaingrey43
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey44" />
+                <TextWrapper>
+                  blockchaingrey44
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey45" />
+                <TextWrapper>
+                  blockchaingrey45
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey46" />
+                <TextWrapper>
+                  blockchaingrey46
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey47" />
+                <TextWrapper>
+                  blockchaingrey47
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey48" />
+                <TextWrapper>
+                  blockchaingrey48
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey49" />
+                <TextWrapper>
+                  blockchaingrey49
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey5" />
+                <TextWrapper>
+                  blockchaingrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey50" />
+                <TextWrapper>
+                  blockchaingrey50
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey6" />
+                <TextWrapper>
+                  blockchaingrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey7" />
+                <TextWrapper>
+                  blockchaingrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey8" />
+                <TextWrapper>
+                  blockchaingrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="blockchaingrey9" />
+                <TextWrapper>
+                  blockchaingrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('brands-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => brands-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="brandsgrey1" />
+                <TextWrapper>
+                  brandsgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey10" />
+                <TextWrapper>
+                  brandsgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey100" />
+                <TextWrapper>
+                  brandsgrey100
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey101" />
+                <TextWrapper>
+                  brandsgrey101
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey102" />
+                <TextWrapper>
+                  brandsgrey102
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey103" />
+                <TextWrapper>
+                  brandsgrey103
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey104" />
+                <TextWrapper>
+                  brandsgrey104
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey105" />
+                <TextWrapper>
+                  brandsgrey105
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey106" />
+                <TextWrapper>
+                  brandsgrey106
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey107" />
+                <TextWrapper>
+                  brandsgrey107
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey108" />
+                <TextWrapper>
+                  brandsgrey108
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey109" />
+                <TextWrapper>
+                  brandsgrey109
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey11" />
+                <TextWrapper>
+                  brandsgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey110" />
+                <TextWrapper>
+                  brandsgrey110
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey111" />
+                <TextWrapper>
+                  brandsgrey111
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey112" />
+                <TextWrapper>
+                  brandsgrey112
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey113" />
+                <TextWrapper>
+                  brandsgrey113
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey114" />
+                <TextWrapper>
+                  brandsgrey114
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey115" />
+                <TextWrapper>
+                  brandsgrey115
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey116" />
+                <TextWrapper>
+                  brandsgrey116
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey117" />
+                <TextWrapper>
+                  brandsgrey117
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey118" />
+                <TextWrapper>
+                  brandsgrey118
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey119" />
+                <TextWrapper>
+                  brandsgrey119
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey12" />
+                <TextWrapper>
+                  brandsgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey120" />
+                <TextWrapper>
+                  brandsgrey120
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey121" />
+                <TextWrapper>
+                  brandsgrey121
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey122" />
+                <TextWrapper>
+                  brandsgrey122
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey123" />
+                <TextWrapper>
+                  brandsgrey123
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey124" />
+                <TextWrapper>
+                  brandsgrey124
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey125" />
+                <TextWrapper>
+                  brandsgrey125
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey126" />
+                <TextWrapper>
+                  brandsgrey126
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey127" />
+                <TextWrapper>
+                  brandsgrey127
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey128" />
+                <TextWrapper>
+                  brandsgrey128
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey129" />
+                <TextWrapper>
+                  brandsgrey129
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey13" />
+                <TextWrapper>
+                  brandsgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey130" />
+                <TextWrapper>
+                  brandsgrey130
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey131" />
+                <TextWrapper>
+                  brandsgrey131
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey132" />
+                <TextWrapper>
+                  brandsgrey132
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey133" />
+                <TextWrapper>
+                  brandsgrey133
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey134" />
+                <TextWrapper>
+                  brandsgrey134
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey135" />
+                <TextWrapper>
+                  brandsgrey135
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey136" />
+                <TextWrapper>
+                  brandsgrey136
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey137" />
+                <TextWrapper>
+                  brandsgrey137
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey138" />
+                <TextWrapper>
+                  brandsgrey138
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey139" />
+                <TextWrapper>
+                  brandsgrey139
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey14" />
+                <TextWrapper>
+                  brandsgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey140" />
+                <TextWrapper>
+                  brandsgrey140
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey141" />
+                <TextWrapper>
+                  brandsgrey141
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey142" />
+                <TextWrapper>
+                  brandsgrey142
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey143" />
+                <TextWrapper>
+                  brandsgrey143
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey144" />
+                <TextWrapper>
+                  brandsgrey144
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey145" />
+                <TextWrapper>
+                  brandsgrey145
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey146" />
+                <TextWrapper>
+                  brandsgrey146
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey147" />
+                <TextWrapper>
+                  brandsgrey147
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey148" />
+                <TextWrapper>
+                  brandsgrey148
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey149" />
+                <TextWrapper>
+                  brandsgrey149
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey15" />
+                <TextWrapper>
+                  brandsgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey150" />
+                <TextWrapper>
+                  brandsgrey150
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey151" />
+                <TextWrapper>
+                  brandsgrey151
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey152" />
+                <TextWrapper>
+                  brandsgrey152
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey153" />
+                <TextWrapper>
+                  brandsgrey153
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey154" />
+                <TextWrapper>
+                  brandsgrey154
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey155" />
+                <TextWrapper>
+                  brandsgrey155
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey156" />
+                <TextWrapper>
+                  brandsgrey156
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey157" />
+                <TextWrapper>
+                  brandsgrey157
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey158" />
+                <TextWrapper>
+                  brandsgrey158
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey159" />
+                <TextWrapper>
+                  brandsgrey159
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey16" />
+                <TextWrapper>
+                  brandsgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey160" />
+                <TextWrapper>
+                  brandsgrey160
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey161" />
+                <TextWrapper>
+                  brandsgrey161
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey162" />
+                <TextWrapper>
+                  brandsgrey162
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey163" />
+                <TextWrapper>
+                  brandsgrey163
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey164" />
+                <TextWrapper>
+                  brandsgrey164
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey165" />
+                <TextWrapper>
+                  brandsgrey165
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey166" />
+                <TextWrapper>
+                  brandsgrey166
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey167" />
+                <TextWrapper>
+                  brandsgrey167
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey168" />
+                <TextWrapper>
+                  brandsgrey168
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey169" />
+                <TextWrapper>
+                  brandsgrey169
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey17" />
+                <TextWrapper>
+                  brandsgrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey170" />
+                <TextWrapper>
+                  brandsgrey170
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey171" />
+                <TextWrapper>
+                  brandsgrey171
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey172" />
+                <TextWrapper>
+                  brandsgrey172
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey173" />
+                <TextWrapper>
+                  brandsgrey173
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey174" />
+                <TextWrapper>
+                  brandsgrey174
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey175" />
+                <TextWrapper>
+                  brandsgrey175
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey176" />
+                <TextWrapper>
+                  brandsgrey176
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey177" />
+                <TextWrapper>
+                  brandsgrey177
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey178" />
+                <TextWrapper>
+                  brandsgrey178
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey179" />
+                <TextWrapper>
+                  brandsgrey179
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey18" />
+                <TextWrapper>
+                  brandsgrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey180" />
+                <TextWrapper>
+                  brandsgrey180
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey181" />
+                <TextWrapper>
+                  brandsgrey181
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey182" />
+                <TextWrapper>
+                  brandsgrey182
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey183" />
+                <TextWrapper>
+                  brandsgrey183
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey184" />
+                <TextWrapper>
+                  brandsgrey184
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey185" />
+                <TextWrapper>
+                  brandsgrey185
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey186" />
+                <TextWrapper>
+                  brandsgrey186
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey187" />
+                <TextWrapper>
+                  brandsgrey187
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey188" />
+                <TextWrapper>
+                  brandsgrey188
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey189" />
+                <TextWrapper>
+                  brandsgrey189
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey19" />
+                <TextWrapper>
+                  brandsgrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey190" />
+                <TextWrapper>
+                  brandsgrey190
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey191" />
+                <TextWrapper>
+                  brandsgrey191
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey192" />
+                <TextWrapper>
+                  brandsgrey192
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey193" />
+                <TextWrapper>
+                  brandsgrey193
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey194" />
+                <TextWrapper>
+                  brandsgrey194
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey195" />
+                <TextWrapper>
+                  brandsgrey195
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey196" />
+                <TextWrapper>
+                  brandsgrey196
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey197" />
+                <TextWrapper>
+                  brandsgrey197
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey198" />
+                <TextWrapper>
+                  brandsgrey198
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey199" />
+                <TextWrapper>
+                  brandsgrey199
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey2" />
+                <TextWrapper>
+                  brandsgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey20" />
+                <TextWrapper>
+                  brandsgrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey200" />
+                <TextWrapper>
+                  brandsgrey200
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey201" />
+                <TextWrapper>
+                  brandsgrey201
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey202" />
+                <TextWrapper>
+                  brandsgrey202
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey203" />
+                <TextWrapper>
+                  brandsgrey203
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey204" />
+                <TextWrapper>
+                  brandsgrey204
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey205" />
+                <TextWrapper>
+                  brandsgrey205
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey206" />
+                <TextWrapper>
+                  brandsgrey206
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey207" />
+                <TextWrapper>
+                  brandsgrey207
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey208" />
+                <TextWrapper>
+                  brandsgrey208
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey209" />
+                <TextWrapper>
+                  brandsgrey209
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey21" />
+                <TextWrapper>
+                  brandsgrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey210" />
+                <TextWrapper>
+                  brandsgrey210
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey211" />
+                <TextWrapper>
+                  brandsgrey211
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey212" />
+                <TextWrapper>
+                  brandsgrey212
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey213" />
+                <TextWrapper>
+                  brandsgrey213
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey214" />
+                <TextWrapper>
+                  brandsgrey214
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey215" />
+                <TextWrapper>
+                  brandsgrey215
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey216" />
+                <TextWrapper>
+                  brandsgrey216
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey217" />
+                <TextWrapper>
+                  brandsgrey217
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey218" />
+                <TextWrapper>
+                  brandsgrey218
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey219" />
+                <TextWrapper>
+                  brandsgrey219
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey22" />
+                <TextWrapper>
+                  brandsgrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey220" />
+                <TextWrapper>
+                  brandsgrey220
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey221" />
+                <TextWrapper>
+                  brandsgrey221
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey222" />
+                <TextWrapper>
+                  brandsgrey222
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey223" />
+                <TextWrapper>
+                  brandsgrey223
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey224" />
+                <TextWrapper>
+                  brandsgrey224
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey225" />
+                <TextWrapper>
+                  brandsgrey225
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey226" />
+                <TextWrapper>
+                  brandsgrey226
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey227" />
+                <TextWrapper>
+                  brandsgrey227
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey228" />
+                <TextWrapper>
+                  brandsgrey228
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey229" />
+                <TextWrapper>
+                  brandsgrey229
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey23" />
+                <TextWrapper>
+                  brandsgrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey230" />
+                <TextWrapper>
+                  brandsgrey230
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey231" />
+                <TextWrapper>
+                  brandsgrey231
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey232" />
+                <TextWrapper>
+                  brandsgrey232
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey233" />
+                <TextWrapper>
+                  brandsgrey233
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey234" />
+                <TextWrapper>
+                  brandsgrey234
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey235" />
+                <TextWrapper>
+                  brandsgrey235
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey236" />
+                <TextWrapper>
+                  brandsgrey236
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey237" />
+                <TextWrapper>
+                  brandsgrey237
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey238" />
+                <TextWrapper>
+                  brandsgrey238
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey239" />
+                <TextWrapper>
+                  brandsgrey239
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey24" />
+                <TextWrapper>
+                  brandsgrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey240" />
+                <TextWrapper>
+                  brandsgrey240
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey241" />
+                <TextWrapper>
+                  brandsgrey241
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey242" />
+                <TextWrapper>
+                  brandsgrey242
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey243" />
+                <TextWrapper>
+                  brandsgrey243
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey244" />
+                <TextWrapper>
+                  brandsgrey244
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey245" />
+                <TextWrapper>
+                  brandsgrey245
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey246" />
+                <TextWrapper>
+                  brandsgrey246
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey247" />
+                <TextWrapper>
+                  brandsgrey247
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey248" />
+                <TextWrapper>
+                  brandsgrey248
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey249" />
+                <TextWrapper>
+                  brandsgrey249
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey25" />
+                <TextWrapper>
+                  brandsgrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey250" />
+                <TextWrapper>
+                  brandsgrey250
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey251" />
+                <TextWrapper>
+                  brandsgrey251
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey252" />
+                <TextWrapper>
+                  brandsgrey252
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey253" />
+                <TextWrapper>
+                  brandsgrey253
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey254" />
+                <TextWrapper>
+                  brandsgrey254
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey255" />
+                <TextWrapper>
+                  brandsgrey255
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey256" />
+                <TextWrapper>
+                  brandsgrey256
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey257" />
+                <TextWrapper>
+                  brandsgrey257
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey258" />
+                <TextWrapper>
+                  brandsgrey258
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey259" />
+                <TextWrapper>
+                  brandsgrey259
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey26" />
+                <TextWrapper>
+                  brandsgrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey260" />
+                <TextWrapper>
+                  brandsgrey260
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey261" />
+                <TextWrapper>
+                  brandsgrey261
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey262" />
+                <TextWrapper>
+                  brandsgrey262
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey263" />
+                <TextWrapper>
+                  brandsgrey263
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey264" />
+                <TextWrapper>
+                  brandsgrey264
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey265" />
+                <TextWrapper>
+                  brandsgrey265
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey266" />
+                <TextWrapper>
+                  brandsgrey266
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey267" />
+                <TextWrapper>
+                  brandsgrey267
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey268" />
+                <TextWrapper>
+                  brandsgrey268
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey269" />
+                <TextWrapper>
+                  brandsgrey269
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey27" />
+                <TextWrapper>
+                  brandsgrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey270" />
+                <TextWrapper>
+                  brandsgrey270
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey271" />
+                <TextWrapper>
+                  brandsgrey271
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey272" />
+                <TextWrapper>
+                  brandsgrey272
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey273" />
+                <TextWrapper>
+                  brandsgrey273
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey274" />
+                <TextWrapper>
+                  brandsgrey274
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey275" />
+                <TextWrapper>
+                  brandsgrey275
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey276" />
+                <TextWrapper>
+                  brandsgrey276
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey277" />
+                <TextWrapper>
+                  brandsgrey277
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey278" />
+                <TextWrapper>
+                  brandsgrey278
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey279" />
+                <TextWrapper>
+                  brandsgrey279
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey28" />
+                <TextWrapper>
+                  brandsgrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey280" />
+                <TextWrapper>
+                  brandsgrey280
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey281" />
+                <TextWrapper>
+                  brandsgrey281
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey282" />
+                <TextWrapper>
+                  brandsgrey282
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey283" />
+                <TextWrapper>
+                  brandsgrey283
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey284" />
+                <TextWrapper>
+                  brandsgrey284
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey285" />
+                <TextWrapper>
+                  brandsgrey285
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey286" />
+                <TextWrapper>
+                  brandsgrey286
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey287" />
+                <TextWrapper>
+                  brandsgrey287
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey288" />
+                <TextWrapper>
+                  brandsgrey288
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey289" />
+                <TextWrapper>
+                  brandsgrey289
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey29" />
+                <TextWrapper>
+                  brandsgrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey290" />
+                <TextWrapper>
+                  brandsgrey290
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey291" />
+                <TextWrapper>
+                  brandsgrey291
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey292" />
+                <TextWrapper>
+                  brandsgrey292
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey293" />
+                <TextWrapper>
+                  brandsgrey293
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey294" />
+                <TextWrapper>
+                  brandsgrey294
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey295" />
+                <TextWrapper>
+                  brandsgrey295
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey296" />
+                <TextWrapper>
+                  brandsgrey296
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey297" />
+                <TextWrapper>
+                  brandsgrey297
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey298" />
+                <TextWrapper>
+                  brandsgrey298
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey299" />
+                <TextWrapper>
+                  brandsgrey299
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey3" />
+                <TextWrapper>
+                  brandsgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey30" />
+                <TextWrapper>
+                  brandsgrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey300" />
+                <TextWrapper>
+                  brandsgrey300
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey301" />
+                <TextWrapper>
+                  brandsgrey301
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey302" />
+                <TextWrapper>
+                  brandsgrey302
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey303" />
+                <TextWrapper>
+                  brandsgrey303
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey304" />
+                <TextWrapper>
+                  brandsgrey304
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey305" />
+                <TextWrapper>
+                  brandsgrey305
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey306" />
+                <TextWrapper>
+                  brandsgrey306
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey307" />
+                <TextWrapper>
+                  brandsgrey307
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey308" />
+                <TextWrapper>
+                  brandsgrey308
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey309" />
+                <TextWrapper>
+                  brandsgrey309
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey31" />
+                <TextWrapper>
+                  brandsgrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey310" />
+                <TextWrapper>
+                  brandsgrey310
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey311" />
+                <TextWrapper>
+                  brandsgrey311
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey312" />
+                <TextWrapper>
+                  brandsgrey312
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey313" />
+                <TextWrapper>
+                  brandsgrey313
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey314" />
+                <TextWrapper>
+                  brandsgrey314
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey315" />
+                <TextWrapper>
+                  brandsgrey315
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey316" />
+                <TextWrapper>
+                  brandsgrey316
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey317" />
+                <TextWrapper>
+                  brandsgrey317
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey318" />
+                <TextWrapper>
+                  brandsgrey318
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey319" />
+                <TextWrapper>
+                  brandsgrey319
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey32" />
+                <TextWrapper>
+                  brandsgrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey320" />
+                <TextWrapper>
+                  brandsgrey320
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey321" />
+                <TextWrapper>
+                  brandsgrey321
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey322" />
+                <TextWrapper>
+                  brandsgrey322
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey323" />
+                <TextWrapper>
+                  brandsgrey323
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey324" />
+                <TextWrapper>
+                  brandsgrey324
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey325" />
+                <TextWrapper>
+                  brandsgrey325
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey326" />
+                <TextWrapper>
+                  brandsgrey326
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey327" />
+                <TextWrapper>
+                  brandsgrey327
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey328" />
+                <TextWrapper>
+                  brandsgrey328
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey329" />
+                <TextWrapper>
+                  brandsgrey329
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey33" />
+                <TextWrapper>
+                  brandsgrey33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey330" />
+                <TextWrapper>
+                  brandsgrey330
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey331" />
+                <TextWrapper>
+                  brandsgrey331
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey332" />
+                <TextWrapper>
+                  brandsgrey332
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey333" />
+                <TextWrapper>
+                  brandsgrey333
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey334" />
+                <TextWrapper>
+                  brandsgrey334
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey335" />
+                <TextWrapper>
+                  brandsgrey335
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey336" />
+                <TextWrapper>
+                  brandsgrey336
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey337" />
+                <TextWrapper>
+                  brandsgrey337
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey338" />
+                <TextWrapper>
+                  brandsgrey338
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey339" />
+                <TextWrapper>
+                  brandsgrey339
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey34" />
+                <TextWrapper>
+                  brandsgrey34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey340" />
+                <TextWrapper>
+                  brandsgrey340
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey341" />
+                <TextWrapper>
+                  brandsgrey341
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey342" />
+                <TextWrapper>
+                  brandsgrey342
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey343" />
+                <TextWrapper>
+                  brandsgrey343
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey344" />
+                <TextWrapper>
+                  brandsgrey344
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey345" />
+                <TextWrapper>
+                  brandsgrey345
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey346" />
+                <TextWrapper>
+                  brandsgrey346
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey347" />
+                <TextWrapper>
+                  brandsgrey347
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey348" />
+                <TextWrapper>
+                  brandsgrey348
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey349" />
+                <TextWrapper>
+                  brandsgrey349
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey35" />
+                <TextWrapper>
+                  brandsgrey35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey350" />
+                <TextWrapper>
+                  brandsgrey350
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey351" />
+                <TextWrapper>
+                  brandsgrey351
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey352" />
+                <TextWrapper>
+                  brandsgrey352
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey353" />
+                <TextWrapper>
+                  brandsgrey353
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey354" />
+                <TextWrapper>
+                  brandsgrey354
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey355" />
+                <TextWrapper>
+                  brandsgrey355
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey356" />
+                <TextWrapper>
+                  brandsgrey356
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey357" />
+                <TextWrapper>
+                  brandsgrey357
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey358" />
+                <TextWrapper>
+                  brandsgrey358
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey359" />
+                <TextWrapper>
+                  brandsgrey359
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey36" />
+                <TextWrapper>
+                  brandsgrey36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey360" />
+                <TextWrapper>
+                  brandsgrey360
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey361" />
+                <TextWrapper>
+                  brandsgrey361
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey362" />
+                <TextWrapper>
+                  brandsgrey362
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey363" />
+                <TextWrapper>
+                  brandsgrey363
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey364" />
+                <TextWrapper>
+                  brandsgrey364
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey365" />
+                <TextWrapper>
+                  brandsgrey365
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey366" />
+                <TextWrapper>
+                  brandsgrey366
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey367" />
+                <TextWrapper>
+                  brandsgrey367
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey368" />
+                <TextWrapper>
+                  brandsgrey368
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey369" />
+                <TextWrapper>
+                  brandsgrey369
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey37" />
+                <TextWrapper>
+                  brandsgrey37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey370" />
+                <TextWrapper>
+                  brandsgrey370
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey371" />
+                <TextWrapper>
+                  brandsgrey371
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey372" />
+                <TextWrapper>
+                  brandsgrey372
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey373" />
+                <TextWrapper>
+                  brandsgrey373
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey374" />
+                <TextWrapper>
+                  brandsgrey374
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey375" />
+                <TextWrapper>
+                  brandsgrey375
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey376" />
+                <TextWrapper>
+                  brandsgrey376
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey377" />
+                <TextWrapper>
+                  brandsgrey377
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey378" />
+                <TextWrapper>
+                  brandsgrey378
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey379" />
+                <TextWrapper>
+                  brandsgrey379
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey38" />
+                <TextWrapper>
+                  brandsgrey38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey380" />
+                <TextWrapper>
+                  brandsgrey380
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey381" />
+                <TextWrapper>
+                  brandsgrey381
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey382" />
+                <TextWrapper>
+                  brandsgrey382
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey383" />
+                <TextWrapper>
+                  brandsgrey383
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey384" />
+                <TextWrapper>
+                  brandsgrey384
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey385" />
+                <TextWrapper>
+                  brandsgrey385
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey386" />
+                <TextWrapper>
+                  brandsgrey386
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey387" />
+                <TextWrapper>
+                  brandsgrey387
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey388" />
+                <TextWrapper>
+                  brandsgrey388
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey389" />
+                <TextWrapper>
+                  brandsgrey389
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey39" />
+                <TextWrapper>
+                  brandsgrey39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey390" />
+                <TextWrapper>
+                  brandsgrey390
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey391" />
+                <TextWrapper>
+                  brandsgrey391
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey392" />
+                <TextWrapper>
+                  brandsgrey392
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey393" />
+                <TextWrapper>
+                  brandsgrey393
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey394" />
+                <TextWrapper>
+                  brandsgrey394
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey395" />
+                <TextWrapper>
+                  brandsgrey395
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey396" />
+                <TextWrapper>
+                  brandsgrey396
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey397" />
+                <TextWrapper>
+                  brandsgrey397
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey398" />
+                <TextWrapper>
+                  brandsgrey398
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey399" />
+                <TextWrapper>
+                  brandsgrey399
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey4" />
+                <TextWrapper>
+                  brandsgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey40" />
+                <TextWrapper>
+                  brandsgrey40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey400" />
+                <TextWrapper>
+                  brandsgrey400
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey401" />
+                <TextWrapper>
+                  brandsgrey401
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey402" />
+                <TextWrapper>
+                  brandsgrey402
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey403" />
+                <TextWrapper>
+                  brandsgrey403
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey404" />
+                <TextWrapper>
+                  brandsgrey404
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey405" />
+                <TextWrapper>
+                  brandsgrey405
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey406" />
+                <TextWrapper>
+                  brandsgrey406
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey407" />
+                <TextWrapper>
+                  brandsgrey407
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey408" />
+                <TextWrapper>
+                  brandsgrey408
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey409" />
+                <TextWrapper>
+                  brandsgrey409
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey41" />
+                <TextWrapper>
+                  brandsgrey41
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey410" />
+                <TextWrapper>
+                  brandsgrey410
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey411" />
+                <TextWrapper>
+                  brandsgrey411
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey412" />
+                <TextWrapper>
+                  brandsgrey412
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey413" />
+                <TextWrapper>
+                  brandsgrey413
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey414" />
+                <TextWrapper>
+                  brandsgrey414
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey415" />
+                <TextWrapper>
+                  brandsgrey415
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey416" />
+                <TextWrapper>
+                  brandsgrey416
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey417" />
+                <TextWrapper>
+                  brandsgrey417
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey418" />
+                <TextWrapper>
+                  brandsgrey418
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey419" />
+                <TextWrapper>
+                  brandsgrey419
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey42" />
+                <TextWrapper>
+                  brandsgrey42
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey420" />
+                <TextWrapper>
+                  brandsgrey420
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey421" />
+                <TextWrapper>
+                  brandsgrey421
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey422" />
+                <TextWrapper>
+                  brandsgrey422
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey423" />
+                <TextWrapper>
+                  brandsgrey423
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey424" />
+                <TextWrapper>
+                  brandsgrey424
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey425" />
+                <TextWrapper>
+                  brandsgrey425
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey426" />
+                <TextWrapper>
+                  brandsgrey426
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey427" />
+                <TextWrapper>
+                  brandsgrey427
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey428" />
+                <TextWrapper>
+                  brandsgrey428
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey429" />
+                <TextWrapper>
+                  brandsgrey429
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey43" />
+                <TextWrapper>
+                  brandsgrey43
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey430" />
+                <TextWrapper>
+                  brandsgrey430
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey431" />
+                <TextWrapper>
+                  brandsgrey431
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey432" />
+                <TextWrapper>
+                  brandsgrey432
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey433" />
+                <TextWrapper>
+                  brandsgrey433
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey434" />
+                <TextWrapper>
+                  brandsgrey434
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey435" />
+                <TextWrapper>
+                  brandsgrey435
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey436" />
+                <TextWrapper>
+                  brandsgrey436
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey437" />
+                <TextWrapper>
+                  brandsgrey437
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey438" />
+                <TextWrapper>
+                  brandsgrey438
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey439" />
+                <TextWrapper>
+                  brandsgrey439
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey44" />
+                <TextWrapper>
+                  brandsgrey44
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey440" />
+                <TextWrapper>
+                  brandsgrey440
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey441" />
+                <TextWrapper>
+                  brandsgrey441
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey442" />
+                <TextWrapper>
+                  brandsgrey442
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey443" />
+                <TextWrapper>
+                  brandsgrey443
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey444" />
+                <TextWrapper>
+                  brandsgrey444
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey445" />
+                <TextWrapper>
+                  brandsgrey445
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey446" />
+                <TextWrapper>
+                  brandsgrey446
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey447" />
+                <TextWrapper>
+                  brandsgrey447
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey448" />
+                <TextWrapper>
+                  brandsgrey448
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey449" />
+                <TextWrapper>
+                  brandsgrey449
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey45" />
+                <TextWrapper>
+                  brandsgrey45
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey450" />
+                <TextWrapper>
+                  brandsgrey450
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey451" />
+                <TextWrapper>
+                  brandsgrey451
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey452" />
+                <TextWrapper>
+                  brandsgrey452
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey453" />
+                <TextWrapper>
+                  brandsgrey453
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey454" />
+                <TextWrapper>
+                  brandsgrey454
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey455" />
+                <TextWrapper>
+                  brandsgrey455
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey456" />
+                <TextWrapper>
+                  brandsgrey456
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey457" />
+                <TextWrapper>
+                  brandsgrey457
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey458" />
+                <TextWrapper>
+                  brandsgrey458
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey459" />
+                <TextWrapper>
+                  brandsgrey459
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey46" />
+                <TextWrapper>
+                  brandsgrey46
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey460" />
+                <TextWrapper>
+                  brandsgrey460
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey461" />
+                <TextWrapper>
+                  brandsgrey461
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey462" />
+                <TextWrapper>
+                  brandsgrey462
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey463" />
+                <TextWrapper>
+                  brandsgrey463
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey464" />
+                <TextWrapper>
+                  brandsgrey464
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey465" />
+                <TextWrapper>
+                  brandsgrey465
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey466" />
+                <TextWrapper>
+                  brandsgrey466
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey467" />
+                <TextWrapper>
+                  brandsgrey467
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey468" />
+                <TextWrapper>
+                  brandsgrey468
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey469" />
+                <TextWrapper>
+                  brandsgrey469
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey47" />
+                <TextWrapper>
+                  brandsgrey47
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey470" />
+                <TextWrapper>
+                  brandsgrey470
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey471" />
+                <TextWrapper>
+                  brandsgrey471
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey472" />
+                <TextWrapper>
+                  brandsgrey472
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey473" />
+                <TextWrapper>
+                  brandsgrey473
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey474" />
+                <TextWrapper>
+                  brandsgrey474
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey475" />
+                <TextWrapper>
+                  brandsgrey475
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey476" />
+                <TextWrapper>
+                  brandsgrey476
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey477" />
+                <TextWrapper>
+                  brandsgrey477
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey478" />
+                <TextWrapper>
+                  brandsgrey478
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey479" />
+                <TextWrapper>
+                  brandsgrey479
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey48" />
+                <TextWrapper>
+                  brandsgrey48
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey480" />
+                <TextWrapper>
+                  brandsgrey480
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey481" />
+                <TextWrapper>
+                  brandsgrey481
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey482" />
+                <TextWrapper>
+                  brandsgrey482
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey483" />
+                <TextWrapper>
+                  brandsgrey483
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey484" />
+                <TextWrapper>
+                  brandsgrey484
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey485" />
+                <TextWrapper>
+                  brandsgrey485
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey486" />
+                <TextWrapper>
+                  brandsgrey486
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey487" />
+                <TextWrapper>
+                  brandsgrey487
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey488" />
+                <TextWrapper>
+                  brandsgrey488
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey489" />
+                <TextWrapper>
+                  brandsgrey489
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey49" />
+                <TextWrapper>
+                  brandsgrey49
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey490" />
+                <TextWrapper>
+                  brandsgrey490
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey491" />
+                <TextWrapper>
+                  brandsgrey491
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey492" />
+                <TextWrapper>
+                  brandsgrey492
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey493" />
+                <TextWrapper>
+                  brandsgrey493
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey494" />
+                <TextWrapper>
+                  brandsgrey494
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey495" />
+                <TextWrapper>
+                  brandsgrey495
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey496" />
+                <TextWrapper>
+                  brandsgrey496
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey497" />
+                <TextWrapper>
+                  brandsgrey497
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey498" />
+                <TextWrapper>
+                  brandsgrey498
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey499" />
+                <TextWrapper>
+                  brandsgrey499
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey5" />
+                <TextWrapper>
+                  brandsgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey50" />
+                <TextWrapper>
+                  brandsgrey50
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey500" />
+                <TextWrapper>
+                  brandsgrey500
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey501" />
+                <TextWrapper>
+                  brandsgrey501
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey502" />
+                <TextWrapper>
+                  brandsgrey502
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey503" />
+                <TextWrapper>
+                  brandsgrey503
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey504" />
+                <TextWrapper>
+                  brandsgrey504
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey505" />
+                <TextWrapper>
+                  brandsgrey505
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey506" />
+                <TextWrapper>
+                  brandsgrey506
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey507" />
+                <TextWrapper>
+                  brandsgrey507
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey508" />
+                <TextWrapper>
+                  brandsgrey508
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey509" />
+                <TextWrapper>
+                  brandsgrey509
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey51" />
+                <TextWrapper>
+                  brandsgrey51
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey510" />
+                <TextWrapper>
+                  brandsgrey510
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey511" />
+                <TextWrapper>
+                  brandsgrey511
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey512" />
+                <TextWrapper>
+                  brandsgrey512
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey513" />
+                <TextWrapper>
+                  brandsgrey513
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey514" />
+                <TextWrapper>
+                  brandsgrey514
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey515" />
+                <TextWrapper>
+                  brandsgrey515
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey516" />
+                <TextWrapper>
+                  brandsgrey516
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey517" />
+                <TextWrapper>
+                  brandsgrey517
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey518" />
+                <TextWrapper>
+                  brandsgrey518
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey519" />
+                <TextWrapper>
+                  brandsgrey519
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey52" />
+                <TextWrapper>
+                  brandsgrey52
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey520" />
+                <TextWrapper>
+                  brandsgrey520
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey521" />
+                <TextWrapper>
+                  brandsgrey521
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey522" />
+                <TextWrapper>
+                  brandsgrey522
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey523" />
+                <TextWrapper>
+                  brandsgrey523
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey524" />
+                <TextWrapper>
+                  brandsgrey524
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey525" />
+                <TextWrapper>
+                  brandsgrey525
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey526" />
+                <TextWrapper>
+                  brandsgrey526
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey527" />
+                <TextWrapper>
+                  brandsgrey527
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey528" />
+                <TextWrapper>
+                  brandsgrey528
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey529" />
+                <TextWrapper>
+                  brandsgrey529
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey53" />
+                <TextWrapper>
+                  brandsgrey53
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey530" />
+                <TextWrapper>
+                  brandsgrey530
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey531" />
+                <TextWrapper>
+                  brandsgrey531
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey532" />
+                <TextWrapper>
+                  brandsgrey532
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey533" />
+                <TextWrapper>
+                  brandsgrey533
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey534" />
+                <TextWrapper>
+                  brandsgrey534
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey535" />
+                <TextWrapper>
+                  brandsgrey535
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey536" />
+                <TextWrapper>
+                  brandsgrey536
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey537" />
+                <TextWrapper>
+                  brandsgrey537
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey538" />
+                <TextWrapper>
+                  brandsgrey538
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey539" />
+                <TextWrapper>
+                  brandsgrey539
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey54" />
+                <TextWrapper>
+                  brandsgrey54
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey540" />
+                <TextWrapper>
+                  brandsgrey540
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey541" />
+                <TextWrapper>
+                  brandsgrey541
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey542" />
+                <TextWrapper>
+                  brandsgrey542
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey543" />
+                <TextWrapper>
+                  brandsgrey543
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey544" />
+                <TextWrapper>
+                  brandsgrey544
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey545" />
+                <TextWrapper>
+                  brandsgrey545
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey546" />
+                <TextWrapper>
+                  brandsgrey546
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey547" />
+                <TextWrapper>
+                  brandsgrey547
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey548" />
+                <TextWrapper>
+                  brandsgrey548
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey549" />
+                <TextWrapper>
+                  brandsgrey549
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey55" />
+                <TextWrapper>
+                  brandsgrey55
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey550" />
+                <TextWrapper>
+                  brandsgrey550
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey551" />
+                <TextWrapper>
+                  brandsgrey551
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey552" />
+                <TextWrapper>
+                  brandsgrey552
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey553" />
+                <TextWrapper>
+                  brandsgrey553
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey554" />
+                <TextWrapper>
+                  brandsgrey554
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey555" />
+                <TextWrapper>
+                  brandsgrey555
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey556" />
+                <TextWrapper>
+                  brandsgrey556
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey557" />
+                <TextWrapper>
+                  brandsgrey557
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey558" />
+                <TextWrapper>
+                  brandsgrey558
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey559" />
+                <TextWrapper>
+                  brandsgrey559
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey56" />
+                <TextWrapper>
+                  brandsgrey56
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey560" />
+                <TextWrapper>
+                  brandsgrey560
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey561" />
+                <TextWrapper>
+                  brandsgrey561
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey562" />
+                <TextWrapper>
+                  brandsgrey562
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey563" />
+                <TextWrapper>
+                  brandsgrey563
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey564" />
+                <TextWrapper>
+                  brandsgrey564
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey565" />
+                <TextWrapper>
+                  brandsgrey565
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey566" />
+                <TextWrapper>
+                  brandsgrey566
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey567" />
+                <TextWrapper>
+                  brandsgrey567
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey568" />
+                <TextWrapper>
+                  brandsgrey568
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey569" />
+                <TextWrapper>
+                  brandsgrey569
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey57" />
+                <TextWrapper>
+                  brandsgrey57
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey570" />
+                <TextWrapper>
+                  brandsgrey570
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey571" />
+                <TextWrapper>
+                  brandsgrey571
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey572" />
+                <TextWrapper>
+                  brandsgrey572
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey573" />
+                <TextWrapper>
+                  brandsgrey573
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey574" />
+                <TextWrapper>
+                  brandsgrey574
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey575" />
+                <TextWrapper>
+                  brandsgrey575
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey576" />
+                <TextWrapper>
+                  brandsgrey576
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey577" />
+                <TextWrapper>
+                  brandsgrey577
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey578" />
+                <TextWrapper>
+                  brandsgrey578
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey579" />
+                <TextWrapper>
+                  brandsgrey579
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey58" />
+                <TextWrapper>
+                  brandsgrey58
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey580" />
+                <TextWrapper>
+                  brandsgrey580
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey581" />
+                <TextWrapper>
+                  brandsgrey581
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey582" />
+                <TextWrapper>
+                  brandsgrey582
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey583" />
+                <TextWrapper>
+                  brandsgrey583
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey584" />
+                <TextWrapper>
+                  brandsgrey584
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey585" />
+                <TextWrapper>
+                  brandsgrey585
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey586" />
+                <TextWrapper>
+                  brandsgrey586
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey587" />
+                <TextWrapper>
+                  brandsgrey587
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey588" />
+                <TextWrapper>
+                  brandsgrey588
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey589" />
+                <TextWrapper>
+                  brandsgrey589
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey59" />
+                <TextWrapper>
+                  brandsgrey59
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey590" />
+                <TextWrapper>
+                  brandsgrey590
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey591" />
+                <TextWrapper>
+                  brandsgrey591
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey592" />
+                <TextWrapper>
+                  brandsgrey592
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey593" />
+                <TextWrapper>
+                  brandsgrey593
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey594" />
+                <TextWrapper>
+                  brandsgrey594
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey595" />
+                <TextWrapper>
+                  brandsgrey595
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey596" />
+                <TextWrapper>
+                  brandsgrey596
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey597" />
+                <TextWrapper>
+                  brandsgrey597
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey598" />
+                <TextWrapper>
+                  brandsgrey598
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey599" />
+                <TextWrapper>
+                  brandsgrey599
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey6" />
+                <TextWrapper>
+                  brandsgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey60" />
+                <TextWrapper>
+                  brandsgrey60
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey600" />
+                <TextWrapper>
+                  brandsgrey600
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey601" />
+                <TextWrapper>
+                  brandsgrey601
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey602" />
+                <TextWrapper>
+                  brandsgrey602
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey603" />
+                <TextWrapper>
+                  brandsgrey603
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey604" />
+                <TextWrapper>
+                  brandsgrey604
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey605" />
+                <TextWrapper>
+                  brandsgrey605
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey606" />
+                <TextWrapper>
+                  brandsgrey606
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey607" />
+                <TextWrapper>
+                  brandsgrey607
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey608" />
+                <TextWrapper>
+                  brandsgrey608
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey609" />
+                <TextWrapper>
+                  brandsgrey609
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey61" />
+                <TextWrapper>
+                  brandsgrey61
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey610" />
+                <TextWrapper>
+                  brandsgrey610
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey611" />
+                <TextWrapper>
+                  brandsgrey611
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey612" />
+                <TextWrapper>
+                  brandsgrey612
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey613" />
+                <TextWrapper>
+                  brandsgrey613
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey614" />
+                <TextWrapper>
+                  brandsgrey614
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey615" />
+                <TextWrapper>
+                  brandsgrey615
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey616" />
+                <TextWrapper>
+                  brandsgrey616
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey617" />
+                <TextWrapper>
+                  brandsgrey617
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey618" />
+                <TextWrapper>
+                  brandsgrey618
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey619" />
+                <TextWrapper>
+                  brandsgrey619
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey62" />
+                <TextWrapper>
+                  brandsgrey62
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey620" />
+                <TextWrapper>
+                  brandsgrey620
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey621" />
+                <TextWrapper>
+                  brandsgrey621
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey622" />
+                <TextWrapper>
+                  brandsgrey622
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey623" />
+                <TextWrapper>
+                  brandsgrey623
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey624" />
+                <TextWrapper>
+                  brandsgrey624
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey625" />
+                <TextWrapper>
+                  brandsgrey625
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey626" />
+                <TextWrapper>
+                  brandsgrey626
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey627" />
+                <TextWrapper>
+                  brandsgrey627
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey628" />
+                <TextWrapper>
+                  brandsgrey628
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey629" />
+                <TextWrapper>
+                  brandsgrey629
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey63" />
+                <TextWrapper>
+                  brandsgrey63
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey630" />
+                <TextWrapper>
+                  brandsgrey630
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey631" />
+                <TextWrapper>
+                  brandsgrey631
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey632" />
+                <TextWrapper>
+                  brandsgrey632
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey633" />
+                <TextWrapper>
+                  brandsgrey633
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey634" />
+                <TextWrapper>
+                  brandsgrey634
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey635" />
+                <TextWrapper>
+                  brandsgrey635
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey636" />
+                <TextWrapper>
+                  brandsgrey636
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey637" />
+                <TextWrapper>
+                  brandsgrey637
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey638" />
+                <TextWrapper>
+                  brandsgrey638
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey639" />
+                <TextWrapper>
+                  brandsgrey639
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey64" />
+                <TextWrapper>
+                  brandsgrey64
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey640" />
+                <TextWrapper>
+                  brandsgrey640
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey641" />
+                <TextWrapper>
+                  brandsgrey641
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey642" />
+                <TextWrapper>
+                  brandsgrey642
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey643" />
+                <TextWrapper>
+                  brandsgrey643
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey644" />
+                <TextWrapper>
+                  brandsgrey644
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey645" />
+                <TextWrapper>
+                  brandsgrey645
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey646" />
+                <TextWrapper>
+                  brandsgrey646
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey647" />
+                <TextWrapper>
+                  brandsgrey647
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey648" />
+                <TextWrapper>
+                  brandsgrey648
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey649" />
+                <TextWrapper>
+                  brandsgrey649
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey65" />
+                <TextWrapper>
+                  brandsgrey65
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey650" />
+                <TextWrapper>
+                  brandsgrey650
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey651" />
+                <TextWrapper>
+                  brandsgrey651
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey652" />
+                <TextWrapper>
+                  brandsgrey652
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey653" />
+                <TextWrapper>
+                  brandsgrey653
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey654" />
+                <TextWrapper>
+                  brandsgrey654
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey655" />
+                <TextWrapper>
+                  brandsgrey655
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey656" />
+                <TextWrapper>
+                  brandsgrey656
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey657" />
+                <TextWrapper>
+                  brandsgrey657
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey658" />
+                <TextWrapper>
+                  brandsgrey658
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey659" />
+                <TextWrapper>
+                  brandsgrey659
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey66" />
+                <TextWrapper>
+                  brandsgrey66
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey660" />
+                <TextWrapper>
+                  brandsgrey660
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey661" />
+                <TextWrapper>
+                  brandsgrey661
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey662" />
+                <TextWrapper>
+                  brandsgrey662
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey663" />
+                <TextWrapper>
+                  brandsgrey663
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey664" />
+                <TextWrapper>
+                  brandsgrey664
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey665" />
+                <TextWrapper>
+                  brandsgrey665
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey666" />
+                <TextWrapper>
+                  brandsgrey666
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey667" />
+                <TextWrapper>
+                  brandsgrey667
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey668" />
+                <TextWrapper>
+                  brandsgrey668
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey669" />
+                <TextWrapper>
+                  brandsgrey669
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey67" />
+                <TextWrapper>
+                  brandsgrey67
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey670" />
+                <TextWrapper>
+                  brandsgrey670
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey671" />
+                <TextWrapper>
+                  brandsgrey671
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey672" />
+                <TextWrapper>
+                  brandsgrey672
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey673" />
+                <TextWrapper>
+                  brandsgrey673
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey674" />
+                <TextWrapper>
+                  brandsgrey674
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey675" />
+                <TextWrapper>
+                  brandsgrey675
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey676" />
+                <TextWrapper>
+                  brandsgrey676
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey68" />
+                <TextWrapper>
+                  brandsgrey68
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey69" />
+                <TextWrapper>
+                  brandsgrey69
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey7" />
+                <TextWrapper>
+                  brandsgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey70" />
+                <TextWrapper>
+                  brandsgrey70
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey71" />
+                <TextWrapper>
+                  brandsgrey71
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey72" />
+                <TextWrapper>
+                  brandsgrey72
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey73" />
+                <TextWrapper>
+                  brandsgrey73
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey74" />
+                <TextWrapper>
+                  brandsgrey74
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey75" />
+                <TextWrapper>
+                  brandsgrey75
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey76" />
+                <TextWrapper>
+                  brandsgrey76
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey77" />
+                <TextWrapper>
+                  brandsgrey77
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey78" />
+                <TextWrapper>
+                  brandsgrey78
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey79" />
+                <TextWrapper>
+                  brandsgrey79
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey8" />
+                <TextWrapper>
+                  brandsgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey80" />
+                <TextWrapper>
+                  brandsgrey80
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey81" />
+                <TextWrapper>
+                  brandsgrey81
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey82" />
+                <TextWrapper>
+                  brandsgrey82
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey83" />
+                <TextWrapper>
+                  brandsgrey83
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey84" />
+                <TextWrapper>
+                  brandsgrey84
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey85" />
+                <TextWrapper>
+                  brandsgrey85
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey86" />
+                <TextWrapper>
+                  brandsgrey86
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey87" />
+                <TextWrapper>
+                  brandsgrey87
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey88" />
+                <TextWrapper>
+                  brandsgrey88
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey89" />
+                <TextWrapper>
+                  brandsgrey89
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey9" />
+                <TextWrapper>
+                  brandsgrey9
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey90" />
+                <TextWrapper>
+                  brandsgrey90
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey91" />
+                <TextWrapper>
+                  brandsgrey91
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey92" />
+                <TextWrapper>
+                  brandsgrey92
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey93" />
+                <TextWrapper>
+                  brandsgrey93
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey94" />
+                <TextWrapper>
+                  brandsgrey94
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey95" />
+                <TextWrapper>
+                  brandsgrey95
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey96" />
+                <TextWrapper>
+                  brandsgrey96
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey97" />
+                <TextWrapper>
+                  brandsgrey97
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey98" />
+                <TextWrapper>
+                  brandsgrey98
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="brandsgrey99" />
+                <TextWrapper>
+                  brandsgrey99
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('business-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => business-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="businesscolor1" />
+                <TextWrapper>
+                  businesscolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor10" />
+                <TextWrapper>
+                  businesscolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor11" />
+                <TextWrapper>
+                  businesscolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor12" />
+                <TextWrapper>
+                  businesscolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor13" />
+                <TextWrapper>
+                  businesscolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor14" />
+                <TextWrapper>
+                  businesscolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor15" />
+                <TextWrapper>
+                  businesscolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor16" />
+                <TextWrapper>
+                  businesscolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor17" />
+                <TextWrapper>
+                  businesscolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor18" />
+                <TextWrapper>
+                  businesscolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor19" />
+                <TextWrapper>
+                  businesscolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor2" />
+                <TextWrapper>
+                  businesscolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor20" />
+                <TextWrapper>
+                  businesscolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor21" />
+                <TextWrapper>
+                  businesscolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor22" />
+                <TextWrapper>
+                  businesscolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor23" />
+                <TextWrapper>
+                  businesscolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor24" />
+                <TextWrapper>
+                  businesscolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor25" />
+                <TextWrapper>
+                  businesscolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor26" />
+                <TextWrapper>
+                  businesscolor26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor27" />
+                <TextWrapper>
+                  businesscolor27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor28" />
+                <TextWrapper>
+                  businesscolor28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor29" />
+                <TextWrapper>
+                  businesscolor29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor3" />
+                <TextWrapper>
+                  businesscolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor30" />
+                <TextWrapper>
+                  businesscolor30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor31" />
+                <TextWrapper>
+                  businesscolor31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor32" />
+                <TextWrapper>
+                  businesscolor32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor33" />
+                <TextWrapper>
+                  businesscolor33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor34" />
+                <TextWrapper>
+                  businesscolor34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor35" />
+                <TextWrapper>
+                  businesscolor35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor36" />
+                <TextWrapper>
+                  businesscolor36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor37" />
+                <TextWrapper>
+                  businesscolor37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor38" />
+                <TextWrapper>
+                  businesscolor38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor39" />
+                <TextWrapper>
+                  businesscolor39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor4" />
+                <TextWrapper>
+                  businesscolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor40" />
+                <TextWrapper>
+                  businesscolor40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor5" />
+                <TextWrapper>
+                  businesscolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor6" />
+                <TextWrapper>
+                  businesscolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor7" />
+                <TextWrapper>
+                  businesscolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor8" />
+                <TextWrapper>
+                  businesscolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businesscolor9" />
+                <TextWrapper>
+                  businesscolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('business-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => business-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="businessgrey1" />
+                <TextWrapper>
+                  businessgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey10" />
+                <TextWrapper>
+                  businessgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey11" />
+                <TextWrapper>
+                  businessgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey12" />
+                <TextWrapper>
+                  businessgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey13" />
+                <TextWrapper>
+                  businessgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey14" />
+                <TextWrapper>
+                  businessgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey15" />
+                <TextWrapper>
+                  businessgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey16" />
+                <TextWrapper>
+                  businessgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey17" />
+                <TextWrapper>
+                  businessgrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey18" />
+                <TextWrapper>
+                  businessgrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey19" />
+                <TextWrapper>
+                  businessgrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey2" />
+                <TextWrapper>
+                  businessgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey20" />
+                <TextWrapper>
+                  businessgrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey3" />
+                <TextWrapper>
+                  businessgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey4" />
+                <TextWrapper>
+                  businessgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey5" />
+                <TextWrapper>
+                  businessgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey6" />
+                <TextWrapper>
+                  businessgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey7" />
+                <TextWrapper>
+                  businessgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey8" />
+                <TextWrapper>
+                  businessgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="businessgrey9" />
+                <TextWrapper>
+                  businessgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('food-dishes-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => food-dishes-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="fooddishescolor1" />
+                <TextWrapper>
+                  fooddishescolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor10" />
+                <TextWrapper>
+                  fooddishescolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor11" />
+                <TextWrapper>
+                  fooddishescolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor12" />
+                <TextWrapper>
+                  fooddishescolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor13" />
+                <TextWrapper>
+                  fooddishescolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor14" />
+                <TextWrapper>
+                  fooddishescolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor15" />
+                <TextWrapper>
+                  fooddishescolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor2" />
+                <TextWrapper>
+                  fooddishescolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor3" />
+                <TextWrapper>
+                  fooddishescolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor4" />
+                <TextWrapper>
+                  fooddishescolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor5" />
+                <TextWrapper>
+                  fooddishescolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor6" />
+                <TextWrapper>
+                  fooddishescolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor7" />
+                <TextWrapper>
+                  fooddishescolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor8" />
+                <TextWrapper>
+                  fooddishescolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fooddishescolor9" />
+                <TextWrapper>
+                  fooddishescolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('fourthofjuly-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => fourthofjuly-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="fourthofjulygrey1" />
+                <TextWrapper>
+                  fourthofjulygrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey10" />
+                <TextWrapper>
+                  fourthofjulygrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey11" />
+                <TextWrapper>
+                  fourthofjulygrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey12" />
+                <TextWrapper>
+                  fourthofjulygrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey13" />
+                <TextWrapper>
+                  fourthofjulygrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey14" />
+                <TextWrapper>
+                  fourthofjulygrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey15" />
+                <TextWrapper>
+                  fourthofjulygrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey16" />
+                <TextWrapper>
+                  fourthofjulygrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey17" />
+                <TextWrapper>
+                  fourthofjulygrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey18" />
+                <TextWrapper>
+                  fourthofjulygrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey19" />
+                <TextWrapper>
+                  fourthofjulygrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey2" />
+                <TextWrapper>
+                  fourthofjulygrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey20" />
+                <TextWrapper>
+                  fourthofjulygrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey21" />
+                <TextWrapper>
+                  fourthofjulygrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey22" />
+                <TextWrapper>
+                  fourthofjulygrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey23" />
+                <TextWrapper>
+                  fourthofjulygrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey24" />
+                <TextWrapper>
+                  fourthofjulygrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey25" />
+                <TextWrapper>
+                  fourthofjulygrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey26" />
+                <TextWrapper>
+                  fourthofjulygrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey27" />
+                <TextWrapper>
+                  fourthofjulygrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey28" />
+                <TextWrapper>
+                  fourthofjulygrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey29" />
+                <TextWrapper>
+                  fourthofjulygrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey3" />
+                <TextWrapper>
+                  fourthofjulygrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey30" />
+                <TextWrapper>
+                  fourthofjulygrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey31" />
+                <TextWrapper>
+                  fourthofjulygrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey32" />
+                <TextWrapper>
+                  fourthofjulygrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey33" />
+                <TextWrapper>
+                  fourthofjulygrey33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey34" />
+                <TextWrapper>
+                  fourthofjulygrey34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey35" />
+                <TextWrapper>
+                  fourthofjulygrey35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey36" />
+                <TextWrapper>
+                  fourthofjulygrey36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey37" />
+                <TextWrapper>
+                  fourthofjulygrey37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey38" />
+                <TextWrapper>
+                  fourthofjulygrey38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey39" />
+                <TextWrapper>
+                  fourthofjulygrey39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey4" />
+                <TextWrapper>
+                  fourthofjulygrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey40" />
+                <TextWrapper>
+                  fourthofjulygrey40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey5" />
+                <TextWrapper>
+                  fourthofjulygrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey6" />
+                <TextWrapper>
+                  fourthofjulygrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey7" />
+                <TextWrapper>
+                  fourthofjulygrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey8" />
+                <TextWrapper>
+                  fourthofjulygrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="fourthofjulygrey9" />
+                <TextWrapper>
+                  fourthofjulygrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('green-energy-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => green-energy-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="greenenergycolor1" />
+                <TextWrapper>
+                  greenenergycolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor10" />
+                <TextWrapper>
+                  greenenergycolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor11" />
+                <TextWrapper>
+                  greenenergycolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor12" />
+                <TextWrapper>
+                  greenenergycolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor13" />
+                <TextWrapper>
+                  greenenergycolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor14" />
+                <TextWrapper>
+                  greenenergycolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor15" />
+                <TextWrapper>
+                  greenenergycolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor16" />
+                <TextWrapper>
+                  greenenergycolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor17" />
+                <TextWrapper>
+                  greenenergycolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor18" />
+                <TextWrapper>
+                  greenenergycolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor19" />
+                <TextWrapper>
+                  greenenergycolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor2" />
+                <TextWrapper>
+                  greenenergycolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor20" />
+                <TextWrapper>
+                  greenenergycolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor21" />
+                <TextWrapper>
+                  greenenergycolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor22" />
+                <TextWrapper>
+                  greenenergycolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor23" />
+                <TextWrapper>
+                  greenenergycolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor24" />
+                <TextWrapper>
+                  greenenergycolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor25" />
+                <TextWrapper>
+                  greenenergycolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor26" />
+                <TextWrapper>
+                  greenenergycolor26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor27" />
+                <TextWrapper>
+                  greenenergycolor27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor28" />
+                <TextWrapper>
+                  greenenergycolor28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor29" />
+                <TextWrapper>
+                  greenenergycolor29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor3" />
+                <TextWrapper>
+                  greenenergycolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor30" />
+                <TextWrapper>
+                  greenenergycolor30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor31" />
+                <TextWrapper>
+                  greenenergycolor31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor32" />
+                <TextWrapper>
+                  greenenergycolor32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor4" />
+                <TextWrapper>
+                  greenenergycolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor5" />
+                <TextWrapper>
+                  greenenergycolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor6" />
+                <TextWrapper>
+                  greenenergycolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor7" />
+                <TextWrapper>
+                  greenenergycolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor8" />
+                <TextWrapper>
+                  greenenergycolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="greenenergycolor9" />
+                <TextWrapper>
+                  greenenergycolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('helmet-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => helmet-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="helmetgrey1" />
+                <TextWrapper>
+                  helmetgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey10" />
+                <TextWrapper>
+                  helmetgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey11" />
+                <TextWrapper>
+                  helmetgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey12" />
+                <TextWrapper>
+                  helmetgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey13" />
+                <TextWrapper>
+                  helmetgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey14" />
+                <TextWrapper>
+                  helmetgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey15" />
+                <TextWrapper>
+                  helmetgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey16" />
+                <TextWrapper>
+                  helmetgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey17" />
+                <TextWrapper>
+                  helmetgrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey18" />
+                <TextWrapper>
+                  helmetgrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey19" />
+                <TextWrapper>
+                  helmetgrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey2" />
+                <TextWrapper>
+                  helmetgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey20" />
+                <TextWrapper>
+                  helmetgrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey21" />
+                <TextWrapper>
+                  helmetgrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey22" />
+                <TextWrapper>
+                  helmetgrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey23" />
+                <TextWrapper>
+                  helmetgrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey24" />
+                <TextWrapper>
+                  helmetgrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey25" />
+                <TextWrapper>
+                  helmetgrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey26" />
+                <TextWrapper>
+                  helmetgrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey27" />
+                <TextWrapper>
+                  helmetgrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey28" />
+                <TextWrapper>
+                  helmetgrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey29" />
+                <TextWrapper>
+                  helmetgrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey3" />
+                <TextWrapper>
+                  helmetgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey30" />
+                <TextWrapper>
+                  helmetgrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey31" />
+                <TextWrapper>
+                  helmetgrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey32" />
+                <TextWrapper>
+                  helmetgrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey4" />
+                <TextWrapper>
+                  helmetgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey5" />
+                <TextWrapper>
+                  helmetgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey6" />
+                <TextWrapper>
+                  helmetgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey7" />
+                <TextWrapper>
+                  helmetgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey8" />
+                <TextWrapper>
+                  helmetgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="helmetgrey9" />
+                <TextWrapper>
+                  helmetgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('home-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => home-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="homecolor1" />
+                <TextWrapper>
+                  homecolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor10" />
+                <TextWrapper>
+                  homecolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor11" />
+                <TextWrapper>
+                  homecolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor12" />
+                <TextWrapper>
+                  homecolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor13" />
+                <TextWrapper>
+                  homecolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor14" />
+                <TextWrapper>
+                  homecolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor15" />
+                <TextWrapper>
+                  homecolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor16" />
+                <TextWrapper>
+                  homecolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor2" />
+                <TextWrapper>
+                  homecolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor3" />
+                <TextWrapper>
+                  homecolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor4" />
+                <TextWrapper>
+                  homecolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor5" />
+                <TextWrapper>
+                  homecolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor6" />
+                <TextWrapper>
+                  homecolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor7" />
+                <TextWrapper>
+                  homecolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor8" />
+                <TextWrapper>
+                  homecolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homecolor9" />
+                <TextWrapper>
+                  homecolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('home-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => home-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="homegrey1" />
+                <TextWrapper>
+                  homegrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey10" />
+                <TextWrapper>
+                  homegrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey11" />
+                <TextWrapper>
+                  homegrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey12" />
+                <TextWrapper>
+                  homegrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey13" />
+                <TextWrapper>
+                  homegrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey14" />
+                <TextWrapper>
+                  homegrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey15" />
+                <TextWrapper>
+                  homegrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey16" />
+                <TextWrapper>
+                  homegrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey2" />
+                <TextWrapper>
+                  homegrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey3" />
+                <TextWrapper>
+                  homegrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey4" />
+                <TextWrapper>
+                  homegrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey5" />
+                <TextWrapper>
+                  homegrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey6" />
+                <TextWrapper>
+                  homegrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey7" />
+                <TextWrapper>
+                  homegrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey8" />
+                <TextWrapper>
+                  homegrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="homegrey9" />
+                <TextWrapper>
+                  homegrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('kitchen-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => kitchen-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="kitchencolor1" />
+                <TextWrapper>
+                  kitchencolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor10" />
+                <TextWrapper>
+                  kitchencolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor11" />
+                <TextWrapper>
+                  kitchencolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor12" />
+                <TextWrapper>
+                  kitchencolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor13" />
+                <TextWrapper>
+                  kitchencolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor14" />
+                <TextWrapper>
+                  kitchencolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor15" />
+                <TextWrapper>
+                  kitchencolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor16" />
+                <TextWrapper>
+                  kitchencolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor2" />
+                <TextWrapper>
+                  kitchencolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor3" />
+                <TextWrapper>
+                  kitchencolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor4" />
+                <TextWrapper>
+                  kitchencolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor5" />
+                <TextWrapper>
+                  kitchencolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor6" />
+                <TextWrapper>
+                  kitchencolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor7" />
+                <TextWrapper>
+                  kitchencolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor8" />
+                <TextWrapper>
+                  kitchencolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchencolor9" />
+                <TextWrapper>
+                  kitchencolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('kitchen-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => kitchen-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="kitchengrey1" />
+                <TextWrapper>
+                  kitchengrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey10" />
+                <TextWrapper>
+                  kitchengrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey11" />
+                <TextWrapper>
+                  kitchengrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey12" />
+                <TextWrapper>
+                  kitchengrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey13" />
+                <TextWrapper>
+                  kitchengrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey14" />
+                <TextWrapper>
+                  kitchengrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey15" />
+                <TextWrapper>
+                  kitchengrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey16" />
+                <TextWrapper>
+                  kitchengrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey2" />
+                <TextWrapper>
+                  kitchengrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey3" />
+                <TextWrapper>
+                  kitchengrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey4" />
+                <TextWrapper>
+                  kitchengrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey5" />
+                <TextWrapper>
+                  kitchengrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey6" />
+                <TextWrapper>
+                  kitchengrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey7" />
+                <TextWrapper>
+                  kitchengrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey8" />
+                <TextWrapper>
+                  kitchengrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="kitchengrey9" />
+                <TextWrapper>
+                  kitchengrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('knife-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => knife-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="knifecolor1" />
+                <TextWrapper>
+                  knifecolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor10" />
+                <TextWrapper>
+                  knifecolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor11" />
+                <TextWrapper>
+                  knifecolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor12" />
+                <TextWrapper>
+                  knifecolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor13" />
+                <TextWrapper>
+                  knifecolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor14" />
+                <TextWrapper>
+                  knifecolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor15" />
+                <TextWrapper>
+                  knifecolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor16" />
+                <TextWrapper>
+                  knifecolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor2" />
+                <TextWrapper>
+                  knifecolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor3" />
+                <TextWrapper>
+                  knifecolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor4" />
+                <TextWrapper>
+                  knifecolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor5" />
+                <TextWrapper>
+                  knifecolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor6" />
+                <TextWrapper>
+                  knifecolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor7" />
+                <TextWrapper>
+                  knifecolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor8" />
+                <TextWrapper>
+                  knifecolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifecolor9" />
+                <TextWrapper>
+                  knifecolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('knife-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => knife-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="knifegrey1" />
+                <TextWrapper>
+                  knifegrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey10" />
+                <TextWrapper>
+                  knifegrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey11" />
+                <TextWrapper>
+                  knifegrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey12" />
+                <TextWrapper>
+                  knifegrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey13" />
+                <TextWrapper>
+                  knifegrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey14" />
+                <TextWrapper>
+                  knifegrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey15" />
+                <TextWrapper>
+                  knifegrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey16" />
+                <TextWrapper>
+                  knifegrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey2" />
+                <TextWrapper>
+                  knifegrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey3" />
+                <TextWrapper>
+                  knifegrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey4" />
+                <TextWrapper>
+                  knifegrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey5" />
+                <TextWrapper>
+                  knifegrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey6" />
+                <TextWrapper>
+                  knifegrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey7" />
+                <TextWrapper>
+                  knifegrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey8" />
+                <TextWrapper>
+                  knifegrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="knifegrey9" />
+                <TextWrapper>
+                  knifegrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('law-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => law-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="lawcolor1" />
+                <TextWrapper>
+                  lawcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor10" />
+                <TextWrapper>
+                  lawcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor11" />
+                <TextWrapper>
+                  lawcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor12" />
+                <TextWrapper>
+                  lawcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor13" />
+                <TextWrapper>
+                  lawcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor14" />
+                <TextWrapper>
+                  lawcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor15" />
+                <TextWrapper>
+                  lawcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor16" />
+                <TextWrapper>
+                  lawcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor2" />
+                <TextWrapper>
+                  lawcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor3" />
+                <TextWrapper>
+                  lawcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor4" />
+                <TextWrapper>
+                  lawcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor5" />
+                <TextWrapper>
+                  lawcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor6" />
+                <TextWrapper>
+                  lawcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor7" />
+                <TextWrapper>
+                  lawcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor8" />
+                <TextWrapper>
+                  lawcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawcolor9" />
+                <TextWrapper>
+                  lawcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('law-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => law-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="lawgrey1" />
+                <TextWrapper>
+                  lawgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey10" />
+                <TextWrapper>
+                  lawgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey11" />
+                <TextWrapper>
+                  lawgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey12" />
+                <TextWrapper>
+                  lawgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey13" />
+                <TextWrapper>
+                  lawgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey14" />
+                <TextWrapper>
+                  lawgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey15" />
+                <TextWrapper>
+                  lawgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey16" />
+                <TextWrapper>
+                  lawgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey2" />
+                <TextWrapper>
+                  lawgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey3" />
+                <TextWrapper>
+                  lawgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey4" />
+                <TextWrapper>
+                  lawgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey5" />
+                <TextWrapper>
+                  lawgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey6" />
+                <TextWrapper>
+                  lawgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey7" />
+                <TextWrapper>
+                  lawgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey8" />
+                <TextWrapper>
+                  lawgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lawgrey9" />
+                <TextWrapper>
+                  lawgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('leaf-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => leaf-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="leafcolor1" />
+                <TextWrapper>
+                  leafcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor10" />
+                <TextWrapper>
+                  leafcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor11" />
+                <TextWrapper>
+                  leafcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor12" />
+                <TextWrapper>
+                  leafcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor13" />
+                <TextWrapper>
+                  leafcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor14" />
+                <TextWrapper>
+                  leafcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor15" />
+                <TextWrapper>
+                  leafcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor16" />
+                <TextWrapper>
+                  leafcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor2" />
+                <TextWrapper>
+                  leafcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor3" />
+                <TextWrapper>
+                  leafcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor4" />
+                <TextWrapper>
+                  leafcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor5" />
+                <TextWrapper>
+                  leafcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor6" />
+                <TextWrapper>
+                  leafcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor7" />
+                <TextWrapper>
+                  leafcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor8" />
+                <TextWrapper>
+                  leafcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafcolor9" />
+                <TextWrapper>
+                  leafcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('leaf-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => leaf-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="leafgrey1" />
+                <TextWrapper>
+                  leafgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey10" />
+                <TextWrapper>
+                  leafgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey11" />
+                <TextWrapper>
+                  leafgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey12" />
+                <TextWrapper>
+                  leafgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey13" />
+                <TextWrapper>
+                  leafgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey14" />
+                <TextWrapper>
+                  leafgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey15" />
+                <TextWrapper>
+                  leafgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey16" />
+                <TextWrapper>
+                  leafgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey2" />
+                <TextWrapper>
+                  leafgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey3" />
+                <TextWrapper>
+                  leafgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey4" />
+                <TextWrapper>
+                  leafgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey5" />
+                <TextWrapper>
+                  leafgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey6" />
+                <TextWrapper>
+                  leafgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey7" />
+                <TextWrapper>
+                  leafgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey8" />
+                <TextWrapper>
+                  leafgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="leafgrey9" />
+                <TextWrapper>
+                  leafgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('logistics-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => logistics-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="logisticscolor1" />
+                <TextWrapper>
+                  logisticscolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor10" />
+                <TextWrapper>
+                  logisticscolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor11" />
+                <TextWrapper>
+                  logisticscolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor12" />
+                <TextWrapper>
+                  logisticscolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor13" />
+                <TextWrapper>
+                  logisticscolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor14" />
+                <TextWrapper>
+                  logisticscolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor15" />
+                <TextWrapper>
+                  logisticscolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor16" />
+                <TextWrapper>
+                  logisticscolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor17" />
+                <TextWrapper>
+                  logisticscolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor18" />
+                <TextWrapper>
+                  logisticscolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor19" />
+                <TextWrapper>
+                  logisticscolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor2" />
+                <TextWrapper>
+                  logisticscolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor20" />
+                <TextWrapper>
+                  logisticscolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor21" />
+                <TextWrapper>
+                  logisticscolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor22" />
+                <TextWrapper>
+                  logisticscolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor23" />
+                <TextWrapper>
+                  logisticscolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor24" />
+                <TextWrapper>
+                  logisticscolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor25" />
+                <TextWrapper>
+                  logisticscolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor26" />
+                <TextWrapper>
+                  logisticscolor26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor27" />
+                <TextWrapper>
+                  logisticscolor27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor28" />
+                <TextWrapper>
+                  logisticscolor28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor29" />
+                <TextWrapper>
+                  logisticscolor29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor3" />
+                <TextWrapper>
+                  logisticscolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor30" />
+                <TextWrapper>
+                  logisticscolor30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor31" />
+                <TextWrapper>
+                  logisticscolor31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor32" />
+                <TextWrapper>
+                  logisticscolor32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor33" />
+                <TextWrapper>
+                  logisticscolor33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor34" />
+                <TextWrapper>
+                  logisticscolor34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor35" />
+                <TextWrapper>
+                  logisticscolor35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor36" />
+                <TextWrapper>
+                  logisticscolor36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor37" />
+                <TextWrapper>
+                  logisticscolor37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor38" />
+                <TextWrapper>
+                  logisticscolor38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor39" />
+                <TextWrapper>
+                  logisticscolor39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor4" />
+                <TextWrapper>
+                  logisticscolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor40" />
+                <TextWrapper>
+                  logisticscolor40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor5" />
+                <TextWrapper>
+                  logisticscolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor6" />
+                <TextWrapper>
+                  logisticscolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor7" />
+                <TextWrapper>
+                  logisticscolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor8" />
+                <TextWrapper>
+                  logisticscolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticscolor9" />
+                <TextWrapper>
+                  logisticscolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('logistics-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => logistics-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="logisticsgrey1" />
+                <TextWrapper>
+                  logisticsgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey10" />
+                <TextWrapper>
+                  logisticsgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey11" />
+                <TextWrapper>
+                  logisticsgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey12" />
+                <TextWrapper>
+                  logisticsgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey13" />
+                <TextWrapper>
+                  logisticsgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey14" />
+                <TextWrapper>
+                  logisticsgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey15" />
+                <TextWrapper>
+                  logisticsgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey16" />
+                <TextWrapper>
+                  logisticsgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey17" />
+                <TextWrapper>
+                  logisticsgrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey18" />
+                <TextWrapper>
+                  logisticsgrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey19" />
+                <TextWrapper>
+                  logisticsgrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey2" />
+                <TextWrapper>
+                  logisticsgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey20" />
+                <TextWrapper>
+                  logisticsgrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey3" />
+                <TextWrapper>
+                  logisticsgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey4" />
+                <TextWrapper>
+                  logisticsgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey5" />
+                <TextWrapper>
+                  logisticsgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey6" />
+                <TextWrapper>
+                  logisticsgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey7" />
+                <TextWrapper>
+                  logisticsgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey8" />
+                <TextWrapper>
+                  logisticsgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="logisticsgrey9" />
+                <TextWrapper>
+                  logisticsgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('lumberjack-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => lumberjack-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="lumberjackcolor1" />
+                <TextWrapper>
+                  lumberjackcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor10" />
+                <TextWrapper>
+                  lumberjackcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor11" />
+                <TextWrapper>
+                  lumberjackcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor12" />
+                <TextWrapper>
+                  lumberjackcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor13" />
+                <TextWrapper>
+                  lumberjackcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor14" />
+                <TextWrapper>
+                  lumberjackcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor15" />
+                <TextWrapper>
+                  lumberjackcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor16" />
+                <TextWrapper>
+                  lumberjackcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor2" />
+                <TextWrapper>
+                  lumberjackcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor3" />
+                <TextWrapper>
+                  lumberjackcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor4" />
+                <TextWrapper>
+                  lumberjackcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor5" />
+                <TextWrapper>
+                  lumberjackcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor6" />
+                <TextWrapper>
+                  lumberjackcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor7" />
+                <TextWrapper>
+                  lumberjackcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor8" />
+                <TextWrapper>
+                  lumberjackcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackcolor9" />
+                <TextWrapper>
+                  lumberjackcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('lumberjack-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => lumberjack-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="lumberjackgrey1" />
+                <TextWrapper>
+                  lumberjackgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey10" />
+                <TextWrapper>
+                  lumberjackgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey11" />
+                <TextWrapper>
+                  lumberjackgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey12" />
+                <TextWrapper>
+                  lumberjackgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey13" />
+                <TextWrapper>
+                  lumberjackgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey14" />
+                <TextWrapper>
+                  lumberjackgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey15" />
+                <TextWrapper>
+                  lumberjackgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey16" />
+                <TextWrapper>
+                  lumberjackgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey2" />
+                <TextWrapper>
+                  lumberjackgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey3" />
+                <TextWrapper>
+                  lumberjackgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey4" />
+                <TextWrapper>
+                  lumberjackgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey5" />
+                <TextWrapper>
+                  lumberjackgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey6" />
+                <TextWrapper>
+                  lumberjackgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey7" />
+                <TextWrapper>
+                  lumberjackgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey8" />
+                <TextWrapper>
+                  lumberjackgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="lumberjackgrey9" />
+                <TextWrapper>
+                  lumberjackgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('medical-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => medical-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="medicalgrey1" />
+                <TextWrapper>
+                  medicalgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey10" />
+                <TextWrapper>
+                  medicalgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey11" />
+                <TextWrapper>
+                  medicalgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey12" />
+                <TextWrapper>
+                  medicalgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey13" />
+                <TextWrapper>
+                  medicalgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey14" />
+                <TextWrapper>
+                  medicalgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey15" />
+                <TextWrapper>
+                  medicalgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey16" />
+                <TextWrapper>
+                  medicalgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey17" />
+                <TextWrapper>
+                  medicalgrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey18" />
+                <TextWrapper>
+                  medicalgrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey19" />
+                <TextWrapper>
+                  medicalgrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey2" />
+                <TextWrapper>
+                  medicalgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey20" />
+                <TextWrapper>
+                  medicalgrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey21" />
+                <TextWrapper>
+                  medicalgrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey22" />
+                <TextWrapper>
+                  medicalgrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey23" />
+                <TextWrapper>
+                  medicalgrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey24" />
+                <TextWrapper>
+                  medicalgrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey25" />
+                <TextWrapper>
+                  medicalgrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey26" />
+                <TextWrapper>
+                  medicalgrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey27" />
+                <TextWrapper>
+                  medicalgrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey28" />
+                <TextWrapper>
+                  medicalgrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey29" />
+                <TextWrapper>
+                  medicalgrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey3" />
+                <TextWrapper>
+                  medicalgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey30" />
+                <TextWrapper>
+                  medicalgrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey31" />
+                <TextWrapper>
+                  medicalgrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey32" />
+                <TextWrapper>
+                  medicalgrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey33" />
+                <TextWrapper>
+                  medicalgrey33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey34" />
+                <TextWrapper>
+                  medicalgrey34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey35" />
+                <TextWrapper>
+                  medicalgrey35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey4" />
+                <TextWrapper>
+                  medicalgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey5" />
+                <TextWrapper>
+                  medicalgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey6" />
+                <TextWrapper>
+                  medicalgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey7" />
+                <TextWrapper>
+                  medicalgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey8" />
+                <TextWrapper>
+                  medicalgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="medicalgrey9" />
+                <TextWrapper>
+                  medicalgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('misc-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => misc-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="miscgrey1" />
+                <TextWrapper>
+                  miscgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey10" />
+                <TextWrapper>
+                  miscgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey100" />
+                <TextWrapper>
+                  miscgrey100
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey101" />
+                <TextWrapper>
+                  miscgrey101
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey102" />
+                <TextWrapper>
+                  miscgrey102
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey103" />
+                <TextWrapper>
+                  miscgrey103
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey104" />
+                <TextWrapper>
+                  miscgrey104
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey105" />
+                <TextWrapper>
+                  miscgrey105
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey106" />
+                <TextWrapper>
+                  miscgrey106
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey107" />
+                <TextWrapper>
+                  miscgrey107
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey108" />
+                <TextWrapper>
+                  miscgrey108
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey11" />
+                <TextWrapper>
+                  miscgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey12" />
+                <TextWrapper>
+                  miscgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey13" />
+                <TextWrapper>
+                  miscgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey14" />
+                <TextWrapper>
+                  miscgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey15" />
+                <TextWrapper>
+                  miscgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey16" />
+                <TextWrapper>
+                  miscgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey17" />
+                <TextWrapper>
+                  miscgrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey18" />
+                <TextWrapper>
+                  miscgrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey19" />
+                <TextWrapper>
+                  miscgrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey2" />
+                <TextWrapper>
+                  miscgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey20" />
+                <TextWrapper>
+                  miscgrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey21" />
+                <TextWrapper>
+                  miscgrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey22" />
+                <TextWrapper>
+                  miscgrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey23" />
+                <TextWrapper>
+                  miscgrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey24" />
+                <TextWrapper>
+                  miscgrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey25" />
+                <TextWrapper>
+                  miscgrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey26" />
+                <TextWrapper>
+                  miscgrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey27" />
+                <TextWrapper>
+                  miscgrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey28" />
+                <TextWrapper>
+                  miscgrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey29" />
+                <TextWrapper>
+                  miscgrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey3" />
+                <TextWrapper>
+                  miscgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey30" />
+                <TextWrapper>
+                  miscgrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey31" />
+                <TextWrapper>
+                  miscgrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey32" />
+                <TextWrapper>
+                  miscgrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey33" />
+                <TextWrapper>
+                  miscgrey33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey34" />
+                <TextWrapper>
+                  miscgrey34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey35" />
+                <TextWrapper>
+                  miscgrey35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey36" />
+                <TextWrapper>
+                  miscgrey36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey37" />
+                <TextWrapper>
+                  miscgrey37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey38" />
+                <TextWrapper>
+                  miscgrey38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey39" />
+                <TextWrapper>
+                  miscgrey39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey4" />
+                <TextWrapper>
+                  miscgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey40" />
+                <TextWrapper>
+                  miscgrey40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey41" />
+                <TextWrapper>
+                  miscgrey41
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey42" />
+                <TextWrapper>
+                  miscgrey42
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey43" />
+                <TextWrapper>
+                  miscgrey43
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey44" />
+                <TextWrapper>
+                  miscgrey44
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey45" />
+                <TextWrapper>
+                  miscgrey45
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey46" />
+                <TextWrapper>
+                  miscgrey46
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey47" />
+                <TextWrapper>
+                  miscgrey47
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey48" />
+                <TextWrapper>
+                  miscgrey48
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey49" />
+                <TextWrapper>
+                  miscgrey49
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey5" />
+                <TextWrapper>
+                  miscgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey50" />
+                <TextWrapper>
+                  miscgrey50
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey51" />
+                <TextWrapper>
+                  miscgrey51
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey52" />
+                <TextWrapper>
+                  miscgrey52
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey53" />
+                <TextWrapper>
+                  miscgrey53
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey54" />
+                <TextWrapper>
+                  miscgrey54
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey55" />
+                <TextWrapper>
+                  miscgrey55
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey56" />
+                <TextWrapper>
+                  miscgrey56
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey57" />
+                <TextWrapper>
+                  miscgrey57
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey58" />
+                <TextWrapper>
+                  miscgrey58
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey59" />
+                <TextWrapper>
+                  miscgrey59
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey6" />
+                <TextWrapper>
+                  miscgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey60" />
+                <TextWrapper>
+                  miscgrey60
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey61" />
+                <TextWrapper>
+                  miscgrey61
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey62" />
+                <TextWrapper>
+                  miscgrey62
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey63" />
+                <TextWrapper>
+                  miscgrey63
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey64" />
+                <TextWrapper>
+                  miscgrey64
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey65" />
+                <TextWrapper>
+                  miscgrey65
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey66" />
+                <TextWrapper>
+                  miscgrey66
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey67" />
+                <TextWrapper>
+                  miscgrey67
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey68" />
+                <TextWrapper>
+                  miscgrey68
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey69" />
+                <TextWrapper>
+                  miscgrey69
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey7" />
+                <TextWrapper>
+                  miscgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey70" />
+                <TextWrapper>
+                  miscgrey70
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey71" />
+                <TextWrapper>
+                  miscgrey71
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey72" />
+                <TextWrapper>
+                  miscgrey72
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey73" />
+                <TextWrapper>
+                  miscgrey73
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey74" />
+                <TextWrapper>
+                  miscgrey74
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey75" />
+                <TextWrapper>
+                  miscgrey75
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey76" />
+                <TextWrapper>
+                  miscgrey76
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey77" />
+                <TextWrapper>
+                  miscgrey77
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey78" />
+                <TextWrapper>
+                  miscgrey78
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey79" />
+                <TextWrapper>
+                  miscgrey79
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey8" />
+                <TextWrapper>
+                  miscgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey80" />
+                <TextWrapper>
+                  miscgrey80
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey81" />
+                <TextWrapper>
+                  miscgrey81
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey82" />
+                <TextWrapper>
+                  miscgrey82
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey83" />
+                <TextWrapper>
+                  miscgrey83
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey84" />
+                <TextWrapper>
+                  miscgrey84
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey85" />
+                <TextWrapper>
+                  miscgrey85
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey86" />
+                <TextWrapper>
+                  miscgrey86
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey87" />
+                <TextWrapper>
+                  miscgrey87
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey88" />
+                <TextWrapper>
+                  miscgrey88
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey89" />
+                <TextWrapper>
+                  miscgrey89
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey9" />
+                <TextWrapper>
+                  miscgrey9
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey90" />
+                <TextWrapper>
+                  miscgrey90
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey91" />
+                <TextWrapper>
+                  miscgrey91
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey92" />
+                <TextWrapper>
+                  miscgrey92
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey93" />
+                <TextWrapper>
+                  miscgrey93
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey94" />
+                <TextWrapper>
+                  miscgrey94
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey95" />
+                <TextWrapper>
+                  miscgrey95
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey96" />
+                <TextWrapper>
+                  miscgrey96
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey97" />
+                <TextWrapper>
+                  miscgrey97
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey98" />
+                <TextWrapper>
+                  miscgrey98
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="miscgrey99" />
+                <TextWrapper>
+                  miscgrey99
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('mobile-ui-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => mobile-ui-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="mobileuigrey1" />
+                <TextWrapper>
+                  mobileuigrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey10" />
+                <TextWrapper>
+                  mobileuigrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey11" />
+                <TextWrapper>
+                  mobileuigrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey12" />
+                <TextWrapper>
+                  mobileuigrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey13" />
+                <TextWrapper>
+                  mobileuigrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey14" />
+                <TextWrapper>
+                  mobileuigrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey15" />
+                <TextWrapper>
+                  mobileuigrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey16" />
+                <TextWrapper>
+                  mobileuigrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey17" />
+                <TextWrapper>
+                  mobileuigrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey18" />
+                <TextWrapper>
+                  mobileuigrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey19" />
+                <TextWrapper>
+                  mobileuigrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey2" />
+                <TextWrapper>
+                  mobileuigrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey20" />
+                <TextWrapper>
+                  mobileuigrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey21" />
+                <TextWrapper>
+                  mobileuigrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey22" />
+                <TextWrapper>
+                  mobileuigrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey23" />
+                <TextWrapper>
+                  mobileuigrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey24" />
+                <TextWrapper>
+                  mobileuigrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey25" />
+                <TextWrapper>
+                  mobileuigrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey26" />
+                <TextWrapper>
+                  mobileuigrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey27" />
+                <TextWrapper>
+                  mobileuigrey27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey28" />
+                <TextWrapper>
+                  mobileuigrey28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey29" />
+                <TextWrapper>
+                  mobileuigrey29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey3" />
+                <TextWrapper>
+                  mobileuigrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey30" />
+                <TextWrapper>
+                  mobileuigrey30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey31" />
+                <TextWrapper>
+                  mobileuigrey31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey32" />
+                <TextWrapper>
+                  mobileuigrey32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey4" />
+                <TextWrapper>
+                  mobileuigrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey5" />
+                <TextWrapper>
+                  mobileuigrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey6" />
+                <TextWrapper>
+                  mobileuigrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey7" />
+                <TextWrapper>
+                  mobileuigrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey8" />
+                <TextWrapper>
+                  mobileuigrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mobileuigrey9" />
+                <TextWrapper>
+                  mobileuigrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('music-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => music-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="musiccolor1" />
+                <TextWrapper>
+                  musiccolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor10" />
+                <TextWrapper>
+                  musiccolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor11" />
+                <TextWrapper>
+                  musiccolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor12" />
+                <TextWrapper>
+                  musiccolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor13" />
+                <TextWrapper>
+                  musiccolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor14" />
+                <TextWrapper>
+                  musiccolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor15" />
+                <TextWrapper>
+                  musiccolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor16" />
+                <TextWrapper>
+                  musiccolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor2" />
+                <TextWrapper>
+                  musiccolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor3" />
+                <TextWrapper>
+                  musiccolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor4" />
+                <TextWrapper>
+                  musiccolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor5" />
+                <TextWrapper>
+                  musiccolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor6" />
+                <TextWrapper>
+                  musiccolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor7" />
+                <TextWrapper>
+                  musiccolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor8" />
+                <TextWrapper>
+                  musiccolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musiccolor9" />
+                <TextWrapper>
+                  musiccolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('music-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => music-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="musicgrey1" />
+                <TextWrapper>
+                  musicgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey10" />
+                <TextWrapper>
+                  musicgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey11" />
+                <TextWrapper>
+                  musicgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey12" />
+                <TextWrapper>
+                  musicgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey13" />
+                <TextWrapper>
+                  musicgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey14" />
+                <TextWrapper>
+                  musicgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey15" />
+                <TextWrapper>
+                  musicgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey16" />
+                <TextWrapper>
+                  musicgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey2" />
+                <TextWrapper>
+                  musicgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey3" />
+                <TextWrapper>
+                  musicgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey4" />
+                <TextWrapper>
+                  musicgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey5" />
+                <TextWrapper>
+                  musicgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey6" />
+                <TextWrapper>
+                  musicgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey7" />
+                <TextWrapper>
+                  musicgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey8" />
+                <TextWrapper>
+                  musicgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="musicgrey9" />
+                <TextWrapper>
+                  musicgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('office-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => office-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="officecolor1" />
+                <TextWrapper>
+                  officecolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor10" />
+                <TextWrapper>
+                  officecolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor11" />
+                <TextWrapper>
+                  officecolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor12" />
+                <TextWrapper>
+                  officecolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor13" />
+                <TextWrapper>
+                  officecolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor14" />
+                <TextWrapper>
+                  officecolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor15" />
+                <TextWrapper>
+                  officecolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor16" />
+                <TextWrapper>
+                  officecolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor17" />
+                <TextWrapper>
+                  officecolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor18" />
+                <TextWrapper>
+                  officecolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor19" />
+                <TextWrapper>
+                  officecolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor2" />
+                <TextWrapper>
+                  officecolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor20" />
+                <TextWrapper>
+                  officecolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor21" />
+                <TextWrapper>
+                  officecolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor22" />
+                <TextWrapper>
+                  officecolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor23" />
+                <TextWrapper>
+                  officecolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor24" />
+                <TextWrapper>
+                  officecolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor25" />
+                <TextWrapper>
+                  officecolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor26" />
+                <TextWrapper>
+                  officecolor26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor27" />
+                <TextWrapper>
+                  officecolor27
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor28" />
+                <TextWrapper>
+                  officecolor28
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor29" />
+                <TextWrapper>
+                  officecolor29
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor3" />
+                <TextWrapper>
+                  officecolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor30" />
+                <TextWrapper>
+                  officecolor30
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor31" />
+                <TextWrapper>
+                  officecolor31
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor32" />
+                <TextWrapper>
+                  officecolor32
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor33" />
+                <TextWrapper>
+                  officecolor33
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor34" />
+                <TextWrapper>
+                  officecolor34
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor35" />
+                <TextWrapper>
+                  officecolor35
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor36" />
+                <TextWrapper>
+                  officecolor36
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor37" />
+                <TextWrapper>
+                  officecolor37
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor38" />
+                <TextWrapper>
+                  officecolor38
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor39" />
+                <TextWrapper>
+                  officecolor39
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor4" />
+                <TextWrapper>
+                  officecolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor40" />
+                <TextWrapper>
+                  officecolor40
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor5" />
+                <TextWrapper>
+                  officecolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor6" />
+                <TextWrapper>
+                  officecolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor7" />
+                <TextWrapper>
+                  officecolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor8" />
+                <TextWrapper>
+                  officecolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officecolor9" />
+                <TextWrapper>
+                  officecolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('office-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => office-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="officegrey1" />
+                <TextWrapper>
+                  officegrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey10" />
+                <TextWrapper>
+                  officegrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey11" />
+                <TextWrapper>
+                  officegrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey12" />
+                <TextWrapper>
+                  officegrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey13" />
+                <TextWrapper>
+                  officegrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey14" />
+                <TextWrapper>
+                  officegrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey15" />
+                <TextWrapper>
+                  officegrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey16" />
+                <TextWrapper>
+                  officegrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey17" />
+                <TextWrapper>
+                  officegrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey18" />
+                <TextWrapper>
+                  officegrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey19" />
+                <TextWrapper>
+                  officegrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey2" />
+                <TextWrapper>
+                  officegrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey20" />
+                <TextWrapper>
+                  officegrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey3" />
+                <TextWrapper>
+                  officegrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey4" />
+                <TextWrapper>
+                  officegrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey5" />
+                <TextWrapper>
+                  officegrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey6" />
+                <TextWrapper>
+                  officegrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey7" />
+                <TextWrapper>
+                  officegrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey8" />
+                <TextWrapper>
+                  officegrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="officegrey9" />
+                <TextWrapper>
+                  officegrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('openmoji-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => openmoji-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('openmoji-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => openmoji-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('security-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => security-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="securitycolor1" />
+                <TextWrapper>
+                  securitycolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor10" />
+                <TextWrapper>
+                  securitycolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor11" />
+                <TextWrapper>
+                  securitycolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor12" />
+                <TextWrapper>
+                  securitycolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor13" />
+                <TextWrapper>
+                  securitycolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor14" />
+                <TextWrapper>
+                  securitycolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor15" />
+                <TextWrapper>
+                  securitycolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor16" />
+                <TextWrapper>
+                  securitycolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor2" />
+                <TextWrapper>
+                  securitycolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor3" />
+                <TextWrapper>
+                  securitycolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor4" />
+                <TextWrapper>
+                  securitycolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor5" />
+                <TextWrapper>
+                  securitycolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor6" />
+                <TextWrapper>
+                  securitycolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor7" />
+                <TextWrapper>
+                  securitycolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor8" />
+                <TextWrapper>
+                  securitycolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitycolor9" />
+                <TextWrapper>
+                  securitycolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('security-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => security-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="securitygrey1" />
+                <TextWrapper>
+                  securitygrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey10" />
+                <TextWrapper>
+                  securitygrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey11" />
+                <TextWrapper>
+                  securitygrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey12" />
+                <TextWrapper>
+                  securitygrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey13" />
+                <TextWrapper>
+                  securitygrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey14" />
+                <TextWrapper>
+                  securitygrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey15" />
+                <TextWrapper>
+                  securitygrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey16" />
+                <TextWrapper>
+                  securitygrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey2" />
+                <TextWrapper>
+                  securitygrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey3" />
+                <TextWrapper>
+                  securitygrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey4" />
+                <TextWrapper>
+                  securitygrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey5" />
+                <TextWrapper>
+                  securitygrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey6" />
+                <TextWrapper>
+                  securitygrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey7" />
+                <TextWrapper>
+                  securitygrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey8" />
+                <TextWrapper>
+                  securitygrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="securitygrey9" />
+                <TextWrapper>
+                  securitygrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('shopping-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => shopping-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="shoppingcolor1" />
+                <TextWrapper>
+                  shoppingcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor10" />
+                <TextWrapper>
+                  shoppingcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor11" />
+                <TextWrapper>
+                  shoppingcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor12" />
+                <TextWrapper>
+                  shoppingcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor13" />
+                <TextWrapper>
+                  shoppingcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor14" />
+                <TextWrapper>
+                  shoppingcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor15" />
+                <TextWrapper>
+                  shoppingcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor16" />
+                <TextWrapper>
+                  shoppingcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor2" />
+                <TextWrapper>
+                  shoppingcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor3" />
+                <TextWrapper>
+                  shoppingcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor4" />
+                <TextWrapper>
+                  shoppingcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor5" />
+                <TextWrapper>
+                  shoppingcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor6" />
+                <TextWrapper>
+                  shoppingcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor7" />
+                <TextWrapper>
+                  shoppingcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor8" />
+                <TextWrapper>
+                  shoppingcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppingcolor9" />
+                <TextWrapper>
+                  shoppingcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('shopping-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => shopping-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="shoppinggrey1" />
+                <TextWrapper>
+                  shoppinggrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey10" />
+                <TextWrapper>
+                  shoppinggrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey11" />
+                <TextWrapper>
+                  shoppinggrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey12" />
+                <TextWrapper>
+                  shoppinggrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey13" />
+                <TextWrapper>
+                  shoppinggrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey14" />
+                <TextWrapper>
+                  shoppinggrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey15" />
+                <TextWrapper>
+                  shoppinggrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey16" />
+                <TextWrapper>
+                  shoppinggrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey2" />
+                <TextWrapper>
+                  shoppinggrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey3" />
+                <TextWrapper>
+                  shoppinggrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey4" />
+                <TextWrapper>
+                  shoppinggrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey5" />
+                <TextWrapper>
+                  shoppinggrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey6" />
+                <TextWrapper>
+                  shoppinggrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey7" />
+                <TextWrapper>
+                  shoppinggrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey8" />
+                <TextWrapper>
+                  shoppinggrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="shoppinggrey9" />
+                <TextWrapper>
+                  shoppinggrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('skull-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => skull-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="skullcolor1" />
+                <TextWrapper>
+                  skullcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor10" />
+                <TextWrapper>
+                  skullcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor11" />
+                <TextWrapper>
+                  skullcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor12" />
+                <TextWrapper>
+                  skullcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor13" />
+                <TextWrapper>
+                  skullcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor14" />
+                <TextWrapper>
+                  skullcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor15" />
+                <TextWrapper>
+                  skullcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor16" />
+                <TextWrapper>
+                  skullcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor2" />
+                <TextWrapper>
+                  skullcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor3" />
+                <TextWrapper>
+                  skullcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor4" />
+                <TextWrapper>
+                  skullcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor5" />
+                <TextWrapper>
+                  skullcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor6" />
+                <TextWrapper>
+                  skullcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor7" />
+                <TextWrapper>
+                  skullcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor8" />
+                <TextWrapper>
+                  skullcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullcolor9" />
+                <TextWrapper>
+                  skullcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('skull-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => skull-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="skullgrey1" />
+                <TextWrapper>
+                  skullgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey10" />
+                <TextWrapper>
+                  skullgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey11" />
+                <TextWrapper>
+                  skullgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey12" />
+                <TextWrapper>
+                  skullgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey13" />
+                <TextWrapper>
+                  skullgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey14" />
+                <TextWrapper>
+                  skullgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey15" />
+                <TextWrapper>
+                  skullgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey16" />
+                <TextWrapper>
+                  skullgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey2" />
+                <TextWrapper>
+                  skullgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey3" />
+                <TextWrapper>
+                  skullgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey4" />
+                <TextWrapper>
+                  skullgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey5" />
+                <TextWrapper>
+                  skullgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey6" />
+                <TextWrapper>
+                  skullgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey7" />
+                <TextWrapper>
+                  skullgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey8" />
+                <TextWrapper>
+                  skullgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="skullgrey9" />
+                <TextWrapper>
+                  skullgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('space-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => space-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="spacecolor1" />
+                <TextWrapper>
+                  spacecolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor10" />
+                <TextWrapper>
+                  spacecolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor11" />
+                <TextWrapper>
+                  spacecolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor12" />
+                <TextWrapper>
+                  spacecolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor13" />
+                <TextWrapper>
+                  spacecolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor14" />
+                <TextWrapper>
+                  spacecolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor15" />
+                <TextWrapper>
+                  spacecolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor16" />
+                <TextWrapper>
+                  spacecolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor2" />
+                <TextWrapper>
+                  spacecolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor3" />
+                <TextWrapper>
+                  spacecolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor4" />
+                <TextWrapper>
+                  spacecolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor5" />
+                <TextWrapper>
+                  spacecolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor6" />
+                <TextWrapper>
+                  spacecolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor7" />
+                <TextWrapper>
+                  spacecolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor8" />
+                <TextWrapper>
+                  spacecolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacecolor9" />
+                <TextWrapper>
+                  spacecolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('space-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => space-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="spacegrey1" />
+                <TextWrapper>
+                  spacegrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey10" />
+                <TextWrapper>
+                  spacegrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey11" />
+                <TextWrapper>
+                  spacegrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey12" />
+                <TextWrapper>
+                  spacegrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey13" />
+                <TextWrapper>
+                  spacegrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey14" />
+                <TextWrapper>
+                  spacegrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey15" />
+                <TextWrapper>
+                  spacegrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey16" />
+                <TextWrapper>
+                  spacegrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey2" />
+                <TextWrapper>
+                  spacegrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey3" />
+                <TextWrapper>
+                  spacegrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey4" />
+                <TextWrapper>
+                  spacegrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey5" />
+                <TextWrapper>
+                  spacegrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey6" />
+                <TextWrapper>
+                  spacegrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey7" />
+                <TextWrapper>
+                  spacegrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey8" />
+                <TextWrapper>
+                  spacegrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="spacegrey9" />
+                <TextWrapper>
+                  spacegrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('spring-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => spring-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="springcolor1" />
+                <TextWrapper>
+                  springcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor10" />
+                <TextWrapper>
+                  springcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor11" />
+                <TextWrapper>
+                  springcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor12" />
+                <TextWrapper>
+                  springcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor13" />
+                <TextWrapper>
+                  springcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor14" />
+                <TextWrapper>
+                  springcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor15" />
+                <TextWrapper>
+                  springcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor16" />
+                <TextWrapper>
+                  springcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor2" />
+                <TextWrapper>
+                  springcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor3" />
+                <TextWrapper>
+                  springcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor4" />
+                <TextWrapper>
+                  springcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor5" />
+                <TextWrapper>
+                  springcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor6" />
+                <TextWrapper>
+                  springcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor7" />
+                <TextWrapper>
+                  springcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor8" />
+                <TextWrapper>
+                  springcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springcolor9" />
+                <TextWrapper>
+                  springcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('spring-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => spring-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="springgrey1" />
+                <TextWrapper>
+                  springgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey10" />
+                <TextWrapper>
+                  springgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey11" />
+                <TextWrapper>
+                  springgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey12" />
+                <TextWrapper>
+                  springgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey13" />
+                <TextWrapper>
+                  springgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey14" />
+                <TextWrapper>
+                  springgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey15" />
+                <TextWrapper>
+                  springgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey16" />
+                <TextWrapper>
+                  springgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey2" />
+                <TextWrapper>
+                  springgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey3" />
+                <TextWrapper>
+                  springgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey4" />
+                <TextWrapper>
+                  springgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey5" />
+                <TextWrapper>
+                  springgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey6" />
+                <TextWrapper>
+                  springgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey7" />
+                <TextWrapper>
+                  springgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey8" />
+                <TextWrapper>
+                  springgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="springgrey9" />
+                <TextWrapper>
+                  springgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('sweet-17-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => sweet-17-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="sweet17color1" />
+                <TextWrapper>
+                  sweet17color1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color10" />
+                <TextWrapper>
+                  sweet17color10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color11" />
+                <TextWrapper>
+                  sweet17color11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color12" />
+                <TextWrapper>
+                  sweet17color12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color13" />
+                <TextWrapper>
+                  sweet17color13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color14" />
+                <TextWrapper>
+                  sweet17color14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color15" />
+                <TextWrapper>
+                  sweet17color15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color16" />
+                <TextWrapper>
+                  sweet17color16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color17" />
+                <TextWrapper>
+                  sweet17color17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color18" />
+                <TextWrapper>
+                  sweet17color18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color19" />
+                <TextWrapper>
+                  sweet17color19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color2" />
+                <TextWrapper>
+                  sweet17color2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color20" />
+                <TextWrapper>
+                  sweet17color20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color21" />
+                <TextWrapper>
+                  sweet17color21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color22" />
+                <TextWrapper>
+                  sweet17color22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color23" />
+                <TextWrapper>
+                  sweet17color23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color24" />
+                <TextWrapper>
+                  sweet17color24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color25" />
+                <TextWrapper>
+                  sweet17color25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color3" />
+                <TextWrapper>
+                  sweet17color3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color4" />
+                <TextWrapper>
+                  sweet17color4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color5" />
+                <TextWrapper>
+                  sweet17color5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color6" />
+                <TextWrapper>
+                  sweet17color6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color7" />
+                <TextWrapper>
+                  sweet17color7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color8" />
+                <TextWrapper>
+                  sweet17color8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17color9" />
+                <TextWrapper>
+                  sweet17color9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('sweet-17-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => sweet-17-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="sweet17grey1" />
+                <TextWrapper>
+                  sweet17grey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey10" />
+                <TextWrapper>
+                  sweet17grey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey11" />
+                <TextWrapper>
+                  sweet17grey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey12" />
+                <TextWrapper>
+                  sweet17grey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey13" />
+                <TextWrapper>
+                  sweet17grey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey14" />
+                <TextWrapper>
+                  sweet17grey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey15" />
+                <TextWrapper>
+                  sweet17grey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey16" />
+                <TextWrapper>
+                  sweet17grey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey17" />
+                <TextWrapper>
+                  sweet17grey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey18" />
+                <TextWrapper>
+                  sweet17grey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey19" />
+                <TextWrapper>
+                  sweet17grey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey2" />
+                <TextWrapper>
+                  sweet17grey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey20" />
+                <TextWrapper>
+                  sweet17grey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey21" />
+                <TextWrapper>
+                  sweet17grey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey22" />
+                <TextWrapper>
+                  sweet17grey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey23" />
+                <TextWrapper>
+                  sweet17grey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey24" />
+                <TextWrapper>
+                  sweet17grey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey25" />
+                <TextWrapper>
+                  sweet17grey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey3" />
+                <TextWrapper>
+                  sweet17grey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey4" />
+                <TextWrapper>
+                  sweet17grey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey5" />
+                <TextWrapper>
+                  sweet17grey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey6" />
+                <TextWrapper>
+                  sweet17grey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey7" />
+                <TextWrapper>
+                  sweet17grey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey8" />
+                <TextWrapper>
+                  sweet17grey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="sweet17grey9" />
+                <TextWrapper>
+                  sweet17grey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('time-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => time-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="timecolor1" />
+                <TextWrapper>
+                  timecolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor10" />
+                <TextWrapper>
+                  timecolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor11" />
+                <TextWrapper>
+                  timecolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor12" />
+                <TextWrapper>
+                  timecolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor13" />
+                <TextWrapper>
+                  timecolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor14" />
+                <TextWrapper>
+                  timecolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor15" />
+                <TextWrapper>
+                  timecolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor16" />
+                <TextWrapper>
+                  timecolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor2" />
+                <TextWrapper>
+                  timecolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor3" />
+                <TextWrapper>
+                  timecolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor4" />
+                <TextWrapper>
+                  timecolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor5" />
+                <TextWrapper>
+                  timecolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor6" />
+                <TextWrapper>
+                  timecolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor7" />
+                <TextWrapper>
+                  timecolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor8" />
+                <TextWrapper>
+                  timecolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timecolor9" />
+                <TextWrapper>
+                  timecolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('time-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => time-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="timegrey1" />
+                <TextWrapper>
+                  timegrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey10" />
+                <TextWrapper>
+                  timegrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey11" />
+                <TextWrapper>
+                  timegrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey12" />
+                <TextWrapper>
+                  timegrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey13" />
+                <TextWrapper>
+                  timegrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey14" />
+                <TextWrapper>
+                  timegrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey15" />
+                <TextWrapper>
+                  timegrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey16" />
+                <TextWrapper>
+                  timegrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey2" />
+                <TextWrapper>
+                  timegrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey3" />
+                <TextWrapper>
+                  timegrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey4" />
+                <TextWrapper>
+                  timegrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey5" />
+                <TextWrapper>
+                  timegrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey6" />
+                <TextWrapper>
+                  timegrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey7" />
+                <TextWrapper>
+                  timegrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey8" />
+                <TextWrapper>
+                  timegrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="timegrey9" />
+                <TextWrapper>
+                  timegrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('travel-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => travel-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="travelcolor1" />
+                <TextWrapper>
+                  travelcolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor10" />
+                <TextWrapper>
+                  travelcolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor11" />
+                <TextWrapper>
+                  travelcolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor12" />
+                <TextWrapper>
+                  travelcolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor13" />
+                <TextWrapper>
+                  travelcolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor14" />
+                <TextWrapper>
+                  travelcolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor15" />
+                <TextWrapper>
+                  travelcolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor16" />
+                <TextWrapper>
+                  travelcolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor2" />
+                <TextWrapper>
+                  travelcolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor3" />
+                <TextWrapper>
+                  travelcolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor4" />
+                <TextWrapper>
+                  travelcolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor5" />
+                <TextWrapper>
+                  travelcolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor6" />
+                <TextWrapper>
+                  travelcolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor7" />
+                <TextWrapper>
+                  travelcolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor8" />
+                <TextWrapper>
+                  travelcolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelcolor9" />
+                <TextWrapper>
+                  travelcolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('travel-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => travel-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="travelgrey1" />
+                <TextWrapper>
+                  travelgrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey10" />
+                <TextWrapper>
+                  travelgrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey11" />
+                <TextWrapper>
+                  travelgrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey12" />
+                <TextWrapper>
+                  travelgrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey13" />
+                <TextWrapper>
+                  travelgrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey14" />
+                <TextWrapper>
+                  travelgrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey15" />
+                <TextWrapper>
+                  travelgrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey16" />
+                <TextWrapper>
+                  travelgrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey2" />
+                <TextWrapper>
+                  travelgrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey3" />
+                <TextWrapper>
+                  travelgrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey4" />
+                <TextWrapper>
+                  travelgrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey5" />
+                <TextWrapper>
+                  travelgrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey6" />
+                <TextWrapper>
+                  travelgrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey7" />
+                <TextWrapper>
+                  travelgrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey8" />
+                <TextWrapper>
+                  travelgrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="travelgrey9" />
+                <TextWrapper>
+                  travelgrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('valentine-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => valentine-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="valentinecolor1" />
+                <TextWrapper>
+                  valentinecolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor10" />
+                <TextWrapper>
+                  valentinecolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor11" />
+                <TextWrapper>
+                  valentinecolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor12" />
+                <TextWrapper>
+                  valentinecolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor13" />
+                <TextWrapper>
+                  valentinecolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor14" />
+                <TextWrapper>
+                  valentinecolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor15" />
+                <TextWrapper>
+                  valentinecolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor16" />
+                <TextWrapper>
+                  valentinecolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor17" />
+                <TextWrapper>
+                  valentinecolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor18" />
+                <TextWrapper>
+                  valentinecolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor19" />
+                <TextWrapper>
+                  valentinecolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor2" />
+                <TextWrapper>
+                  valentinecolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor20" />
+                <TextWrapper>
+                  valentinecolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor21" />
+                <TextWrapper>
+                  valentinecolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor22" />
+                <TextWrapper>
+                  valentinecolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor23" />
+                <TextWrapper>
+                  valentinecolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor24" />
+                <TextWrapper>
+                  valentinecolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor25" />
+                <TextWrapper>
+                  valentinecolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor3" />
+                <TextWrapper>
+                  valentinecolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor4" />
+                <TextWrapper>
+                  valentinecolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor5" />
+                <TextWrapper>
+                  valentinecolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor6" />
+                <TextWrapper>
+                  valentinecolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor7" />
+                <TextWrapper>
+                  valentinecolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor8" />
+                <TextWrapper>
+                  valentinecolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinecolor9" />
+                <TextWrapper>
+                  valentinecolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('valentine-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => valentine-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="valentinegrey1" />
+                <TextWrapper>
+                  valentinegrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey10" />
+                <TextWrapper>
+                  valentinegrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey11" />
+                <TextWrapper>
+                  valentinegrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey12" />
+                <TextWrapper>
+                  valentinegrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey13" />
+                <TextWrapper>
+                  valentinegrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey14" />
+                <TextWrapper>
+                  valentinegrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey15" />
+                <TextWrapper>
+                  valentinegrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey16" />
+                <TextWrapper>
+                  valentinegrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey17" />
+                <TextWrapper>
+                  valentinegrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey18" />
+                <TextWrapper>
+                  valentinegrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey19" />
+                <TextWrapper>
+                  valentinegrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey2" />
+                <TextWrapper>
+                  valentinegrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey20" />
+                <TextWrapper>
+                  valentinegrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey21" />
+                <TextWrapper>
+                  valentinegrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey22" />
+                <TextWrapper>
+                  valentinegrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey23" />
+                <TextWrapper>
+                  valentinegrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey24" />
+                <TextWrapper>
+                  valentinegrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey25" />
+                <TextWrapper>
+                  valentinegrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey3" />
+                <TextWrapper>
+                  valentinegrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey4" />
+                <TextWrapper>
+                  valentinegrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey5" />
+                <TextWrapper>
+                  valentinegrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey6" />
+                <TextWrapper>
+                  valentinegrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey7" />
+                <TextWrapper>
+                  valentinegrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey8" />
+                <TextWrapper>
+                  valentinegrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="valentinegrey9" />
+                <TextWrapper>
+                  valentinegrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('virtual-reality-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => virtual-reality-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="virtualrealitycolor1" />
+                <TextWrapper>
+                  virtualrealitycolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor10" />
+                <TextWrapper>
+                  virtualrealitycolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor11" />
+                <TextWrapper>
+                  virtualrealitycolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor12" />
+                <TextWrapper>
+                  virtualrealitycolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor13" />
+                <TextWrapper>
+                  virtualrealitycolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor14" />
+                <TextWrapper>
+                  virtualrealitycolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor15" />
+                <TextWrapper>
+                  virtualrealitycolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor16" />
+                <TextWrapper>
+                  virtualrealitycolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor2" />
+                <TextWrapper>
+                  virtualrealitycolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor3" />
+                <TextWrapper>
+                  virtualrealitycolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor4" />
+                <TextWrapper>
+                  virtualrealitycolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor5" />
+                <TextWrapper>
+                  virtualrealitycolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor6" />
+                <TextWrapper>
+                  virtualrealitycolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor7" />
+                <TextWrapper>
+                  virtualrealitycolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor8" />
+                <TextWrapper>
+                  virtualrealitycolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitycolor9" />
+                <TextWrapper>
+                  virtualrealitycolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('virtual-reality-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => virtual-reality-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="virtualrealitygrey1" />
+                <TextWrapper>
+                  virtualrealitygrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey10" />
+                <TextWrapper>
+                  virtualrealitygrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey11" />
+                <TextWrapper>
+                  virtualrealitygrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey12" />
+                <TextWrapper>
+                  virtualrealitygrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey13" />
+                <TextWrapper>
+                  virtualrealitygrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey14" />
+                <TextWrapper>
+                  virtualrealitygrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey15" />
+                <TextWrapper>
+                  virtualrealitygrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey16" />
+                <TextWrapper>
+                  virtualrealitygrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey2" />
+                <TextWrapper>
+                  virtualrealitygrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey3" />
+                <TextWrapper>
+                  virtualrealitygrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey4" />
+                <TextWrapper>
+                  virtualrealitygrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey5" />
+                <TextWrapper>
+                  virtualrealitygrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey6" />
+                <TextWrapper>
+                  virtualrealitygrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey7" />
+                <TextWrapper>
+                  virtualrealitygrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey8" />
+                <TextWrapper>
+                  virtualrealitygrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="virtualrealitygrey9" />
+                <TextWrapper>
+                  virtualrealitygrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('zoo-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => zoo-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="zoocolor1" />
+                <TextWrapper>
+                  zoocolor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor10" />
+                <TextWrapper>
+                  zoocolor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor11" />
+                <TextWrapper>
+                  zoocolor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor12" />
+                <TextWrapper>
+                  zoocolor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor13" />
+                <TextWrapper>
+                  zoocolor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor14" />
+                <TextWrapper>
+                  zoocolor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor15" />
+                <TextWrapper>
+                  zoocolor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor16" />
+                <TextWrapper>
+                  zoocolor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor17" />
+                <TextWrapper>
+                  zoocolor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor18" />
+                <TextWrapper>
+                  zoocolor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor19" />
+                <TextWrapper>
+                  zoocolor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor2" />
+                <TextWrapper>
+                  zoocolor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor20" />
+                <TextWrapper>
+                  zoocolor20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor21" />
+                <TextWrapper>
+                  zoocolor21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor22" />
+                <TextWrapper>
+                  zoocolor22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor23" />
+                <TextWrapper>
+                  zoocolor23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor24" />
+                <TextWrapper>
+                  zoocolor24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor25" />
+                <TextWrapper>
+                  zoocolor25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor3" />
+                <TextWrapper>
+                  zoocolor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor4" />
+                <TextWrapper>
+                  zoocolor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor5" />
+                <TextWrapper>
+                  zoocolor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor6" />
+                <TextWrapper>
+                  zoocolor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor7" />
+                <TextWrapper>
+                  zoocolor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor8" />
+                <TextWrapper>
+                  zoocolor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoocolor9" />
+                <TextWrapper>
+                  zoocolor9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
+.add('zoo-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => zoo-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="zoogrey1" />
+                <TextWrapper>
+                  zoogrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey10" />
+                <TextWrapper>
+                  zoogrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey11" />
+                <TextWrapper>
+                  zoogrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey12" />
+                <TextWrapper>
+                  zoogrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey13" />
+                <TextWrapper>
+                  zoogrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey14" />
+                <TextWrapper>
+                  zoogrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey15" />
+                <TextWrapper>
+                  zoogrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey16" />
+                <TextWrapper>
+                  zoogrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey17" />
+                <TextWrapper>
+                  zoogrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey18" />
+                <TextWrapper>
+                  zoogrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey19" />
+                <TextWrapper>
+                  zoogrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey2" />
+                <TextWrapper>
+                  zoogrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey20" />
+                <TextWrapper>
+                  zoogrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey21" />
+                <TextWrapper>
+                  zoogrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey22" />
+                <TextWrapper>
+                  zoogrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey23" />
+                <TextWrapper>
+                  zoogrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey24" />
+                <TextWrapper>
+                  zoogrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey25" />
+                <TextWrapper>
+                  zoogrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey3" />
+                <TextWrapper>
+                  zoogrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey4" />
+                <TextWrapper>
+                  zoogrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey5" />
+                <TextWrapper>
+                  zoogrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey6" />
+                <TextWrapper>
+                  zoogrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey7" />
+                <TextWrapper>
+                  zoogrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey8" />
+                <TextWrapper>
+                  zoogrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="zoogrey9" />
+                <TextWrapper>
+                  zoogrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
