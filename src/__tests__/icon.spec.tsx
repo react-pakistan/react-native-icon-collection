@@ -5,7 +5,7 @@ import { Icon } from '../icon';
 describe('Testing Icon component', () => {
   it('matches Icon snapshot,', () => {
     const wrapper = renderer.create(
-      <Icon icon="blockchaincolor1" />,
+      <Icon icon="BlockchainColor1" />,
     );
     expect(wrapper.toJSON()).toMatchSnapshot();
   });
