@@ -1,6 +1,6 @@
 {
   "name": "@taimoormk/react-native-icon-collection",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Native Icons Collection built upon React Native StoryBook",
   "module": "index.js",
   "main": "index.js",
