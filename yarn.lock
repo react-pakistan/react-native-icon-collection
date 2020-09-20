@@ -2962,10 +2962,10 @@
     eslint-plugin-react-hooks "^4.1.2"
     typescript "^4.0.2"
 
-"@taimoormk/react-commons-collection@^2.0.1":
-  version "2.0.1"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/2.0.1/5b025f2ef3497d43d25e9fafe9007b0b441623b193a06034c695e43eadf27507#9e3121e171e7fd4edd302d436281deaceab9b680"
-  integrity sha512-OjNJhvecn976Rs37nzjTtGqIPruiJYe5p8YkdxU3cDkMaiPdWNC1JAWXe9nBmG/cJ82iZhZXA49I1ZWycH8M9Q==
+"@taimoormk/react-commons-collection@^2.1.0":
+  version "2.1.0"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/2.1.0/ee518bbdf20dd4b187194952c6d31567590dd210a4b5eff7aa0c3a18e793e6c0#ce529625ce614ee738ace6bab0a8640428724706"
+  integrity sha512-YHHtMe0/pfIovasWah+1uRgDR/sEYOtREHe3QRILYUZSCry5m5LdCNSy4khzuINa9Wac4tc1IFmYwlCCFZpPTA==
   dependencies:
     react-share "^4.2.1"
     styled-components "^5.2.0"
@@ -3097,10 +3097,18 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@26.x", "@types/jest@^26.0.13":
+"@types/jest@26.x":
   version "26.0.13"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.13.tgz#5a7b9d5312f5dd521a38329c38ee9d3802a0b85e"
   integrity sha512-sCzjKow4z9LILc6DhBvn5AkIfmQzDZkgtVVKmGwVrs5tuid38ws281D4l+7x1kP487+FlKDh5kfMZ8WSPAdmdA==
+  dependencies:
+    jest-diff "^25.2.1"
+    pretty-format "^25.2.1"
+
+"@types/jest@^26.0.14":
+  version "26.0.14"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.14.tgz#078695f8f65cb55c5a98450d65083b2b73e5a3f3"
+  integrity sha512-Hz5q8Vu0D288x3iWXePSn53W7hAjP0H7EQ6QvDO9c7t46mR0lNOLlfuwQ+JkVxuhygHzlzPX+0jKdA3ZgSh+Vg==
   dependencies:
     jest-diff "^25.2.1"
     pretty-format "^25.2.1"
@@ -3187,10 +3195,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@^0.63.18":
-  version "0.63.18"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.63.18.tgz#748d82c6453befe97285393ad9530472d8de56af"
-  integrity sha512-WwEWqmHiqFn61M1FZR/+frj+E8e2o8i5cPqu9mjbjtZS/gBfCKVESF2ai/KAlaQECkkWkx/nMJeCc5eHMmLQgw==
+"@types/react-native@^0.63.19":
+  version "0.63.19"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.63.19.tgz#5302f3fecd47ea83626b0bafacbb0d9f2892a242"
+  integrity sha512-iUcejWDCw5gBIezDtSWBpkbB3piIMZau7FAfQqhObCJpCm/7QgVof/aKIP0fCkADYz/qGmIZATMX8kjAS7TVbw==
   dependencies:
     "@types/react" "*"
 
@@ -9584,10 +9592,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^10.3.0:
-  version "10.3.0"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-10.3.0.tgz#388c3d440590c45c339e7163f669ea69ae90b1e0"
-  integrity sha512-an3VgjHqmJk0TORB/sdQl0CTkRg4E5ybYCXTTCSJ5h9jFwZbcgKIx5oVma5e7wp/uKt17s1QYFmYqT9MGVosGw==
+lint-staged@^10.4.0:
+  version "10.4.0"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-10.4.0.tgz#d18628f737328e0bbbf87d183f4020930e9a984e"
+  integrity sha512-uaiX4U5yERUSiIEQc329vhCTDDwUcSvKdRLsNomkYLRzijk3v8V9GWm2Nz0RMVB87VcuzLvtgy6OsjoH++QHIg==
   dependencies:
     chalk "^4.1.0"
     cli-truncate "^2.1.0"
@@ -12155,6 +12163,11 @@ react-native-device-info@^6.0.2:
   resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-6.0.2.tgz#03317893bd6336b9ed2fe7a78d424737a441553f"
   integrity sha512-Kx6ozWKkiPPvRhZDIL5jQ8zEZLlRT8hTovTaV+NgDc0tM+slBEnuEIgn0FXArHudO0qq2r+VDs4pUwMf6csGPg==
 
+react-native-device-info@^6.0.4:
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-6.0.4.tgz#88ef9f19715186d0b016b37e738d08b990fcf9e3"
+  integrity sha512-nLwQ2yPmR0Z/msVP7vD0dZe1qzBMpzYpyY5q4/t31pPHT08bu0D5MYVr0K+MnPZMISu1UOUZpVARvfVMLZBMJg==
+
 react-native-known-styling-properties@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/react-native-known-styling-properties/-/react-native-known-styling-properties-1.0.5.tgz#dd99690d579c5136541e1df836e75088af6e7356"
@@ -14379,6 +14392,11 @@ typescript@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.2.tgz#7ea7c88777c723c681e33bf7988be5d008d05ac2"
   integrity sha512-e4ERvRV2wb+rRZ/IQeb3jm2VxBsirQLpQhdxplZ2MEzGvDkkMmPglecnNDfSUBivMjP93vRbngYYDQqQ/78bcQ==
+
+typescript@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.3.tgz#153bbd468ef07725c1df9c77e8b453f8d36abba5"
+  integrity sha512-tEu6DGxGgRJPb/mVPIZ48e69xCn2yRmCgYmDugAVwmJ6o+0u1RI18eO7E7WBTLYLaEVVOhwQmcdhQHweux/WPg==
 
 ua-parser-js@^0.7.18:
   version "0.7.21"
