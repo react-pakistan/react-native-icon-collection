@@ -10,10 +10,10 @@
     "build": "yarn clean && yarn build:ts && cp package.json lib && cp README.md lib",
     "build:ts": "tsc --project tsconfig.build.json",
     "clean": "yarn rimraf ./lib",
-    "generate-icons": "scripts/generate-icons.sh",
+    "generate:icons": "scripts/generate-icons.sh",
     "ios": "yarn clean && yarn prestorybook && react-native run-ios",
     "lint": "yarn lint:ts && yarn lint:css",
-    "lint-staged": "lint-staged",
+    "lint:staged": "lint-staged",
     "lint:css": "stylelint 'src/**/*.ts' --config stylelint.config.js",
     "lint:ts": "eslint --config eslint.config.js",
     "pod:install": "cd ./ios && pod install && cd ..",
@@ -89,7 +89,7 @@
   "homepage": "https://github.com/Taimoormk/react-native-icon-collection#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "yarn lint-staged",
+      "pre-commit": "yarn lint:staged",
       "pre-push": "yarn test && yarn build"
     }
   },
