@@ -1,6 +1,6 @@
 {
-  "name": "@taimoormk/react-native-icon-collection",
-  "version": "1.0.4",
+  "name": "@react-pakistan/react-native-icon-collection",
+  "version": "2.0.0",
   "description": "React Native Icons Collection built upon React Native StoryBook",
   "module": "index.js",
   "main": "index.js",
@@ -80,14 +80,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taimoormk/react-native-icon-collection.git"
+    "url": "git+https://github.com/react-pakistan/react-native-icon-collection.git"
   },
   "author": "Taimoor Khan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Taimoormk/react-native-icon-collection/issues"
+    "url": "https://github.com/react-pakistan/react-native-icon-collection/issues"
   },
-  "homepage": "https://github.com/Taimoormk/react-native-icon-collection#readme",
+  "homepage": "https://github.com/react-pakistan/react-native-icon-collection#readme",
   "husky": {
     "hooks": {
       "pre-commit": "yarn lint:staged",
