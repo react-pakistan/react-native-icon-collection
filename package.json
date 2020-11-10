@@ -1,9 +1,9 @@
 {
   "name": "@react-pakistan/react-native-icon-collection",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "React Native Icons Collection built upon React Native StoryBook",
-  "module": "index.js",
-  "main": "index.js",
+  "module": "lib/index.js",
+  "main": "lib/index.js",
   "types": "index.d.tsx",
   "scripts": {
     "android": "yarn clean && yarn prestorybook && react-native run-android",
