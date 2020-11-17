@@ -1,12 +1,11 @@
-import React, { ReactElement } from 'react';
+import React, { ReactElement, memo } from 'react';
 import { SvgXml } from 'react-native-svg';
-import * as XML from '../xml';
 
-export const Icon = ({
+export const Icon = memo(({
   fill,
   icon,
 } : IIconProps) : ReactElement => {
-  const iconSvg = XML[icon]();
+  const iconSvg = require('../xml')[icon]();
 
   return (
     <SvgXml
@@ -16,7 +15,7 @@ export const Icon = ({
       xml={`${iconSvg}`}
     />
   );
-};
+});
 
 export interface IIconProps {
   fill? : string;
