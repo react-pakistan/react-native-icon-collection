@@ -35,7 +35,7 @@
     "@react-native-community/eslint-config": "^2.0.0",
     "@react-pakistan/eslint-config-shared": "^1.0.9",
     "@react-pakistan/react-native-commons-collection": "^2.0.1",
-    "@react-pakistan/util-react-native-functions": "^1.0.8",
+    "@react-pakistan/util-react-native-functions": "^1.0.9",
     "@storybook/addon-actions": "^6.0.28",
     "@storybook/addon-info": "^5.3.21",
     "@storybook/addon-knobs": "^6.0.28",
