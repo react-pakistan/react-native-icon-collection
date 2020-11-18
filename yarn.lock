@@ -1921,10 +1921,10 @@
     "@react-native-community/viewpager" "^4.2.0"
     styled-components "^5.2.1"
 
-"@react-pakistan/util-react-native-functions@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/util-react-native-functions/-/util-react-native-functions-1.0.8.tgz#0faee0f3a97163f03c06494edf7c5a158b63f320"
-  integrity sha512-fh1EhzSIx6WcvnEVYlZPt+V/qf0u2jrHByIE9g0L4lo75a8LWoo2aDuqqIgjkqzlOphPhRDQPIXoAixiR55KpQ==
+"@react-pakistan/util-react-native-functions@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/util-react-native-functions/-/util-react-native-functions-1.0.9.tgz#1c79baf739bff6e5f09fb85a9f2ec9047ef70f3e"
+  integrity sha512-czfIv8V8z9/Ej3PSy4AH5d6v67aKPMGXd6eJuS1dQhbHTJBd4seDGiFKDlHAF8E1L8qCx1XHnqG5eVEQPHu5iA==
   dependencies:
     "@microsoft/tsdoc" "^0.12.21"
 
