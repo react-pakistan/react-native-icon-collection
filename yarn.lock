@@ -1996,10 +1996,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/viewpager/-/viewpager-4.2.2.tgz#e05d618829c589284326896c806200af90ae0986"
   integrity sha512-XBAO/9gV0pb6VAqbaobdJp6slTgmf8TOAnIbERO1pKjIXoj2OrKYcma2VPB/02wzEzu7TE8jcbt3u6BT4fpXxA==
 
-"@react-pakistan/eslint-config-shared@^1.1.8":
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/eslint-config-shared/-/eslint-config-shared-1.1.8.tgz#d5e1fbb7beaf874652488a952eb41f296857fc2c"
-  integrity sha512-b0zuTXYKQb7jNx8oiL8b+8btoiPTJXq/EI1qclgb7J69Ys6/c8ShU22rmBAvsPuegISOY99VUH/ltWWth1483A==
+"@react-pakistan/eslint-config-shared@^1.1.9":
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/eslint-config-shared/-/eslint-config-shared-1.1.9.tgz#e36c64ca9f5f95eddcb8d2a01519ecc50fe9416a"
+  integrity sha512-NDbYgsougJkb8bxf0EFwYrmXVepDDtXmde0B/lfCeqPjIf8RmoLj4kXOroUiIF2llJez8Rj9V2cvRYhUXtA/pg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.11.0"
     "@typescript-eslint/parser" "^4.11.0"
@@ -2012,20 +2012,20 @@
     eslint-plugin-react-hooks "^4.2.0"
     typescript "^4.1.3"
 
-"@react-pakistan/react-native-commons-collection@^2.1.5":
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-native-commons-collection/-/react-native-commons-collection-2.1.6.tgz#fb43091976a2b3506d7a82fb1ba1fa86fd61db33"
-  integrity sha512-50VtcoUjulotPsIEqa3FPTTYvOG9r3JOCWE0uf11rjyYQXvCyKcfU0IEyG55Wojn9mw5FoGg6djojn3yvWId4A==
+"@react-pakistan/react-native-commons-collection@^2.1.8":
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-native-commons-collection/-/react-native-commons-collection-2.1.8.tgz#8f01eea8dc788704c78c3e8544616be5ed3a4726"
+  integrity sha512-KN9G4qZF7cd3mFQgxOlO3CLEXnFUizxK7aw1fD+pV/H3oQc4fM6vH2A1kbvzRyYxx9+LvzcRz1sMxgYmXapdZA==
   dependencies:
     "@react-native-community/segmented-control" "^2.2.2"
     "@react-native-community/slider" "^3.0.3"
     "@react-native-community/viewpager" "^4.2.2"
     styled-components "^5.2.1"
 
-"@react-pakistan/util-react-native-functions@^1.1.7":
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/util-react-native-functions/-/util-react-native-functions-1.1.7.tgz#5826f653f7f871ce9c49c7886e87e81513be5244"
-  integrity sha512-XqmJBzp5ouukNFKTgt1cDsGit+3TLX6ngmwihnVErx1gTpp5QbyXokyTKqdq3DAi6hgW/PDcAWb/TAKHUTE1BQ==
+"@react-pakistan/util-react-native-functions@^1.1.8":
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/util-react-native-functions/-/util-react-native-functions-1.1.8.tgz#54a00401a610413c78ff2c6dddfa395216b8d206"
+  integrity sha512-jELR+bT916xBjZ8F2bGRYWh9EObkY6zjtqDlJQPQ14gxlq7wxZWsl+fx4NoIoy++ISe6lHh9BYj5TPWSmUJRlw==
   dependencies:
     "@microsoft/tsdoc" "^0.12.24"
 
