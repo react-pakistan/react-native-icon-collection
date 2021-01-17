@@ -2012,20 +2012,34 @@
     eslint-plugin-react-hooks "^4.2.0"
     typescript "^4.1.3"
 
+<<<<<<< HEAD
 "@react-pakistan/react-native-commons-collection@^2.1.12":
   version "2.1.12"
   resolved "https://registry.yarnpkg.com/@react-pakistan/react-native-commons-collection/-/react-native-commons-collection-2.1.12.tgz#839676792e983f74f1b32c5da57c2745d06f75e4"
   integrity sha512-UqriSRuUSuZNInU9uZ/jcoYYwFK55OpfjBJYkvTF0nUfSKHKsrG6O4l5NSqml57nM0vcv/jScm0wUrCWYuOP5A==
+=======
+"@react-pakistan/react-native-commons-collection@^2.1.10":
+  version "2.1.10"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-native-commons-collection/-/react-native-commons-collection-2.1.10.tgz#53d92e2abdcc778a23a74a96c25a3cf4282630e7"
+  integrity sha512-kIJ+rvAU275TkAwsTyrkdwAEdQOMhomdUCXng4SYeJvS9NpkYGgN3YWOWfgZ/Zu4FIMOIUpMN0TEz1JGIEV8iw==
+>>>>>>> 8369c1d9d64a6022e9ef67dadfc18b154a76b96f
   dependencies:
     "@react-native-community/segmented-control" "^2.2.2"
     "@react-native-community/slider" "^3.0.3"
     "@react-native-community/viewpager" "^4.2.2"
     styled-components "^5.2.1"
 
+<<<<<<< HEAD
 "@react-pakistan/util-react-native-functions@^1.1.11":
   version "1.1.11"
   resolved "https://registry.yarnpkg.com/@react-pakistan/util-react-native-functions/-/util-react-native-functions-1.1.11.tgz#5b49c2419ce29556d214c60b1ceea066c3474c1e"
   integrity sha512-+kxY+J6GM/9k+UEqaEq2YV4vh5Ht3xsUMTpsU4oFbaeZ0CBsNZT6BoQ/KGEmMmgv0Qwakk39PYgrl6OEqIyMOw==
+=======
+"@react-pakistan/util-react-native-functions@^1.1.9":
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/util-react-native-functions/-/util-react-native-functions-1.1.9.tgz#1705bd37bf91734e46409f37ba87aea0c15fc2ec"
+  integrity sha512-JWSl1qr6lsx8TLX9HhZjwXKvmiJxyDxBer33EXORpsOz3bZteTtCsVNXgLDAe7P6dbPKxh6lAuiPWqkHgRSRNA==
+>>>>>>> 8369c1d9d64a6022e9ef67dadfc18b154a76b96f
   dependencies:
     "@microsoft/tsdoc" "^0.12.24"
 
@@ -7560,6 +7574,7 @@ find-up@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/find-up/-/find-up-5.0.0.tgz#4c92819ecb7083561e4f4a240a86be5198f536fc"
   integrity sha512-78/PXT1wlLLDgTzDs7sjq9hzz0vXD+zn+7wypEe4fXQxCmdmqfGsEPQxmiCSQI3ajFV91bVSsvNtrJRiW6nGng==
+<<<<<<< HEAD
   dependencies:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
@@ -7569,6 +7584,17 @@ find-versions@^4.0.0:
   resolved "https://registry.yarnpkg.com/find-versions/-/find-versions-4.0.0.tgz#3c57e573bf97769b8cb8df16934b627915da4965"
   integrity sha512-wgpWy002tA+wgmO27buH/9KzyEOQnKsG/R0yrcjPT9BOFm0zRBVQbZ95nRGXWMywS8YR5knRbpohio0bcJABxQ==
   dependencies:
+=======
+  dependencies:
+    locate-path "^6.0.0"
+    path-exists "^4.0.0"
+
+find-versions@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/find-versions/-/find-versions-4.0.0.tgz#3c57e573bf97769b8cb8df16934b627915da4965"
+  integrity sha512-wgpWy002tA+wgmO27buH/9KzyEOQnKsG/R0yrcjPT9BOFm0zRBVQbZ95nRGXWMywS8YR5knRbpohio0bcJABxQ==
+  dependencies:
+>>>>>>> 8369c1d9d64a6022e9ef67dadfc18b154a76b96f
     semver-regex "^3.1.2"
 
 flat-cache@^3.0.4:
@@ -8295,10 +8321,17 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
+<<<<<<< HEAD
 husky@^4.3.8:
   version "4.3.8"
   resolved "https://registry.yarnpkg.com/husky/-/husky-4.3.8.tgz#31144060be963fd6850e5cc8f019a1dfe194296d"
   integrity sha512-LCqqsB0PzJQ/AlCgfrfzRe3e3+NvmefAdKQhRYpxS4u6clblBoDdzzvHi8fmxKRzvMxPY/1WZWzomPZww0Anow==
+=======
+husky@^4.3.7:
+  version "4.3.7"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-4.3.7.tgz#ca47bbe6213c1aa8b16bbd504530d9600de91e88"
+  integrity sha512-0fQlcCDq/xypoyYSJvEuzbDPHFf8ZF9IXKJxlrnvxABTSzK1VPT2RKYQKrcgJ+YD39swgoB6sbzywUqFxUiqjw==
+>>>>>>> 8369c1d9d64a6022e9ef67dadfc18b154a76b96f
   dependencies:
     chalk "^4.0.0"
     ci-info "^2.0.0"
@@ -12489,10 +12522,17 @@ react-native-animatable@1.3.3:
   dependencies:
     prop-types "^15.7.2"
 
+<<<<<<< HEAD
 react-native-device-info@^8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-8.0.0.tgz#a481ea6d445483329aefcb91c753987931ad4756"
   integrity sha512-7/DOEhg8GtyW1hpVtWf8F6RvGLaFaOGmex+IkmiBWQC2uW4NFDcfXm+lMMZnduFavTyUTX7AF6lAM3y286cEfA==
+=======
+react-native-device-info@^7.4.0:
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-7.4.0.tgz#694deddfc6de0ff7268ff463d84693ee980c683c"
+  integrity sha512-n5mrUuwUcPXAspLZcAOE+Q087yq+Gfvo8+soZIg1l7rUZUrLNWlFxFgOo/DMPNZA5vcBSv1TSGFFdiAZVHalLw==
+>>>>>>> 8369c1d9d64a6022e9ef67dadfc18b154a76b96f
 
 react-native-known-styling-properties@^1.0.5:
   version "1.0.5"
