@@ -90,12 +90,6 @@
     "url": "https://github.com/react-pakistan/react-native-icon-collection/issues"
   },
   "homepage": "https://github.com/react-pakistan/react-native-icon-collection#readme",
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint:staged",
-      "pre-push": "yarn test && yarn build"
-    }
-  },
   "lint-staged": {
     "*.{ts,tsx}": [
       "yarn lint"
