@@ -7956,6 +7956,54 @@ storiesOf('Icon', module)
       </UseCase>
     </Story>
   ))
+.add('sentics-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => sentics-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="activity" />
+                <TextWrapper>
+                  activity
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="bearish" />
+                <TextWrapper>
+                  bearish
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="bullish" />
+                <TextWrapper>
+                  bullish
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="chart" />
+                <TextWrapper>
+                  chart
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="envelope" />
+                <TextWrapper>
+                  envelope
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="search" />
+                <TextWrapper>
+                  search
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="trending" />
+                <TextWrapper>
+                  trending
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
 .add('shopping-color', () : ReactElement => (
     <Story>
       <UseCase

@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-native-icon-collection",
-  "version": "2.2.4",
+  "version": "2.3.0",
   "description": "React Native Icons Collection built upon React Native StoryBook",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "prestorybook": "rnstl",
     "publish:github": "yarn build && cd lib/ && npm publish && cd ..",
     "publish:npm": "yarn build && cd lib/ && npm publish --access public && cd ..",
-    "start": "react-native start",
+    "start": "yarn clean && react-native start",
     "storybook": "start-storybook -p=9002",
     "test": "jest --coverage --config ./jest.config.js",
     "test:badges": "yarn test && jest-coverage-badges",
@@ -90,12 +90,6 @@
     "url": "https://github.com/react-pakistan/react-native-icon-collection/issues"
   },
   "homepage": "https://github.com/react-pakistan/react-native-icon-collection#readme",
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn lint:staged",
-      "pre-push": "yarn test && yarn build"
-    }
-  },
   "lint-staged": {
     "*.{ts,tsx}": [
       "yarn lint"
