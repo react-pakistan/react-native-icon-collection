@@ -4255,6 +4255,134 @@ storiesOf('Icon', module)
       </UseCase>
     </Story>
   ))
+.add('financial-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => financial-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="FinancialGrey1" />
+                <TextWrapper>
+                  FinancialGrey1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey10" />
+                <TextWrapper>
+                  FinancialGrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey11" />
+                <TextWrapper>
+                  FinancialGrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey12" />
+                <TextWrapper>
+                  FinancialGrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey13" />
+                <TextWrapper>
+                  FinancialGrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey14" />
+                <TextWrapper>
+                  FinancialGrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey15" />
+                <TextWrapper>
+                  FinancialGrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey16" />
+                <TextWrapper>
+                  FinancialGrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey17" />
+                <TextWrapper>
+                  FinancialGrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey18" />
+                <TextWrapper>
+                  FinancialGrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey19" />
+                <TextWrapper>
+                  FinancialGrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey2" />
+                <TextWrapper>
+                  FinancialGrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey20" />
+                <TextWrapper>
+                  FinancialGrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey21" />
+                <TextWrapper>
+                  FinancialGrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey22" />
+                <TextWrapper>
+                  FinancialGrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey23" />
+                <TextWrapper>
+                  FinancialGrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey3" />
+                <TextWrapper>
+                  FinancialGrey3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey4" />
+                <TextWrapper>
+                  FinancialGrey4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey5" />
+                <TextWrapper>
+                  FinancialGrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey6" />
+                <TextWrapper>
+                  FinancialGrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey7" />
+                <TextWrapper>
+                  FinancialGrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey8" />
+                <TextWrapper>
+                  FinancialGrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey9" />
+                <TextWrapper>
+                  FinancialGrey9
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
 .add('food-dishes-color', () : ReactElement => (
     <Story>
       <UseCase
@@ -7949,54 +8077,6 @@ storiesOf('Icon', module)
               <Icon icon="SecurityGrey9" />
                 <TextWrapper>
                   SecurityGrey9
-                </TextWrapper>
-              </IconWrapper>
-          </StyledView>
-        </StyledScrollView>
-      </UseCase>
-    </Story>
-  ))
-.add('sentics-grey', () : ReactElement => (
-    <Story>
-      <UseCase
-        text="Icon => sentics-grey"
-      >
-        <StyledScrollView>
-          <StyledView>
-            <IconWrapper>
-              <Icon icon="activity" />
-                <TextWrapper>
-                  activity
-                </TextWrapper>
-              </IconWrapper><IconWrapper>
-              <Icon icon="bearish" />
-                <TextWrapper>
-                  bearish
-                </TextWrapper>
-              </IconWrapper><IconWrapper>
-              <Icon icon="bullish" />
-                <TextWrapper>
-                  bullish
-                </TextWrapper>
-              </IconWrapper><IconWrapper>
-              <Icon icon="chart" />
-                <TextWrapper>
-                  chart
-                </TextWrapper>
-              </IconWrapper><IconWrapper>
-              <Icon icon="envelope" />
-                <TextWrapper>
-                  envelope
-                </TextWrapper>
-              </IconWrapper><IconWrapper>
-              <Icon icon="search" />
-                <TextWrapper>
-                  search
-                </TextWrapper>
-              </IconWrapper><IconWrapper>
-              <Icon icon="trending" />
-                <TextWrapper>
-                  trending
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
