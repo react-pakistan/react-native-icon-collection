@@ -27,11 +27,7 @@
     "test:badges": "yarn test && jest-coverage-badges",
     "upgrade": "ncu -u -x react-native-svg"
   },
-  "dependencies": {
-    "react-native-device-info": "^8.0.7",
-    "react-native-svg": "^11.0.1",
-    "styled-components": "^5.2.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.13.13",
     "@babel/runtime": "^7.13.10",
@@ -66,9 +62,12 @@
     "react": "^17.0.2",
     "react-docgen-typescript-loader": "^3.7.2",
     "react-native": "^0.64.0",
+    "react-native-device-info": "^8.0.7",
     "react-native-storybook-loader": "^2.0.2",
+    "react-native-svg": "^11.0.1",
     "react-native-typescript-transformer": "^1.2.13",
     "react-test-renderer": "^17.0.2",
+    "styled-components": "^5.2.1",
     "stylelint": "^13.12.0",
     "stylelint-config-react-native-styled-components": "^0.3.0",
     "stylelint-config-recommended": "^4.0.0",
