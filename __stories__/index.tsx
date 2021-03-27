@@ -1,8 +1,8 @@
 import AsyncStorage from '@react-native-community/async-storage';
+import { StyledStory } from '@react-pakistan/react-native-commons-collection';
 import { theme } from '@react-pakistan/util-react-native-functions';
 import { getStorybookUI, configure } from '@storybook/react-native';
 import React from 'react';
-import { ThemeProvider } from 'styled-components/native';
 import { loadStories } from './story-loader';
 
 import './rn-addons';
@@ -22,7 +22,7 @@ const Storybook = getStorybookUI({
 // Refer to https://github.com/storybookjs/storybook/tree/master/app/react-native#start-command-parameters
 // To find allowed options for getStorybookUI
 export default () => (
-  <ThemeProvider theme={theme}>
+  <StyledStory theme={theme}>
     <Storybook />
-  </ThemeProvider>
+  </StyledStory>
 );
