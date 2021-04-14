@@ -4343,6 +4343,21 @@ storiesOf('Icon', module)
                   FinancialGrey23
                 </TextWrapper>
               </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey24" />
+                <TextWrapper>
+                  FinancialGrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey25" />
+                <TextWrapper>
+                  FinancialGrey25
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="FinancialGrey26" />
+                <TextWrapper>
+                  FinancialGrey26
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
               <Icon icon="FinancialGrey3" />
                 <TextWrapper>
                   FinancialGrey3
