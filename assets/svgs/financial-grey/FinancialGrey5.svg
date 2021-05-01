@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="25.424" height="25.505" viewBox="0 0 25.424 25.505">
-  <g id="Iconly_Light_Activity" data-name="Iconly/Light/Activity" transform="translate(0.75 0.75)">
-    <g id="Activity">
-      <path id="Path_33966" d="M0,6.236,3.741,1.373,8.009,4.725,11.67,0" transform="translate(5.584 9.394)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-      <circle id="Ellipse_741" cx="2.403" cy="2.403" r="2.403" transform="translate(19.119)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-      <path id="Path" d="M15.183,0H6.1C2.334,0,0,2.666,0,6.43v10.1c0,3.764,2.288,6.419,6.1,6.419H16.854c3.764,0,6.1-2.654,6.1-6.419v-8.8" transform="translate(0 1.053)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g transform="translate(0.75 0.75)">
+    <g>
+      <path d="M0,6.236,3.741,1.373,8.009,4.725,11.67,0" transform="translate(5.584 9.394)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle cx="2.403" cy="2.403" r="2.403" transform="translate(19.119)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M15.183,0H6.1C2.334,0,0,2.666,0,6.43v10.1c0,3.764,2.288,6.419,6.1,6.419H16.854c3.764,0,6.1-2.654,6.1-6.419v-8.8" transform="translate(0 1.053)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
     </g>
   </g>
 </svg>

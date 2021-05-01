@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="12.78" height="12.78" viewBox="0 0 12.78 12.78">
-  <g id="Group_311" data-name="Group 311" transform="translate(-358.86 -30.86)">
-    <line id="Line_28" data-name="Line 28" x2="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
-    <line id="Line_29" data-name="Line 29" x1="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  <g transform="translate(-358.86 -30.86)">
+    <line x2="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke-linecap="round" stroke-width="1.5"/>
+    <line x1="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke-linecap="round" stroke-width="1.5"/>
   </g>
 </svg>

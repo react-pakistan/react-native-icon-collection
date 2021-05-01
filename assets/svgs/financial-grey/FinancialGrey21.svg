@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="26.5" height="26.5" viewBox="0 0 26.5 26.5">
-  <g id="Chart" transform="translate(0.75 0.75)">
-    <path id="Line_182" d="M.476,0V8.575" transform="translate(6.238 10.252)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Line_183" d="M.476,0V12.678" transform="translate(12.071 6.149)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Line_184" d="M.476,0V4.044" transform="translate(17.81 14.784)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Path" d="M18.357,0H6.643C2.56,0,0,2.89,0,6.981V18.019C0,22.11,2.548,25,6.643,25H18.357C22.452,25,25,22.11,25,18.019V6.981C25,2.89,22.452,0,18.357,0Z" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g transform="translate(0.75 0.75)">
+    <path d="M.476,0V8.575" transform="translate(6.238 10.252)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M.476,0V12.678" transform="translate(12.071 6.149)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M.476,0V4.044" transform="translate(17.81 14.784)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M18.357,0H6.643C2.56,0,0,2.89,0,6.981V18.019C0,22.11,2.548,25,6.643,25H18.357C22.452,25,25,22.11,25,18.019V6.981C25,2.89,22.452,0,18.357,0Z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
   </g>
 </svg>
