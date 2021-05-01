@@ -4,6 +4,7 @@ import { SvgXml } from 'react-native-svg';
 export const Icon = memo(({
   fill,
   icon,
+  ...rest
 } : IIconProps) : ReactElement => {
   const iconSvg = require('../xml')[icon]();
 
@@ -13,6 +14,7 @@ export const Icon = memo(({
       height="100%"
       width="100%"
       xml={`${iconSvg}`}
+      {...rest}
     />
   );
 });
