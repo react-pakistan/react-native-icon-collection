@@ -22,5 +22,5 @@ export const Icon = memo(({
 export interface IIconProps {
   fill? : string;
   icon : string;
-  strole? : string;
+  stroke? : string;
 }
