@@ -56,6 +56,7 @@ export * from './blockchain-color'
     export * from './valentine-grey'
     export * from './virtual-reality-color'
     export * from './virtual-reality-grey'
+    export * from './watson-grey'
     export * from './zoo-color'
     export * from './zoo-grey'
     

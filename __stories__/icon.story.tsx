@@ -11694,6 +11694,44 @@ storiesOf('Icon', module)
       </UseCase>
     </Story>
   ))
+.add('watson-grey', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => watson-grey"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="cart" />
+                <TextWrapper>
+                  cart
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="home" />
+                <TextWrapper>
+                  home
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="love" />
+                <TextWrapper>
+                  love
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="mart" />
+                <TextWrapper>
+                  mart
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="user" />
+                <TextWrapper>
+                  user
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
 .add('zoo-color', () : ReactElement => (
     <Story>
       <UseCase

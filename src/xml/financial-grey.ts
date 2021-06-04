@@ -13,18 +13,18 @@ export const FinancialGrey1 = () : string => `<svg xmlns="http://www.w3.org/2000
 </svg>
 `;
   export const FinancialGrey10 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="17.933" height="11.902" viewBox="0 0 17.933 11.902">
-  <g id="Group_258" data-name="Group 258" transform="translate(-56.207 -462.9)">
-    <g id="Group_246" data-name="Group 246" transform="translate(56.96 464)">
-      <path id="Path_16" data-name="Path 16" d="M0,9.141,6.3,3.227,9.115,6.043,15.158,0" transform="translate(0 0.859)" fill="none" stroke="#fff" stroke-width="2.2"/>
-      <path id="Path_17" data-name="Path 17" d="M0,0H4.164V4.479" transform="translate(11.916 0)" fill="none" stroke="#fff" stroke-width="2.2"/>
+  <g transform="translate(-56.207 -462.9)">
+    <g transform="translate(56.96 464)">
+      <path d="M0,9.141,6.3,3.227,9.115,6.043,15.158,0" transform="translate(0 0.859)" fill="none" stroke-width="2.2"/>
+      <path d="M0,0H4.164V4.479" transform="translate(11.916 0)" fill="none" stroke-width="2.2"/>
     </g>
   </g>
 </svg>
 `;
   export const FinancialGrey11 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="20.072" height="18.178" viewBox="0 0 20.072 18.178">
   <g id="Group_274" data-name="Group 274" transform="translate(-41.392 -963.25)">
-    <path id="Path_10" data-name="Path 10" d="M87.142,237v16.678h17.022" transform="translate(-45 727)" fill="none" stroke="#25d366" stroke-linecap="round" stroke-width="1.5"/>
-    <path id="Path_11" data-name="Path 11" d="M101.147,247.63l4.671-4.671,3.555,3.555,5.754-5.754" transform="translate(-54.724 727)" fill="none" stroke="#25d366" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_10" data-name="Path 10" d="M87.142,237v16.678h17.022" transform="translate(-45 727)" fill="none" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_11" data-name="Path 11" d="M101.147,247.63l4.671-4.671,3.555,3.555,5.754-5.754" transform="translate(-54.724 727)" fill="none" stroke-linecap="round" stroke-width="1.5"/>
   </g>
 </svg>
 `;
@@ -41,19 +41,19 @@ export const FinancialGrey1 = () : string => `<svg xmlns="http://www.w3.org/2000
 </svg>
 `;
   export const FinancialGrey13 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="12.78" height="12.78" viewBox="0 0 12.78 12.78">
-  <g id="Group_311" data-name="Group 311" transform="translate(-358.86 -30.86)">
-    <line id="Line_28" data-name="Line 28" x2="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
-    <line id="Line_29" data-name="Line 29" x1="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  <g transform="translate(-358.86 -30.86)">
+    <line x2="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke-linecap="round" stroke-width="1.5"/>
+    <line x1="10.658" y2="10.658" transform="translate(359.921 31.921)" fill="none" stroke-linecap="round" stroke-width="1.5"/>
   </g>
 </svg>
 `;
   export const FinancialGrey14 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="27.933" height="20.537" viewBox="0 0 27.933 20.537">
-  <g id="Group_318" data-name="Group 318" transform="translate(-43.659 -158.232)">
-    <g id="Path_229" data-name="Path 229" transform="translate(45.659 156.232)" fill="none">
+  <g transform="translate(-43.659 -158.232)">
+    <g transform="translate(45.659 156.232)" fill="none">
       <path d="M11.967,2c9.748,0,13.967,10.268,13.967,10.268S21.705,22.537,11.967,22.537-2,12.268-2,12.268,2.218,2,11.967,2Z" stroke="none"/>
       <path d="M 11.96671676635742 3.499996185302734 C 8.399386405944824 3.499996185302734 5.217666625976562 5.034906387329102 2.509946823120117 8.062095642089844 C 1.023658752441406 9.723738670349121 0.08237838745117188 11.41322040557861 -0.3445568084716797 12.26768589019775 C 0.08369255065917969 13.12340641021729 1.026348114013672 14.81273651123047 2.513206481933594 16.47419738769531 C 5.222507476806641 19.50166702270508 8.40312671661377 21.03671646118164 11.96671676635742 21.03671646118164 C 15.53030681610107 21.03671646118164 18.7109260559082 19.50166702270508 21.42022705078125 16.47419738769531 C 22.9075984954834 14.81216239929199 23.85033226013184 13.12235832214355 24.27799224853516 12.26784515380859 C 23.85046577453613 11.41217231750488 22.90926170349121 9.723165512084961 21.42348670959473 8.062095642089844 C 18.71576690673828 5.034906387329102 15.53404712677002 3.499996185302734 11.96671676635742 3.499996185302734 M 11.96671676635742 1.999996185302734 C 21.7149772644043 1.999996185302734 25.93343734741211 12.26835632324219 25.93343734741211 12.26835632324219 C 25.93343734741211 12.26835632324219 21.70537757873535 22.53671646118164 11.96671676635742 22.53671646118164 C 2.228055953979492 22.53671646118164 -2.000003814697266 12.26835632324219 -2.000003814697266 12.26835632324219 C -2.000003814697266 12.26835632324219 2.218456268310547 1.999996185302734 11.96671676635742 1.999996185302734 Z" stroke="none" fill="#fff"/>
     </g>
-    <path id="Path_33966" d="M0,4.778,2.867,1.052l3.27,2.569L8.943,0" transform="translate(53.347 166.384)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M0,4.778,2.867,1.052l3.27,2.569L8.943,0" transform="translate(53.347 166.384)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
   </g>
 </svg>
 `;
@@ -65,20 +65,20 @@ export const FinancialGrey1 = () : string => `<svg xmlns="http://www.w3.org/2000
 </svg>
 `;
   export const FinancialGrey16 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="11.369" height="16.241" viewBox="0 0 11.369 16.241">
-  <path id="lightbulb" d="M10.684,2A5.682,5.682,0,0,0,7.436,12.345v1.835a.812.812,0,0,0,.812.812H13.12a.812.812,0,0,0,.812-.812V12.345A5.682,5.682,0,0,0,10.684,2M8.248,17.429a.812.812,0,0,0,.812.812h3.248a.812.812,0,0,0,.812-.812v-.812H8.248Z" transform="translate(-5 -2)" fill="#e0cbff"/>
+  <path id="lightbulb" d="M10.684,2A5.682,5.682,0,0,0,7.436,12.345v1.835a.812.812,0,0,0,.812.812H13.12a.812.812,0,0,0,.812-.812V12.345A5.682,5.682,0,0,0,10.684,2M8.248,17.429a.812.812,0,0,0,.812.812h3.248a.812.812,0,0,0,.812-.812v-.812H8.248Z" transform="translate(-5 -2)" />
 </svg>
 `;
   export const FinancialGrey17 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="14.271" height="8.692" viewBox="0 0 14.271 8.692">
-  <path id="Path_12" data-name="Path 12" d="M1971,378l4.742-4.547,5.293,4.547" transform="translate(-1968.879 -371.429)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <path d="M1971,378l4.742-4.547,5.293,4.547" transform="translate(-1968.879 -371.429)" fill="none" stroke-linecap="round" stroke-width="3"/>
 </svg>
 `;
   export const FinancialGrey18 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="14.271" height="8.692" viewBox="0 0 14.271 8.692">
-  <path id="Path_12" data-name="Path 12" d="M1971,373.454l4.742,4.547,5.293-4.547" transform="translate(-1968.879 -371.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <path d="M1971,373.454l4.742,4.547,5.293-4.547" transform="translate(-1968.879 -371.333)" fill="none" stroke-linecap="round" stroke-width="3"/>
 </svg>
 `;
-  export const FinancialGrey19 = () : string => `<svg id="share-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="Path_34" data-name="Path 34" d="M0,0H24V24H0Z" fill="none"/>
-  <path id="Path_35" data-name="Path 35" d="M18,16.08a2.912,2.912,0,0,0-1.96.77L8.91,12.7A3.274,3.274,0,0,0,9,12a3.274,3.274,0,0,0-.09-.7l7.05-4.11A2.993,2.993,0,1,0,15,5a3.274,3.274,0,0,0,.09.7L8.04,9.81a3,3,0,1,0,0,4.38l7.12,4.16a2.821,2.821,0,0,0-.08.65A2.92,2.92,0,1,0,18,16.08Z" fill="#fff"/>
+  export const FinancialGrey19 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path d="M0,0H24V24H0Z" fill="none"/>
+  <path d="M18,16.08a2.912,2.912,0,0,0-1.96.77L8.91,12.7A3.274,3.274,0,0,0,9,12a3.274,3.274,0,0,0-.09-.7l7.05-4.11A2.993,2.993,0,1,0,15,5a3.274,3.274,0,0,0,.09.7L8.04,9.81a3,3,0,1,0,0,4.38l7.12,4.16a2.821,2.821,0,0,0-.08.65A2.92,2.92,0,1,0,18,16.08Z" />
 </svg>
 `;
   export const FinancialGrey2 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill='none' d="M.75 7.085h15M6.8 13.11L.75 7.086 6.8 1.061"/></svg>`;
@@ -89,18 +89,18 @@ export const FinancialGrey1 = () : string => `<svg xmlns="http://www.w3.org/2000
 </svg>
 `;
   export const FinancialGrey21 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="26.5" height="26.5" viewBox="0 0 26.5 26.5">
-  <g id="Chart" transform="translate(0.75 0.75)">
-    <path id="Line_182" d="M.476,0V8.575" transform="translate(6.238 10.252)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Line_183" d="M.476,0V12.678" transform="translate(12.071 6.149)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Line_184" d="M.476,0V4.044" transform="translate(17.81 14.784)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Path" d="M18.357,0H6.643C2.56,0,0,2.89,0,6.981V18.019C0,22.11,2.548,25,6.643,25H18.357C22.452,25,25,22.11,25,18.019V6.981C25,2.89,22.452,0,18.357,0Z" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g transform="translate(0.75 0.75)">
+    <path d="M.476,0V8.575" transform="translate(6.238 10.252)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M.476,0V12.678" transform="translate(12.071 6.149)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M.476,0V4.044" transform="translate(17.81 14.784)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M18.357,0H6.643C2.56,0,0,2.89,0,6.981V18.019C0,22.11,2.548,25,6.643,25H18.357C22.452,25,25,22.11,25,18.019V6.981C25,2.89,22.452,0,18.357,0Z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
   </g>
 </svg>
 `;
-  export const FinancialGrey22 = () : string => `<svg id="Iconly_Light_Message" data-name="Iconly/Light/Message" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
-  <g id="Message" transform="translate(2.333 4.083)">
-    <path id="Path_445" d="M13.2,0,8.223,4.007a2.594,2.594,0,0,1-3.2,0L0,0" transform="translate(4.613 6.488)" fill="none" stroke="#200e32" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Rectangle_511" d="M5.7,0h11a5.783,5.783,0,0,1,4.177,1.855,5.853,5.853,0,0,1,1.547,4.321v7.616a5.853,5.853,0,0,1-1.547,4.321A5.783,5.783,0,0,1,16.7,19.969H5.7C2.3,19.969,0,17.2,0,13.792V6.176C0,2.771,2.3,0,5.7,0Z" transform="translate(0 0)" fill="none" stroke="#200e32" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  export const FinancialGrey22 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g transform="translate(2.333 4.083)">
+    <path d="M13.2,0,8.223,4.007a2.594,2.594,0,0,1-3.2,0L0,0" transform="translate(4.613 6.488)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M5.7,0h11a5.783,5.783,0,0,1,4.177,1.855,5.853,5.853,0,0,1,1.547,4.321v7.616a5.853,5.853,0,0,1-1.547,4.321A5.783,5.783,0,0,1,16.7,19.969H5.7C2.3,19.969,0,17.2,0,13.792V6.176C0,2.771,2.3,0,5.7,0Z" transform="translate(0 0)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
   </g>
 </svg>
 `;
@@ -128,55 +128,55 @@ export const FinancialGrey1 = () : string => `<svg xmlns="http://www.w3.org/2000
   export const FinancialGrey3 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.1 13.143H8.578a.833.833 0 00-.83.83v1.383a.833.833 0 00.83.83H10.1a.833.833 0 00.83-.83v-1.38a.833.833 0 00-.83-.833zM15.634 15.357v-1.381a.833.833 0 00-.83-.83H13.42a.833.833 0 00-.83.83v1.383a.833.833 0 00.83.83h1.383a.833.833 0 00.831-.832zM10.1 8.578H8.578a.833.833 0 00-.83.83v1.384a.833.833 0 00.83.83H10.1a.833.833 0 00.83-.83V9.411a.833.833 0 00-.83-.833zM13.42 11.622h1.383a.833.833 0 00.83-.83V9.411a.833.833 0 00-.83-.83H13.42a.833.833 0 00-.83.83v1.383a.833.833 0 00.83.828zM10.1 4.151H8.578a.833.833 0 00-.83.83v1.383a.833.833 0 00.83.83H10.1a.833.833 0 00.83-.83V4.981a.833.833 0 00-.83-.83zM13.42 7.195h1.383a.833.833 0 00.83-.83V4.981a.833.833 0 00-.83-.83H13.42a.833.833 0 00-.83.83v1.383a.833.833 0 00.83.831z"/><path d="M19.369 4.441V.83a.833.833 0 00-.83-.83h-13.7a.833.833 0 00-.83.83v3.611l-3.777 3.9a.816.816 0 00-.235.581v14.6a.833.833 0 00.83.83h7.609a.82.82 0 00.706-.4.838.838 0 00.4-.706v-3.185h4.289v3.182a.847.847 0 00.595.8.814.814 0 00.65.3h7.471a.833.833 0 00.83-.83V8.924a.816.816 0 00-.235-.581zM1.66 9.256l2.352-2.435V22.69H1.66zM8.716 18.4a.833.833 0 00-.83.83v3.46H5.672V1.66h12.037v21.03h-2.214v-3.459a.833.833 0 00-.83-.83H8.716zm13 4.289h-2.347V6.821l2.352 2.435z"/></svg>`;
   export const FinancialGrey4 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="27.833" height="30.703" viewBox="0 0 27.833 30.703">
   <g transform="translate(1 1)">
-    <path d="M0,.473H25.58" transform="translate(0.133 10.153)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.459.473H.472" transform="translate(18.833 15.758)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.459.473H.472" transform="translate(12.464 15.758)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.459.473H.472" transform="translate(6.083 15.758)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.459.473H.472" transform="translate(18.833 21.336)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.459.473H.472" transform="translate(12.464 21.336)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.459.473H.472" transform="translate(6.083 21.336)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.463,0V4.723" transform="translate(18.256)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M.463,0V4.723" transform="translate(6.663)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path d="M19,0H6.847C2.632,0,0,2.348,0,6.663V19.651c0,4.383,2.632,6.786,6.847,6.786H18.985c4.228,0,6.847-2.361,6.847-6.677V6.663C25.846,2.348,23.227,0,19,0Z" transform="translate(0 2.266)" fill="none" stroke="#772ce8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/> 
+    <path d="M0,.473H25.58" transform="translate(0.133 10.153)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.459.473H.472" transform="translate(18.833 15.758)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.459.473H.472" transform="translate(12.464 15.758)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.459.473H.472" transform="translate(6.083 15.758)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.459.473H.472" transform="translate(18.833 21.336)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.459.473H.472" transform="translate(12.464 21.336)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.459.473H.472" transform="translate(6.083 21.336)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.463,0V4.723" transform="translate(18.256)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M.463,0V4.723" transform="translate(6.663)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M19,0H6.847C2.632,0,0,2.348,0,6.663V19.651c0,4.383,2.632,6.786,6.847,6.786H18.985c4.228,0,6.847-2.361,6.847-6.677V6.663C25.846,2.348,23.227,0,19,0Z" transform="translate(0 2.266)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/> 
   </g>
 </svg>
 `;
   export const FinancialGrey5 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="25.424" height="25.505" viewBox="0 0 25.424 25.505">
-  <g id="Iconly_Light_Activity" data-name="Iconly/Light/Activity" transform="translate(0.75 0.75)">
-    <g id="Activity">
-      <path id="Path_33966" d="M0,6.236,3.741,1.373,8.009,4.725,11.67,0" transform="translate(5.584 9.394)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-      <circle id="Ellipse_741" cx="2.403" cy="2.403" r="2.403" transform="translate(19.119)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-      <path id="Path" d="M15.183,0H6.1C2.334,0,0,2.666,0,6.43v10.1c0,3.764,2.288,6.419,6.1,6.419H16.854c3.764,0,6.1-2.654,6.1-6.419v-8.8" transform="translate(0 1.053)" fill="none" stroke="#b7bad1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g transform="translate(0.75 0.75)">
+    <g>
+      <path d="M0,6.236,3.741,1.373,8.009,4.725,11.67,0" transform="translate(5.584 9.394)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle cx="2.403" cy="2.403" r="2.403" transform="translate(19.119)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M15.183,0H6.1C2.334,0,0,2.666,0,6.43v10.1c0,3.764,2.288,6.419,6.1,6.419H16.854c3.764,0,6.1-2.654,6.1-6.419v-8.8" transform="translate(0 1.053)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
     </g>
   </g>
 </svg>
 `;
-  export const FinancialGrey6 = () : string => `<svg id="Iconly_Light_Search" data-name="Iconly/Light/Search" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="Search" transform="translate(2 2)">
-    <circle id="Ellipse_739" cx="8.989" cy="8.989" r="8.989" transform="translate(0.778 0.778)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
-    <path id="Line_181" d="M0,0,3.524,3.515" transform="translate(16.018 16.485)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  export const FinancialGrey6 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g transform="translate(2 2)">
+    <circle cx="8.989" cy="8.989" r="8.989" transform="translate(0.778 0.778)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M0,0,3.524,3.515" transform="translate(16.018 16.485)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
   </g>
 </svg>
 `;
   export const FinancialGrey7 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="20.555" height="25.121" viewBox="0 0 20.555 25.121">
-  <path id="Path_9" data-name="Path 9" d="M22.1,13.887a11.579,11.579,0,0,0-1.04-1.108c-.9-.81-1.932-1.391-2.8-2.242a6.656,6.656,0,0,1-1.8-5.812.974.974,0,0,0-1.422-1.052,11.54,11.54,0,0,0-1.312.921A10.664,10.664,0,0,0,10.5,16.615a1.139,1.139,0,0,1,.108.446.749.749,0,0,1-.473.675.837.837,0,0,1-.891-.162.783.783,0,0,1-.189-.23A6.6,6.6,0,0,1,7.71,12.793a.627.627,0,0,0-1.139-.407A9.938,9.938,0,0,0,5,18.3,9.757,9.757,0,0,0,5.4,20.33a9.062,9.062,0,0,0,.959,2.337,9.451,9.451,0,0,0,6.7,4.349,10.211,10.211,0,0,0,8.2-2.161A8,8,0,0,0,23.32,15.94l-.176-.351a15.145,15.145,0,0,0-1.04-1.7" transform="translate(-4.235 -2.765)" fill="none" stroke="#b7bad1" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M22.1,13.887a11.579,11.579,0,0,0-1.04-1.108c-.9-.81-1.932-1.391-2.8-2.242a6.656,6.656,0,0,1-1.8-5.812.974.974,0,0,0-1.422-1.052,11.54,11.54,0,0,0-1.312.921A10.664,10.664,0,0,0,10.5,16.615a1.139,1.139,0,0,1,.108.446.749.749,0,0,1-.473.675.837.837,0,0,1-.891-.162.783.783,0,0,1-.189-.23A6.6,6.6,0,0,1,7.71,12.793a.627.627,0,0,0-1.139-.407A9.938,9.938,0,0,0,5,18.3,9.757,9.757,0,0,0,5.4,20.33a9.062,9.062,0,0,0,.959,2.337,9.451,9.451,0,0,0,6.7,4.349,10.211,10.211,0,0,0,8.2-2.161A8,8,0,0,0,23.32,15.94l-.176-.351a15.145,15.145,0,0,0-1.04-1.7" transform="translate(-4.235 -2.765)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
 </svg>
 `;
   export const FinancialGrey8 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="17.933" height="11.902" viewBox="0 0 17.933 11.902">
-  <g id="Group_81" data-name="Group 81" transform="translate(0.753 0.802)">
-    <path id="Path_16" data-name="Path 16" d="M0,0,6.3,5.915,9.115,3.1l6.043,6.043" transform="translate(0 0)" fill="none" stroke="#f44040" stroke-width="2.2"/>
-    <path id="Path_17" data-name="Path 17" d="M0,4.479H4.164V0" transform="translate(11.916 5.521)" fill="none" stroke="#f44040" stroke-width="2.2"/>
+  <g transform="translate(0.753 0.802)">
+    <path d="M0,0,6.3,5.915,9.115,3.1l6.043,6.043" transform="translate(0 0)" fill="none" stroke-width="2.2"/>
+    <path d="M0,4.479H4.164V0" transform="translate(11.916 5.521)" fill="none" stroke-width="2.2"/>
   </g>
 </svg>
 `;
   export const FinancialGrey9 = () : string => `<svg xmlns="http://www.w3.org/2000/svg" width="28.263" height="28.263" viewBox="0 0 28.263 28.263">
-  <g id="Group_125" data-name="Group 125" transform="translate(-39.352 -2841.964)">
-    <path id="Path_41" data-name="Path 41" d="M11.425,22.849A11.425,11.425,0,1,0,0,11.425,11.434,11.434,0,0,0,11.425,22.849Zm0-21.293a9.869,9.869,0,1,1-9.869,9.869A9.873,9.873,0,0,1,11.425,1.556Z" transform="translate(39.352 2848.262) rotate(-16)" fill="#944efc"/>
-    <path id="Path_42" data-name="Path 42" d="M0,1.453s6.2-3.27,20.135,0" transform="translate(42.431 2854.149) rotate(-16)" fill="none" stroke="#944efc" stroke-width="1.5"/>
-    <path id="Path_43" data-name="Path 43" d="M0,0S6.2,3.27,20.135,0" transform="translate(44.403 2861.026) rotate(-16)" fill="none" stroke="#944efc" stroke-width="1.5"/>
-    <g id="Group_124" data-name="Group 124" transform="translate(54.797 2845.133) rotate(74)">
-      <path id="Path_195" data-name="Path 195" d="M0,1.453s6.355-3.27,20.652,0" transform="translate(0 0)" fill="none" stroke="#944efc" stroke-width="1.5"/>
-      <path id="Path_196" data-name="Path 196" d="M0,0S6.355,3.27,20.652,0" transform="translate(0 7.155)" fill="none" stroke="#944efc" stroke-width="1.5"/>
+  <g transform="translate(-39.352 -2841.964)">
+    <path d="M11.425,22.849A11.425,11.425,0,1,0,0,11.425,11.434,11.434,0,0,0,11.425,22.849Zm0-21.293a9.869,9.869,0,1,1-9.869,9.869A9.873,9.873,0,0,1,11.425,1.556Z" transform="translate(39.352 2848.262) rotate(-16)" />
+    <path d="M0,1.453s6.2-3.27,20.135,0" transform="translate(42.431 2854.149) rotate(-16)" fill="none" stroke-width="1.5"/>
+    <path d="M0,0S6.2,3.27,20.135,0" transform="translate(44.403 2861.026) rotate(-16)" fill="none" stroke-width="1.5"/>
+    <g transform="translate(54.797 2845.133) rotate(74)">
+      <path d="M0,1.453s6.355-3.27,20.652,0" transform="translate(0 0)" fill="none" stroke-width="1.5"/>
+      <path d="M0,0S6.355,3.27,20.652,0" transform="translate(0 7.155)" fill="none" stroke-width="1.5"/>
     </g>
   </g>
 </svg>
