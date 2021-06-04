@@ -11702,29 +11702,29 @@ storiesOf('Icon', module)
         <StyledScrollView>
           <StyledView>
             <IconWrapper>
-              <Icon icon="cart" />
+              <Icon icon="WatsonGrey1" />
                 <TextWrapper>
-                  cart
+                  WatsonGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="home" />
+              <Icon icon="WatsonGrey2" />
                 <TextWrapper>
-                  home
+                  WatsonGrey2
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="love" />
+              <Icon icon="WatsonGrey3" />
                 <TextWrapper>
-                  love
+                  WatsonGrey3
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="mart" />
+              <Icon icon="WatsonGrey4" />
                 <TextWrapper>
-                  mart
+                  WatsonGrey4
                 </TextWrapper>
               </IconWrapper><IconWrapper>
-              <Icon icon="user" />
+              <Icon icon="WatsonGrey5" />
                 <TextWrapper>
-                  user
+                  WatsonGrey5
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
