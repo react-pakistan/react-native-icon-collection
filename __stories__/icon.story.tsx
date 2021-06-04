@@ -11694,6 +11694,44 @@ storiesOf('Icon', module)
       </UseCase>
     </Story>
   ))
+.add('watson-color', () : ReactElement => (
+    <Story>
+      <UseCase
+        text="Icon => watson-color"
+      >
+        <StyledScrollView>
+          <StyledView>
+            <IconWrapper>
+              <Icon icon="WatsonColor1" />
+                <TextWrapper>
+                  WatsonColor1
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor2" />
+                <TextWrapper>
+                  WatsonColor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor3" />
+                <TextWrapper>
+                  WatsonColor3
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor4" />
+                <TextWrapper>
+                  WatsonColor4
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor5" />
+                <TextWrapper>
+                  WatsonColor5
+                </TextWrapper>
+              </IconWrapper>
+          </StyledView>
+        </StyledScrollView>
+      </UseCase>
+    </Story>
+  ))
 .add('watson-grey', () : ReactElement => (
     <Story>
       <UseCase
