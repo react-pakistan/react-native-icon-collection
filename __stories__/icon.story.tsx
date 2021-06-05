@@ -11707,6 +11707,46 @@ storiesOf('Icon', module)
                   WatsonColor1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor10" />
+                <TextWrapper>
+                  WatsonColor10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor11" />
+                <TextWrapper>
+                  WatsonColor11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor12" />
+                <TextWrapper>
+                  WatsonColor12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor13" />
+                <TextWrapper>
+                  WatsonColor13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor14" />
+                <TextWrapper>
+                  WatsonColor14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor15" />
+                <TextWrapper>
+                  WatsonColor15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor16" />
+                <TextWrapper>
+                  WatsonColor16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor17" />
+                <TextWrapper>
+                  WatsonColor17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
               <Icon icon="WatsonColor2" />
                 <TextWrapper>
                   WatsonColor2
@@ -11725,6 +11765,26 @@ storiesOf('Icon', module)
               <Icon icon="WatsonColor5" />
                 <TextWrapper>
                   WatsonColor5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor6" />
+                <TextWrapper>
+                  WatsonColor6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor7" />
+                <TextWrapper>
+                  WatsonColor7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor8" />
+                <TextWrapper>
+                  WatsonColor8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor9" />
+                <TextWrapper>
+                  WatsonColor9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
@@ -11745,6 +11805,21 @@ storiesOf('Icon', module)
                   WatsonGrey1
                 </TextWrapper>
               </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey10" />
+                <TextWrapper>
+                  WatsonGrey10
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey11" />
+                <TextWrapper>
+                  WatsonGrey11
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey12" />
+                <TextWrapper>
+                  WatsonGrey12
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
               <Icon icon="WatsonGrey2" />
                 <TextWrapper>
                   WatsonGrey2
@@ -11763,6 +11838,26 @@ storiesOf('Icon', module)
               <Icon icon="WatsonGrey5" />
                 <TextWrapper>
                   WatsonGrey5
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey6" />
+                <TextWrapper>
+                  WatsonGrey6
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey7" />
+                <TextWrapper>
+                  WatsonGrey7
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey8" />
+                <TextWrapper>
+                  WatsonGrey8
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey9" />
+                <TextWrapper>
+                  WatsonGrey9
                 </TextWrapper>
               </IconWrapper>
           </StyledView>
