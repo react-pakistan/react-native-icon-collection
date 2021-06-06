@@ -11820,9 +11820,74 @@ storiesOf('Icon', module)
                   WatsonGrey12
                 </TextWrapper>
               </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey13" />
+                <TextWrapper>
+                  WatsonGrey13
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey14" />
+                <TextWrapper>
+                  WatsonGrey14
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey15" />
+                <TextWrapper>
+                  WatsonGrey15
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey16" />
+                <TextWrapper>
+                  WatsonGrey16
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey17" />
+                <TextWrapper>
+                  WatsonGrey17
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey18" />
+                <TextWrapper>
+                  WatsonGrey18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey19" />
+                <TextWrapper>
+                  WatsonGrey19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
               <Icon icon="WatsonGrey2" />
                 <TextWrapper>
                   WatsonGrey2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey20" />
+                <TextWrapper>
+                  WatsonGrey20
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey21" />
+                <TextWrapper>
+                  WatsonGrey21
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey22" />
+                <TextWrapper>
+                  WatsonGrey22
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey23" />
+                <TextWrapper>
+                  WatsonGrey23
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey24" />
+                <TextWrapper>
+                  WatsonGrey24
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonGrey25" />
+                <TextWrapper>
+                  WatsonGrey25
                 </TextWrapper>
               </IconWrapper><IconWrapper>
               <Icon icon="WatsonGrey3" />
