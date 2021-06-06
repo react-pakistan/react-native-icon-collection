@@ -24,8 +24,112 @@ export const WatsonGrey1 = () : string => `<svg width="25" height="24" viewBox="
 <path d="M8 15L1 8L8 1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 `;
+  export const WatsonGrey13 = () : string => `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9 20.8C16.8153 20.8 20.8 16.8153 20.8 11.9C20.8 6.98467 16.8153 3 11.9 3C6.98467 3 3 6.98467 3 11.9C3 16.8153 6.98467 20.8 11.9 20.8Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.8998 8.60039C12.5073 8.60039 12.9998 8.1079 12.9998 7.50039C12.9998 6.89288 12.5073 6.40039 11.8998 6.40039C11.2923 6.40039 10.7998 6.89288 10.7998 7.50039C10.7998 8.1079 11.2923 8.60039 11.8998 8.60039Z" />
+<path d="M11.3999 10.5H11.8999V16.1008H12.6999" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey14 = () : string => `<svg width="375" height="248" viewBox="0 0 375 248" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.15" cx="324" cy="73" r="101" stroke="url(#paint0_linear)" stroke-width="40"/>
+<circle opacity="0.15" r="64.5" transform="matrix(-1 0 0 1 26.5 168.5)" stroke="url(#paint1_linear)" stroke-width="30"/>
+<circle opacity="0.2" r="60.3678" transform="matrix(-0.574499 0.818505 0.818505 0.574499 324 72.9999)" stroke="url(#paint2_linear)"/>
+<circle opacity="0.2" cx="26.8546" cy="168.782" r="36.9278" transform="rotate(54.9354 26.8546 168.782)" stroke="url(#paint3_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="324" y1="-28" x2="324" y2="174" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="64.5" y1="0" x2="64.5" y2="129" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="60.3678" y1="0" x2="60.3678" y2="120.736" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="26.8546" y1="131.855" x2="26.8546" y2="205.71" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
+`;
+  export const WatsonGrey15 = () : string => `<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.38213 6.79576C10.0322 6.79576 11.3699 5.45811 11.3699 3.80804C11.3699 2.15796 10.0322 0.820312 8.38213 0.820312C6.73206 0.820312 5.39441 2.15796 5.39441 3.80804C5.39441 5.45811 6.73206 6.79576 8.38213 6.79576Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.797852 17.3686C0.797852 13.1169 4.24522 9.78442 8.38207 9.78442C10.2207 9.78442 11.9444 10.4739 13.2084 11.5081" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.4726 18.5177L12.2892 18.9773C11.9445 19.0922 11.5998 18.7475 11.7147 18.4028L12.1743 16.2194C12.1743 15.9896 12.2892 15.8747 12.4042 15.7598L16.541 11.6229C16.8857 11.2782 17.5752 11.2782 17.92 11.6229L19.0691 12.7721C19.4138 13.1168 19.4138 13.8063 19.0691 14.151L14.9322 18.2879C14.8173 18.4028 14.7024 18.4028 14.4726 18.5177Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey16 = () : string => `<svg width="21" height="18" viewBox="0 0 21 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 1V3" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 7L6 11" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 15V17" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.9146 9.06471C17.9146 7.66437 18.8415 6.49741 20 6.14732V2.64646C20 1.7129 19.3049 1.01272 18.378 1.01272H2.62195C1.69512 0.896029 1 1.5962 1 2.52977V6.03063C2.27439 6.49741 3.08537 7.54767 3.08537 8.94802C3.08537 10.3484 2.15854 11.5153 1 11.8654V15.3663C1 16.2998 1.69512 17 2.62195 17H18.378C19.3049 17 20 16.2998 20 15.3663V11.8654C18.7256 11.5153 17.9146 10.3484 17.9146 9.06471Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey17 = () : string => `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.1211 8.9499H2.27063L4.00401 5.0498C4.22068 4.61645 4.54569 4.39978 4.97903 4.39978H18.4127C18.8461 4.39978 19.2794 4.61645 19.3877 5.0498L21.1211 8.9499Z" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.27063 8.95007V9.70843C2.27063 11.0085 3.35399 12.0918 4.65402 12.0918C5.95406 11.9835 7.03742 10.9001 7.03742 9.60009V8.95007" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.03735 8.95007V9.70843C7.03735 11.0085 8.12071 12.0918 9.42075 12.0918C10.7208 12.0918 11.8041 11.0085 11.8041 9.70843V8.95007" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.03735 8.95007V9.70843C7.03735 11.0085 8.12071 12.0918 9.42075 12.0918C10.7208 12.0918 11.8041 11.0085 11.8041 9.70843V8.95007" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.6962 8.95007V9.70843C11.6962 11.0085 12.7795 12.0918 14.0796 12.0918C15.3796 12.0918 16.463 11.0085 16.463 9.70843V8.95007" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.6962 8.95007V9.70843C11.6962 11.0085 12.7795 12.0918 14.0796 12.0918C15.3796 12.0918 16.463 11.0085 16.463 9.70843V8.95007" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.4629 8.95007V9.70843C16.4629 11.0085 17.5463 12.0918 18.8463 12.0918C20.1463 12.0918 21.2297 11.0085 21.2297 9.70843V8.95007" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.57092 11.7665V18.9167C3.57092 19.5667 4.00427 20 4.65428 20H18.8463C19.4963 20 19.9297 19.5667 19.9297 18.9167V11.7665" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.42151 15.6663L11.0466 17.2913L14.08 14.2579" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey18 = () : string => `<svg width="25" height="20" viewBox="0 0 25 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M23.8251 4.65197L14.043 8.17351L4.26099 4.65197L14.043 1L23.8251 4.65197Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.52137 8.43571L1 6.08801" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.56533 11.3046L1.26123 9.60901" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.26123 4.65308V15.3481L14.0433 19.0001L23.8253 15.3481V4.65308" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.043 18.9994V8.17395" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey19 = () : string => `<svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M23 5.2L12 9.25L1 5.2L12 1L23 5.2Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1 5.125V17.425L12 21.625L23 17.425V5.125" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 21.625V9.25" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5625 2.375L18.875 6.575V10.625" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
   export const WatsonGrey2 = () : string => `<svg width="25" height="24" viewBox="0 0 25 24" xmlns="http://www.w3.org/2000/svg" fill='none'>
 <path d="M4.94118 13.371V20.5C4.94118 20.7761 5.16503 21 5.44118 21H9.5C9.77614 21 10 20.7761 10 20.5V16.6935C10 16.4174 10.2239 16.1935 10.5 16.1935H13.5C13.7761 16.1935 14 16.4174 14 16.6935V20.5C14 20.7761 14.2239 21 14.5 21H18.5588C18.835 21 19.0588 20.7761 19.0588 20.5V13.371C19.0588 13.0948 19.2827 12.871 19.5588 12.871H20.7817C21.2287 12.871 21.4511 12.3292 21.133 12.0151L12.3513 3.34672C12.1565 3.15451 11.8435 3.15451 11.6487 3.34672L2.86703 12.0151C2.54889 12.3292 2.77126 12.871 3.21828 12.871H4.44118C4.71732 12.871 4.94118 13.0948 4.94118 13.371Z" stroke-width="1.5" />
+</svg>
+`;
+  export const WatsonGrey20 = () : string => `<svg width="23" height="21" viewBox="0 0 23 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.8863 4.9875L10.5645 8.53125L1.24268 4.9875L10.5645 1.3125L19.8863 4.9875Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.8867 13.389V4.98901" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.24268 4.98901V15.7515L10.5645 19.4265L13.9204 18.114" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5649 19.425V8.53125" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.0342 16.5378L18.1471 18.7691L22.0001 14.7003" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey21 = () : string => `<svg width="26" height="24" viewBox="0 0 26 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.8075 6.24619L12.9408 9.37645M21.8075 6.24619L12.9408 3L4.19226 6.24619M21.8075 6.24619L25 9.72516L16.1333 12.9714L12.9408 9.37645M12.9408 9.37645L4.19226 6.24619M12.9408 9.37645V21M12.9408 9.37645L9.86674 12.9714L1 9.72516L4.19226 6.24619M4.19226 10.8845V17.7538L12.9408 21M12.9408 21L21.8075 17.7538V11.0005" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey22 = () : string => `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9 20.8C16.8153 20.8 20.8 16.8153 20.8 11.9C20.8 6.98467 16.8153 3 11.9 3C6.98467 3 3 6.98467 3 11.9C3 16.8153 6.98467 20.8 11.9 20.8Z" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.8998 17.2C12.5073 17.2 12.9998 16.7075 12.9998 16.1C12.9998 15.4925 12.5073 15 11.8998 15C11.2923 15 10.7998 15.4925 10.7998 16.1C10.7998 16.7075 11.2923 17.2 11.8998 17.2Z"/>
+<path d="M9.69971 8.50059C9.99971 7.70059 10.7997 7.10059 11.7997 7.10059C12.9997 7.10059 14.0997 8.10059 14.0997 9.40059C14.0997 11.5006 11.7997 11.8006 11.7997 12.6006V13.2006" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey23 = () : string => `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 15C14.2091 15 16 13.2091 16 11C16 8.79086 14.2091 7 12 7C9.79086 7 8 8.79086 8 11C8 13.2091 9.79086 15 12 15Z" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 11C14 12.1111 13.1111 13 12 13C10.8889 13 10 12.1111 10 11" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.8824 4H5.11765C3.95294 4 3 4.95031 3 6.1118V16.1429C3 17.3043 3.95294 18.2547 5.11765 18.2547H9.24706L12 21L14.7529 18.2547H18.8824C20.0471 18.2547 21 17.3043 21 16.1429V6.1118C21 4.95031 20.0471 4 18.8824 4Z" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey24 = () : string => `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 4V19H21" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 14.3562L9.35897 12.9315L11 16L13.7692 9.42466L19 8" stroke-width="1.3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+  export const WatsonGrey25 = () : string => `<svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1L7 7L1 13" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 `;
   export const WatsonGrey3 = () : string => `<svg width="25" height="24" viewBox="0 0 25 24" xmlns="http://www.w3.org/2000/svg" fill='none'>
