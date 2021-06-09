@@ -11747,9 +11747,24 @@ storiesOf('Icon', module)
                   WatsonColor17
                 </TextWrapper>
               </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor18" />
+                <TextWrapper>
+                  WatsonColor18
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor19" />
+                <TextWrapper>
+                  WatsonColor19
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
               <Icon icon="WatsonColor2" />
                 <TextWrapper>
                   WatsonColor2
+                </TextWrapper>
+              </IconWrapper><IconWrapper>
+              <Icon icon="WatsonColor20" />
+                <TextWrapper>
+                  WatsonColor20
                 </TextWrapper>
               </IconWrapper><IconWrapper>
               <Icon icon="WatsonColor3" />
