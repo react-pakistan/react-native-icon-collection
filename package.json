@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-native-icon-collection",
-  "version": "2.5.4",
+  "version": "2.5.5",
   "description": "React Native Icons Collection built upon React Native StoryBook",
   "main": "index.js",
   "scripts": {
